@@ -1,0 +1,2587 @@
+[
+  {
+    "id": "v-healthcare-001",
+    "word": "der Arzt",
+    "baseForm": "Arzt",
+    "gender": "der",
+    "plural": "Ärzte",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "doctor, physician",
+    "meaningDe": "Person, die Medizin studiert hat und Kranke behandelt",
+    "situations": [
+      "healthcare",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss morgen zum Arzt gehen.",
+        "en": "I have to go to the doctor tomorrow.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Arzt hat mir ein Rezept verschrieben.",
+        "en": "My doctor prescribed me a prescription.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Arzt hat mich gründlich untersucht.",
+        "en": "The doctor examined me thoroughly.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Doktor' instead of 'Arzt' — 'Doktor' is an academic title, 'Arzt' is the profession.",
+      "Forgetting the umlaut in the plural: 'Ärzte', not 'Arzte'."
+    ],
+    "usageNotes": [
+      "Use 'zum Arzt gehen' (to go to the doctor) — the preposition 'zu' + dative is standard.",
+      "The female form is 'die Ärztin' (plural: Ärztinnen)."
+    ],
+    "relatedWords": [
+      "die Ärztin",
+      "der Hausarzt",
+      "der Facharzt",
+      "die Arztpraxis"
+    ],
+    "tags": [
+      "medical professional",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-002",
+    "word": "die Krankenkasse",
+    "baseForm": "Krankenkasse",
+    "gender": "die",
+    "plural": "Krankenkassen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "health insurance company",
+    "meaningDe": "Unternehmen, das die Kosten für medizinische Behandlungen übernimmt",
+    "situations": [
+      "healthcare",
+      "bureaucracy",
+      "finances"
+    ],
+    "examples": [
+      {
+        "de": "Welche Krankenkasse haben Sie?",
+        "en": "Which health insurance company do you have?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Krankenkasse übernimmt die Kosten für die Behandlung.",
+        "en": "The health insurance covers the costs of the treatment.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Krankenkasse' with 'Krankenversicherung' — they are often used interchangeably, but 'Krankenkasse' specifically refers to the company/institution.",
+      "Forgetting that it is a compound noun: Kranken + Kasse."
+    ],
+    "usageNotes": [
+      "In Germany, everyone must have health insurance (Krankenversicherungspflicht).",
+      "There are public (gesetzliche) and private (private) Krankenkassen."
+    ],
+    "relatedWords": [
+      "die Krankenversicherung",
+      "die Versicherungskarte",
+      "der Beitrag"
+    ],
+    "tags": [
+      "insurance",
+      "bureaucracy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-003",
+    "word": "das Rezept",
+    "baseForm": "Rezept",
+    "gender": "das",
+    "plural": "Rezepte",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "prescription; recipe",
+    "meaningDe": "Schriftliche Anweisung des Arztes für ein Medikament",
+    "situations": [
+      "healthcare",
+      "pharmacy"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir bitte ein Rezept ausstellen?",
+        "en": "Can you please write me a prescription?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Für dieses Medikament brauchen Sie ein Rezept.",
+        "en": "You need a prescription for this medication.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich möchte dieses Rezept einlösen.",
+        "en": "I would like to fill this prescription.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Not knowing that 'Rezept' also means 'recipe' in cooking contexts — context determines the meaning.",
+      "Using 'rosa Rezept' vs. 'grünes Rezept': the pink one is a standard prescription, the green one is a recommendation (not covered by insurance)."
+    ],
+    "usageNotes": [
+      "'Ein Rezept einlösen' means to fill a prescription at the pharmacy.",
+      "'Ein Rezept ausstellen' means for a doctor to write/issü a prescription."
+    ],
+    "relatedWords": [
+      "das Medikament",
+      "die Apotheke",
+      "verschreibungspflichtig"
+    ],
+    "tags": [
+      "pharmacy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-004",
+    "word": "die Überweisung",
+    "baseForm": "Überweisung",
+    "gender": "die",
+    "plural": "Überweisungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "referral (medical); bank transfer",
+    "meaningDe": "Schriftliche Empfehlung des Hausarztes, einen Facharzt aufzusuchen",
+    "situations": [
+      "healthcare",
+      "bureaucracy"
+    ],
+    "examples": [
+      {
+        "de": "Sie brauchen eine Überweisung vom Hausarzt.",
+        "en": "You need a referral from your general practitioner.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie eine Überweisung dabei?",
+        "en": "Do you have a referral with you?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing the medical meaning (referral) with the banking meaning (bank transfer).",
+      "Not knowing that in the German system, you often need a referral from your Hausarzt to see a Facharzt."
+    ],
+    "usageNotes": [
+      "In the German healthcare system, many specialists require a referral ('Überweisung') from your GP.",
+      "'Überweisen' is both the verb for referring a patient and for transferring money."
+    ],
+    "relatedWords": [
+      "der Hausarzt",
+      "der Facharzt",
+      "überweisen"
+    ],
+    "tags": [
+      "bureaucracy",
+      "referral"
+    ]
+  },
+  {
+    "id": "v-healthcare-005",
+    "word": "die Sprechstunde",
+    "baseForm": "Sprechstunde",
+    "gender": "die",
+    "plural": "Sprechstunden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "consultation hours, office hours (doctor's)",
+    "meaningDe": "Feste Zeiten, zu denen ein Arzt Patienten empfängt",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Die Sprechstunde ist montags bis freitags von 8 bis 12 Uhr.",
+        "en": "Office hours are Monday to Friday from 8 to 12.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Gibt es heute noch eine offene Sprechstunde?",
+        "en": "Is there still an open consultation hour today?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Assuming 'Sprechstunde' always means exactly one hour — it refers to the entire consultation period.",
+      "Using 'Bürostunden' instead — this is not used for doctors."
+    ],
+    "usageNotes": [
+      "'Offene Sprechstunde' means walk-in hours without an appointment.",
+      "Some practices distinguish between 'Sprechstunde mit Termin' and 'offene Sprechstunde'."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "die Arztpraxis",
+      "die Sprechstundenhilfe"
+    ],
+    "tags": [
+      "appointment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-006",
+    "word": "der Termin",
+    "baseForm": "Termin",
+    "gender": "der",
+    "plural": "Termine",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "appointment",
+    "meaningDe": "Vereinbarter Zeitpunkt für ein Treffen oder einen Besuch",
+    "situations": [
+      "healthcare",
+      "daily life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich hätte gerne einen Termin beim Augenarzt.",
+        "en": "I would like an appointment with the eye doctor.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich meinen Termin verschieben?",
+        "en": "Can I reschedule my appointment?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Wann ist der nächste freie Termin?",
+        "en": "When is the next available appointment?",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Verabredung' instead of 'Termin' for medical appointments — 'Verabredung' is for casual/social meetings.",
+      "Forgetting that 'einen Termin haben' means to have an appointment, while 'einen Termin machen/vereinbaren' means to make one."
+    ],
+    "usageNotes": [
+      "'Einen Termin vereinbaren/ausmachen' = to make an appointment.",
+      "'Einen Termin absagen' = to cancel an appointment."
+    ],
+    "relatedWords": [
+      "die Terminvereinbarung",
+      "die Sprechstunde",
+      "absagen",
+      "v-bureaucracy-015",
+      "v-phone-018",
+      "v-work-005"
+    ],
+    "tags": [
+      "appointment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-007",
+    "word": "die Apotheke",
+    "baseForm": "Apotheke",
+    "gender": "die",
+    "plural": "Apotheken",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "pharmacy",
+    "meaningDe": "Geschäft, in dem Medikamente verkauft werden",
+    "situations": [
+      "healthcare",
+      "pharmacy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch in die Apotheke gehen.",
+        "en": "I still need to go to the pharmacy.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die nächste Apotheke ist in der Hauptstraße.",
+        "en": "The nearest pharmacy is on the main street.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Apotheke' (pharmacy) with 'Drogerie' (drugstore) — a Drogerie sells cosmetics, vitamins, etc., but not prescription medication.",
+      "Not knowing that German pharmacies are marked with a red 'A' symbol."
+    ],
+    "usageNotes": [
+      "In Germany, many medications that are over-the-counter elsewhere require a visit to the Apotheke.",
+      "'Notapotheke' or 'Bereitschaftsapotheke' is an emergency pharmacy open at night/weekends."
+    ],
+    "relatedWords": [
+      "der Apotheker",
+      "die Apothekerin",
+      "das Medikament",
+      "die Notapotheke"
+    ],
+    "tags": [
+      "pharmacy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-008",
+    "word": "die Untersuchung",
+    "baseForm": "Untersuchung",
+    "gender": "die",
+    "plural": "Untersuchungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "examination, check-up",
+    "meaningDe": "Medizinische Überprüfung des Gesundheitszustands",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Die Untersuchung hat ergeben, dass alles in Ordnung ist.",
+        "en": "The examination showed that everything is fine.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich möchte eine gründliche Untersuchung.",
+        "en": "I would like a thorough examination.",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Mispronouncing the word — the stress is on the third syllable: Un-ter-SU-chung.",
+      "Using 'Prüfung' instead — 'Prüfung' is for exams/tests (academic), not medical examinations."
+    ],
+    "usageNotes": [
+      "'Vorsorgeuntersuchung' is a preventive check-up, often covered by insurance.",
+      "'Blutuntersuchung' = blood test, 'Ultraschalluntersuchung' = ultrasound examination."
+    ],
+    "relatedWords": [
+      "untersuchen",
+      "die Vorsorgeuntersuchung",
+      "die Blutuntersuchung"
+    ],
+    "tags": [
+      "examination",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-009",
+    "word": "die Behandlung",
+    "baseForm": "Behandlung",
+    "gender": "die",
+    "plural": "Behandlungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "treatment, therapy",
+    "meaningDe": "Medizinische Maßnahmen zur Heilung oder Linderung einer Krankheit",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Die Behandlung daürt ungefähr sechs Wochen.",
+        "en": "The treatment lasts about six weeks.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Welche Behandlung empfehlen Sie?",
+        "en": "Which treatment do you recommend?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Behandlung' (treatment) with 'Untersuchung' (examination) — examination is diagnostic, treatment is therapeutic.",
+      "Forgetting the verb form: 'behandeln' (to treat)."
+    ],
+    "usageNotes": [
+      "'In Behandlung sein' = to be under treatment/in someone's care.",
+      "'Die Behandlungskosten' = treatment costs."
+    ],
+    "relatedWords": [
+      "behandeln",
+      "die Therapie",
+      "der Behandlungsplan"
+    ],
+    "tags": [
+      "treatment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-010",
+    "word": "die Versicherung",
+    "baseForm": "Versicherung",
+    "gender": "die",
+    "plural": "Versicherungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "insurance",
+    "meaningDe": "Vertrag, der vor finanziellen Risiken schützt",
+    "situations": [
+      "healthcare",
+      "bureaucracy",
+      "finances"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie eine private oder gesetzliche Versicherung?",
+        "en": "Do you have private or public insurance?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Versicherung übernimmt die Kosten nicht.",
+        "en": "The insurance does not cover the costs.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Not distinguishing between 'gesetzliche Krankenversicherung' (GKV, public) and 'private Krankenversicherung' (PKV, private).",
+      "Using 'Assekuranz' — this is an older/formal word rarely used in everyday speech."
+    ],
+    "usageNotes": [
+      "'Versicherungskarte' (insurance card) must be presented at every doctor's visit.",
+      "'Zusatzversicherung' = supplementary insurance for services not covered by basic insurance."
+    ],
+    "relatedWords": [
+      "die Krankenversicherung",
+      "die Versicherungskarte",
+      "versichert"
+    ],
+    "tags": [
+      "insurance",
+      "bureaucracy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-011",
+    "word": "die Notaufnahme",
+    "baseForm": "Notaufnahme",
+    "gender": "die",
+    "plural": "Notaufnahmen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "emergency room, emergency department",
+    "meaningDe": "Abteilung im Krankenhaus für Notfälle",
+    "situations": [
+      "healthcare",
+      "emergency"
+    ],
+    "examples": [
+      {
+        "de": "Wir mussten in die Notaufnahme fahren.",
+        "en": "We had to go to the emergency room.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Notaufnahme ist rund um die Uhr geöffnet.",
+        "en": "The emergency room is open around the clock.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Notfall' (emergency) when you mean 'Notaufnahme' (emergency room) — the room/department is 'Notaufnahme'.",
+      "Saying 'Emergenz' — this is not standard German."
+    ],
+    "usageNotes": [
+      "Only go to the Notaufnahme for genuine emergencies; otherwise, use the 'ärztlicher Bereitschaftsdienst' (on-call doctor service) at 116 117.",
+      "'In die Notaufnahme gehen/fahren' = to go to the ER."
+    ],
+    "relatedWords": [
+      "der Notfall",
+      "der Rettungswagen",
+      "der Notarzt"
+    ],
+    "tags": [
+      "emergency",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-012",
+    "word": "die Impfung",
+    "baseForm": "Impfung",
+    "gender": "die",
+    "plural": "Impfungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "vaccination, immunization",
+    "meaningDe": "Verabreichung eines Impfstoffs zum Schutz vor einer Krankheit",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ist Ihre Impfung gegen Tetanus noch aktüll?",
+        "en": "Is your tetanus vaccination still up to date?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich brauche eine Impfung gegen Grippe.",
+        "en": "I need a flu vaccination.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Vakzination' — this is a technical term; 'Impfung' is the standard word.",
+      "Forgetting 'sich impfen lassen' means 'to get vaccinated' (reflexive construction with lassen)."
+    ],
+    "usageNotes": [
+      "'Der Impfpass' or 'der Impfausweis' = vaccination record/booklet.",
+      "'Sich impfen lassen' = to get vaccinated."
+    ],
+    "relatedWords": [
+      "impfen",
+      "der Impfstoff",
+      "der Impfpass"
+    ],
+    "tags": [
+      "vaccination",
+      "prevention"
+    ]
+  },
+  {
+    "id": "v-healthcare-013",
+    "word": "das Krankenhaus",
+    "baseForm": "Krankenhaus",
+    "gender": "das",
+    "plural": "Krankenhäuser",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "hospital",
+    "meaningDe": "Einrichtung zur stationären Behandlung von Kranken",
+    "situations": [
+      "healthcare",
+      "emergency"
+    ],
+    "examples": [
+      {
+        "de": "Er liegt seit einer Woche im Krankenhaus.",
+        "en": "He has been in the hospital for a week.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie wurde ins Krankenhaus eingeliefert.",
+        "en": "She was admitted to the hospital.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Forgetting the umlaut in the plural: 'Krankenhäuser', not 'Krankenhäuser' is correct (it has the umlaut).",
+      "Using 'Hospital' — while understood, 'Krankenhaus' is the standard German term."
+    ],
+    "usageNotes": [
+      "'Im Krankenhaus liegen' = to be hospitalized.",
+      "'Ins Krankenhaus kommen/eingeliefert werden' = to be admitted to the hospital."
+    ],
+    "relatedWords": [
+      "die Klinik",
+      "die Station",
+      "die Notaufnahme"
+    ],
+    "tags": [
+      "hospital",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-014",
+    "word": "das Medikament",
+    "baseForm": "Medikament",
+    "gender": "das",
+    "plural": "Medikamente",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "medication, medicine",
+    "meaningDe": "Arzneimittel zur Behandlung oder Vorbeugung von Krankheiten",
+    "situations": [
+      "healthcare",
+      "pharmacy"
+    ],
+    "examples": [
+      {
+        "de": "Nehmen Sie das Medikament dreimal täglich ein.",
+        "en": "Take the medication three times daily.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Dieses Medikament ist verschreibungspflichtig.",
+        "en": "This medication requires a prescription.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Medizin' instead of 'Medikament' — 'Medizin' means 'medicine' as a field of study; 'Medikament' is the actual drug/pill.",
+      "Wrong article: it is 'das Medikament', not 'die' or 'der'."
+    ],
+    "usageNotes": [
+      "'Ein Medikament einnehmen' = to take a medication.",
+      "'Verschreibungspflichtig' = requiring a prescription; 'rezeptfrei' = over-the-counter."
+    ],
+    "relatedWords": [
+      "die Tablette",
+      "die Salbe",
+      "der Wirkstoff",
+      "die Nebenwirkung"
+    ],
+    "tags": [
+      "pharmacy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-015",
+    "word": "der Schmerz",
+    "baseForm": "Schmerz",
+    "gender": "der",
+    "plural": "Schmerzen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "pain",
+    "meaningDe": "Unangenehme körperliche Empfindung",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Wo genau haben Sie Schmerzen?",
+        "en": "Where exactly do you have pain?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Schmerzen werden schlimmer.",
+        "en": "The pain is getting worse.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe starke Kopfschmerzen.",
+        "en": "I have a severe headache.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using the singular 'Schmerz' when describing physical pain — German typically uses the plural 'Schmerzen' for bodily pain.",
+      "Confusing compound forms: 'Kopfschmerzen' (headache), 'Bauchschmerzen' (stomachache), 'Rückenschmerzen' (backache)."
+    ],
+    "usageNotes": [
+      "'Schmerzen haben' = to be in pain. The plural is almost always used for physical pain.",
+      "The singular 'Schmerz' is more common in emotional/pötic contexts."
+    ],
+    "relatedWords": [
+      "das Schmerzmittel",
+      "schmerzhaft",
+      "die Kopfschmerzen",
+      "die Rückenschmerzen"
+    ],
+    "tags": [
+      "symptoms",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-016",
+    "word": "die Tablette",
+    "baseForm": "Tablette",
+    "gender": "die",
+    "plural": "Tabletten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "tablet, pill",
+    "meaningDe": "Festes Arzneimittel in Form einer kleinen Scheibe zum Einnehmen",
+    "situations": [
+      "healthcare",
+      "pharmacy"
+    ],
+    "examples": [
+      {
+        "de": "Nehmen Sie morgens und abends je eine Tablette.",
+        "en": "Take one tablet each in the morning and evening.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Soll ich die Tablette vor oder nach dem Essen nehmen?",
+        "en": "Should I take the tablet before or after eating?",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Tablette' with 'Tablet' (the electronic device) — they are different words in German.",
+      "Using 'Pille' for any pill — in colloquial German, 'die Pille' often specifically refers to the birth control pill."
+    ],
+    "usageNotes": [
+      "'Eine Tablette einnehmen/nehmen' = to take a tablet.",
+      "'Die Pille' usually refers to the contraceptive pill in everyday German."
+    ],
+    "relatedWords": [
+      "das Medikament",
+      "die Kapsel",
+      "die Pille",
+      "das Schmerzmittel"
+    ],
+    "tags": [
+      "pharmacy",
+      "medication"
+    ]
+  },
+  {
+    "id": "v-healthcare-017",
+    "word": "das Fieber",
+    "baseForm": "Fieber",
+    "gender": "das",
+    "plural": "Fieber",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "fever",
+    "meaningDe": "Erhöhte Körpertemperatur als Zeichen einer Krankheit",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe 39 Grad Fieber.",
+        "en": "I have a fever of 39 degrees.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Fieber ist über Nacht gesunken.",
+        "en": "The fever went down overnight.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Saying 'Ich habe eine Fieber' — no article is used: 'Ich habe Fieber'.",
+      "Not knowing that Germany uses Celsius — 39°C is a significant fever."
+    ],
+    "usageNotes": [
+      "'Fieber haben' = to have a fever (no article needed).",
+      "'Fieber messen' = to take one's temperature."
+    ],
+    "relatedWords": [
+      "das Thermometer",
+      "fiebrig",
+      "die Erkältung"
+    ],
+    "tags": [
+      "symptoms",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-018",
+    "word": "die Krankschreibung",
+    "baseForm": "Krankschreibung",
+    "gender": "die",
+    "plural": "Krankschreibungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "sick note, certificate of incapacity for work",
+    "meaningDe": "Ärztliche Bescheinigung über die Arbeitsunfähigkeit",
+    "situations": [
+      "healthcare",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche eine Krankschreibung für meinen Arbeitgeber.",
+        "en": "I need a sick note for my employer.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Krankschreibung gilt bis Freitag.",
+        "en": "The sick note is valid until Friday.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Krankschreibung' with 'Krankmeldung' — 'Krankschreibung' is the doctor's certificate, 'Krankmeldung' is when you notify your employer.",
+      "Not knowing the official term 'Arbeitsunfähigkeitsbescheinigung' (AU) — 'Krankschreibung' is the colloquial term."
+    ],
+    "usageNotes": [
+      "Since 2023, the 'elektronische Arbeitsunfähigkeitsbescheinigung' (eAU) is transmitted digitally to the employer.",
+      "'Sich krankschreiben lassen' = to get a sick note from the doctor."
+    ],
+    "relatedWords": [
+      "die Arbeitsunfähigkeitsbescheinigung",
+      "die Krankmeldung",
+      "krankschreiben"
+    ],
+    "tags": [
+      "work",
+      "bureaucracy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-019",
+    "word": "der Befund",
+    "baseForm": "Befund",
+    "gender": "der",
+    "plural": "Befunde",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "findings, (medical) results",
+    "meaningDe": "Ergebnis einer ärztlichen Untersuchung",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Der Befund ist unauffällig.",
+        "en": "The findings are unremarkable.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir warten noch auf den Befund der Blutuntersuchung.",
+        "en": "We are still waiting for the blood test results.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Ergebnis' instead of 'Befund' — while 'Ergebnis' (result) works generally, 'Befund' is the specific medical term.",
+      "Confusing 'Befund' with 'Befinden' — 'Befinden' means general well-being/condition."
+    ],
+    "usageNotes": [
+      "'Ein unauffälliger Befund' = normal/unremarkable findings (good news).",
+      "'Ein auffälliger Befund' = abnormal findings (may require further investigation)."
+    ],
+    "relatedWords": [
+      "die Diagnose",
+      "das Ergebnis",
+      "die Untersuchung"
+    ],
+    "tags": [
+      "examination",
+      "results"
+    ]
+  },
+  {
+    "id": "v-healthcare-020",
+    "word": "die Nebenwirkung",
+    "baseForm": "Nebenwirkung",
+    "gender": "die",
+    "plural": "Nebenwirkungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "side effect",
+    "meaningDe": "Unerwünschte Wirkung eines Medikaments",
+    "situations": [
+      "healthcare",
+      "pharmacy"
+    ],
+    "examples": [
+      {
+        "de": "Welche Nebenwirkungen hat dieses Medikament?",
+        "en": "What side effects does this medication have?",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Zu den häufigsten Nebenwirkungen gehören Kopfschmerzen und Übelkeit.",
+        "en": "The most common side effects include headaches and nausea.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Forgetting it is a compound word: Neben + Wirkung.",
+      "Using 'Seiteneffekt' as a calqü from English — the correct German term is 'Nebenwirkung'."
+    ],
+    "usageNotes": [
+      "Always read the 'Beipackzettel' (package insert) for information on Nebenwirkungen.",
+      "'Nebenwirkungen melden' = to report side effects."
+    ],
+    "relatedWords": [
+      "der Beipackzettel",
+      "die Wirkung",
+      "das Medikament"
+    ],
+    "tags": [
+      "pharmacy",
+      "medication"
+    ]
+  },
+  {
+    "id": "v-healthcare-021",
+    "word": "die Erkältung",
+    "baseForm": "Erkältung",
+    "gender": "die",
+    "plural": "Erkältungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "cold (illness)",
+    "meaningDe": "Leichte Infektionskrankheit der Atemwege",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine starke Erkältung.",
+        "en": "I have a bad cold.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bei einer Erkältung sollte man viel trinken.",
+        "en": "When you have a cold, you should drink a lot.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Erkältung' (cold) with 'Grippe' (flu) — the flu is much more serious.",
+      "Using 'kalt' (cold temperature) when you mean 'erkältet' (having a cold): 'Mir ist kalt' vs. 'Ich bin erkältet'."
+    ],
+    "usageNotes": [
+      "'Erkältet sein' = to have a cold. 'Sich erkälten' = to catch a cold.",
+      "A 'grippaler Infekt' is similar to an Erkältung but slightly more severe (still not the flu)."
+    ],
+    "relatedWords": [
+      "die Grippe",
+      "der Husten",
+      "der Schnupfen",
+      "erkältet"
+    ],
+    "tags": [
+      "illness",
+      "common"
+    ]
+  },
+  {
+    "id": "v-healthcare-022",
+    "word": "die Allergie",
+    "baseForm": "Allergie",
+    "gender": "die",
+    "plural": "Allergien",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "allergy",
+    "meaningDe": "Überempfindliche Reaktion des Immunsystems auf bestimmte Stoffe",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie Allergien gegen bestimmte Medikamente?",
+        "en": "Do you have allergies to any medications?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe eine Allergie gegen Pollen.",
+        "en": "I have an allergy to pollen.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Mispronouncing: the stress is on the last syllable: Al-ler-GIE.",
+      "Using 'auf' instead of 'gegen': 'Allergie gegen etwas', not 'Allergie auf etwas' (though 'auf' is heard colloquially)."
+    ],
+    "usageNotes": [
+      "'Allergisch gegen etwas sein' = to be allergic to something.",
+      "Always inform your doctor about allergies, especially medication allergies."
+    ],
+    "relatedWords": [
+      "allergisch",
+      "der Allergiker",
+      "die Unverträglichkeit"
+    ],
+    "tags": [
+      "allergy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-023",
+    "word": "der Blutdruck",
+    "baseForm": "Blutdruck",
+    "gender": "der",
+    "plural": "Blutdruckwerte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "blood pressure",
+    "meaningDe": "Druck, mit dem das Blut durch die Gefäße fließt",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ihr Blutdruck ist etwas zu hoch.",
+        "en": "Your blood pressure is a bit too high.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss regelmäßig meinen Blutdruck messen.",
+        "en": "I have to measure my blood pressure regularly.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Blutpressur' as a calqü from English — the correct term is 'Blutdruck'.",
+      "Confusing 'hoher Blutdruck' (high blood pressure) with 'niedriger Blutdruck' (low blood pressure)."
+    ],
+    "usageNotes": [
+      "'Den Blutdruck messen' = to measure blood pressure.",
+      "'Bluthochdruck' (hypertension) is a common condition; 'niedriger Blutdruck' is hypotension."
+    ],
+    "relatedWords": [
+      "der Bluthochdruck",
+      "das Blutbild",
+      "die Blutabnahme"
+    ],
+    "tags": [
+      "vital signs",
+      "examination"
+    ]
+  },
+  {
+    "id": "v-healthcare-024",
+    "word": "der Hausarzt",
+    "baseForm": "Hausarzt",
+    "gender": "der",
+    "plural": "Hausärzte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "general practitioner, family doctor",
+    "meaningDe": "Arzt für Allgemeinmedizin, der die erste Anlaufstelle für Patienten ist",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Gehen Sie zürst zu Ihrem Hausarzt.",
+        "en": "Go to your general practitioner first.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Mein Hausarzt hat mich an einen Facharzt überwiesen.",
+        "en": "My GP referred me to a specialist.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Not registering with a Hausarzt — in Germany, it is recommended to have a regular Hausarzt as your primary contact.",
+      "Using 'Generalarzt' as a translation of 'general practitioner' — this is not correct German."
+    ],
+    "usageNotes": [
+      "The Hausarzt is the central figure in the German healthcare system and coordinates referrals to specialists.",
+      "Female form: 'die Hausärztin'."
+    ],
+    "relatedWords": [
+      "der Facharzt",
+      "die Arztpraxis",
+      "die Überweisung"
+    ],
+    "tags": [
+      "medical professional",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-025",
+    "word": "das Wartezimmer",
+    "baseForm": "Wartezimmer",
+    "gender": "das",
+    "plural": "Wartezimmer",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "waiting room",
+    "meaningDe": "Raum in einer Arztpraxis, in dem Patienten warten",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Bitte nehmen Sie im Wartezimmer Platz.",
+        "en": "Please take a seat in the waiting room.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Im Wartezimmer saßen viele Patienten.",
+        "en": "There were many patients sitting in the waiting room.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Wrong gender: it is 'das Wartezimmer', not 'der' or 'die'.",
+      "The plural is the same as the singular: 'die Wartezimmer'."
+    ],
+    "usageNotes": [
+      "Compound word: Warte (waiting) + Zimmer (room).",
+      "When arriving at a doctor's office, you typically check in at the 'Anmeldung' (reception) and then wait in the Wartezimmer."
+    ],
+    "relatedWords": [
+      "die Arztpraxis",
+      "die Anmeldung",
+      "warten"
+    ],
+    "tags": [
+      "doctor's office",
+      "common"
+    ]
+  },
+  {
+    "id": "v-healthcare-026",
+    "word": "verschreiben",
+    "baseForm": "verschreiben",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to prescribe",
+    "meaningDe": "Ein Medikament auf einem Rezept verordnen",
+    "situations": [
+      "healthcare",
+      "pharmacy"
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt hat mir Antibiotika verschrieben.",
+        "en": "The doctor prescribed me antibiotics.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie mir etwas gegen die Schmerzen verschreiben?",
+        "en": "Can you prescribe me something for the pain?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verschreibe",
+        "du": "verschreibst",
+        "er_sie_es": "verschreibt",
+        "wir": "verschreiben",
+        "ihr": "verschreibt",
+        "sie_Sie": "verschreiben"
+      },
+      "past": {
+        "ich": "verschrieb",
+        "du": "verschriebst",
+        "er_sie_es": "verschrieb",
+        "wir": "verschrieben",
+        "ihr": "verschrieben",
+        "sie_Sie": "verschrieben"
+      },
+      "pastParticiple": "verschrieben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Verschreiben' is inseparable (ver- prefix) — 'Der Arzt verschreibt', NOT 'Der Arzt schreibt... ver'.",
+      "'Sich verschreiben' (reflexive) means 'to make a writing mistake', not 'to prescribe oneself'."
+    ],
+    "usageNotes": [
+      "Only doctors can 'verschreiben' medication in Germany.",
+      "'Verschreibungspflichtig' = requiring a prescription."
+    ],
+    "relatedWords": [
+      "das Rezept",
+      "das Medikament",
+      "verschreibungspflichtig"
+    ],
+    "tags": [
+      "prescription",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-027",
+    "word": "untersuchen",
+    "baseForm": "untersuchen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to examine, to investigate",
+    "meaningDe": "Medizinisch überprüfen, den Gesundheitszustand feststellen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Der Arzt hat mich gründlich untersucht.",
+        "en": "The doctor examined me thoroughly.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir müssen das Blut untersuchen lassen.",
+        "en": "We need to have the blood tested.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "untersuche",
+        "du": "untersuchst",
+        "er_sie_es": "untersucht",
+        "wir": "untersuchen",
+        "ihr": "untersucht",
+        "sie_Sie": "untersuchen"
+      },
+      "past": {
+        "ich": "untersuchte",
+        "du": "untersuchtest",
+        "er_sie_es": "untersuchte",
+        "wir": "untersuchten",
+        "ihr": "untersuchtet",
+        "sie_Sie": "untersuchten"
+      },
+      "pastParticiple": "untersucht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Untersuchen' is inseparable — do not separate 'unter' and 'suchen'.",
+      "Do not confuse with 'suchen' (to search) — 'untersuchen' specifically means to examine/investigate."
+    ],
+    "usageNotes": [
+      "'Sich untersuchen lassen' = to have oneself examined.",
+      "Can be used in both medical and non-medical contexts (e.g., police investigation)."
+    ],
+    "relatedWords": [
+      "die Untersuchung",
+      "die Vorsorgeuntersuchung",
+      "der Befund"
+    ],
+    "tags": [
+      "examination",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-028",
+    "word": "sich erholen",
+    "baseForm": "erholen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to recover, to recuperate",
+    "meaningDe": "Nach einer Krankheit oder Anstrengung wieder gesund und kräftig werden",
+    "situations": [
+      "healthcare",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Nach der Operation hat sie sich schnell erholt.",
+        "en": "She recovered quickly after the surgery.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Du musst dich erst richtig erholen, bevor du wieder arbeitest.",
+        "en": "You need to recover properly before you go back to work.",
+        "situation": "healthcare",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erhole mich",
+        "du": "erholst dich",
+        "er_sie_es": "erholt sich",
+        "wir": "erholen uns",
+        "ihr": "erholt euch",
+        "sie_Sie": "erholen sich"
+      },
+      "past": {
+        "ich": "erholte mich",
+        "du": "erholtest dich",
+        "er_sie_es": "erholte sich",
+        "wir": "erholten uns",
+        "ihr": "erholtet euch",
+        "sie_Sie": "erholten sich"
+      },
+      "pastParticiple": "erholt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Forgetting the reflexive pronoun: 'Ich erhole mich', not 'Ich erhole'.",
+      "'Erholen' is inseparable despite the 'er-' prefix — 'Ich erhole mich', not 'Ich hole mich er'."
+    ],
+    "usageNotes": [
+      "Always used reflexively: 'sich erholen'.",
+      "Also used for relaxation/vacation: 'Ich habe mich im Urlaub gut erholt.'"
+    ],
+    "relatedWords": [
+      "die Erholung",
+      "genesen",
+      "gesund werden"
+    ],
+    "tags": [
+      "recovery",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-029",
+    "word": "überweisen",
+    "baseForm": "überweisen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to refer (to a specialist); to transfer (money)",
+    "meaningDe": "Einen Patienten an einen Facharzt weiterleiten",
+    "situations": [
+      "healthcare",
+      "bureaucracy"
+    ],
+    "examples": [
+      {
+        "de": "Der Hausarzt hat mich an einen Orthopäden überwiesen.",
+        "en": "My GP referred me to an orthopedist.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich wurde zur weiteren Behandlung ins Krankenhaus überwiesen.",
+        "en": "I was referred to the hospital for further treatment.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "überweise",
+        "du": "überweist",
+        "er_sie_es": "überweist",
+        "wir": "überweisen",
+        "ihr": "überweist",
+        "sie_Sie": "überweisen"
+      },
+      "past": {
+        "ich": "überwies",
+        "du": "überwiest",
+        "er_sie_es": "überwies",
+        "wir": "überwiesen",
+        "ihr": "überwiest",
+        "sie_Sie": "überwiesen"
+      },
+      "pastParticiple": "überwiesen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Überweisen' is inseparable in this meaning — 'Der Arzt überweist mich', not 'Der Arzt weist mich über'.",
+      "In the banking sense, it is the same verb: 'Geld überweisen' = to transfer money."
+    ],
+    "usageNotes": [
+      "'An einen Facharzt überweisen' = to refer to a specialist.",
+      "The noun is 'die Überweisung' (referral/transfer)."
+    ],
+    "relatedWords": [
+      "die Überweisung",
+      "der Facharzt",
+      "der Hausarzt",
+      "v-housing-035"
+    ],
+    "tags": [
+      "referral",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-030",
+    "word": "vorbeugen",
+    "baseForm": "vorbeugen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to prevent, to take preventive measures",
+    "meaningDe": "Maßnahmen ergreifen, damit etwas Negatives nicht eintritt",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Man kann vielen Krankheiten durch Bewegung vorbeugen.",
+        "en": "You can prevent many diseases through exercise.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Vorbeugen ist besser als heilen.",
+        "en": "Prevention is better than cure.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beuge vor",
+        "du": "beugst vor",
+        "er_sie_es": "beugt vor",
+        "wir": "beugen vor",
+        "ihr": "beugt vor",
+        "sie_Sie": "beugen vor"
+      },
+      "past": {
+        "ich": "beugte vor",
+        "du": "beugtest vor",
+        "er_sie_es": "beugte vor",
+        "wir": "beugten vor",
+        "ihr": "beugtet vor",
+        "sie_Sie": "beugten vor"
+      },
+      "pastParticiple": "vorgebeugt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Vorbeugen' is separable: 'Ich beuge Krankheiten vor', not 'Ich vorbeuge'.",
+      "Requires dative: 'einer Krankheit vorbeugen', not 'eine Krankheit vorbeugen'."
+    ],
+    "usageNotes": [
+      "Takes the dative case: 'einer Erkältung vorbeugen'.",
+      "'Die Vorbeugung' or 'die Prävention' = prevention."
+    ],
+    "relatedWords": [
+      "die Vorbeugung",
+      "die Prävention",
+      "die Vorsorge"
+    ],
+    "tags": [
+      "prevention"
+    ]
+  },
+  {
+    "id": "v-healthcare-031",
+    "word": "behandeln",
+    "baseForm": "behandeln",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to treat (medically)",
+    "meaningDe": "Medizinische Maßnahmen anwenden, um eine Krankheit zu heilen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Welcher Arzt behandelt Sie?",
+        "en": "Which doctor is treating you?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Krankheit kann gut behandelt werden.",
+        "en": "The disease can be treated well.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "behandle",
+        "du": "behandelst",
+        "er_sie_es": "behandelt",
+        "wir": "behandeln",
+        "ihr": "behandelt",
+        "sie_Sie": "behandeln"
+      },
+      "past": {
+        "ich": "behandelte",
+        "du": "behandeltest",
+        "er_sie_es": "behandelte",
+        "wir": "behandelten",
+        "ihr": "behandeltet",
+        "sie_Sie": "behandelten"
+      },
+      "pastParticiple": "behandelt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Behandeln' is inseparable — 'Der Arzt behandelt mich', not 'Der Arzt handelt mich be'.",
+      "Do not confuse 'behandeln' (to treat medically or to deal with) with 'handeln' (to act/trade)."
+    ],
+    "usageNotes": [
+      "'Sich behandeln lassen' = to get treated / to seek treatment.",
+      "Also used in non-medical contexts: 'ein Thema behandeln' = to deal with a topic."
+    ],
+    "relatedWords": [
+      "die Behandlung",
+      "der Behandlungsplan",
+      "die Therapie"
+    ],
+    "tags": [
+      "treatment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-032",
+    "word": "impfen",
+    "baseForm": "impfen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to vaccinate",
+    "meaningDe": "Einen Impfstoff verabreichen, um vor einer Krankheit zu schützen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Sind Sie gegen Grippe geimpft?",
+        "en": "Are you vaccinated against the flu?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Kinder werden in Deutschland nach einem festen Plan geimpft.",
+        "en": "Children in Germany are vaccinated according to a fixed schedule.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "impfe",
+        "du": "impfst",
+        "er_sie_es": "impft",
+        "wir": "impfen",
+        "ihr": "impft",
+        "sie_Sie": "impfen"
+      },
+      "past": {
+        "ich": "impfte",
+        "du": "impftest",
+        "er_sie_es": "impfte",
+        "wir": "impften",
+        "ihr": "impftet",
+        "sie_Sie": "impften"
+      },
+      "pastParticiple": "geimpft",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Using 'vakzinieren' — while understood, 'impfen' is the standard German word.",
+      "Forgetting the reflexive construction: 'sich impfen lassen' = to get vaccinated."
+    ],
+    "usageNotes": [
+      "'Sich impfen lassen' = to get vaccinated (you don't vaccinate yourself, a doctor dös it).",
+      "'Gegen etwas geimpft sein' = to be vaccinated against something."
+    ],
+    "relatedWords": [
+      "die Impfung",
+      "der Impfstoff",
+      "der Impfpass"
+    ],
+    "tags": [
+      "vaccination",
+      "prevention"
+    ]
+  },
+  {
+    "id": "v-healthcare-033",
+    "word": "sich anmelden",
+    "baseForm": "anmelden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to check in, to register",
+    "meaningDe": "Sich an der Rezeption einer Arztpraxis registrieren",
+    "situations": [
+      "healthcare",
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte melden Sie sich an der Anmeldung an.",
+        "en": "Please check in at the reception.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie sich schon angemeldet?",
+        "en": "Have you already checked in?",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich an",
+        "du": "meldest dich an",
+        "er_sie_es": "meldet sich an",
+        "wir": "melden uns an",
+        "ihr": "meldet euch an",
+        "sie_Sie": "melden sich an"
+      },
+      "past": {
+        "ich": "meldete mich an",
+        "du": "meldetest dich an",
+        "er_sie_es": "meldete sich an",
+        "wir": "meldeten uns an",
+        "ihr": "meldetet euch an",
+        "sie_Sie": "meldeten sich an"
+      },
+      "pastParticiple": "angemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Anmelden' is separable: 'Ich melde mich an', not 'Ich anmelde mich'.",
+      "Do not confuse 'sich anmelden' (to register/check in) with 'sich abmelden' (to check out/deregister)."
+    ],
+    "usageNotes": [
+      "At a doctor's office, you first go to the 'Anmeldung' (reception desk) to check in.",
+      "You usually need your 'Versicherungskarte' (insurance card) when checking in."
+    ],
+    "relatedWords": [
+      "die Anmeldung",
+      "die Versicherungskarte",
+      "der Empfang",
+      "v-housing-037"
+    ],
+    "tags": [
+      "reception",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-034",
+    "word": "operieren",
+    "baseForm": "operieren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to operate (surgically)",
+    "meaningDe": "Einen chirurgischen Eingriff durchführen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Der Patient muss am Knie operiert werden.",
+        "en": "The patient needs to be operated on the knee.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie wurde gestern am Herzen operiert.",
+        "en": "She had heart surgery yesterday.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "operiere",
+        "du": "operierst",
+        "er_sie_es": "operiert",
+        "wir": "operieren",
+        "ihr": "operiert",
+        "sie_Sie": "operieren"
+      },
+      "past": {
+        "ich": "operierte",
+        "du": "operiertest",
+        "er_sie_es": "operierte",
+        "wir": "operierten",
+        "ihr": "operiertet",
+        "sie_Sie": "operierten"
+      },
+      "pastParticiple": "operiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "German uses 'an + dative' to specify the body part: 'am Knie operiert werden', not 'das Knie operiert werden'.",
+      "The passive is very common: 'operiert werden' = to be operated on."
+    ],
+    "usageNotes": [
+      "'Sich operieren lassen' = to have surgery / to undergo an operation.",
+      "'Die Operation' (often abbreviated 'OP') = the surgery."
+    ],
+    "relatedWords": [
+      "die Operation",
+      "der Chirurg",
+      "die Narkose"
+    ],
+    "tags": [
+      "surgery",
+      "hospital"
+    ]
+  },
+  {
+    "id": "v-healthcare-035",
+    "word": "bluten",
+    "baseForm": "bluten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to bleed",
+    "meaningDe": "Blut verlieren, aus einer Wunde bluten",
+    "situations": [
+      "healthcare",
+      "emergency"
+    ],
+    "examples": [
+      {
+        "de": "Die Wunde blutet stark.",
+        "en": "The wound is bleeding heavily.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Meine Nase blutet.",
+        "en": "My nose is bleeding.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "blute",
+        "du": "blutest",
+        "er_sie_es": "blutet",
+        "wir": "bluten",
+        "ihr": "blutet",
+        "sie_Sie": "bluten"
+      },
+      "past": {
+        "ich": "blutete",
+        "du": "blutetest",
+        "er_sie_es": "blutete",
+        "wir": "bluteten",
+        "ihr": "blutetet",
+        "sie_Sie": "bluteten"
+      },
+      "pastParticiple": "geblutet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Do not confuse 'bluten' (to bleed) with 'Blut' (blood, noun) — 'bluten' is the verb.",
+      "Using 'blutend' incorrectly — it is an adjective/participle meaning 'bleeding': 'eine blutende Wunde'."
+    ],
+    "usageNotes": [
+      "A simple, regular verb with no irregularities.",
+      "'Die Blutung' = the bleeding."
+    ],
+    "relatedWords": [
+      "das Blut",
+      "die Blutung",
+      "die Wunde"
+    ],
+    "tags": [
+      "symptoms",
+      "emergency"
+    ]
+  },
+  {
+    "id": "v-healthcare-036",
+    "word": "sich übergeben",
+    "baseForm": "übergeben",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to vomit, to throw up",
+    "meaningDe": "Den Mageninhalt durch den Mund herausgeben",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Das Kind hat sich in der Nacht mehrmals übergeben.",
+        "en": "The child vomited several times during the night.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mir ist schlecht, ich muss mich übergeben.",
+        "en": "I feel sick, I need to throw up.",
+        "situation": "healthcare",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "übergebe mich",
+        "du": "übergibst dich",
+        "er_sie_es": "übergibt sich",
+        "wir": "übergeben uns",
+        "ihr": "übergebt euch",
+        "sie_Sie": "übergeben sich"
+      },
+      "past": {
+        "ich": "übergab mich",
+        "du": "übergabst dich",
+        "er_sie_es": "übergab sich",
+        "wir": "übergaben uns",
+        "ihr": "übergabt euch",
+        "sie_Sie": "übergaben sich"
+      },
+      "pastParticiple": "übergeben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Confusing 'sich übergeben' (reflexive, to vomit) with 'übergeben' (non-reflexive, to hand over).",
+      "'Sich übergeben' is inseparable in this meaning."
+    ],
+    "usageNotes": [
+      "A polite/neutral way to say 'to vomit'. Colloquially: 'sich erbrechen' (more formal), 'kotzen' (vulgar).",
+      "'Mir ist übel/schlecht' = I feel nauseous (often precedes vomiting)."
+    ],
+    "relatedWords": [
+      "die Übelkeit",
+      "sich erbrechen",
+      "der Brechreiz"
+    ],
+    "tags": [
+      "symptoms"
+    ]
+  },
+  {
+    "id": "v-healthcare-037",
+    "word": "sich krankmelden",
+    "baseForm": "krankmelden",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to call in sick",
+    "meaningDe": "Dem Arbeitgeber mitteilen, dass man krankheitsbedingt nicht arbeiten kann",
+    "situations": [
+      "healthcare",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mich heute krankmelden.",
+        "en": "I have to call in sick today.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Er hat sich die ganze Woche krankgemeldet.",
+        "en": "He called in sick for the whole week.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich krank",
+        "du": "meldest dich krank",
+        "er_sie_es": "meldet sich krank",
+        "wir": "melden uns krank",
+        "ihr": "meldet euch krank",
+        "sie_Sie": "melden sich krank"
+      },
+      "past": {
+        "ich": "meldete mich krank",
+        "du": "meldetest dich krank",
+        "er_sie_es": "meldete sich krank",
+        "wir": "meldeten uns krank",
+        "ihr": "meldetet euch krank",
+        "sie_Sie": "meldeten sich krank"
+      },
+      "pastParticiple": "krankgemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "This is separable: 'Ich melde mich krank', not 'Ich krankmelde mich'.",
+      "Confusing 'sich krankmelden' (notifying employer) with 'sich krankschreiben lassen' (getting a doctor's note)."
+    ],
+    "usageNotes": [
+      "In Germany, you usually need to notify your employer on the first day of illness.",
+      "After 3 consecutive sick days, most employers require a 'Krankschreibung' (doctor's note)."
+    ],
+    "relatedWords": [
+      "die Krankmeldung",
+      "die Krankschreibung",
+      "arbeitsunfähig"
+    ],
+    "tags": [
+      "work",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-038",
+    "word": "heilen",
+    "baseForm": "heilen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to heal, to cure",
+    "meaningDe": "Eine Krankheit oder Verletzung beseitigen; gesund machen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Die Wunde heilt gut.",
+        "en": "The wound is healing well.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Diese Krankheit kann nicht geheilt werden.",
+        "en": "This disease cannot be cured.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "heile",
+        "du": "heilst",
+        "er_sie_es": "heilt",
+        "wir": "heilen",
+        "ihr": "heilt",
+        "sie_Sie": "heilen"
+      },
+      "past": {
+        "ich": "heilte",
+        "du": "heiltest",
+        "er_sie_es": "heilte",
+        "wir": "heilten",
+        "ihr": "heiltet",
+        "sie_Sie": "heilten"
+      },
+      "pastParticiple": "geheilt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "The intransitive use takes 'sein' in some contexts: 'Die Wunde ist geheilt' (state), but 'Der Arzt hat den Patienten geheilt' (action with haben).",
+      "Do not confuse 'heilen' (to heal/cure) with 'heilig' (holy/sacred)."
+    ],
+    "usageNotes": [
+      "Can be transitive (to cure someone) or intransitive (to heal on its own).",
+      "'Heilbar' = curable; 'unheilbar' = incurable."
+    ],
+    "relatedWords": [
+      "die Heilung",
+      "heilbar",
+      "das Heilmittel"
+    ],
+    "tags": [
+      "treatment",
+      "recovery"
+    ]
+  },
+  {
+    "id": "v-healthcare-039",
+    "word": "atmen",
+    "baseForm": "atmen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to breathe",
+    "meaningDe": "Luft ein- und ausatmen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Bitte atmen Sie tief ein.",
+        "en": "Please breathe in deeply.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Er kann nur schwer atmen.",
+        "en": "He can barely breathe.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "atme",
+        "du": "atmest",
+        "er_sie_es": "atmet",
+        "wir": "atmen",
+        "ihr": "atmet",
+        "sie_Sie": "atmen"
+      },
+      "past": {
+        "ich": "atmete",
+        "du": "atmetest",
+        "er_sie_es": "atmete",
+        "wir": "atmeten",
+        "ihr": "atmetet",
+        "sie_Sie": "atmeten"
+      },
+      "pastParticiple": "geatmet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Forgetting the separable prefixes: 'einatmen' (breathe in) and 'ausatmen' (breathe out) are separable.",
+      "Pronunciation: the 't' in 'atmen' is pronounced — it is not silent."
+    ],
+    "usageNotes": [
+      "'Tief einatmen' = to breathe in deeply (common instruction during medical exams).",
+      "'Atemnot' or 'Kurzatmigkeit' = shortness of breath."
+    ],
+    "relatedWords": [
+      "einatmen",
+      "ausatmen",
+      "die Atemnot",
+      "die Atmung"
+    ],
+    "tags": [
+      "examination",
+      "symptoms"
+    ]
+  },
+  {
+    "id": "v-healthcare-040",
+    "word": "röntgen",
+    "baseForm": "röntgen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to X-ray",
+    "meaningDe": "Mit Röntgenstrahlen eine Aufnahme des Körpers machen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen den Fuß röntgen.",
+        "en": "We need to X-ray the foot.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wurden Sie schon geröntgt?",
+        "en": "Have you already been X-rayed?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "röntge",
+        "du": "röntgst",
+        "er_sie_es": "röntgt",
+        "wir": "röntgen",
+        "ihr": "röntgt",
+        "sie_Sie": "röntgen"
+      },
+      "past": {
+        "ich": "röntgte",
+        "du": "röntgtest",
+        "er_sie_es": "röntgte",
+        "wir": "röntgten",
+        "ihr": "röntgtet",
+        "sie_Sie": "röntgten"
+      },
+      "pastParticiple": "geröntgt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Forgetting the umlaut: 'röntgen', not 'rontgen'.",
+      "The word comes from Wilhelm Conrad Röntgen, who discovered X-rays."
+    ],
+    "usageNotes": [
+      "'Das Röntgenbild' = X-ray image.",
+      "Named after the German physicist Wilhelm Conrad Röntgen."
+    ],
+    "relatedWords": [
+      "das Röntgenbild",
+      "die Röntgenaufnahme",
+      "die Strahlung"
+    ],
+    "tags": [
+      "examination",
+      "imaging"
+    ]
+  },
+  {
+    "id": "v-healthcare-041",
+    "word": "gesund",
+    "baseForm": "gesund",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "healthy",
+    "meaningDe": "Frei von Krankheit, in gutem körperlichem Zustand",
+    "situations": [
+      "healthcare",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich hoffe, Sie werden schnell wieder gesund.",
+        "en": "I hope you get well soon.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Eine gesunde Ernährung ist wichtig.",
+        "en": "A healthy diet is important.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Er sieht gesund aus.",
+        "en": "He looks healthy.",
+        "situation": "daily life",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Comparative form: 'gesünder' (with umlaut), not 'gesunder'.",
+      "Superlative: 'am gesündesten', not 'am gesundesten'."
+    ],
+    "usageNotes": [
+      "'Gesund werden' = to get better/recover.",
+      "'Gute Besserung!' = Get well soon! (standard phrase)."
+    ],
+    "relatedWords": [
+      "die Gesundheit",
+      "krank",
+      "gesundheitlich"
+    ],
+    "tags": [
+      "health",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-042",
+    "word": "krank",
+    "baseForm": "krank",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "sick, ill",
+    "meaningDe": "Nicht gesund, an einer Krankheit leidend",
+    "situations": [
+      "healthcare",
+      "daily life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin seit drei Tagen krank.",
+        "en": "I have been sick for three days.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Er ist schwer krank.",
+        "en": "He is seriously ill.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Comparative: 'kränker' (with umlaut), superlative: 'am kränksten'.",
+      "Do not confuse 'krank' with 'schlecht' — 'Mir ist schlecht' means nauseous, 'Ich bin krank' means I am ill."
+    ],
+    "usageNotes": [
+      "'Krank sein' = to be sick. 'Krank werden' = to become sick.",
+      "'Schwer krank' = seriously ill. 'Leicht krank' = mildly ill."
+    ],
+    "relatedWords": [
+      "die Krankheit",
+      "der Kranke",
+      "das Krankenhaus",
+      "die Krankenschwester"
+    ],
+    "tags": [
+      "health",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-043",
+    "word": "entzündet",
+    "baseForm": "entzündet",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "inflamed, infected",
+    "meaningDe": "Von einer Entzündung betroffen, gerötet und geschwollen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Der Hals ist stark entzündet.",
+        "en": "The throat is severely inflamed.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wunde hat sich entzündet.",
+        "en": "The wound has become infected.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'entzündet' (inflamed) with 'angezündet' (lit on fire) — both come from 'zünden' but have very different meanings.",
+      "Remember: 'sich entzünden' = to become inflamed (reflexive)."
+    ],
+    "usageNotes": [
+      "'Die Entzündung' = inflammation/infection.",
+      "Common combinations: 'Halsentzündung' (sore throat), 'Blasenentzündung' (bladder infection), 'Lungenentzündung' (pneumonia)."
+    ],
+    "relatedWords": [
+      "die Entzündung",
+      "die Halsentzündung",
+      "entzündungshemmend"
+    ],
+    "tags": [
+      "symptoms",
+      "inflammation"
+    ]
+  },
+  {
+    "id": "v-healthcare-044",
+    "word": "allergisch",
+    "baseForm": "allergisch",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "allergic",
+    "meaningDe": "Eine Allergie betreffend oder davon betroffen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin allergisch gegen Penicillin.",
+        "en": "I am allergic to penicillin.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sind Sie allergisch gegen irgendwelche Medikamente?",
+        "en": "Are you allergic to any medications?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'auf' instead of 'gegen': standard German is 'allergisch gegen etwas', though 'auf' is common colloquially.",
+      "Mispronouncing: stress on the second syllable: al-LER-gisch."
+    ],
+    "usageNotes": [
+      "Always tell your doctor about allergies: 'Ich bin allergisch gegen...'",
+      "A 'Allergiepass' documents your allergies — useful to carry with you."
+    ],
+    "relatedWords": [
+      "die Allergie",
+      "der Allergiker",
+      "die Unverträglichkeit"
+    ],
+    "tags": [
+      "allergy",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-healthcare-045",
+    "word": "chronisch",
+    "baseForm": "chronisch",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "chronic",
+    "meaningDe": "Langanhaltend, sich langsam entwickelnd (bei Krankheiten)",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Er leidet an einer chronischen Krankheit.",
+        "en": "He suffers from a chronic disease.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Chronische Rückenschmerzen sind weit verbreitet.",
+        "en": "Chronic back pain is widespread.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Do not confuse 'chronisch' (chronic, long-lasting) with 'akut' (acute, sudden) — they are opposites.",
+      "Pronunciation: the 'ch' is pronounced like the 'k' sound: KRO-nisch."
+    ],
+    "usageNotes": [
+      "'Chronisch krank' = chronically ill.",
+      "Opposite: 'akut' (acute)."
+    ],
+    "relatedWords": [
+      "akut",
+      "die Krankheit",
+      "langwierig"
+    ],
+    "tags": [
+      "medical terminology"
+    ]
+  },
+  {
+    "id": "v-healthcare-046",
+    "word": "einen Termin vereinbaren",
+    "baseForm": "einen Termin vereinbaren",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to make an appointment",
+    "meaningDe": "Mit einer Arztpraxis einen Zeitpunkt für einen Besuch festlegen",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte einen Termin vereinbaren.",
+        "en": "I would like to make an appointment.",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich telefonisch einen Termin vereinbaren?",
+        "en": "Can I make an appointment by phone?",
+        "situation": "healthcare",
+        "tone": "formal"
+      },
+      {
+        "de": "Für nächste Woche habe ich einen Termin beim Zahnarzt vereinbart.",
+        "en": "I have made an appointment at the dentist for next week.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'einen Termin machen' — this is understood but less formal; 'vereinbaren' is more appropriate in professional contexts.",
+      "Forgetting to use 'bei' + dative for the doctor: 'einen Termin beim Arzt vereinbaren'."
+    ],
+    "usageNotes": [
+      "Alternatives: 'einen Termin ausmachen' (slightly more informal).",
+      "On the phone: 'Ich würde gerne einen Termin vereinbaren' is the standard opening."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "absagen",
+      "verschieben"
+    ],
+    "tags": [
+      "appointment",
+      "essential",
+      "phone"
+    ]
+  },
+  {
+    "id": "v-healthcare-047",
+    "word": "Mir ist übel.",
+    "baseForm": "Mir ist übel.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I feel nauseous / I feel sick to my stomach.",
+    "meaningDe": "Ich habe ein unangenehmes Gefühl im Magen und muss mich vielleicht übergeben.",
+    "situations": [
+      "healthcare",
+      "emergency"
+    ],
+    "examples": [
+      {
+        "de": "Mir ist übel, ich glaube, ich muss mich übergeben.",
+        "en": "I feel nauseous, I think I need to throw up.",
+        "situation": "healthcare",
+        "tone": "informal"
+      },
+      {
+        "de": "Seit dem Frühstück ist mir übel.",
+        "en": "I have been feeling nauseous since breakfast.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Ich bin übel' instead of 'Mir ist übel' — the dative construction is required.",
+      "Confusing 'mir ist übel' (nauseous) with 'mir ist schlecht' — they are very similar but 'schlecht' can also mean feeling generally unwell."
+    ],
+    "usageNotes": [
+      "Dative construction: 'Mir ist übel', not 'Ich bin übel'.",
+      "'Mir ist schlecht' is a close synonym and also very common."
+    ],
+    "relatedWords": [
+      "die Übelkeit",
+      "sich übergeben",
+      "der Brechreiz"
+    ],
+    "tags": [
+      "symptoms",
+      "essential",
+      "speaking"
+    ]
+  },
+  {
+    "id": "v-healthcare-048",
+    "word": "Ich habe Schmerzen.",
+    "baseForm": "Ich habe Schmerzen.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I am in pain. / I have pain.",
+    "meaningDe": "Ich empfinde körperliche Schmerzen.",
+    "situations": [
+      "healthcare",
+      "emergency"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe starke Schmerzen im Rücken.",
+        "en": "I have severe pain in my back.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wo genau haben Sie Schmerzen?",
+        "en": "Where exactly do you have pain?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Using the singular 'Schmerz' — for physical pain, always use plural 'Schmerzen'.",
+      "Forgetting to specify the location: add 'im/in der/am' + body part for clarity."
+    ],
+    "usageNotes": [
+      "Specify location: 'Ich habe Schmerzen im Bauch/Rücken/Kopf' etc.",
+      "Intensity: 'leichte' (mild), 'starke' (strong), 'stechende' (stabbing), 'dumpfe' (dull) Schmerzen."
+    ],
+    "relatedWords": [
+      "der Schmerz",
+      "das Schmerzmittel",
+      "schmerzhaft",
+      "wehtun"
+    ],
+    "tags": [
+      "symptoms",
+      "essential",
+      "speaking"
+    ]
+  },
+  {
+    "id": "v-healthcare-049",
+    "word": "Ich bin gegen ... geimpft.",
+    "baseForm": "Ich bin gegen ... geimpft.",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "I am vaccinated against ...",
+    "meaningDe": "Ich habe eine Impfung gegen eine bestimmte Krankheit erhalten.",
+    "situations": [
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin gegen Tetanus geimpft.",
+        "en": "I am vaccinated against tetanus.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sind Sie gegen COVID-19 geimpft?",
+        "en": "Are you vaccinated against COVID-19?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'für' instead of 'gegen': 'gegen etwas geimpft', not 'für etwas geimpft'.",
+      "Forgetting the past participle construction: 'Ich bin geimpft' (Zustandspassiv)."
+    ],
+    "usageNotes": [
+      "Bring your 'Impfpass' (vaccination booklet) when asked about vaccinations.",
+      "Common vaccines: Tetanus, Masern (measles), Grippe (flu), COVID-19."
+    ],
+    "relatedWords": [
+      "die Impfung",
+      "der Impfpass",
+      "impfen"
+    ],
+    "tags": [
+      "vaccination",
+      "speaking"
+    ]
+  },
+  {
+    "id": "v-healthcare-050",
+    "word": "Ich brauche eine Krankschreibung.",
+    "baseForm": "Ich brauche eine Krankschreibung.",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "I need a sick note.",
+    "meaningDe": "Ich benötige eine ärztliche Bescheinigung über meine Arbeitsunfähigkeit.",
+    "situations": [
+      "healthcare",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche eine Krankschreibung für meinen Arbeitgeber.",
+        "en": "I need a sick note for my employer.",
+        "situation": "healthcare",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie mich bitte krankschreiben?",
+        "en": "Can you please give me a sick note?",
+        "situation": "healthcare",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Not knowing the alternative phrasing: 'Können Sie mich krankschreiben?' is equally common.",
+      "Confusing 'Krankschreibung' with 'Krankmeldung' — the Krankschreibung comes from the doctor, the Krankmeldung is your notification to the employer."
+    ],
+    "usageNotes": [
+      "In Germany, you typically need a Krankschreibung from the third day of illness onward, though some employers require it from the first day.",
+      "The official term is 'Arbeitsunfähigkeitsbescheinigung' (AU), but everyone says 'Krankschreibung'."
+    ],
+    "relatedWords": [
+      "die Krankschreibung",
+      "sich krankmelden",
+      "arbeitsunfähig"
+    ],
+    "tags": [
+      "work",
+      "bureaucracy",
+      "essential",
+      "speaking"
+    ]
+  }
+]

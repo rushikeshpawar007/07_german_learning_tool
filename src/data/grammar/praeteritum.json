@@ -1,0 +1,94 @@
+{
+  "id": "praeteritum",
+  "title": "Simple Past (Präteritum)",
+  "category": "verbs",
+  "level": "B1",
+  "description": "The Präteritum (simple past) is mainly used in written German — novels, news reports, and formal texts. In spoken German, it is mostly limited to sein, haben, and the modal verbs. Learning the Präteritum is essential for reading and for sounding natural with these high-frequency verbs.",
+  "whenToUse": [
+    "In written narratives, stories, and novels: Er ging durch den Wald und sah ein Licht.",
+    "In news reports and formal writing: Der Präsident sprach vor dem Parlament.",
+    "With sein and haben in everyday speech: Ich war gestern müde. / Ich hatte keine Zeit.",
+    "With modal verbs in everyday speech: Ich konnte nicht kommen. / Du musstest arbeiten.",
+    "When telling jokes or anecdotes: Ein Mann ging in eine Bar..."
+  ],
+  "rules": [
+    {
+      "title": "Conjugation of war (sein) and hatte (haben)",
+      "explanation": "Sein and haben are the two most important Präteritum forms because they are used in everyday speech instead of the Perfekt. War and hatte are the stems, and they take the following endings: ich -∅, du -st, er -∅, wir -en, ihr -t, sie -en.",
+      "examples": [
+        { "correct": "Ich war gestern in Berlin.", "incorrect": "Ich bin gestern in Berlin gewesen.", "explanation": "In speech, war is preferred over bin...gewesen. Both are grammatically correct, but war sounds more natural." },
+        { "correct": "Wir hatten viel Spaß.", "incorrect": "Wir haben viel Spaß gehabt.", "explanation": "Hatte is preferred over haben...gehabt in speech for simplicity and naturalness." },
+        { "correct": "Es war einmal ein König.", "explanation": "Fairy tales traditionally begin with 'Es war einmal...' (Once upon a time there was...)." }
+      ]
+    },
+    {
+      "title": "Modal Verbs in Präteritum",
+      "explanation": "Modal verbs are almost always used in the Präteritum rather than the Perfekt in spoken German. The Präteritum forms drop the umlaut from the infinitive: können → konnte, müssen → musste, dürfen → durfte. Sollen and wollen have no umlaut change.",
+      "examples": [
+        { "correct": "Ich konnte gestern nicht kommen.", "incorrect": "Ich habe gestern nicht kommen können.", "explanation": "The Präteritum form konnte is much more natural in speech than the Perfekt with a double infinitive." },
+        { "correct": "Du musstest früh aufstehen.", "explanation": "Müssen → musste: the umlaut ü disappears. Add -st for the du-form: musstest." },
+        { "correct": "Wir durften als Kinder lange aufbleiben.", "explanation": "Dürfen → durfte: ü → u. The wir-form adds -en: durften." }
+      ]
+    },
+    {
+      "title": "Regular (Weak) Verbs in Präteritum",
+      "explanation": "Regular verbs form the Präteritum by adding -te to the stem, then the personal endings: ich -∅, du -st, er -∅, wir -n, ihr -t, sie -n. Example: machen → machte, spielen → spielte.",
+      "examples": [
+        { "correct": "Er machte die Tür auf.", "explanation": "Machen → machte (stem mach- + -te). Used in written narration." },
+        { "correct": "Wir spielten als Kinder im Garten.", "explanation": "Spielen → spielten (stem spiel- + -te + -n for wir)." },
+        { "correct": "Sie arbeitete den ganzen Tag.", "explanation": "Arbeiten → arbeitete. Stems ending in -t or -d insert an extra -e-: arbeit + -ete." }
+      ]
+    },
+    {
+      "title": "Irregular (Strong) Verbs in Präteritum",
+      "explanation": "Strong verbs change their stem vowel in the Präteritum and do not add -te. The ich and er/sie/es forms have no ending. These forms must be memorized: gehen → ging, kommen → kam, sehen → sah, schreiben → schrieb.",
+      "examples": [
+        { "correct": "Er ging nach Hause.", "explanation": "Gehen → ging. Strong verb with vowel change e → i. No ending for er-form." },
+        { "correct": "Sie schrieb einen langen Brief.", "explanation": "Schreiben → schrieb. Vowel change ei → ie." },
+        { "correct": "Wir kamen zu spät an.", "explanation": "Kommen → kam. The wir-form adds -en: kamen." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Conjugation: war and hatte",
+      "headers": ["Pronoun", "sein → war", "haben → hatte"],
+      "rows": [
+        ["ich", "war", "hatte"],
+        ["du", "warst", "hattest"],
+        ["er/sie/es", "war", "hatte"],
+        ["wir", "waren", "hatten"],
+        ["ihr", "wart", "hattet"],
+        ["sie/Sie", "waren", "hatten"]
+      ]
+    },
+    {
+      "title": "Modal Verbs in Präteritum",
+      "headers": ["Infinitive", "Meaning", "ich/er Form", "du Form", "wir/sie Form"],
+      "rows": [
+        ["können", "can", "konnte", "konntest", "konnten"],
+        ["müssen", "must", "musste", "musstest", "mussten"],
+        ["dürfen", "may", "durfte", "durftest", "durften"],
+        ["sollen", "should", "sollte", "solltest", "sollten"],
+        ["wollen", "want", "wollte", "wolltest", "wollten"],
+        ["mögen", "like", "mochte", "mochtest", "mochten"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Ich war müde.", "incorrect": "Ich bin müde gewesen.", "explanation": "While grammatically correct, using the Perfekt of sein sounds unnatural in spoken German. Use war instead." },
+    { "correct": "Er konnte nicht schlafen.", "incorrect": "Er hat nicht schlafen können.", "explanation": "Modal verbs sound much more natural in the Präteritum. Avoid the Perfekt with its awkward double infinitive." },
+    { "correct": "Ich musste arbeiten.", "incorrect": "Ich müsste arbeiten.", "explanation": "Don't confuse Präteritum musste (had to) with Konjunktiv II müsste (would have to). The umlaut changes the meaning." },
+    { "correct": "Er ging nach Hause.", "incorrect": "Er gingte nach Hause.", "explanation": "Strong verbs do NOT add -te. The vowel change alone marks the past tense: gehen → ging, not gingte." },
+    { "correct": "Wir waren in München.", "incorrect": "Wir warten in München.", "explanation": "Don't confuse waren (were, past of sein) with warten (to wait). Pronunciation and spelling differ." },
+    { "correct": "Du durftest das nicht.", "incorrect": "Du darftest das nicht.", "explanation": "Modal verbs lose their umlaut in the Präteritum: dürfen → durfte (not darfte), können → konnte (not konnte already has no umlaut)." }
+  ],
+  "tips": [
+    "For everyday conversation, you only need to actively use the Präteritum of sein (war), haben (hatte), and the modal verbs. All other verbs can use the Perfekt.",
+    "When reading German texts, you will encounter the Präteritum constantly. Passive recognition of strong verb forms is very important.",
+    "Learn strong verb forms in groups with similar vowel patterns: schreiben-schrieb, bleiben-blieb, treiben-trieb (ei → ie pattern).",
+    "The ich-form and er/sie/es-form are always identical in the Präteritum for all verbs: ich war / er war, ich konnte / sie konnte."
+  ],
+  "relatedTopics": ["perfekt", "modal-verbs", "konjunktiv-ii"],
+  "relatedSentenceIds": []
+}

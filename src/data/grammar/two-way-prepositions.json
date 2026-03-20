@@ -1,0 +1,180 @@
+{
+  "id": "two-way-prepositions",
+  "title": "Two-Way Prepositions (Wechselpräpositionen)",
+  "category": "prepositions",
+  "level": "B1",
+  "description": "Two-way prepositions (Wechselpräpositionen) are nine German prepositions that can take either the accusative or dative case, depending on whether the sentence expresses movement/direction (Wohin?) or a static location (Wo?). Mastering this distinction is essential for correct case usage in everyday German.",
+  "whenToUse": [
+    "When describing where something is located (dative) vs. where something is moving to (accusative)",
+    "When talking about placing, putting, or moving objects",
+    "When giving directions or describing spatial relationships",
+    "When using common everyday expressions involving location and movement"
+  ],
+  "rules": [
+    {
+      "title": "Accusative for Movement and Direction (Wohin?)",
+      "explanation": "When a two-way preposition answers the question 'Wohin?' (where to?), it takes the accusative case. This indicates a change of position or movement toward a destination.",
+      "examples": [
+        {
+          "correct": "Ich gehe in den Park.",
+          "incorrect": "Ich gehe in dem Park.",
+          "explanation": "'Wohin gehst du?' — movement into the park requires accusative: den Park."
+        },
+        {
+          "correct": "Sie legt das Buch auf den Tisch.",
+          "incorrect": "Sie legt das Buch auf dem Tisch.",
+          "explanation": "The book is being placed onto the table (movement), so accusative is needed: den Tisch."
+        },
+        {
+          "correct": "Er hängt das Bild an die Wand.",
+          "explanation": "He is hanging the picture onto the wall (direction of movement), so accusative: die Wand."
+        }
+      ]
+    },
+    {
+      "title": "Dative for Location (Wo?)",
+      "explanation": "When a two-way preposition answers the question 'Wo?' (where?), it takes the dative case. This indicates a static position or location where something already is.",
+      "examples": [
+        {
+          "correct": "Ich bin im Park.",
+          "incorrect": "Ich bin in den Park.",
+          "explanation": "'Wo bist du?' — being in the park is a location, so dative is needed: im (= in dem) Park."
+        },
+        {
+          "correct": "Das Buch liegt auf dem Tisch.",
+          "incorrect": "Das Buch liegt auf den Tisch.",
+          "explanation": "The book is already lying on the table (location), so dative: dem Tisch."
+        },
+        {
+          "correct": "Das Bild hängt an der Wand.",
+          "explanation": "The picture is hanging on the wall (static position), so dative: der Wand."
+        }
+      ]
+    },
+    {
+      "title": "Common Contractions with Two-Way Prepositions",
+      "explanation": "Several two-way prepositions merge with the definite article in everyday speech and writing. These contractions are standard and expected in natural German.",
+      "examples": [
+        {
+          "correct": "Wir gehen ins Kino. (in + das)",
+          "explanation": "'ins' is the standard contraction of 'in das' (accusative neuter). Almost always used instead of the full form."
+        },
+        {
+          "correct": "Er ist im Büro. (in + dem)",
+          "explanation": "'im' is the standard contraction of 'in dem' (dative). Using the full form sounds unnatural in most contexts."
+        },
+        {
+          "correct": "Sie geht ans Fenster. (an + das) / Er steht am Fenster. (an + dem)",
+          "explanation": "'ans' (an + das, accusative) and 'am' (an + dem, dative) are very common contractions. 'aufs' (auf + das) is also frequently used."
+        }
+      ]
+    },
+    {
+      "title": "Verb Pairs: Action vs. State (stellen/stehen, legen/liegen, setzen/sitzen, hängen)",
+      "explanation": "German has specific verb pairs where one verb describes the action of placing (accusative, movement) and the other describes the resulting state (dative, location). The action verbs are transitive (take a direct object) and the state verbs are intransitive.",
+      "examples": [
+        {
+          "correct": "Ich stelle die Flasche auf den Tisch. (Akk) → Die Flasche steht auf dem Tisch. (Dat)",
+          "explanation": "'stellen' (to place upright) takes accusative; 'stehen' (to stand/be standing) takes dative."
+        },
+        {
+          "correct": "Ich lege das Buch auf den Tisch. (Akk) → Das Buch liegt auf dem Tisch. (Dat)",
+          "explanation": "'legen' (to lay down) takes accusative; 'liegen' (to lie/be lying) takes dative."
+        },
+        {
+          "correct": "Sie setzt das Kind auf den Stuhl. (Akk) → Das Kind sitzt auf dem Stuhl. (Dat)",
+          "explanation": "'setzen' (to seat/place someone sitting) takes accusative; 'sitzen' (to sit/be sitting) takes dative."
+        }
+      ]
+    },
+    {
+      "title": "Abstract and Figurative Uses",
+      "explanation": "Two-way prepositions are also used in many abstract expressions where the accusative/dative distinction still applies, though the meaning may not be literally spatial. In some fixed expressions, the case is idiomatic and must be memorized.",
+      "examples": [
+        {
+          "correct": "Er hat sich in sie verliebt. (Akk)",
+          "explanation": "'sich verlieben in + Akk' — falling in love is treated as a figurative 'movement into' a state."
+        },
+        {
+          "correct": "Ich bin in einer schwierigen Situation. (Dat)",
+          "explanation": "Being in a situation is a state/location, so dative is used."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "The 9 Two-Way Prepositions with Accusative and Dative Examples",
+      "headers": ["Preposition", "Meaning", "Accusative (Wohin?)", "Dative (Wo?)"],
+      "rows": [
+        ["an", "at, on (vertical surface), to", "Er geht an den See.", "Er steht am (an dem) See."],
+        ["auf", "on (horizontal surface), onto", "Sie legt es auf den Tisch.", "Es liegt auf dem Tisch."],
+        ["in", "in, into", "Ich gehe in den Park.", "Ich bin im (in dem) Park."],
+        ["über", "over, above, across", "Die Katze springt über den Zaun.", "Die Lampe hängt über dem Tisch."],
+        ["unter", "under, below, among", "Der Hund kriecht unter den Tisch.", "Der Hund liegt unter dem Tisch."],
+        ["vor", "in front of, before", "Er stellt das Auto vor die Garage.", "Das Auto steht vor der Garage."],
+        ["hinter", "behind", "Sie geht hinter das Haus.", "Sie steht hinter dem Haus."],
+        ["neben", "next to, beside", "Er setzt sich neben die Frau.", "Er sitzt neben der Frau."],
+        ["zwischen", "between", "Sie stellt die Vase zwischen die Bücher.", "Die Vase steht zwischen den Büchern."]
+      ]
+    },
+    {
+      "title": "Common Contractions",
+      "headers": ["Contraction", "Full Form", "Case", "Example"],
+      "rows": [
+        ["im", "in dem", "Dative", "Ich bin im Haus."],
+        ["ins", "in das", "Accusative", "Ich gehe ins Haus."],
+        ["am", "an dem", "Dative", "Er wartet am Bahnhof."],
+        ["ans", "an das", "Accusative", "Sie geht ans Fenster."],
+        ["aufs", "auf das", "Accusative", "Er geht aufs Dach."]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Ich gehe in den Supermarkt.",
+      "incorrect": "Ich gehe in dem Supermarkt.",
+      "explanation": "Movement toward a destination requires accusative (Wohin?), not dative. 'In dem' would mean you are already inside."
+    },
+    {
+      "correct": "Das Bild hängt an der Wand.",
+      "incorrect": "Das Bild hängt an die Wand.",
+      "explanation": "The picture is in a static position on the wall (Wo?), so dative is needed. Accusative would imply it is being hung up right now."
+    },
+    {
+      "correct": "Sie legt das Buch auf den Tisch.",
+      "incorrect": "Sie liegt das Buch auf den Tisch.",
+      "explanation": "Confusing 'legen' (to place/lay, transitive) with 'liegen' (to be lying, intransitive). 'Legen' is the action verb used with a direct object."
+    },
+    {
+      "correct": "Er stellt die Tasse auf den Tisch. / Die Tasse steht auf dem Tisch.",
+      "incorrect": "Er steht die Tasse auf dem Tisch.",
+      "explanation": "Mixing up 'stellen' (to place, transitive, accusative) and 'stehen' (to stand, intransitive, dative). You cannot use 'stehen' with a direct object."
+    },
+    {
+      "correct": "Wir gehen ins Kino.",
+      "incorrect": "Wir gehen in das Kino.",
+      "explanation": "While grammatically not wrong, avoiding the standard contraction 'ins' sounds unnatural in spoken German and most written contexts."
+    },
+    {
+      "correct": "Die Katze springt auf den Schrank.",
+      "incorrect": "Die Katze springt auf dem Schrank.",
+      "explanation": "Jumping onto the cupboard is a movement (Wohin?), so accusative is required. Dative would mean the cat is jumping while already on the cupboard."
+    }
+  ],
+  "tips": [
+    "Always ask yourself: 'Wo?' (where — dative) or 'Wohin?' (where to — accusative). This is the single most reliable test for choosing the correct case.",
+    "Remember the verb pairs: stellen/stehen, legen/liegen, setzen/sitzen, hängen/hängen. The action verbs (with an object) take accusative; the state verbs take dative.",
+    "Memorize the five common contractions: im, ins, am, ans, aufs. Using the uncontracted form often sounds stilted.",
+    "Create mental images: picture the difference between 'Die Katze springt auf den Tisch' (cat jumping onto the table) and 'Die Katze sitzt auf dem Tisch' (cat sitting on the table).",
+    "When in doubt with abstract expressions, check whether the verb implies a change of state (accusative) or an existing state (dative)."
+  ],
+  "relatedTopics": [
+    "accusative-case",
+    "dative-case",
+    "fixed-prepositions",
+    "dative-prepositions",
+    "accusative-prepositions"
+  ],
+  "relatedSentenceIds": []
+}

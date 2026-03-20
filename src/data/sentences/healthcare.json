@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "s-healthcare-001",
+    "de": "Ich möchte einen Termin beim Hausarzt vereinbaren.",
+    "en": "I would like to make an appointment with the family doctor.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Termin",
+        "role": "object"
+      },
+      {
+        "text": "beim",
+        "role": "preposition"
+      },
+      {
+        "text": "Hausarzt",
+        "role": "object"
+      },
+      {
+        "text": "vereinbaren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchte' + infinitive at end",
+      "Contraction 'beim' = bei dem"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-046",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-bureaucracy-015",
+      "v-healthcare-006",
+      "v-phone-018",
+      "v-work-005",
+      "v-healthcare-024",
+      "v-phone-036",
+      "v-work-033"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, infinitive at the end"
+    ],
+    "alternatives": [
+      "Einen Termin beim Hausarzt möchte ich vereinbaren.",
+      "Beim Hausarzt möchte ich einen Termin vereinbaren."
+    ]
+  },
+  {
+    "id": "s-healthcare-002",
+    "de": "Haben Sie heute noch einen Termin frei?",
+    "en": "Do you still have an appointment available today?",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Termin",
+        "role": "object"
+      },
+      {
+        "text": "frei",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb in first position",
+      "Adverb 'noch' (still)"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050",
+      "v-bureaucracy-046",
+      "v-bureaucracy-049",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-bureaucracy-015",
+      "v-healthcare-006",
+      "v-phone-018",
+      "v-work-005"
+    ],
+    "builderHints": [
+      "In yes/no questions, the verb comes first"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-003",
+    "de": "Ich habe seit drei Tagen starke Kopfschmerzen.",
+    "en": "I have had a severe headache for three days.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "seit",
+        "role": "preposition"
+      },
+      {
+        "text": "drei",
+        "role": "article"
+      },
+      {
+        "text": "Tagen",
+        "role": "object"
+      },
+      {
+        "text": "starke",
+        "role": "adverb"
+      },
+      {
+        "text": "Kopfschmerzen",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'seit' + dative to express duration",
+      "Compound noun: Kopf + Schmerzen"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'seit' requires the dative case: drei Tagen"
+    ],
+    "alternatives": [
+      "Seit drei Tagen habe ich starke Kopfschmerzen.",
+      "Starke Kopfschmerzen habe ich seit drei Tagen."
+    ]
+  },
+  {
+    "id": "s-healthcare-004",
+    "de": "Mir tut der Rücken sehr weh.",
+    "en": "My back hurts a lot.",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Mir",
+        "role": "object"
+      },
+      {
+        "text": "tut",
+        "role": "verb"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Rücken",
+        "role": "subject"
+      },
+      {
+        "text": "sehr",
+        "role": "adverb"
+      },
+      {
+        "text": "weh",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Dative construction: mir tut ... weh",
+      "Separable verb: wehtun"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "Dative pronoun 'mir' at the start, 'weh' at the end"
+    ],
+    "alternatives": [
+      "Der Rücken tut mir sehr weh."
+    ]
+  },
+  {
+    "id": "s-healthcare-005",
+    "de": "Ich muss mich bei der Krankenkasse anmelden.",
+    "en": "I have to register with the health insurance company.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "bei",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Krankenkasse",
+        "role": "object"
+      },
+      {
+        "text": "anmelden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive at end",
+      "Reflexive verb: sich anmelden"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-healthcare-002",
+      "v-bureaucracy-031",
+      "v-healthcare-033",
+      "v-housing-037"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, reflexive pronoun follows, separable infinitive at end"
+    ],
+    "alternatives": [
+      "Bei der Krankenkasse muss ich mich anmelden."
+    ]
+  },
+  {
+    "id": "s-healthcare-006",
+    "de": "Können Sie mir bitte ein Rezept ausstellen?",
+    "en": "Can you please write me a prescription?",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "adverb"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Rezept",
+        "role": "object"
+      },
+      {
+        "text": "ausstellen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Polite request with 'können'",
+      "Dative 'mir' + accusative 'ein Rezept'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-phone-046",
+      "v-healthcare-003"
+    ],
+    "builderHints": [
+      "Modal verb first in questions, infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-007",
+    "de": "Ich bin gegen Penicillin allergisch.",
+    "en": "I am allergic to penicillin.",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "gegen",
+        "role": "preposition"
+      },
+      {
+        "text": "Penicillin",
+        "role": "object"
+      },
+      {
+        "text": "allergisch",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "'gegen' + accusative",
+      "Adjective as predicate: allergisch"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-healthcare-044"
+    ],
+    "builderHints": [
+      "'gegen' takes the accusative case"
+    ],
+    "alternatives": [
+      "Gegen Penicillin bin ich allergisch."
+    ]
+  },
+  {
+    "id": "s-healthcare-008",
+    "de": "Nehmen Sie die Tabletten dreimal täglich nach dem Essen.",
+    "en": "Take the tablets three times daily after eating.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Nehmen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Tabletten",
+        "role": "object"
+      },
+      {
+        "text": "dreimal",
+        "role": "adverb"
+      },
+      {
+        "text": "täglich",
+        "role": "adverb"
+      },
+      {
+        "text": "nach",
+        "role": "preposition"
+      },
+      {
+        "text": "dem",
+        "role": "article"
+      },
+      {
+        "text": "Essen",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with 'Sie'",
+      "'nach' + dative: nach dem Essen"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "Formal imperative: verb first, then 'Sie'"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-009",
+    "de": "Ich brauche ein Medikament gegen Halsschmerzen.",
+    "en": "I need a medication for a sore throat.",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "brauche",
+        "role": "verb"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Medikament",
+        "role": "object"
+      },
+      {
+        "text": "gegen",
+        "role": "preposition"
+      },
+      {
+        "text": "Halsschmerzen",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'gegen' + accusative for remedy against something",
+      "Compound noun: Hals + Schmerzen"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-047",
+      "v-healthcare-014"
+    ],
+    "builderHints": [
+      "'gegen' means 'against/for' when talking about remedies"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-010",
+    "de": "Ist dieses Medikament rezeptpflichtig?",
+    "en": "Is this medication prescription-only?",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ist",
+        "role": "verb"
+      },
+      {
+        "text": "dieses",
+        "role": "article"
+      },
+      {
+        "text": "Medikament",
+        "role": "subject"
+      },
+      {
+        "text": "rezeptpflichtig",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb first",
+      "Compound adjective: Rezept + pflichtig"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-healthcare-014"
+    ],
+    "builderHints": [
+      "Verb first in yes/no questions"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-011",
+    "de": "Bitte bringen Sie Ihre Versichertenkarte mit.",
+    "en": "Please bring your insurance card with you.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Bitte",
+        "role": "adverb"
+      },
+      {
+        "text": "bringen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "Ihre",
+        "role": "article"
+      },
+      {
+        "text": "Versichertenkarte",
+        "role": "object"
+      },
+      {
+        "text": "mit",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Formal imperative with 'Sie'",
+      "Separable verb: mitbringen"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-meetings-050",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-emails-046",
+      "v-shopping-048"
+    ],
+    "builderHints": [
+      "Separable prefix 'mit' goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-012",
+    "de": "Seit gestern fühle ich mich sehr schwach.",
+    "en": "Since yesterday I have been feeling very weak.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Seit",
+        "role": "preposition"
+      },
+      {
+        "text": "gestern",
+        "role": "adverb"
+      },
+      {
+        "text": "fühle",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "sehr",
+        "role": "adverb"
+      },
+      {
+        "text": "schwach",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Temporal expression in position 1 causes inversion",
+      "Reflexive verb: sich fühlen"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046"
+    ],
+    "builderHints": [
+      "When a time expression starts the sentence, the verb and subject swap"
+    ],
+    "alternatives": [
+      "Ich fühle mich seit gestern sehr schwach."
+    ]
+  },
+  {
+    "id": "s-healthcare-013",
+    "de": "Der Arzt hat mich für eine Woche krankgeschrieben.",
+    "en": "The doctor gave me a sick note for one week.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Arzt",
+        "role": "subject"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Woche",
+        "role": "object"
+      },
+      {
+        "text": "krankgeschrieben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense: hat + past participle at end",
+      "Inseparable prefix verb: krankschreiben"
+    ],
+    "vocabIds": [
+      "v-healthcare-001",
+      "v-bureaucracy-048",
+      "v-emails-049",
+      "v-phone-048",
+      "v-shopping-049",
+      "v-smalltalk-046",
+      "v-smalltalk-031",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "In Perfekt, 'hat' in position 2, past participle at the end"
+    ],
+    "alternatives": [
+      "Für eine Woche hat mich der Arzt krankgeschrieben."
+    ]
+  },
+  {
+    "id": "s-healthcare-014",
+    "de": "Wo ist die nächste Notaufnahme?",
+    "en": "Where is the nearest emergency room?",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wo",
+        "role": "adverb"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "nächste",
+        "role": "adverb"
+      },
+      {
+        "text": "Notaufnahme",
+        "role": "subject"
+      }
+    ],
+    "grammarPoints": [
+      "W-question: question word + verb + subject",
+      "Superlative adjective: nächste"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-travel-046",
+      "v-healthcare-011"
+    ],
+    "builderHints": [
+      "Question word first, then verb, then subject"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-015",
+    "de": "Ich habe meinen Impfpass leider nicht dabei.",
+    "en": "Unfortunately I don't have my vaccination record with me.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "meinen",
+        "role": "article"
+      },
+      {
+        "text": "Impfpass",
+        "role": "object"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      },
+      {
+        "text": "dabei",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Negation with 'nicht'",
+      "Separable verb: dabeihaben"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'dabei' is the separable prefix and goes to the end"
+    ],
+    "alternatives": [
+      "Meinen Impfpass habe ich leider nicht dabei.",
+      "Leider habe ich meinen Impfpass nicht dabei."
+    ]
+  },
+  {
+    "id": "s-healthcare-016",
+    "de": "Sie sollten sich unbedingt ausruhen.",
+    "en": "You should definitely rest.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "sollten",
+        "role": "verb"
+      },
+      {
+        "text": "sich",
+        "role": "object"
+      },
+      {
+        "text": "unbedingt",
+        "role": "adverb"
+      },
+      {
+        "text": "ausruhen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'sollten' for advice",
+      "Reflexive separable verb: sich ausruhen"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'sollten' in position 2, infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-017",
+    "de": "Ich möchte mich zu einem Facharzt überweisen lassen.",
+    "en": "I would like to get a referral to a specialist.",
+    "situation": "healthcare",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "preposition"
+      },
+      {
+        "text": "einem",
+        "role": "article"
+      },
+      {
+        "text": "Facharzt",
+        "role": "object"
+      },
+      {
+        "text": "überweisen",
+        "role": "verb"
+      },
+      {
+        "text": "lassen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Double infinitive: überweisen lassen",
+      "'lassen' as causative verb"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-healthcare-029",
+      "v-housing-035"
+    ],
+    "builderHints": [
+      "Modal verb first, double infinitive at the end"
+    ],
+    "alternatives": [
+      "Zu einem Facharzt möchte ich mich überweisen lassen."
+    ]
+  },
+  {
+    "id": "s-healthcare-018",
+    "de": "Wie oft soll ich die Salbe auftragen?",
+    "en": "How often should I apply the ointment?",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wie",
+        "role": "adverb"
+      },
+      {
+        "text": "oft",
+        "role": "adverb"
+      },
+      {
+        "text": "soll",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Salbe",
+        "role": "object"
+      },
+      {
+        "text": "auftragen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with modal verb 'sollen'",
+      "Separable verb: auftragen"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-smalltalk-043",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "Question word first, modal verb second, infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-019",
+    "de": "Mein Hals ist geschwollen und ich kann kaum schlucken.",
+    "en": "My throat is swollen and I can hardly swallow.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Mein",
+        "role": "article"
+      },
+      {
+        "text": "Hals",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "geschwollen",
+        "role": "adverb"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "kaum",
+        "role": "adverb"
+      },
+      {
+        "text": "schlucken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Compound sentence with 'und'",
+      "Modal verb 'können' + infinitive"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-travel-047",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'und' joins two main clauses; each clause has verb in position 2"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-020",
+    "de": "Ich habe die Zuzahlung bereits an der Apotheke bezahlt.",
+    "en": "I already paid the co-payment at the pharmacy.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Zuzahlung",
+        "role": "object"
+      },
+      {
+        "text": "bereits",
+        "role": "adverb"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Apotheke",
+        "role": "object"
+      },
+      {
+        "text": "bezahlt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense: habe + bezahlt",
+      "'an' + dative for location"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-healthcare-007"
+    ],
+    "builderHints": [
+      "'habe' in position 2, past participle 'bezahlt' at the end"
+    ],
+    "alternatives": [
+      "Die Zuzahlung habe ich bereits an der Apotheke bezahlt.",
+      "Bereits habe ich die Zuzahlung an der Apotheke bezahlt."
+    ]
+  },
+  {
+    "id": "s-healthcare-021",
+    "de": "Rufen Sie bitte sofort den Notarzt an.",
+    "en": "Please call the emergency doctor immediately.",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Rufen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "bitte",
+        "role": "adverb"
+      },
+      {
+        "text": "sofort",
+        "role": "adverb"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Notarzt",
+        "role": "object"
+      },
+      {
+        "text": "an",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Formal imperative with 'Sie'",
+      "Separable verb: anrufen"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-phone-046",
+      "v-housing-050",
+      "v-meetings-050"
+    ],
+    "builderHints": [
+      "Imperative: verb first, separable prefix 'an' at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-022",
+    "de": "Ich bin privat versichert.",
+    "en": "I have private health insurance.",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "privat",
+        "role": "adverb"
+      },
+      {
+        "text": "versichert",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Zustandspassiv: sein + Partizip II",
+      "Adverb 'privat' modifies past participle"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'bin' + past participle describes a state"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-023",
+    "de": "Wann hat die Apotheke am Sonntag geöffnet?",
+    "en": "When is the pharmacy open on Sunday?",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wann",
+        "role": "adverb"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Apotheke",
+        "role": "subject"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Sonntag",
+        "role": "object"
+      },
+      {
+        "text": "geöffnet",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question word order",
+      "Contraction 'am' = an dem"
+    ],
+    "vocabIds": [
+      "v-housing-048",
+      "v-travel-046",
+      "v-healthcare-007"
+    ],
+    "builderHints": [
+      "Question word, then verb, then subject"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-024",
+    "de": "Ich muss die Krankmeldung an meinen Arbeitgeber schicken.",
+    "en": "I have to send the sick note to my employer.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Krankmeldung",
+        "role": "object"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "meinen",
+        "role": "article"
+      },
+      {
+        "text": "Arbeitgeber",
+        "role": "object"
+      },
+      {
+        "text": "schicken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "'an' + accusative for direction/recipient"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-018"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, infinitive at the end"
+    ],
+    "alternatives": [
+      "Die Krankmeldung muss ich an meinen Arbeitgeber schicken.",
+      "An meinen Arbeitgeber muss ich die Krankmeldung schicken."
+    ]
+  },
+  {
+    "id": "s-healthcare-025",
+    "de": "Darf ich während der Einnahme Alkohol trinken?",
+    "en": "Am I allowed to drink alcohol while taking the medication?",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Darf",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "während",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Einnahme",
+        "role": "object"
+      },
+      {
+        "text": "Alkohol",
+        "role": "object"
+      },
+      {
+        "text": "trinken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'dürfen' in yes/no question",
+      "'während' + genitive"
+    ],
+    "vocabIds": [
+      "v-housing-049",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "Modal verb first in questions, infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-026",
+    "de": "Ich habe mich beim Sport am Knie verletzt.",
+    "en": "I injured my knee while doing sports.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "beim",
+        "role": "preposition"
+      },
+      {
+        "text": "Sport",
+        "role": "object"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Knie",
+        "role": "object"
+      },
+      {
+        "text": "verletzt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with reflexive verb: sich verletzen",
+      "Contractions: beim = bei dem, am = an dem"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046"
+    ],
+    "builderHints": [
+      "Reflexive pronoun 'mich' after auxiliary 'habe', past participle at end"
+    ],
+    "alternatives": [
+      "Beim Sport habe ich mich am Knie verletzt.",
+      "Am Knie habe ich mich beim Sport verletzt."
+    ]
+  },
+  {
+    "id": "s-healthcare-027",
+    "de": "Haben Sie etwas gegen Übelkeit?",
+    "en": "Do you have something for nausea?",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "gegen",
+        "role": "preposition"
+      },
+      {
+        "text": "Übelkeit",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question: verb first",
+      "'gegen' + accusative for remedies"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050",
+      "v-work-050",
+      "v-healthcare-049"
+    ],
+    "builderHints": [
+      "Verb first in yes/no questions"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-028",
+    "de": "Sie müssen nüchtern zur Blutabnahme kommen.",
+    "en": "You have to come to the blood draw on an empty stomach.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "müssen",
+        "role": "verb"
+      },
+      {
+        "text": "nüchtern",
+        "role": "adverb"
+      },
+      {
+        "text": "zur",
+        "role": "preposition"
+      },
+      {
+        "text": "Blutabnahme",
+        "role": "object"
+      },
+      {
+        "text": "kommen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Contraction 'zur' = zu der"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-emails-040",
+      "v-meetings-046",
+      "v-work-048",
+      "v-meetings-048",
+      "v-work-047"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, infinitive at the end"
+    ],
+    "alternatives": [
+      "Nüchtern müssen Sie zur Blutabnahme kommen.",
+      "Zur Blutabnahme müssen Sie nüchtern kommen."
+    ]
+  },
+  {
+    "id": "s-healthcare-029",
+    "de": "Ich würde gern eine zweite Meinung einholen.",
+    "en": "I would like to get a second opinion.",
+    "situation": "healthcare",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "würde",
+        "role": "verb"
+      },
+      {
+        "text": "gern",
+        "role": "adverb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "zweite",
+        "role": "adverb"
+      },
+      {
+        "text": "Meinung",
+        "role": "object"
+      },
+      {
+        "text": "einholen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'würde' + infinitive for polite requests",
+      "Separable verb: einholen"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'würde' in position 2, infinitive at the end"
+    ],
+    "alternatives": [
+      "Gern würde ich eine zweite Meinung einholen.",
+      "Eine zweite Meinung würde ich gern einholen."
+    ]
+  },
+  {
+    "id": "s-healthcare-030",
+    "de": "Der Blutdruck ist etwas zu hoch.",
+    "en": "The blood pressure is a bit too high.",
+    "situation": "healthcare",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Blutdruck",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "etwas",
+        "role": "adverb"
+      },
+      {
+        "text": "zu",
+        "role": "adverb"
+      },
+      {
+        "text": "hoch",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "'zu' + adjective means 'too'",
+      "Compound noun: Blut + Druck"
+    ],
+    "vocabIds": [
+      "v-healthcare-023",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "Simple statement: subject, verb, predicate"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-031",
+    "de": "Ich warte schon seit einer Stunde im Wartezimmer.",
+    "en": "I have been waiting in the waiting room for an hour already.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "warte",
+        "role": "verb"
+      },
+      {
+        "text": "schon",
+        "role": "adverb"
+      },
+      {
+        "text": "seit",
+        "role": "preposition"
+      },
+      {
+        "text": "einer",
+        "role": "article"
+      },
+      {
+        "text": "Stunde",
+        "role": "object"
+      },
+      {
+        "text": "im",
+        "role": "preposition"
+      },
+      {
+        "text": "Wartezimmer",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'seit' + dative for ongoing duration",
+      "Contraction 'im' = in dem"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-047",
+      "v-healthcare-025"
+    ],
+    "builderHints": [
+      "Present tense with 'seit' expresses ongoing action (like English present perfect)"
+    ],
+    "alternatives": [
+      "Schon seit einer Stunde warte ich im Wartezimmer.",
+      "Im Wartezimmer warte ich schon seit einer Stunde."
+    ]
+  },
+  {
+    "id": "s-healthcare-032",
+    "de": "Können Sie das Rezept auch an meine Apotheke schicken?",
+    "en": "Can you also send the prescription to my pharmacy?",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Rezept",
+        "role": "object"
+      },
+      {
+        "text": "auch",
+        "role": "adverb"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "meine",
+        "role": "article"
+      },
+      {
+        "text": "Apotheke",
+        "role": "object"
+      },
+      {
+        "text": "schicken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Polite question with 'können'",
+      "'an' + accusative for direction"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-003",
+      "v-healthcare-007"
+    ],
+    "builderHints": [
+      "Modal verb first in questions, infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-healthcare-033",
+    "de": "Ich habe gestern Abend plötzlich hohes Fieber bekommen.",
+    "en": "I suddenly got a high fever last evening.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "gestern",
+        "role": "adverb"
+      },
+      {
+        "text": "Abend",
+        "role": "adverb"
+      },
+      {
+        "text": "plötzlich",
+        "role": "adverb"
+      },
+      {
+        "text": "hohes",
+        "role": "adverb"
+      },
+      {
+        "text": "Fieber",
+        "role": "object"
+      },
+      {
+        "text": "bekommen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense: habe + bekommen",
+      "Time expression: gestern Abend"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-healthcare-017"
+    ],
+    "builderHints": [
+      "Auxiliary 'habe' in position 2, past participle 'bekommen' at end"
+    ],
+    "alternatives": [
+      "Gestern Abend habe ich plötzlich hohes Fieber bekommen.",
+      "Plötzlich habe ich gestern Abend hohes Fieber bekommen."
+    ]
+  },
+  {
+    "id": "s-healthcare-034",
+    "de": "Meine Krankenversicherung übernimmt die Kosten nicht.",
+    "en": "My health insurance does not cover the costs.",
+    "situation": "healthcare",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Meine",
+        "role": "article"
+      },
+      {
+        "text": "Krankenversicherung",
+        "role": "subject"
+      },
+      {
+        "text": "übernimmt",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Kosten",
+        "role": "object"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Negation with 'nicht' at end of sentence",
+      "Inseparable prefix verb: übernehmen"
+    ],
+    "vocabIds": [
+      "v-shopping-031",
+      "v-phone-050"
+    ],
+    "builderHints": [
+      "'nicht' goes to the end to negate the whole sentence"
+    ],
+    "alternatives": [
+      "Die Kosten übernimmt meine Krankenversicherung nicht."
+    ]
+  },
+  {
+    "id": "s-healthcare-035",
+    "de": "Ich muss mich vor der Operation noch untersuchen lassen.",
+    "en": "I still need to get examined before the operation.",
+    "situation": "healthcare",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "vor",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Operation",
+        "role": "object"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "untersuchen",
+        "role": "verb"
+      },
+      {
+        "text": "lassen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Double infinitive: untersuchen lassen",
+      "'vor' + dative for 'before'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-healthcare-027"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, double infinitive (untersuchen lassen) at end"
+    ],
+    "alternatives": [
+      "Vor der Operation muss ich mich noch untersuchen lassen."
+    ]
+  }
+]

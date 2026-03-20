@@ -1,0 +1,152 @@
+{
+  "id": "accusative",
+  "title": "The Accusative Case (Akkusativ)",
+  "category": "cases",
+  "level": "A2",
+  "description": "The accusative case is used for the direct object of a sentence — the person or thing directly affected by the action. It is also required after certain prepositions and in some time expressions without a preposition.",
+  "whenToUse": [
+    "For the direct object of a verb (the thing being acted upon)",
+    "After the prepositions durch, für, gegen, ohne, um, and entlang",
+    "In time expressions without a preposition (jeden Tag, letzten Monat, etc.)",
+    "After certain verbs that always take an accusative object (haben, brauchen, sehen, etc.)"
+  ],
+  "rules": [
+    {
+      "title": "Direct objects take the accusative",
+      "explanation": "The direct object is the person or thing directly receiving the action. To find it, ask \"Wen?\" (whom?) or \"Was?\" (what?) after the verb. Only the masculine article changes: der becomes den, ein becomes einen.",
+      "examples": [
+        {
+          "correct": "Ich sehe den Mann.",
+          "incorrect": "Ich sehe der Mann.",
+          "explanation": "\"Den Mann\" is the direct object. The masculine article changes from \"der\" to \"den\" in the accusative."
+        },
+        {
+          "correct": "Sie kauft eine Tasche.",
+          "explanation": "\"Eine Tasche\" is the direct object. Feminine articles do not change in the accusative."
+        },
+        {
+          "correct": "Wir lesen das Buch.",
+          "explanation": "\"Das Buch\" is the direct object. Neuter articles do not change in the accusative."
+        }
+      ]
+    },
+    {
+      "title": "Accusative prepositions: durch, für, gegen, ohne, um, entlang",
+      "explanation": "These prepositions always require the accusative case. A helpful mnemonic is \"DOGFU\" (durch, ohne, gegen, für, um). Note that \"entlang\" usually follows the noun.",
+      "examples": [
+        {
+          "correct": "Das Geschenk ist für den Lehrer.",
+          "incorrect": "Das Geschenk ist für der Lehrer.",
+          "explanation": "After \"für\", the masculine article must change to \"den\"."
+        },
+        {
+          "correct": "Wir gehen durch den Park.",
+          "explanation": "After \"durch\", the noun takes the accusative: \"den Park\"."
+        },
+        {
+          "correct": "Er läuft die Straße entlang.",
+          "explanation": "\"Entlang\" follows the noun and takes the accusative: \"die Straße entlang\"."
+        }
+      ]
+    },
+    {
+      "title": "Only masculine articles change in the accusative",
+      "explanation": "This is the key simplification of the accusative: feminine, neuter, and plural articles remain identical to the nominative. Only masculine articles change (der → den, ein → einen, kein → keinen).",
+      "examples": [
+        {
+          "correct": "Ich kenne den Mann. (masculine: der → den)",
+          "explanation": "Masculine definite article changes from \"der\" to \"den\"."
+        },
+        {
+          "correct": "Ich kenne die Frau. (feminine: die → die)",
+          "explanation": "Feminine definite article stays \"die\" — no change."
+        },
+        {
+          "correct": "Ich kenne das Kind. (neuter: das → das)",
+          "explanation": "Neuter definite article stays \"das\" — no change."
+        }
+      ]
+    },
+    {
+      "title": "Time expressions without a preposition use the accusative",
+      "explanation": "When expressing duration or a specific point in time without a preposition, German uses the accusative case. This is common with words like jeden, letzten, nächsten, diesen.",
+      "examples": [
+        {
+          "correct": "Ich gehe jeden Tag spazieren.",
+          "explanation": "\"Jeden Tag\" (every day) is an accusative time expression without a preposition."
+        },
+        {
+          "correct": "Sie war letzten Monat in Berlin.",
+          "explanation": "\"Letzten Monat\" (last month) uses the accusative for a time reference."
+        },
+        {
+          "correct": "Wir fahren nächste Woche nach Hamburg.",
+          "explanation": "\"Nächste Woche\" (next week) — feminine stays the same, but it is still an accusative time expression."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Definite Articles: Nominative vs. Accusative",
+      "headers": ["Gender", "Nominative", "Accusative", "Example (Accusative)"],
+      "rows": [
+        ["Masculine", "der", "den", "Ich sehe den Mann."],
+        ["Feminine", "die", "die", "Ich sehe die Frau."],
+        ["Neuter", "das", "das", "Ich sehe das Kind."],
+        ["Plural", "die", "die", "Ich sehe die Kinder."]
+      ]
+    },
+    {
+      "title": "Indefinite Articles: Nominative vs. Accusative",
+      "headers": ["Gender", "Nominative", "Accusative", "Example (Accusative)"],
+      "rows": [
+        ["Masculine", "ein", "einen", "Ich habe einen Bruder."],
+        ["Feminine", "eine", "eine", "Ich habe eine Schwester."],
+        ["Neuter", "ein", "ein", "Ich habe ein Auto."],
+        ["Plural (kein)", "keine", "keine", "Ich habe keine Geschwister."]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Ich sehe den Hund.",
+      "incorrect": "Ich sehe der Hund.",
+      "explanation": "The direct object requires the accusative. Masculine \"der\" must change to \"den\"."
+    },
+    {
+      "correct": "Das ist für einen Freund.",
+      "incorrect": "Das ist für ein Freund.",
+      "explanation": "After \"für\" (accusative preposition), masculine \"ein\" must become \"einen\"."
+    },
+    {
+      "correct": "Er geht ohne seinen Bruder.",
+      "incorrect": "Er geht ohne seinem Bruder.",
+      "explanation": "\"Ohne\" takes the accusative, not the dative. Use \"seinen\", not \"seinem\"."
+    },
+    {
+      "correct": "Sie hat einen neuen Computer.",
+      "incorrect": "Sie hat ein neuer Computer.",
+      "explanation": "The direct object of \"haben\" is accusative. Both the article and the adjective must reflect the accusative masculine ending."
+    },
+    {
+      "correct": "Wir laufen gegen den Wind.",
+      "incorrect": "Wir laufen gegen dem Wind.",
+      "explanation": "\"Gegen\" requires the accusative, not the dative."
+    },
+    {
+      "correct": "Ich trinke jeden Morgen Kaffee.",
+      "incorrect": "Ich trinke jeder Morgen Kaffee.",
+      "explanation": "Time expressions without a preposition take the accusative: \"jeder\" (nom.) becomes \"jeden\" (acc.)."
+    }
+  ],
+  "tips": [
+    "Remember: only the MASCULINE article changes in the accusative — all others stay the same as in the nominative.",
+    "Use the question \"Wen oder was?\" (whom or what?) to identify the direct object.",
+    "Learn the accusative prepositions as a group: durch, für, gegen, ohne, um (+ entlang). The mnemonic \"DOGFU\" can help.",
+    "When in doubt about whether a verb takes accusative or dative, check if the object is directly affected by the action — if yes, it is usually accusative.",
+    "Practice with \"haben\" — it always takes an accusative object: Ich habe einen Hund, eine Katze, ein Auto."
+  ],
+  "relatedTopics": ["nominative", "dative", "genitive"],
+  "relatedSentenceIds": []
+}

@@ -1,0 +1,2154 @@
+[
+  {
+    "id": "s-shopping-001",
+    "de": "Kann ich diesen Pullover in einer anderen Größe bekommen?",
+    "en": "Can I get this sweater in a different size?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "diesen",
+        "role": "article"
+      },
+      {
+        "text": "Pullover",
+        "role": "object"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "einer",
+        "role": "article"
+      },
+      {
+        "text": "anderen",
+        "role": "other"
+      },
+      {
+        "text": "Größe",
+        "role": "object"
+      },
+      {
+        "text": "bekommen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'können' + infinitive",
+      "Dative after 'in'"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-047"
+    ],
+    "builderHints": [
+      "Modal verb first in yes/no questions"
+    ],
+    "alternatives": [
+      "Haben Sie diesen Pullover in einer anderen Größe?"
+    ]
+  },
+  {
+    "id": "s-shopping-002",
+    "de": "Was kostet das Kilo Tomaten heute?",
+    "en": "How much does a kilo of tomatoes cost today?",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Was",
+        "role": "adverb"
+      },
+      {
+        "text": "kostet",
+        "role": "verb"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Kilo",
+        "role": "object"
+      },
+      {
+        "text": "Tomaten",
+        "role": "object"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'was'",
+      "Verb in second position"
+    ],
+    "vocabIds": [
+      "v-smalltalk-041"
+    ],
+    "builderHints": [
+      "'Was kostet...' is the standard way to ask prices"
+    ],
+    "alternatives": [
+      "Wie viel kostet das Kilo Tomaten heute?"
+    ]
+  },
+  {
+    "id": "s-shopping-003",
+    "de": "Ich möchte dieses Kleid gern anprobieren.",
+    "en": "I would like to try on this dress.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "dieses",
+        "role": "article"
+      },
+      {
+        "text": "Kleid",
+        "role": "object"
+      },
+      {
+        "text": "gern",
+        "role": "adverb"
+      },
+      {
+        "text": "anprobieren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchten' + infinitive",
+      "Separable verb 'anprobieren' stays together with infinitive"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-027"
+    ],
+    "builderHints": [
+      "'möchte' is in second position, infinitive 'anprobieren' goes to the end"
+    ],
+    "alternatives": [
+      "Kann ich dieses Kleid anprobieren?"
+    ]
+  },
+  {
+    "id": "s-shopping-004",
+    "de": "Wo finde ich hier die Umkleidekabinen?",
+    "en": "Where can I find the fitting rooms here?",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wo",
+        "role": "adverb"
+      },
+      {
+        "text": "finde",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Umkleidekabinen",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question word order",
+      "Compound noun 'Umkleidekabinen'"
+    ],
+    "vocabIds": [
+      "v-shopping-050",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'Wo' starts the question, verb follows in second position"
+    ],
+    "alternatives": [
+      "Wo sind die Umkleidekabinen?"
+    ]
+  },
+  {
+    "id": "s-shopping-005",
+    "de": "Kann ich mit Karte zahlen oder nur bar?",
+    "en": "Can I pay by card or only cash?",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "Karte",
+        "role": "object"
+      },
+      {
+        "text": "zahlen",
+        "role": "verb"
+      },
+      {
+        "text": "oder",
+        "role": "conjunction"
+      },
+      {
+        "text": "nur",
+        "role": "adverb"
+      },
+      {
+        "text": "bar",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'können' in yes/no question",
+      "Dative after 'mit'"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-046"
+    ],
+    "builderHints": [
+      "'mit Karte' means 'by card', 'bar' means 'in cash'"
+    ],
+    "alternatives": [
+      "Nehmen Sie auch Kartenzahlung?"
+    ]
+  },
+  {
+    "id": "s-shopping-006",
+    "de": "Die Erdbeeren auf dem Markt sind viel frischer als im Supermarkt.",
+    "en": "The strawberries at the market are much fresher than at the supermarket.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Erdbeeren",
+        "role": "subject"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "dem",
+        "role": "article"
+      },
+      {
+        "text": "Markt",
+        "role": "object"
+      },
+      {
+        "text": "sind",
+        "role": "verb"
+      },
+      {
+        "text": "viel",
+        "role": "adverb"
+      },
+      {
+        "text": "frischer",
+        "role": "adverb"
+      },
+      {
+        "text": "als",
+        "role": "conjunction"
+      },
+      {
+        "text": "im",
+        "role": "preposition"
+      },
+      {
+        "text": "Supermarkt",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Comparative with 'als'",
+      "Dative after 'auf dem' and 'im'"
+    ],
+    "vocabIds": [
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050",
+      "v-shopping-008",
+      "v-housing-047"
+    ],
+    "builderHints": [
+      "Comparative form: 'frisch' → 'frischer', then 'als' for comparison"
+    ],
+    "alternatives": [
+      "Auf dem Markt sind die Erdbeeren viel frischer als im Supermarkt."
+    ]
+  },
+  {
+    "id": "s-shopping-007",
+    "de": "Ich würde gern diese Hose umtauschen.",
+    "en": "I would like to exchange these trousers.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "würde",
+        "role": "verb"
+      },
+      {
+        "text": "gern",
+        "role": "adverb"
+      },
+      {
+        "text": "diese",
+        "role": "article"
+      },
+      {
+        "text": "Hose",
+        "role": "object"
+      },
+      {
+        "text": "umtauschen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'würde' + infinitive for polite requests",
+      "Separable verb 'umtauschen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-026"
+    ],
+    "builderHints": [
+      "'würde gern' is a polite way to express a wish"
+    ],
+    "alternatives": [
+      "Ich möchte diese Hose gern umtauschen."
+    ]
+  },
+  {
+    "id": "s-shopping-008",
+    "de": "Haben Sie den Kassenbon noch?",
+    "en": "Do you still have the receipt?",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Kassenbon",
+        "role": "object"
+      },
+      {
+        "text": "noch",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb first",
+      "Formal 'Sie'"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-shopping-014"
+    ],
+    "builderHints": [
+      "Yes/no questions start with the conjugated verb"
+    ],
+    "alternatives": [
+      "Haben Sie noch den Kassenbon?"
+    ]
+  },
+  {
+    "id": "s-shopping-009",
+    "de": "Könnten Sie mir einen Rabatt geben?",
+    "en": "Could you give me a discount?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Könnten",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Rabatt",
+        "role": "object"
+      },
+      {
+        "text": "geben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'könnten' for polite request",
+      "Dative 'mir' + accusative 'einen Rabatt'"
+    ],
+    "vocabIds": [
+      "v-phone-048",
+      "v-travel-050",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-bureaucracy-046",
+      "v-bureaucracy-049",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-shopping-012",
+      "v-work-046"
+    ],
+    "builderHints": [
+      "'Könnten Sie' is more polite than 'Können Sie'"
+    ],
+    "alternatives": [
+      "Ist da noch was am Preis zu machen?"
+    ]
+  },
+  {
+    "id": "s-shopping-010",
+    "de": "Die Flaschen kann ich am Automaten zurückgeben.",
+    "en": "I can return the bottles at the machine.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Flaschen",
+        "role": "object"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Automaten",
+        "role": "object"
+      },
+      {
+        "text": "zurückgeben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Object fronting for emphasis",
+      "Separable verb 'zurückgeben' stays together as infinitive"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-035"
+    ],
+    "builderHints": [
+      "Object 'Die Flaschen' is fronted, pushing the subject after the verb"
+    ],
+    "alternatives": [
+      "Ich kann die Flaschen am Automaten zurückgeben."
+    ]
+  },
+  {
+    "id": "s-shopping-011",
+    "de": "Auf die Flasche sind 25 Cent Pfand.",
+    "en": "There is a 25 cent deposit on the bottle.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Auf",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Flasche",
+        "role": "object"
+      },
+      {
+        "text": "sind",
+        "role": "verb"
+      },
+      {
+        "text": "25",
+        "role": "other"
+      },
+      {
+        "text": "Cent",
+        "role": "object"
+      },
+      {
+        "text": "Pfand",
+        "role": "subject"
+      }
+    ],
+    "grammarPoints": [
+      "Prepositional phrase fronting",
+      "'Pfand' as deposit concept in German shopping"
+    ],
+    "vocabIds": [
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050",
+      "v-housing-047",
+      "v-shopping-009"
+    ],
+    "builderHints": [
+      "'Pfand' is the deposit you pay on bottles and cans in Germany"
+    ],
+    "alternatives": [
+      "Die Flasche hat 25 Cent Pfand."
+    ]
+  },
+  {
+    "id": "s-shopping-012",
+    "de": "Ich brauche noch eine Tüte, bitte.",
+    "en": "I still need a bag, please.",
+    "situation": "shopping",
+    "level": "A1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "brauche",
+        "role": "verb"
+      },
+      {
+        "text": "noch",
+        "role": "particle"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Tüte",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Basic SVO sentence",
+      "Particle 'noch' meaning 'still/also'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-047",
+      "v-shopping-010",
+      "v-phone-048"
+    ],
+    "builderHints": [
+      "Simple sentence: subject + verb + object"
+    ],
+    "alternatives": [
+      "Könnte ich noch eine Tüte haben?"
+    ]
+  },
+  {
+    "id": "s-shopping-013",
+    "de": "Das ist mir zu teuer, können Sie etwas runtergehen?",
+    "en": "That's too expensive for me, can you come down a bit?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "adverb"
+      },
+      {
+        "text": "teuer",
+        "role": "adverb"
+      },
+      {
+        "text": "können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "etwas",
+        "role": "adverb"
+      },
+      {
+        "text": "runtergehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Dative 'mir' to express personal concern",
+      "Modal verb in second clause"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-travel-050",
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "'mir zu teuer' = too expensive for me, dative of personal interest"
+    ],
+    "alternatives": [
+      "Geht da preislich noch was?"
+    ]
+  },
+  {
+    "id": "s-shopping-014",
+    "de": "Geben Sie mir bitte 200 Gramm von dem Käse.",
+    "en": "Please give me 200 grams of that cheese.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Geben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "200",
+        "role": "other"
+      },
+      {
+        "text": "Gramm",
+        "role": "object"
+      },
+      {
+        "text": "von",
+        "role": "preposition"
+      },
+      {
+        "text": "dem",
+        "role": "article"
+      },
+      {
+        "text": "Käse",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with 'Sie'",
+      "Dative after 'von'"
+    ],
+    "vocabIds": [
+      "v-work-046",
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-phone-046"
+    ],
+    "builderHints": [
+      "Formal imperative: verb first, then 'Sie'"
+    ],
+    "alternatives": [
+      "Ich hätte gern 200 Gramm von dem Käse."
+    ]
+  },
+  {
+    "id": "s-shopping-015",
+    "de": "Dieses Produkt ist gerade im Angebot.",
+    "en": "This product is currently on sale.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Dieses",
+        "role": "article"
+      },
+      {
+        "text": "Produkt",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "gerade",
+        "role": "adverb"
+      },
+      {
+        "text": "im",
+        "role": "preposition"
+      },
+      {
+        "text": "Angebot",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Contraction 'im' (in + dem)",
+      "Predicate with prepositional phrase"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-shopping-002"
+    ],
+    "builderHints": [
+      "'im Angebot' is the common expression for 'on sale'"
+    ],
+    "alternatives": [
+      "Das Produkt ist heute reduziert."
+    ]
+  },
+  {
+    "id": "s-shopping-016",
+    "de": "Ich nehme drei Brötchen und ein Vollkornbrot.",
+    "en": "I'll take three rolls and a whole grain bread.",
+    "situation": "shopping",
+    "level": "A1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "nehme",
+        "role": "verb"
+      },
+      {
+        "text": "drei",
+        "role": "other"
+      },
+      {
+        "text": "Brötchen",
+        "role": "object"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Vollkornbrot",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Basic SVO with 'und' connecting objects",
+      "Compound noun 'Vollkornbrot'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-travel-047"
+    ],
+    "builderHints": [
+      "'Ich nehme' is the standard phrase for ordering at a bakery"
+    ],
+    "alternatives": [
+      "Drei Brötchen und ein Vollkornbrot, bitte."
+    ]
+  },
+  {
+    "id": "s-shopping-017",
+    "de": "Entschuldigung, wo steht hier die Milch?",
+    "en": "Excuse me, where is the milk here?",
+    "situation": "shopping",
+    "level": "A1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Entschuldigung",
+        "role": "particle"
+      },
+      {
+        "text": "wo",
+        "role": "adverb"
+      },
+      {
+        "text": "steht",
+        "role": "verb"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Milch",
+        "role": "subject"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'wo'",
+      "Verb 'stehen' for product location in a store"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'Wo steht...' is natural for asking where a product is in a shop"
+    ],
+    "alternatives": [
+      "Wo finde ich hier die Milch?"
+    ]
+  },
+  {
+    "id": "s-shopping-018",
+    "de": "Nehmen Sie auch kontaktloses Bezahlen?",
+    "en": "Do you also accept contactless payment?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Nehmen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "auch",
+        "role": "particle"
+      },
+      {
+        "text": "kontaktloses",
+        "role": "other"
+      },
+      {
+        "text": "Bezahlen",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with formal 'Sie'",
+      "Nominalized verb 'Bezahlen'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-shopping-028"
+    ],
+    "builderHints": [
+      "'Nehmen Sie' is commonly used to ask if a payment method is accepted"
+    ],
+    "alternatives": [
+      "Kann ich kontaktlos bezahlen?"
+    ]
+  },
+  {
+    "id": "s-shopping-019",
+    "de": "Ich schaue mich nur um, danke.",
+    "en": "I'm just looking around, thanks.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "schaue",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "nur",
+        "role": "adverb"
+      },
+      {
+        "text": "um",
+        "role": "particle"
+      },
+      {
+        "text": "danke",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich umschauen'",
+      "Separable prefix 'um' at the end"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046"
+    ],
+    "builderHints": [
+      "Separable verb: 'um' goes to the end of the clause"
+    ],
+    "alternatives": [
+      "Ich gucke nur, danke."
+    ]
+  },
+  {
+    "id": "s-shopping-020",
+    "de": "Bis wann kann ich den Artikel zurückgeben?",
+    "en": "Until when can I return the item?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Bis",
+        "role": "preposition"
+      },
+      {
+        "text": "wann",
+        "role": "adverb"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Artikel",
+        "role": "object"
+      },
+      {
+        "text": "zurückgeben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'bis wann'",
+      "Separable verb 'zurückgeben' as infinitive"
+    ],
+    "vocabIds": [
+      "v-housing-048",
+      "v-travel-046",
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-shopping-035"
+    ],
+    "builderHints": [
+      "'Bis wann' asks about a deadline; verb follows in second position"
+    ],
+    "alternatives": [
+      "Wie lange habe ich Rückgaberecht?"
+    ]
+  },
+  {
+    "id": "s-shopping-021",
+    "de": "Der Pullover steht dir richtig gut!",
+    "en": "That sweater looks really good on you!",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Pullover",
+        "role": "subject"
+      },
+      {
+        "text": "steht",
+        "role": "verb"
+      },
+      {
+        "text": "dir",
+        "role": "object"
+      },
+      {
+        "text": "richtig",
+        "role": "adverb"
+      },
+      {
+        "text": "gut",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Dative 'dir' with 'stehen' for clothing",
+      "Intensifier 'richtig'"
+    ],
+    "vocabIds": [
+      "v-smalltalk-049"
+    ],
+    "builderHints": [
+      "'stehen' + dative = to suit/look good on someone"
+    ],
+    "alternatives": [
+      "Der Pullover sieht toll an dir aus!"
+    ]
+  },
+  {
+    "id": "s-shopping-022",
+    "de": "Wir hätten gern zwei Kugeln Eis, bitte.",
+    "en": "We would like two scoops of ice cream, please.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "hätten",
+        "role": "verb"
+      },
+      {
+        "text": "gern",
+        "role": "adverb"
+      },
+      {
+        "text": "zwei",
+        "role": "other"
+      },
+      {
+        "text": "Kugeln",
+        "role": "object"
+      },
+      {
+        "text": "Eis",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'hätten' for polite request",
+      "Quantifier + noun + noun construction"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-049",
+      "v-travel-049",
+      "v-phone-046",
+      "v-phone-048"
+    ],
+    "builderHints": [
+      "'hätten gern' is the classic polite ordering phrase"
+    ],
+    "alternatives": [
+      "Zwei Kugeln Eis, bitte."
+    ]
+  },
+  {
+    "id": "s-shopping-023",
+    "de": "Ich habe leider den Kassenbon nicht mehr.",
+    "en": "Unfortunately, I don't have the receipt anymore.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Kassenbon",
+        "role": "object"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      },
+      {
+        "text": "mehr",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Negation with 'nicht mehr'",
+      "'leider' for softening bad news"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-shopping-014"
+    ],
+    "builderHints": [
+      "'nicht mehr' means 'no longer/not anymore'"
+    ],
+    "alternatives": [
+      "Den Kassenbon habe ich leider nicht mehr."
+    ]
+  },
+  {
+    "id": "s-shopping-024",
+    "de": "Darf es sonst noch etwas sein?",
+    "en": "Would you like anything else?",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Darf",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "sonst",
+        "role": "adverb"
+      },
+      {
+        "text": "noch",
+        "role": "particle"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "sein",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'dürfen' in polite question",
+      "Fixed expression at shops and counters"
+    ],
+    "vocabIds": [
+      "v-housing-049",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "This is a fixed phrase shopkeepers use; 'darf' starts the yes/no question"
+    ],
+    "alternatives": [
+      "Brauchen Sie sonst noch etwas?"
+    ]
+  },
+  {
+    "id": "s-shopping-025",
+    "de": "Die Jacke gibt es auch in Blau und Schwarz.",
+    "en": "The jacket also comes in blue and black.",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Jacke",
+        "role": "object"
+      },
+      {
+        "text": "gibt",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "auch",
+        "role": "particle"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "Blau",
+        "role": "object"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "Schwarz",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'es gibt' construction with fronted object",
+      "Colors as nouns (capitalized)"
+    ],
+    "vocabIds": [
+      "v-travel-047"
+    ],
+    "builderHints": [
+      "'es gibt' = there is/are; the object 'Die Jacke' is fronted here"
+    ],
+    "alternatives": [
+      "Die Jacke haben wir auch in Blau und Schwarz."
+    ]
+  },
+  {
+    "id": "s-shopping-026",
+    "de": "Ich glaube, das Mindesthaltbarkeitsdatum ist abgelaufen.",
+    "en": "I think the best-before date has expired.",
+    "situation": "shopping",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "glaube",
+        "role": "verb"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Mindesthaltbarkeitsdatum",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "abgelaufen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Subordinate clause after 'glauben' (without 'dass')",
+      "Perfekt with 'sein' for 'ablaufen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "When 'dass' is omitted, the subordinate clause has main-clause word order"
+    ],
+    "alternatives": [
+      "Das MHD ist abgelaufen, oder?"
+    ]
+  },
+  {
+    "id": "s-shopping-027",
+    "de": "Lohnt sich der Preisunterschied zwischen den beiden?",
+    "en": "Is the price difference between the two worth it?",
+    "situation": "shopping",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Lohnt",
+        "role": "verb"
+      },
+      {
+        "text": "sich",
+        "role": "object"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Preisunterschied",
+        "role": "subject"
+      },
+      {
+        "text": "zwischen",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "beiden",
+        "role": "other"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich lohnen'",
+      "Dative after 'zwischen'"
+    ],
+    "vocabIds": [
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'sich lohnen' = to be worth it; reflexive pronoun follows the verb"
+    ],
+    "alternatives": [
+      "Ist das teurere Produkt wirklich besser?"
+    ]
+  },
+  {
+    "id": "s-shopping-028",
+    "de": "Einmal die Currywurst mit Pommes, bitte.",
+    "en": "One currywurst with fries, please.",
+    "situation": "shopping",
+    "level": "A1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Einmal",
+        "role": "adverb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Currywurst",
+        "role": "object"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "Pommes",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Elliptical ordering phrase (no verb)",
+      "'einmal' as a counting word when ordering"
+    ],
+    "vocabIds": [
+      "v-travel-047",
+      "v-emails-046",
+      "v-shopping-048",
+      "v-phone-046",
+      "v-phone-048"
+    ],
+    "builderHints": [
+      "At food stalls, 'einmal' + item is the standard ordering pattern"
+    ],
+    "alternatives": [
+      "Ich hätte gern eine Currywurst mit Pommes."
+    ]
+  },
+  {
+    "id": "s-shopping-029",
+    "de": "Das passt leider nicht, haben Sie das eine Nummer größer?",
+    "en": "Unfortunately that doesn't fit, do you have it one size bigger?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Das",
+        "role": "subject"
+      },
+      {
+        "text": "passt",
+        "role": "verb"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      },
+      {
+        "text": "haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "object"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Nummer",
+        "role": "object"
+      },
+      {
+        "text": "größer",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Two clauses connected without conjunction",
+      "Comparative 'größer' with 'eine Nummer'"
+    ],
+    "vocabIds": [
+      "v-phone-050",
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'eine Nummer größer' is the idiomatic way to ask for the next size up"
+    ],
+    "alternatives": [
+      "Haben Sie das auch in einer größeren Größe?"
+    ]
+  },
+  {
+    "id": "s-shopping-030",
+    "de": "Sammeln Sie Payback-Punkte?",
+    "en": "Do you collect Payback points?",
+    "situation": "shopping",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Sammeln",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "Payback-Punkte",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with formal 'Sie'",
+      "Common cashier question in Germany"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "Cashiers in Germany frequently ask this; verb first for yes/no question"
+    ],
+    "alternatives": [
+      "Haben Sie eine Payback-Karte?"
+    ]
+  },
+  {
+    "id": "s-shopping-031",
+    "de": "Für drei Euro das Stück finde ich das zu viel.",
+    "en": "At three euros a piece, I think that's too much.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Für",
+        "role": "preposition"
+      },
+      {
+        "text": "drei",
+        "role": "other"
+      },
+      {
+        "text": "Euro",
+        "role": "object"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Stück",
+        "role": "object"
+      },
+      {
+        "text": "finde",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "adverb"
+      },
+      {
+        "text": "viel",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Fronted prepositional phrase",
+      "'finden' + accusative + adjective = to consider something (adj.)"
+    ],
+    "vocabIds": [
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-shopping-050",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048"
+    ],
+    "builderHints": [
+      "Prepositional phrase comes first; verb stays in second position"
+    ],
+    "alternatives": [
+      "Drei Euro das Stück ist mir zu teuer."
+    ]
+  },
+  {
+    "id": "s-shopping-032",
+    "de": "Kann ich den Pfandbon an der Kasse einlösen?",
+    "en": "Can I redeem the deposit receipt at the checkout?",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Pfandbon",
+        "role": "object"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Kasse",
+        "role": "object"
+      },
+      {
+        "text": "einlösen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'können' + infinitive",
+      "Dative after 'an der'"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-shopping-001"
+    ],
+    "builderHints": [
+      "'Pfandbon' is the slip you get from the bottle return machine"
+    ],
+    "alternatives": [
+      "Wo kann ich den Pfandbon einlösen?"
+    ]
+  },
+  {
+    "id": "s-shopping-033",
+    "de": "Wenn Sie drei kaufen, bekommen Sie eins gratis.",
+    "en": "If you buy three, you get one free.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wenn",
+        "role": "conjunction"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "drei",
+        "role": "object"
+      },
+      {
+        "text": "kaufen",
+        "role": "verb"
+      },
+      {
+        "text": "bekommen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "eins",
+        "role": "object"
+      },
+      {
+        "text": "gratis",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "'wenn' subordinate clause with verb-final",
+      "Main clause after subordinate clause: verb-first"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "In 'wenn' clauses the verb goes to the end; main clause starts with the verb"
+    ],
+    "alternatives": [
+      "Drei zum Preis von zwei!"
+    ]
+  },
+  {
+    "id": "s-shopping-034",
+    "de": "Ich vergleiche immer erst die Preise online, bevor ich etwas kaufe.",
+    "en": "I always compare prices online first before I buy something.",
+    "situation": "shopping",
+    "level": "B2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "vergleiche",
+        "role": "verb"
+      },
+      {
+        "text": "immer",
+        "role": "adverb"
+      },
+      {
+        "text": "erst",
+        "role": "adverb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Preise",
+        "role": "object"
+      },
+      {
+        "text": "online",
+        "role": "adverb"
+      },
+      {
+        "text": "bevor",
+        "role": "conjunction"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "kaufe",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "'bevor' subordinate clause with verb-final",
+      "Adverb sequence 'immer erst'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "'bevor' sends the verb to the end of its clause"
+    ],
+    "alternatives": [
+      "Bevor ich etwas kaufe, vergleiche ich immer erst die Preise online."
+    ]
+  },
+  {
+    "id": "s-shopping-035",
+    "de": "Die Qualität ist für den Preis echt in Ordnung.",
+    "en": "The quality is really decent for the price.",
+    "situation": "shopping",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Qualität",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Preis",
+        "role": "object"
+      },
+      {
+        "text": "echt",
+        "role": "adverb"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "Ordnung",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'in Ordnung' as predicate expression",
+      "Accusative after 'für'"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-shopping-011"
+    ],
+    "builderHints": [
+      "'in Ordnung' = okay/decent; 'echt' is colloquial for 'really'"
+    ],
+    "alternatives": [
+      "Für den Preis ist die Qualität echt gut."
+    ]
+  }
+]

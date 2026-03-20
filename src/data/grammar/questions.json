@@ -1,0 +1,173 @@
+{
+  "id": "questions",
+  "title": "Asking Questions (Fragesätze)",
+  "category": "word-order",
+  "level": "A2",
+  "description": "German has two main types of questions: W-questions (using question words like 'wer', 'was', 'wo') where the verb is in position 2, and Yes/No questions where the verb comes first. This lesson also covers indirect questions with 'ob' and question words combined with prepositions (wo-compounds).",
+  "whenToUse": [
+    "When asking for specific information (who, what, where, when, why, how)",
+    "When asking yes/no questions",
+    "When reporting a question indirectly (e.g., 'I wonder whether...')",
+    "When asking about things related to prepositions (what for, with what, about what)"
+  ],
+  "rules": [
+    {
+      "title": "W-Questions — Verb in Position 2",
+      "explanation": "W-questions begin with a question word (W-Fragewort) in position 1. The conjugated verb follows immediately in position 2, then the subject in position 3. This mirrors the inversion pattern of main clauses when a non-subject fills position 1.",
+      "examples": [
+        {
+          "correct": "Wo wohnst du?",
+          "incorrect": "Wo du wohnst?",
+          "explanation": "'Wo' in position 1, verb 'wohnst' in position 2, subject 'du' in position 3."
+        },
+        {
+          "correct": "Warum lernst du Deutsch?",
+          "explanation": "Question word 'Warum' in position 1, verb 'lernst' in position 2."
+        },
+        {
+          "correct": "Wann fährt der Zug ab?",
+          "explanation": "W-word 'Wann' first, then verb 'fährt' in position 2. The separable prefix 'ab' goes to the end."
+        }
+      ]
+    },
+    {
+      "title": "Yes/No Questions — Verb in Position 1",
+      "explanation": "When asking a question that can be answered with 'ja' or 'nein', the conjugated verb takes position 1, followed by the subject. There is no question word.",
+      "examples": [
+        {
+          "correct": "Sprichst du Deutsch?",
+          "incorrect": "Du sprichst Deutsch?",
+          "explanation": "In a yes/no question, the verb 'Sprichst' must come first. Putting the subject first would only work as a surprised echo question in spoken German."
+        },
+        {
+          "correct": "Hast du heute Zeit?",
+          "explanation": "Verb 'Hast' in position 1, subject 'du' in position 2."
+        },
+        {
+          "correct": "Können Sie mir helfen?",
+          "explanation": "The modal verb 'Können' starts the question, subject 'Sie' follows, infinitive 'helfen' at the end."
+        }
+      ]
+    },
+    {
+      "title": "Indirect Questions with 'ob'",
+      "explanation": "When a yes/no question is embedded inside another sentence (indirect question), it is introduced by 'ob' (whether/if). Since 'ob' is a subordinating conjunction, the verb goes to the end of the clause, just like in any Nebensatz.",
+      "examples": [
+        {
+          "correct": "Ich weiß nicht, ob er heute kommt.",
+          "incorrect": "Ich weiß nicht, ob kommt er heute.",
+          "explanation": "'Ob' introduces the indirect question, so the verb 'kommt' moves to the end."
+        },
+        {
+          "correct": "Kannst du mir sagen, ob der Laden noch offen ist?",
+          "explanation": "The indirect question 'ob der Laden noch offen ist' has the verb 'ist' at the end."
+        },
+        {
+          "correct": "Sie fragt, ob wir mitkommen wollen.",
+          "explanation": "Indirect question with 'ob': the modal 'wollen' (conjugated) follows the infinitive 'mitkommen' at the end."
+        }
+      ]
+    },
+    {
+      "title": "Question Words with Prepositions (Wo-Compounds)",
+      "explanation": "When a question involves a preposition and refers to a thing (not a person), German combines 'wo(r)-' with the preposition to form a single question word: worauf, wofür, womit, worüber, etc. If the preposition starts with a vowel, an 'r' is inserted (wo + auf = worauf).",
+      "examples": [
+        {
+          "correct": "Worauf wartest du?",
+          "incorrect": "Auf was wartest du?",
+          "explanation": "'Auf was' is considered colloquial. The standard form is 'worauf' for things. (For people, use 'Auf wen wartest du?')"
+        },
+        {
+          "correct": "Wofür interessierst du dich?",
+          "explanation": "'Wofür' combines 'wo' + 'für'. It asks 'What are you interested in?'"
+        },
+        {
+          "correct": "Womit fährst du zur Arbeit?",
+          "explanation": "'Womit' combines 'wo' + 'mit'. It asks 'With what / By what means do you get to work?'"
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Common W-Question Words",
+      "headers": ["Question Word", "Meaning", "Example"],
+      "rows": [
+        ["wer", "who (nominative)", "Wer ist das?"],
+        ["wen", "whom (accusative)", "Wen hast du eingeladen?"],
+        ["wem", "to whom (dative)", "Wem gehört das Buch?"],
+        ["was", "what", "Was machst du?"],
+        ["wo", "where (location)", "Wo wohnst du?"],
+        ["wohin", "where to (direction)", "Wohin gehst du?"],
+        ["woher", "where from", "Woher kommst du?"],
+        ["wann", "when", "Wann fängt der Film an?"],
+        ["warum", "why", "Warum lernst du Deutsch?"],
+        ["wie", "how", "Wie geht es dir?"],
+        ["wie viel(e)", "how much/many", "Wie viele Sprachen sprichst du?"]
+      ]
+    },
+    {
+      "title": "Question Types — Word Order Comparison",
+      "headers": ["Type", "Position 1", "Position 2", "Position 3", "End"],
+      "rows": [
+        ["W-question", "Wo", "wohnst", "du", "?"],
+        ["Yes/No question", "Wohnst", "du", "in Berlin", "?"],
+        ["Indirect (W-word)", "…, wo", "du", "", "wohnst."],
+        ["Indirect (ob)", "…, ob", "du", "in Berlin", "wohnst."]
+      ]
+    },
+    {
+      "title": "Wo-Compounds (Preposition + Question Word)",
+      "headers": ["Preposition", "Wo-Compound", "Example"],
+      "rows": [
+        ["auf", "worauf", "Worauf freust du dich?"],
+        ["für", "wofür", "Wofür brauchst du das?"],
+        ["mit", "womit", "Womit kann ich dir helfen?"],
+        ["über", "worüber", "Worüber sprecht ihr?"],
+        ["an", "woran", "Woran denkst du?"],
+        ["von", "wovon", "Wovon träumst du?"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Wo wohnst du?",
+      "incorrect": "Wo du wohnst?",
+      "explanation": "In a direct W-question, the verb must be in position 2 after the question word. 'Wo du wohnst' is only correct as an indirect question inside another sentence."
+    },
+    {
+      "correct": "Sprichst du Deutsch?",
+      "incorrect": "Spreche du Deutsch?",
+      "explanation": "The verb must be correctly conjugated for the subject. 'Du' takes 'sprichst', not 'spreche'."
+    },
+    {
+      "correct": "Ich weiß nicht, ob er kommt.",
+      "incorrect": "Ich weiß nicht, ob kommt er.",
+      "explanation": "After 'ob' (subordinating conjunction), the verb goes to the end of the clause, not into position 2."
+    },
+    {
+      "correct": "Worauf wartest du?",
+      "incorrect": "Auf was wartest du?",
+      "explanation": "For things, use wo-compounds (worauf, wofür, womit) instead of 'preposition + was'. 'Auf was' is colloquial."
+    },
+    {
+      "correct": "Auf wen wartest du?",
+      "incorrect": "Worauf wartest du? (when asking about a person)",
+      "explanation": "Wo-compounds are only for things. When asking about a person, use the preposition + the correct form of 'wer' (wen, wem)."
+    },
+    {
+      "correct": "Wann fängt der Film an?",
+      "incorrect": "Wann fängt an der Film?",
+      "explanation": "Even in questions, separable prefixes go to the end of the sentence. The verb stem stays in position 2."
+    }
+  ],
+  "tips": [
+    "W-questions and yes/no questions differ only in position 1: W-word + verb in position 2 vs. verb in position 1. The rest of the sentence follows the same rules.",
+    "If you can answer with 'ja' or 'nein', the verb starts the question. If you need specific information, use a W-word.",
+    "For indirect questions, treat them like any other Nebensatz: the verb goes to the end. Use the original W-word for W-questions, or 'ob' for yes/no questions.",
+    "Remember: wo-compounds are for things only. For people, always use preposition + wer/wen/wem. 'Worauf' = on what thing; 'Auf wen' = on which person.",
+    "A quick trick for wo-compounds: if the preposition starts with a vowel, insert an 'r' — wo + auf = worauf, wo + über = worüber. No 'r' needed for consonants: wo + mit = womit."
+  ],
+  "relatedTopics": ["main-clause", "subordinate-clauses"],
+  "relatedSentenceIds": []
+}

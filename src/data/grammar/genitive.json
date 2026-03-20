@@ -1,0 +1,152 @@
+{
+  "id": "genitive",
+  "title": "The Genitive Case (Genitiv)",
+  "category": "cases",
+  "level": "B1",
+  "description": "The genitive case expresses possession and belonging. It answers the question \"Wessen?\" (whose?). It is also required after certain prepositions. Masculine and neuter nouns add an -s or -es ending in the genitive.",
+  "whenToUse": [
+    "To express possession or belonging (similar to English \"of\" or \"'s\")",
+    "After the prepositions wegen, trotz, während, statt, außerhalb, innerhalb, anstatt, aufgrund",
+    "With certain adjectives and verbs that require the genitive (formal/literary usage)",
+    "In fixed expressions such as \"eines Tages\" (one day)"
+  ],
+  "rules": [
+    {
+      "title": "Expressing possession with the genitive",
+      "explanation": "The genitive shows who or what something belongs to. The possessor follows the thing possessed. Masculine and neuter nouns add -s (for multi-syllable words) or -es (for single-syllable words or words ending in -s, -ß, -z, -x).",
+      "examples": [
+        {
+          "correct": "Das Auto des Mannes ist rot.",
+          "incorrect": "Das Auto der Mann ist rot.",
+          "explanation": "\"Des Mannes\" is the genitive of \"der Mann\". The article changes to \"des\" and the noun adds \"-es\"."
+        },
+        {
+          "correct": "Die Tasche der Frau liegt hier.",
+          "explanation": "\"Der Frau\" is the genitive of \"die Frau\". Feminine article changes from \"die\" to \"der\", but the noun does not add an ending."
+        },
+        {
+          "correct": "Das Spielzeug des Kindes ist kaputt.",
+          "explanation": "\"Des Kindes\" is the genitive of \"das Kind\". Neuter article changes to \"des\" and the noun adds \"-es\"."
+        }
+      ]
+    },
+    {
+      "title": "Genitive prepositions: wegen, trotz, während, statt, außerhalb, innerhalb",
+      "explanation": "These prepositions require the genitive case. They are common in written and formal German. In spoken German, some speakers use the dative after wegen and trotz, but the genitive is grammatically correct.",
+      "examples": [
+        {
+          "correct": "Wegen des Regens bleiben wir zu Hause.",
+          "incorrect": "Wegen dem Regen bleiben wir zu Hause.",
+          "explanation": "\"Wegen\" takes the genitive: \"des Regens\". The dative \"dem Regen\" is colloquial but not standard."
+        },
+        {
+          "correct": "Trotz des schlechten Wetters gingen sie spazieren.",
+          "explanation": "\"Trotz\" takes the genitive: \"des schlechten Wetters\"."
+        },
+        {
+          "correct": "Während der Pause essen die Schüler.",
+          "explanation": "\"Während\" takes the genitive: feminine \"die Pause\" becomes \"der Pause\"."
+        }
+      ]
+    },
+    {
+      "title": "The -s and -es endings on masculine and neuter nouns",
+      "explanation": "Masculine and neuter nouns must add -s or -es in the genitive. Use -es for monosyllabic nouns (des Mannes, des Kindes) and nouns ending in -s, -ß, -z, -x, -tz. Use -s for longer nouns (des Lehrers, des Computers). Feminine and plural nouns do not add any ending.",
+      "examples": [
+        {
+          "correct": "die Farbe des Hauses (das Haus → des Hauses)",
+          "explanation": "Monosyllabic neuter noun: \"Haus\" adds \"-es\" in the genitive."
+        },
+        {
+          "correct": "der Name des Lehrers (der Lehrer → des Lehrers)",
+          "explanation": "Multi-syllable masculine noun: \"Lehrer\" adds only \"-s\" in the genitive."
+        },
+        {
+          "correct": "die Meinung der Eltern (die Eltern → der Eltern)",
+          "explanation": "Plural noun: no ending is added, only the article changes from \"die\" to \"der\"."
+        }
+      ]
+    },
+    {
+      "title": "Genitive with proper names",
+      "explanation": "German proper names (first names, city names) add -s without an article to express possession. The possessor comes BEFORE the thing possessed — just like English with \"'s\".",
+      "examples": [
+        {
+          "correct": "Annas Buch liegt auf dem Tisch.",
+          "explanation": "The proper name \"Anna\" adds -s and comes before the possessed noun. No article is used."
+        },
+        {
+          "correct": "Berlins Museen sind weltberühmt.",
+          "explanation": "City names also take -s in the genitive: \"Berlins Museen\" (Berlin's museums)."
+        },
+        {
+          "correct": "Thomas' Wohnung ist sehr groß.",
+          "explanation": "Names ending in -s, -ß, -z, or -x add only an apostrophe: \"Thomas'\" (not \"Thomass\")."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Definite Articles: Nominative vs. Genitive",
+      "headers": ["Gender", "Nominative", "Genitive", "Example (Genitive)"],
+      "rows": [
+        ["Masculine", "der", "des (+s/es)", "des Mannes"],
+        ["Feminine", "die", "der", "der Frau"],
+        ["Neuter", "das", "des (+s/es)", "des Kindes"],
+        ["Plural", "die", "der", "der Kinder"]
+      ]
+    },
+    {
+      "title": "Indefinite Articles: Nominative vs. Genitive",
+      "headers": ["Gender", "Nominative", "Genitive", "Example (Genitive)"],
+      "rows": [
+        ["Masculine", "ein", "eines (+s/es)", "eines Mannes"],
+        ["Feminine", "eine", "einer", "einer Frau"],
+        ["Neuter", "ein", "eines (+s/es)", "eines Kindes"],
+        ["Plural (kein)", "keine", "keiner", "keiner Kinder"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Das ist das Auto des Lehrers.",
+      "incorrect": "Das ist das Auto von dem Lehrer.",
+      "explanation": "While \"von + dative\" is common in spoken German, the genitive (\"des Lehrers\") is the grammatically standard way to express possession."
+    },
+    {
+      "correct": "Wegen des Staus kam er zu spät.",
+      "incorrect": "Wegen dem Stau kam er zu spät.",
+      "explanation": "\"Wegen\" formally requires the genitive. \"Des Staus\" is correct; \"dem Stau\" (dative) is colloquial."
+    },
+    {
+      "correct": "Das Dach des Hauses ist neu.",
+      "incorrect": "Das Dach des Haus ist neu.",
+      "explanation": "Masculine and neuter nouns must add -s or -es in the genitive. \"Haus\" becomes \"Hauses\"."
+    },
+    {
+      "correct": "Trotz des schlechten Wetters gingen wir raus.",
+      "incorrect": "Trotz des schlechtes Wetter gingen wir raus.",
+      "explanation": "Both the article and the noun must be in the genitive: \"des schlechten Wetters\", not just the article alone."
+    },
+    {
+      "correct": "Annas Freund ist nett.",
+      "incorrect": "Anna's Freund ist nett.",
+      "explanation": "In German, proper names in the genitive do not use an apostrophe before the -s (unlike English). Write \"Annas\", not \"Anna's\"."
+    },
+    {
+      "correct": "Die Meinung der Experten ist wichtig.",
+      "incorrect": "Die Meinung der Expertens ist wichtig.",
+      "explanation": "Plural nouns do NOT add an extra -s in the genitive. Only the article changes: \"der Experten\" is correct."
+    }
+  ],
+  "tips": [
+    "Ask \"Wessen?\" (whose?) to identify the genitive in a sentence.",
+    "Remember: only masculine and neuter nouns add -s or -es. Feminine and plural nouns change only the article.",
+    "For monosyllabic masculine/neuter nouns, prefer -es (des Mannes, des Hauses). For longer nouns, use -s (des Lehrers, des Computers).",
+    "In everyday spoken German, \"von + dative\" often replaces the genitive (das Auto von meinem Vater), but in writing and formal contexts, always use the genitive.",
+    "Proper names add -s without an article and come BEFORE the noun: \"Marias Hund\", not \"der Hund Marias\" (though the latter is also possible in formal style)."
+  ],
+  "relatedTopics": ["nominative", "accusative", "dative"],
+  "relatedSentenceIds": []
+}

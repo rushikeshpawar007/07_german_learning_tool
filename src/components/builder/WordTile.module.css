@@ -1,0 +1,53 @@
+.tile {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-2) var(--space-4);
+  min-height: var(--touch-min);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: var(--weight-medium);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  user-select: none;
+  border: 2px solid transparent;
+}
+
+.bank {
+  background-color: var(--color-white);
+  color: var(--color-warm-brown);
+  border-color: var(--color-sand-dark);
+}
+
+.bank:hover {
+  border-color: var(--color-terracotta);
+  background-color: var(--color-cream);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.answer {
+  background-color: var(--color-terracotta);
+  color: var(--color-white);
+  border-color: var(--color-terracotta);
+}
+
+.answer:hover {
+  background-color: var(--color-terracotta-dark);
+  border-color: var(--color-terracotta-dark);
+}
+
+.correct {
+  background-color: var(--color-success-light);
+  color: var(--color-success);
+  border-color: var(--color-success);
+  cursor: default;
+}
+
+.incorrect {
+  background-color: var(--color-error-light);
+  color: var(--color-error);
+  border-color: var(--color-error);
+  cursor: default;
+}

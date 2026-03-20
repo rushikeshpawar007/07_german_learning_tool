@@ -1,0 +1,103 @@
+{
+  "id": "konjunktiv-ii",
+  "title": "Subjunctive II (Konjunktiv II)",
+  "category": "verbs",
+  "level": "B1",
+  "description": "The Konjunktiv II is used to express hypothetical situations, wishes, polite requests, and unreal conditions. For most verbs, it is formed with würde + infinitive. A few high-frequency verbs (haben, sein, werden, modal verbs) have their own Konjunktiv II forms that are used instead of würde.",
+  "whenToUse": [
+    "Making polite requests: Könnten Sie mir bitte helfen?",
+    "Expressing hypothetical or unreal conditions: Wenn ich reich wäre, würde ich reisen.",
+    "Expressing wishes: Ich wünschte, ich hätte mehr Zeit.",
+    "Giving advice politely: An deiner Stelle würde ich zum Arzt gehen.",
+    "Expressing something contrary to reality: Wenn ich das gewusst hätte, wäre ich gekommen."
+  ],
+  "rules": [
+    {
+      "title": "würde + Infinitive for Most Verbs",
+      "explanation": "For most verbs, the Konjunktiv II is formed with würde (conjugated) + infinitive at the end. This is the standard form and always sounds correct, even for verbs that technically have their own Konjunktiv II form.",
+      "examples": [
+        { "correct": "Ich würde gern mitkommen.", "explanation": "Würde + infinitive (mitkommen): I would like to come along." },
+        { "correct": "Was würdest du an meiner Stelle tun?", "explanation": "Würdest + infinitive (tun): What would you do in my place?" },
+        { "correct": "Wir würden gern in Berlin wohnen.", "explanation": "Würden + infinitive (wohnen): We would like to live in Berlin." }
+      ]
+    },
+    {
+      "title": "hätte, wäre, and würde — the Essential Three",
+      "explanation": "Haben → hätte (would have), sein → wäre (would be), werden → würde (would). These three forms are used constantly and must be memorized. They are strongly preferred over würde + haben/sein/werden.",
+      "examples": [
+        { "correct": "Ich hätte gern ein Stück Kuchen.", "incorrect": "Ich würde gern ein Stück Kuchen haben.", "explanation": "Hätte is preferred over würde...haben. It sounds more natural and is shorter." },
+        { "correct": "Das wäre sehr nett von Ihnen.", "incorrect": "Das würde sehr nett von Ihnen sein.", "explanation": "Wäre is always preferred over würde...sein." },
+        { "correct": "Wenn ich du wäre, würde ich das nicht machen.", "explanation": "Wäre in the wenn-clause, würde in the main clause — a very common pattern." }
+      ]
+    },
+    {
+      "title": "Modal Verbs in Konjunktiv II",
+      "explanation": "Modal verbs have their own Konjunktiv II forms and are never used with würde. They are formed from the Präteritum stem plus umlaut (where possible): könnte, müsste, dürfte, sollte, wollte. Sollte and wollte have no umlaut.",
+      "examples": [
+        { "correct": "Könnten Sie das bitte wiederholen?", "incorrect": "Würden Sie das bitte wiederholen können?", "explanation": "Use könnten directly, not würde...können. Modal verbs always use their own Konjunktiv II form." },
+        { "correct": "Du müsstest mehr lernen.", "explanation": "Müsste = should/would have to. More polite and less direct than musst." },
+        { "correct": "Dürfte ich Sie etwas fragen?", "explanation": "Dürfte = may I / might I. Very polite way to ask permission." }
+      ]
+    },
+    {
+      "title": "Polite Requests and Ordering",
+      "explanation": "Konjunktiv II is the standard way to make polite requests in German, similar to 'could you' or 'would you' in English. Common patterns: Könnten Sie...?, Ich hätte gern..., Würden Sie bitte...?",
+      "examples": [
+        { "correct": "Ich hätte gern einen Kaffee.", "explanation": "The standard polite way to order in a restaurant: I would like a coffee." },
+        { "correct": "Könnten Sie mir bitte den Weg zeigen?", "explanation": "Could you please show me the way? — polite request with könnten." },
+        { "correct": "Würden Sie bitte das Fenster öffnen?", "explanation": "Would you please open the window? — polite request with würden." }
+      ]
+    },
+    {
+      "title": "Hypothetical Conditions with wenn",
+      "explanation": "Unreal conditional sentences use Konjunktiv II in both the wenn-clause and the main clause. Pattern: Wenn + subject + ... + Konjunktiv II verb (end), main clause with würde/hätte/wäre in position 2.",
+      "examples": [
+        { "correct": "Wenn ich Zeit hätte, würde ich mehr lesen.", "explanation": "If I had time, I would read more. Hätte in the wenn-clause, würde in the main clause." },
+        { "correct": "Wenn ich reich wäre, würde ich um die Welt reisen.", "explanation": "If I were rich, I would travel around the world." },
+        { "correct": "Ich wünschte, ich wäre jetzt am Strand.", "explanation": "I wish I were at the beach right now. Wäre expresses an unreal wish." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Konjunktiv II: Key Forms",
+      "headers": ["Pronoun", "würde", "hätte", "wäre", "könnte", "müsste"],
+      "rows": [
+        ["ich", "würde", "hätte", "wäre", "könnte", "müsste"],
+        ["du", "würdest", "hättest", "wärst", "könntest", "müsstest"],
+        ["er/sie/es", "würde", "hätte", "wäre", "könnte", "müsste"],
+        ["wir", "würden", "hätten", "wären", "könnten", "müssten"],
+        ["ihr", "würdet", "hättet", "wärt", "könntet", "müsstet"],
+        ["sie/Sie", "würden", "hätten", "wären", "könnten", "müssten"]
+      ]
+    },
+    {
+      "title": "All Modal Verbs in Konjunktiv II",
+      "headers": ["Infinitive", "Konjunktiv II (ich/er)", "Meaning"],
+      "rows": [
+        ["können", "könnte", "could / would be able to"],
+        ["müssen", "müsste", "would have to / should"],
+        ["dürfen", "dürfte", "might / would be allowed to"],
+        ["sollen", "sollte", "should / ought to"],
+        ["wollen", "wollte", "would want to"],
+        ["mögen", "möchte", "would like to"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Wenn ich Zeit hätte, würde ich kommen.", "incorrect": "Wenn ich Zeit hätte, ich würde kommen.", "explanation": "In the main clause after a wenn-clause, the verb must be in position 1 (verb-first inversion): würde ich, not ich würde." },
+    { "correct": "Könnten Sie mir helfen?", "incorrect": "Würden Sie mir helfen können?", "explanation": "Modal verbs use their own Konjunktiv II forms. Don't combine them with würde." },
+    { "correct": "Ich wäre gern in Italien.", "incorrect": "Ich würde gern in Italien sein.", "explanation": "Always use wäre instead of würde...sein. The short form is standard." },
+    { "correct": "Du solltest mehr schlafen.", "incorrect": "Du sollst mehr schlafen.", "explanation": "Solltest (Konjunktiv II) is a polite suggestion. Sollst (indicative) is a strong command or duty." },
+    { "correct": "Ich wünschte, ich hätte mehr Geld.", "incorrect": "Ich wünsche, ich hätte mehr Geld.", "explanation": "Wishes about unreal situations use wünschte (Konjunktiv II / Präteritum), not wünsche (present)." },
+    { "correct": "Wenn ich du wäre, würde ich das tun.", "incorrect": "Wenn ich du bin, ich tue das.", "explanation": "Hypothetical conditions require Konjunktiv II in both clauses. Don't use present tense for unreal conditions." }
+  ],
+  "tips": [
+    "When in doubt, use würde + infinitive. It is always understood and accepted, even if a dedicated form exists.",
+    "For everyday use, memorize just five forms: hätte, wäre, könnte, müsste, and würde. These cover the vast majority of situations.",
+    "Sollte is unique: it looks like Konjunktiv II but is used so commonly for 'should' that it barely feels subjunctive anymore.",
+    "Konjunktiv II is essential for polite German. Using the indicative (Können Sie...?) is grammatically fine but less polite than Könnten Sie...?"
+  ],
+  "relatedTopics": ["praeteritum", "modal-verbs", "present-tense"],
+  "relatedSentenceIds": []
+}

@@ -1,0 +1,2782 @@
+[
+  {
+    "id": "v-housing-001",
+    "word": "die Wohnung",
+    "baseForm": "Wohnung",
+    "gender": "die",
+    "plural": "Wohnungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "apartment, flat",
+    "meaningDe": "ein abgeschlossener Bereich in einem Gebäude, in dem man lebt",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich suche eine Zwei-Zimmer-Wohnung in der Innenstadt.",
+        "en": "I am looking for a two-room apartment in the city center.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wohnung hat einen Balkon und eine Einbauküche.",
+        "en": "The apartment has a balcony and a fitted kitchen.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Unsere Wohnung liegt im dritten Stock.",
+        "en": "Our apartment is on the third floor.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Zimmer' - eine 'Wohnung' hat mehrere Zimmer, ein 'Zimmer' ist nur ein Raum.",
+      "'Zwei-Zimmer-Wohnung' zählt Küche und Bad nicht mit - es sind zwei Wohn-/Schlafzimmer."
+    ],
+    "usageNotes": [
+      "In Anzeigen oft als 'Whg.' abgekürzt. '2-Zi.-Whg.' bedeutet Zwei-Zimmer-Wohnung.",
+      "'Wohnung' ist der allgemeine Begriff; 'Apartment' wird eher für kleine, möblierte Wohnungen verwendet."
+    ],
+    "relatedWords": [
+      "das Zimmer",
+      "das Apartment",
+      "die Mietwohnung",
+      "die Eigentumswohnung"
+    ],
+    "tags": [
+      "essential",
+      "apartment-search",
+      "A2-core"
+    ]
+  },
+  {
+    "id": "v-housing-002",
+    "word": "der Mietvertrag",
+    "baseForm": "Mietvertrag",
+    "gender": "der",
+    "plural": "Mietverträge",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "rental contract, lease agreement",
+    "meaningDe": "ein schriftlicher Vertrag zwischen Mieter und Vermieter über die Bedingungen der Miete",
+    "situations": [
+      "housing",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Bitte lesen Sie den Mietvertrag sorgfältig durch, bevor Sie unterschreiben.",
+        "en": "Please read the rental contract carefully before you sign.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Im Mietvertrag steht, dass Haustiere erlaubt sind.",
+        "en": "The lease says that pets are allowed.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Mietvertrag ist unbefristet.",
+        "en": "My lease is open-ended.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Kompositum: 'Miet' + 'Vertrag' - der Artikel richtet sich nach dem letzten Wort ('der Vertrag').",
+      "Nicht verwechseln mit 'Kaufvertrag' (purchase contract) bei Eigentumswohnungen."
+    ],
+    "usageNotes": [
+      "In Deutschland sind unbefristete Mietverträge die Norm. Befristete Verträge ('Zeitmietvertrag') sind seltener.",
+      "Wichtige Verben: einen Mietvertrag 'unterschreiben', 'kündigen', 'abschliessen'."
+    ],
+    "relatedWords": [
+      "die Miete",
+      "der Vermieter",
+      "der Mieter",
+      "die Kuendigung"
+    ],
+    "tags": [
+      "contract",
+      "legal",
+      "important-document"
+    ]
+  },
+  {
+    "id": "v-housing-003",
+    "word": "die Kaution",
+    "baseForm": "Kaution",
+    "gender": "die",
+    "plural": "Kautionen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "security deposit",
+    "meaningDe": "eine Geldsumme, die man dem Vermieter als Sicherheit zahlt und beim Auszug zurückbekommt",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Die Kaution beträgt drei Kaltmieten.",
+        "en": "The deposit amounts to three months' base rent.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Wann bekomme ich meine Kaution zurück?",
+        "en": "When will I get my deposit back?",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Vermieter darf die Kaution in drei Raten zahlen lassen.",
+        "en": "The landlord must allow the deposit to be paid in three installments.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Die Kaution darf in Deutschland maximal drei Nettokaltmieten betragen - das ist gesetzlich geregelt.",
+      "Nicht verwechseln mit 'Provision' (Maklerprovision/broker's fee)."
+    ],
+    "usageNotes": [
+      "Per Gesetz darf man die Kaution in drei gleichen monatlichen Raten zahlen.",
+      "Der Vermieter muss die Kaution getrennt vom eigenen Vermögen anlegen."
+    ],
+    "relatedWords": [
+      "die Miete",
+      "die Kaltmiete",
+      "die Provision",
+      "die Rueckzahlung"
+    ],
+    "tags": [
+      "finance",
+      "deposit",
+      "tenant-rights"
+    ]
+  },
+  {
+    "id": "v-housing-004",
+    "word": "die Nebenkosten",
+    "baseForm": "Nebenkosten",
+    "gender": "die",
+    "plural": "Nebenkosten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "additional costs, utilities",
+    "meaningDe": "zusätzliche Kosten zur Miete, z.B. für Wasser, Heizung, Müllabfuhr",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Sind die Nebenkosten in der Miete inklusive?",
+        "en": "Are the utilities included in the rent?",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Nebenkosten betragen 150 Euro pro Monat.",
+        "en": "The additional costs are 150 euros per month.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Nebenkostenabrechnung kommt einmal im Jahr.",
+        "en": "The utility bill statement comes once a year.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Nebenkosten' wird fast immer im Plural verwendet.",
+      "Nicht verwechseln: 'Kaltmiete' (Miete ohne Nebenkosten) vs. 'Warmmiete' (Miete mit Nebenkosten)."
+    ],
+    "usageNotes": [
+      "Auch 'Betriebskosten' genannt. Typische Nebenkosten: Heizung, Wasser, Müllabfuhr, Hausmeister, Treppenhausreinigung.",
+      "Strom und Internet sind normalerweise nicht in den Nebenkosten enthalten - die zahlt man separat."
+    ],
+    "relatedWords": [
+      "die Kaltmiete",
+      "die Warmmiete",
+      "die Betriebskosten",
+      "die Nebenkostenabrechnung"
+    ],
+    "tags": [
+      "finance",
+      "utilities",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-005",
+    "word": "der Vermieter",
+    "baseForm": "Vermieter",
+    "gender": "der",
+    "plural": "Vermieter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "landlord",
+    "meaningDe": "die Person, die eine Wohnung oder ein Haus zur Miete anbietet",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Der Vermieter hat die Miete um 50 Euro erhöht.",
+        "en": "The landlord increased the rent by 50 euros.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss meinen Vermieter über den Wasserschaden informieren.",
+        "en": "I need to inform my landlord about the water damage.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Unser Vermieter kümmert sich gut um das Haus.",
+        "en": "Our landlord takes good care of the building.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Die weibliche Form ist 'die Vermieterin' - nicht vergessen, diese Form zu benutzen, wenn zutreffend.",
+      "Nicht verwechseln mit 'Mieter' (tenant) - der Vermieter besitzt oder verwaltet die Wohnung."
+    ],
+    "usageNotes": [
+      "In grossen Wohnhäusern hat man oft keinen privaten Vermieter, sondern eine 'Hausverwaltung' (property management).",
+      "Formelle Anrede in Briefen: 'Sehr geehrter Herr [Name]' oder 'Sehr geehrte Hausverwaltung'."
+    ],
+    "relatedWords": [
+      "die Vermieterin",
+      "der Mieter",
+      "die Hausverwaltung",
+      "der Eigentuemer"
+    ],
+    "tags": [
+      "people",
+      "essential",
+      "landlord"
+    ]
+  },
+  {
+    "id": "v-housing-006",
+    "word": "der Mieter",
+    "baseForm": "Mieter",
+    "gender": "der",
+    "plural": "Mieter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "tenant, renter",
+    "meaningDe": "die Person, die eine Wohnung oder ein Haus mietet und darin wohnt",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Als Mieter haben Sie bestimmte Rechte.",
+        "en": "As a tenant, you have certain rights.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Mieter im Erdgeschoss beschweren sich über den Lärm.",
+        "en": "The tenants on the ground floor are complaining about the noise.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Weibliche Form: 'die Mieterin' (Plural: 'Mieterinnen').",
+      "Nicht verwechseln mit 'Vermieter' - der Mieter zahlt, der Vermieter empfängt die Miete."
+    ],
+    "usageNotes": [
+      "Deutschland hat ein starkes Mietrecht: Mieter sind gut geschützt, z.B. durch Kündigungsschutz.",
+      "'Mieterverein' oder 'Mieterbund' sind Organisationen, die Mieter beraten und unterstützen."
+    ],
+    "relatedWords": [
+      "die Mieterin",
+      "der Vermieter",
+      "der Nachmieter",
+      "der Mieterbund"
+    ],
+    "tags": [
+      "people",
+      "essential",
+      "tenant"
+    ]
+  },
+  {
+    "id": "v-housing-007",
+    "word": "die Besichtigung",
+    "baseForm": "Besichtigung",
+    "gender": "die",
+    "plural": "Besichtigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "viewing, inspection (of an apartment)",
+    "meaningDe": "ein Termin, bei dem man sich eine Wohnung ansieht, bevor man sie mietet",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe morgen eine Besichtigung für die Wohnung in der Schillerstrasse.",
+        "en": "I have a viewing tomorrow for the apartment on Schillerstrasse.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bei der Besichtigung sollten Sie auf Schimmel und Wasserflecken achten.",
+        "en": "During the viewing, you should look out for mold and water stains.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Es war eine Massenbesichtigung - da waren dreissig Leute!",
+        "en": "It was a mass viewing - there were thirty people!",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'eine Besichtigung haben' oder 'zu einer Besichtigung gehen', nicht 'eine Besichtigung machen'.",
+      "Nicht verwechseln mit 'Sightseeing' - 'Besichtigung' im Wohnungskontext ist ein formeller Termin."
+    ],
+    "usageNotes": [
+      "In beliebten Städten gibt es oft 'Massenbesichtigungen' - viele Interessenten gleichzeitig.",
+      "Man bringt zur Besichtigung am besten Gehaltsnachweise, Schufa-Auskunft und eine Mieterselbstauskunft mit."
+    ],
+    "relatedWords": [
+      "besichtigen",
+      "der Besichtigungstermin",
+      "die Wohnungssuche",
+      "die Massenbesichtigung"
+    ],
+    "tags": [
+      "apartment-search",
+      "process"
+    ]
+  },
+  {
+    "id": "v-housing-008",
+    "word": "der Nachmieter",
+    "baseForm": "Nachmieter",
+    "gender": "der",
+    "plural": "Nachmieter",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "successor tenant, next tenant",
+    "meaningDe": "die Person, die nach dem aktüllen Mieter in eine Wohnung einzieht",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ich suche einen Nachmieter für meine Wohnung ab dem 1. Mai.",
+        "en": "I am looking for a successor tenant for my apartment from May 1st.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Vermieter hat den Nachmieter akzeptiert.",
+        "en": "My landlord accepted the successor tenant.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Der Vermieter muss einen vorgeschlagenen Nachmieter nicht akzeptieren.",
+      "Weibliche Form: 'die Nachmieterin'."
+    ],
+    "usageNotes": [
+      "Einen Nachmieter zu finden kann helfen, früher aus dem Mietvertrag zu kommen.",
+      "In Anzeigen: 'Nachmieter gesucht ab [Datum]'."
+    ],
+    "relatedWords": [
+      "der Mieter",
+      "der Vormieter",
+      "die Kuendigung",
+      "ausziehen"
+    ],
+    "tags": [
+      "people",
+      "moving"
+    ]
+  },
+  {
+    "id": "v-housing-009",
+    "word": "die Kündigung",
+    "baseForm": "Kündigung",
+    "gender": "die",
+    "plural": "Kündigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "termination, notice (of a lease)",
+    "meaningDe": "die schriftliche Erklärung, dass man den Mietvertrag beenden möchte",
+    "situations": [
+      "housing",
+      "work",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Die Kündigung muss schriftlich erfolgen.",
+        "en": "The notice of termination must be in writing.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe die Kündigung per Einschreiben geschickt.",
+        "en": "I sent the notice of termination by registered mail.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Kündigungsfrist beträgt drei Monate.",
+        "en": "The notice period is three months.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Mündliche Kündigung reicht nicht - im Mietrecht muss die Kündigung immer schriftlich sein.",
+      "Nicht verwechseln mit einer Kündigung im Arbeitsrecht - die Fristen und Regeln sind anders."
+    ],
+    "usageNotes": [
+      "In Deutschland beträgt die gesetzliche Kündigungsfrist für Mieter drei Monate zum Monatsende.",
+      "Am besten per Einschreiben senden, damit man einen Nachweis hat."
+    ],
+    "relatedWords": [
+      "kuendigen",
+      "die Kuendigungsfrist",
+      "das Einschreiben",
+      "der Mietvertrag",
+      "v-work-011"
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "important-document"
+    ]
+  },
+  {
+    "id": "v-housing-010",
+    "word": "die Wohngemeinschaft",
+    "baseForm": "Wohngemeinschaft",
+    "gender": "die",
+    "plural": "Wohngemeinschaften",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "shared apartment, flat share (WG)",
+    "meaningDe": "eine Wohnung, in der mehrere Personen zusammen leben und sich die Kosten teilen",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich wohne in einer WG mit drei anderen Studenten.",
+        "en": "I live in a shared apartment with three other students.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir suchen einen neün Mitbewohner für unsere WG.",
+        "en": "We are looking for a new roommate for our shared apartment.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Eine WG ist günstiger als eine eigene Wohnung.",
+        "en": "A shared apartment is cheaper than having your own apartment.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Die Abkürzung 'WG' wird [ve:ge:] ausgesprochen und ist im Alltag viel häufiger als 'Wohngemeinschaft'.",
+      "Man sagt 'in einer WG wohnen', nicht 'in einer WG leben' (obwohl beides grammatisch korrekt ist)."
+    ],
+    "usageNotes": [
+      "'WG-Casting' ist ein informelles Vorstellungsgespräch, bei dem die WG-Bewohner den neün Mitbewohner auswählen.",
+      "Sehr verbreitet unter Studenten, aber auch bei älteren Menschen ('Senioren-WG')."
+    ],
+    "relatedWords": [
+      "der Mitbewohner",
+      "das WG-Zimmer",
+      "das WG-Casting",
+      "zusammenwohnen"
+    ],
+    "tags": [
+      "living-arrangement",
+      "student-life",
+      "popular"
+    ]
+  },
+  {
+    "id": "v-housing-011",
+    "word": "der Quadratmeter",
+    "baseForm": "Quadratmeter",
+    "gender": "der",
+    "plural": "Quadratmeter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "square meter (m²)",
+    "meaningDe": "die Masseinheit für die Grösse einer Wohnung oder eines Raumes",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die Wohnung hat 65 Quadratmeter.",
+        "en": "The apartment has 65 square meters.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Mietpreis beträgt 12 Euro pro Quadratmeter.",
+        "en": "The rental price is 12 euros per square meter.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Abkürzung ist 'qm' oder 'm²' - in Anzeigen findet man beide Formen.",
+      "Plural ist gleich wie Singular: 'der Quadratmeter' / 'die Quadratmeter'."
+    ],
+    "usageNotes": [
+      "In Wohnungsanzeigen steht oft nur die Zahl mit 'qm' oder 'm²', z.B. '65 qm'.",
+      "Durchschnittliche Wohnungsgrösse in Deutschland: ca. 45 qm pro Person."
+    ],
+    "relatedWords": [
+      "die Wohnflaeche",
+      "die Groesse",
+      "die Raumaufteilung"
+    ],
+    "tags": [
+      "measurement",
+      "apartment-search"
+    ]
+  },
+  {
+    "id": "v-housing-012",
+    "word": "der Makler",
+    "baseForm": "Makler",
+    "gender": "der",
+    "plural": "Makler",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "real estate agent, broker",
+    "meaningDe": "eine Person, die beruflich Wohnungen und Häuser vermittelt",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Der Makler zeigt uns heute drei Wohnungen.",
+        "en": "The real estate agent is showing us three apartments today.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Seit 2015 muss der Makler vom Auftraggeber bezahlt werden.",
+        "en": "Since 2015, the broker must be paid by the party who hired them.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Weibliche Form: 'die Maklerin'.",
+      "Nicht jede Wohnung wird über einen Makler vermietet - viele Vermieter inserieren direkt."
+    ],
+    "usageNotes": [
+      "Seit dem 'Bestellerprinzip' (2015) zahlt bei Mietwohnungen der Auftraggeber (meist der Vermieter) die Maklerprovision.",
+      "Die Maklerprovision ('Courtage') beträgt bei Mietwohnungen maximal zwei Nettokaltmieten plus Mehrwertsteür."
+    ],
+    "relatedWords": [
+      "die Maklerin",
+      "die Provision",
+      "die Courtage",
+      "das Bestellerprinzip"
+    ],
+    "tags": [
+      "people",
+      "apartment-search",
+      "professional"
+    ]
+  },
+  {
+    "id": "v-housing-013",
+    "word": "die Schufa",
+    "baseForm": "Schufa",
+    "gender": "die",
+    "plural": null,
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "credit reporting agency (German credit score system)",
+    "meaningDe": "eine Auskunftei, die Informationen über die Kreditwürdigkeit von Personen sammelt",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Der Vermieter möchte eine Schufa-Auskunft sehen.",
+        "en": "The landlord wants to see a credit report.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie eine aktülle Schufa-Auskunft dabei?",
+        "en": "Do you have a current credit report with you?",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Einmal im Jahr kann man eine kostenlose Schufa-Auskunft anfordern.",
+        "en": "Once a year, you can request a free credit report.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Schufa' ist ein Eigenname (Schutzgemeinschaft für allgemeine Kreditsicherung) - immer gross geschrieben.",
+      "Es heisst 'die Schufa-Auskunft', nicht 'die Schufa' wenn man das Dokument meint."
+    ],
+    "usageNotes": [
+      "Eine positive Schufa ist für die Wohnungssuche in Deutschland fast unverzichtbar.",
+      "Man kann eine kostenlose 'Datenkopie nach Art. 15 DSGVO' anfordern - das reicht oft für Vermieter."
+    ],
+    "relatedWords": [
+      "die Schufa-Auskunft",
+      "die Bonitaet",
+      "die Kreditwuerdigkeit",
+      "die Selbstauskunft"
+    ],
+    "tags": [
+      "finance",
+      "credit",
+      "apartment-search",
+      "germany-specific"
+    ]
+  },
+  {
+    "id": "v-housing-014",
+    "word": "die Miete",
+    "baseForm": "Miete",
+    "gender": "die",
+    "plural": "Mieten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "rent",
+    "meaningDe": "das Geld, das man monatlich für eine Wohnung bezahlt",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Die Miete muss bis zum dritten Werktag des Monats überwiesen werden.",
+        "en": "The rent must be transferred by the third business day of the month.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Mieten in München sind extrem hoch.",
+        "en": "The rents in Munich are extremely high.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wie hoch ist die Miete?",
+        "en": "How much is the rent?",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man unterscheidet 'Kaltmiete' (ohne Nebenkosten) und 'Warmmiete' (mit Nebenkosten).",
+      "Man sagt 'Miete zahlen' oder 'Miete überweisen', nicht 'Miete geben'."
+    ],
+    "usageNotes": [
+      "In Anzeigen steht oft 'KM' für Kaltmiete und 'WM' für Warmmiete.",
+      "Die Miete wird in Deutschland normalerweise monatlich per Überweisung oder Daürauftrag gezahlt."
+    ],
+    "relatedWords": [
+      "die Kaltmiete",
+      "die Warmmiete",
+      "die Mieterhoehung",
+      "mieten"
+    ],
+    "tags": [
+      "finance",
+      "essential",
+      "monthly-cost"
+    ]
+  },
+  {
+    "id": "v-housing-015",
+    "word": "die Kaltmiete",
+    "baseForm": "Kaltmiete",
+    "gender": "die",
+    "plural": "Kaltmieten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "base rent (without utilities)",
+    "meaningDe": "die reine Miete ohne Nebenkosten wie Heizung, Wasser usw.",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Die Kaltmiete beträgt 600 Euro, dazu kommen 150 Euro Nebenkosten.",
+        "en": "The base rent is 600 euros, plus 150 euros for utilities.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "In der Anzeige steht nur die Kaltmiete - fragen Sie nach den Nebenkosten!",
+        "en": "The listing only shows the base rent - ask about the utilities!",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Anfänger lesen oft nur die Kaltmiete und vergessen die Nebenkosten - die tatsächlichen Kosten sind höher.",
+      "Abkürzung in Anzeigen: 'KM' = Kaltmiete."
+    ],
+    "usageNotes": [
+      "Die Kaltmiete ist die Berechnungsgrundlage für die Kaution (maximal 3 Nettokaltmieten).",
+      "Auch 'Nettomiete' oder 'Nettokaltmiete' genannt."
+    ],
+    "relatedWords": [
+      "die Warmmiete",
+      "die Nebenkosten",
+      "die Kaution",
+      "die Miete"
+    ],
+    "tags": [
+      "finance",
+      "rent-terminology"
+    ]
+  },
+  {
+    "id": "v-housing-016",
+    "word": "die Warmmiete",
+    "baseForm": "Warmmiete",
+    "gender": "die",
+    "plural": "Warmmieten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "total rent (including utilities)",
+    "meaningDe": "die Miete inklusive Nebenkosten - der gesamte monatliche Betrag",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Die Warmmiete beträgt 750 Euro pro Monat.",
+        "en": "The total rent is 750 euros per month.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Fragen Sie immer nach der Warmmiete, nicht nur nach der Kaltmiete.",
+        "en": "Always ask about the total rent, not just the base rent.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Die Warmmiete enthält zwar Nebenkosten, aber meistens NICHT Strom und Internet.",
+      "Abkürzung in Anzeigen: 'WM' = Warmmiete."
+    ],
+    "usageNotes": [
+      "'Warmmiete' = Kaltmiete + Nebenkosten (Vorauszahlung).",
+      "Am Jahresende gibt es eine Nebenkostenabrechnung - man kann Geld zurückbekommen oder nachzahlen müssen."
+    ],
+    "relatedWords": [
+      "die Kaltmiete",
+      "die Nebenkosten",
+      "die Nebenkostenabrechnung"
+    ],
+    "tags": [
+      "finance",
+      "rent-terminology"
+    ]
+  },
+  {
+    "id": "v-housing-017",
+    "word": "die Kündigungsfrist",
+    "baseForm": "Kündigungsfrist",
+    "gender": "die",
+    "plural": "Kündigungsfristen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "notice period",
+    "meaningDe": "die Zeitspanne zwischen Kündigung und Ende des Mietvertrags",
+    "situations": [
+      "housing",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Die Kündigungsfrist beträgt drei Monate.",
+        "en": "The notice period is three months.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie die Kündigungsfrist eingehalten?",
+        "en": "Did you comply with the notice period?",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Die Kündigungsfrist beginnt erst am Ende des Monats, in dem die Kündigung eingeht.",
+      "Kompositum: 'Kündigungs' + 'Frist' - der Artikel richtet sich nach 'Frist' (die)."
+    ],
+    "usageNotes": [
+      "Für Mieter ist die gesetzliche Kündigungsfrist immer drei Monate, egal wie lange man dort wohnt.",
+      "Für Vermieter verlängert sich die Frist je nach Mietdaür: 3, 6 oder 9 Monate."
+    ],
+    "relatedWords": [
+      "die Kuendigung",
+      "kuendigen",
+      "der Mietvertrag",
+      "das Monatsende"
+    ],
+    "tags": [
+      "legal",
+      "timeline",
+      "contract"
+    ]
+  },
+  {
+    "id": "v-housing-018",
+    "word": "der Umzug",
+    "baseForm": "Umzug",
+    "gender": "der",
+    "plural": "Umzüge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "move, relocation",
+    "meaningDe": "der Wechsel von einer Wohnung in eine andere",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Unser Umzug ist nächsten Samstag.",
+        "en": "Our move is next Saturday.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ein Umzug ist immer stressig.",
+        "en": "Moving is always stressful.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Könnt ihr mir beim Umzug helfen?",
+        "en": "Can you help me with the move?",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit dem anderen Wort 'Umzug' (Parade/Prozession, z.B. Karnevalsumzug).",
+      "Man sagt 'einen Umzug machen' oder 'umziehen', nicht 'einen Umzug haben'."
+    ],
+    "usageNotes": [
+      "In Deutschland helfen oft Freunde beim Umzug - man organisiert einen 'Umzugstag' mit Pizza und Bier als Dankeschön.",
+      "Ein 'Umzugsunternehmen' ist eine professionelle Firma, die beim Umzug hilft."
+    ],
+    "relatedWords": [
+      "umziehen",
+      "das Umzugsunternehmen",
+      "der Umzugswagen",
+      "die Umzugskiste"
+    ],
+    "tags": [
+      "moving",
+      "event",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-019",
+    "word": "der Mieterschutz",
+    "baseForm": "Mieterschutz",
+    "gender": "der",
+    "plural": null,
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "tenant protection",
+    "meaningDe": "gesetzliche Regelungen, die Mieter vor ungerechtfertigter Kündigung und überhöher Miete schützen",
+    "situations": [
+      "housing",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "In Deutschland gibt es einen starken Mieterschutz.",
+        "en": "In Germany, there is strong tenant protection.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Mieterschutz verhindert willkürliche Kündigungen.",
+        "en": "Tenant protection prevents arbitrary evictions.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Mieterschutzverein' - das ist ein Verein, bei dem man Mitglied werden kann.",
+      "'Mieterschutz' ist ein allgemeiner Begriff, kein spezifisches Gesetz."
+    ],
+    "usageNotes": [
+      "Der deutsche Mieterschutz gilt als einer der stärksten in Europa.",
+      "Wichtige Regelungen: Kündigungsschutz, Mietpreisbremse, Kappungsgrenze für Mieterhöhungen."
+    ],
+    "relatedWords": [
+      "der Mieterbund",
+      "die Mietpreisbremse",
+      "der Kuendigungsschutz"
+    ],
+    "tags": [
+      "legal",
+      "tenant-rights",
+      "germany-specific"
+    ]
+  },
+  {
+    "id": "v-housing-020",
+    "word": "die Einbauküche",
+    "baseForm": "Einbauküche",
+    "gender": "die",
+    "plural": "Einbauküchen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "fitted kitchen, built-in kitchen",
+    "meaningDe": "eine fest eingebaute Küche, die zur Wohnung gehört",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die Wohnung hat eine moderne Einbauküche.",
+        "en": "The apartment has a modern fitted kitchen.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ist die Einbauküche im Mietpreis enthalten?",
+        "en": "Is the fitted kitchen included in the rental price?",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "In Deutschland haben viele Mietwohnungen KEINE Küche - man muss sie oft selbst mitbringen oder vom Vormieter übernehmen.",
+      "Abkürzung in Anzeigen: 'EBK' = Einbauküche."
+    ],
+    "usageNotes": [
+      "Eine Wohnung mit EBK ist ein grosser Vorteil, weil Küchen teür sind.",
+      "Manchmal kann man die Küche vom Vormieter 'ablösen' (kaufen) - den Preis verhandeln!"
+    ],
+    "relatedWords": [
+      "die Kueche",
+      "die Abloese",
+      "der Vormieter",
+      "die Kuechenzeile"
+    ],
+    "tags": [
+      "amenity",
+      "apartment-features"
+    ]
+  },
+  {
+    "id": "v-housing-021",
+    "word": "das Stockwerk",
+    "baseForm": "Stockwerk",
+    "gender": "das",
+    "plural": "Stockwerke",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "floor, story (of a building)",
+    "meaningDe": "eine Ebene in einem Gebäude",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die Wohnung ist im vierten Stockwerk, leider ohne Aufzug.",
+        "en": "The apartment is on the fourth floor, unfortunately without an elevator.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "In welchem Stockwerk wohnen Sie?",
+        "en": "On which floor do you live?",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Auch 'der Stock', 'die Etage' oder 'das Geschoss' - alle meinen dasselbe, haben aber verschiedene Artikel.",
+      "Achtung: 'Erdgeschoss' (EG) ist das Stockwerk auf Strassenniveau - der '1. Stock' ist eins höher als in vielen englischsprachigen Ländern."
+    ],
+    "usageNotes": [
+      "In Anzeigen: 'OG' = Obergeschoss, 'EG' = Erdgeschoss, 'DG' = Dachgeschoss.",
+      "Ein Aufzug (Fahrstuhl/Lift) ist besonders ab dem dritten Stockwerk wichtig."
+    ],
+    "relatedWords": [
+      "die Etage",
+      "das Erdgeschoss",
+      "das Obergeschoss",
+      "das Dachgeschoss",
+      "der Aufzug"
+    ],
+    "tags": [
+      "building",
+      "location"
+    ]
+  },
+  {
+    "id": "v-housing-022",
+    "word": "die Wohnungsanzeige",
+    "baseForm": "Wohnungsanzeige",
+    "gender": "die",
+    "plural": "Wohnungsanzeigen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "apartment listing, housing ad",
+    "meaningDe": "eine Anzeige in der Zeitung oder im Internet, in der eine Wohnung angeboten wird",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ich schaü jeden Tag die Wohnungsanzeigen auf Immobilienscout24.",
+        "en": "I check the apartment listings on Immobilienscout24 every day.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wohnungsanzeige klingt zu gut, um wahr zu sein.",
+        "en": "The apartment listing sounds too good to be true.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Vorsicht vor Betrug bei Wohnungsanzeigen - nie Geld überweisen, bevor man die Wohnung gesehen hat!",
+      "Abkürzungen in Anzeigen lernen: ZKB (Zimmer, Küche, Bad), NK (Nebenkosten), KM (Kaltmiete)."
+    ],
+    "usageNotes": [
+      "Die wichtigsten Portale in Deutschland: Immobilienscout24, Immowelt, WG-Gesucht (für WGs).",
+      "Typische Abkürzungen: EBK, TG (Tiefgarage), BLK (Balkon), ZH (Zentralheizung)."
+    ],
+    "relatedWords": [
+      "das Inserat",
+      "die Anzeige",
+      "die Wohnungssuche"
+    ],
+    "tags": [
+      "apartment-search",
+      "online"
+    ]
+  },
+  {
+    "id": "v-housing-023",
+    "word": "die Selbstauskunft",
+    "baseForm": "Selbstauskunft",
+    "gender": "die",
+    "plural": "Selbstauskünfte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "self-disclosure form (tenant application form)",
+    "meaningDe": "ein Formular, in dem der Mietinteressent persönliche und finanzielle Angaben macht",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Bitte füllen Sie die Mieterselbstauskunft aus.",
+        "en": "Please fill out the tenant self-disclosure form.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "In der Selbstauskunft muss man sein Einkommen angeben.",
+        "en": "In the self-disclosure form, you have to state your income.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man muss nicht alle Fragen beantworten - Fragen zum Familienstand oder zur Religion sind unzulässig.",
+      "Auch 'Mieterselbstauskunft' genannt - beides ist korrekt."
+    ],
+    "usageNotes": [
+      "Vermieter verlangen oft: Selbstauskunft, Schufa, Gehaltsnachweise und Personalausweis-Kopie.",
+      "Tipp: Alle Unterlagen vorbereiten, bevor man zur Besichtigung geht."
+    ],
+    "relatedWords": [
+      "die Schufa-Auskunft",
+      "der Gehaltsnachweis",
+      "die Bewerbungsmappe"
+    ],
+    "tags": [
+      "document",
+      "apartment-search",
+      "application"
+    ]
+  },
+  {
+    "id": "v-housing-024",
+    "word": "der Mitbewohner",
+    "baseForm": "Mitbewohner",
+    "gender": "der",
+    "plural": "Mitbewohner",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "roommate, flatmate",
+    "meaningDe": "eine Person, die mit einem zusammen in einer Wohnung lebt",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Mein Mitbewohner ist sehr ordentlich.",
+        "en": "My roommate is very tidy.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir suchen eine neü Mitbewohnerin für unser WG-Zimmer.",
+        "en": "We are looking for a new roommate for our shared room.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Weibliche Form: 'die Mitbewohnerin' (Plural: 'Mitbewohnerinnen').",
+      "Nicht verwechseln mit 'Nachbar' (neighbor) - der Mitbewohner lebt IN derselben Wohnung."
+    ],
+    "usageNotes": [
+      "Informell auch 'Mitbewohni' oder einfach 'Mitsi' in manchen Regionen.",
+      "In einer WG ist der 'Hauptmieter' im Vertrag eingetragen, Mitbewohner sind oft Untermieter."
+    ],
+    "relatedWords": [
+      "die Mitbewohnerin",
+      "die WG",
+      "der Nachbar",
+      "der Untermieter"
+    ],
+    "tags": [
+      "people",
+      "WG-life"
+    ]
+  },
+  {
+    "id": "v-housing-025",
+    "word": "der Nachbar",
+    "baseForm": "Nachbar",
+    "gender": "der",
+    "plural": "Nachbarn",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "neighbor",
+    "meaningDe": "eine Person, die neben oder in der Nähe der eigenen Wohnung wohnt",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Unsere Nachbarn sind sehr freundlich.",
+        "en": "Our neighbors are very friendly.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Nachbar über uns macht immer Lärm nach 22 Uhr.",
+        "en": "The neighbor above us always makes noise after 10 PM.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich habe mich bei den neün Nachbarn vorgestellt.",
+        "en": "I introduced myself to the new neighbors.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "N-Deklination: 'dem Nachbarn' (Dativ), 'den Nachbarn' (Akkusativ) - nicht 'dem Nachbar'.",
+      "Weibliche Form: 'die Nachbarin' (Plural: 'Nachbarinnen')."
+    ],
+    "usageNotes": [
+      "In Deutschland gibt es die 'Nachtruhe' von 22 bis 6 Uhr - währenddessen sollte man leise sein.",
+      "Häufiges Konfliktthema unter Nachbarn: Lärm, Grillgerüch auf dem Balkon, Treppenhaus-Reinigung."
+    ],
+    "relatedWords": [
+      "die Nachbarin",
+      "die Nachbarschaft",
+      "das Treppenhaus",
+      "die Nachtruhe"
+    ],
+    "tags": [
+      "people",
+      "community",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-026",
+    "word": "mieten",
+    "baseForm": "mieten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to rent (as a tenant)",
+    "meaningDe": "eine Wohnung, ein Auto oder etwas anderes gegen Bezahlung nutzen",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wir möchten eine Wohnung in Berlin mieten.",
+        "en": "We would like to rent an apartment in Berlin.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich miete die Wohnung seit drei Jahren.",
+        "en": "I have been renting the apartment for three years.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "In Deutschland mieten mehr Menschen als sie kaufen.",
+        "en": "In Germany, more people rent than buy.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "miete",
+        "du": "mietest",
+        "er_sie_es": "mietet",
+        "wir": "mieten",
+        "ihr": "mietet",
+        "sie_Sie": "mieten"
+      },
+      "past": {
+        "ich": "mietete",
+        "du": "mietetest",
+        "er_sie_es": "mietete",
+        "wir": "mieteten",
+        "ihr": "mietetet",
+        "sie_Sie": "mieteten"
+      },
+      "pastParticiple": "gemietet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Mieten' = als Mieter nutzen. 'Vermieten' = als Vermieter anbieten. Nicht verwechseln!",
+      "Man sagt 'eine Wohnung mieten', nicht 'eine Wohnung leihen' (leihen = kostenlos borgen)."
+    ],
+    "usageNotes": [
+      "Regelmässiges Verb, einfach zu konjugieren.",
+      "Etwa 58% der Deutschen leben zur Miete - das ist der höchste Anteil in der EU."
+    ],
+    "relatedWords": [
+      "vermieten",
+      "die Miete",
+      "der Mieter",
+      "die Mietwohnung"
+    ],
+    "tags": [
+      "essential",
+      "regular-verb"
+    ]
+  },
+  {
+    "id": "v-housing-027",
+    "word": "kündigen",
+    "baseForm": "kündigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to terminate, to give notice (a lease/contract)",
+    "meaningDe": "einen Vertrag offiziell beenden",
+    "situations": [
+      "housing",
+      "work",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte meinen Mietvertrag zum 31. März kündigen.",
+        "en": "I would like to terminate my lease as of March 31.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Er hat seine Wohnung gekündigt, weil er umzieht.",
+        "en": "He gave notice on his apartment because he is moving.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Vermieter darf nur aus bestimmten Gründen kündigen.",
+        "en": "The landlord may only give notice for specific reasons.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "kündige",
+        "du": "kündigst",
+        "er_sie_es": "kündigt",
+        "wir": "kündigen",
+        "ihr": "kündigt",
+        "sie_Sie": "kündigen"
+      },
+      "past": {
+        "ich": "kündigte",
+        "du": "kündigtest",
+        "er_sie_es": "kündigte",
+        "wir": "kündigten",
+        "ihr": "kündigtet",
+        "sie_Sie": "kündigten"
+      },
+      "pastParticiple": "gekündigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Man kündigt den VERTRAG, nicht die Wohnung selbst (auch wenn umgangssprachlich 'die Wohnung kündigen' üblich ist).",
+      "Kündigung im Mietrecht muss IMMER schriftlich erfolgen - eine E-Mail reicht nicht!"
+    ],
+    "usageNotes": [
+      "'Kündigen' wird sowohl für Mietverträge als auch für Arbeitsverträge verwendet.",
+      "Wichtig: 'fristlos kündigen' (ohne Frist, sofort) vs. 'fristgerecht kündigen' (mit Einhaltung der Kündigungsfrist)."
+    ],
+    "relatedWords": [
+      "die Kuendigung",
+      "die Kuendigungsfrist",
+      "fristlos",
+      "der Mietvertrag",
+      "v-work-028"
+    ],
+    "tags": [
+      "legal",
+      "contract",
+      "important-action"
+    ]
+  },
+  {
+    "id": "v-housing-028",
+    "word": "einziehen",
+    "baseForm": "einziehen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to move in",
+    "meaningDe": "in eine neü Wohnung oder ein neüs Haus ziehen und dort anfangen zu wohnen",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Wir ziehen nächste Woche in unsere neü Wohnung ein.",
+        "en": "We are moving into our new apartment next week.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wann können wir einziehen?",
+        "en": "When can we move in?",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir sind im Januar eingezogen.",
+        "en": "We moved in in January.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "ziehe ein",
+        "du": "ziehst ein",
+        "er_sie_es": "zieht ein",
+        "wir": "ziehen ein",
+        "ihr": "zieht ein",
+        "sie_Sie": "ziehen ein"
+      },
+      "past": {
+        "ich": "zog ein",
+        "du": "zogst ein",
+        "er_sie_es": "zog ein",
+        "wir": "zogen ein",
+        "ihr": "zogt ein",
+        "sie_Sie": "zogen ein"
+      },
+      "pastParticiple": "eingezogen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Trennbares Verb: 'Ich ziehe morgen ein' (nicht 'Ich einziehe morgen').",
+      "Hilfsverb ist 'sein', nicht 'haben': 'Ich bin eingezogen' (nicht 'Ich habe eingezogen')."
+    ],
+    "usageNotes": [
+      "Gegenteil: 'ausziehen' (to move out).",
+      "Man 'zieht in eine Wohnung ein' - die Präposition ist immer 'in' + Akkusativ."
+    ],
+    "relatedWords": [
+      "ausziehen",
+      "umziehen",
+      "der Einzug",
+      "der Umzug"
+    ],
+    "tags": [
+      "separable-verb",
+      "moving",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-029",
+    "word": "ausziehen",
+    "baseForm": "ausziehen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to move out",
+    "meaningDe": "eine Wohnung verlassen und nicht mehr dort wohnen",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss bis Ende des Monats ausziehen.",
+        "en": "I have to move out by the end of the month.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wann ziehst du aus deiner alten Wohnung aus?",
+        "en": "When are you moving out of your old apartment?",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Sie ist letzte Woche ausgezogen.",
+        "en": "She moved out last week.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "ziehe aus",
+        "du": "ziehst aus",
+        "er_sie_es": "zieht aus",
+        "wir": "ziehen aus",
+        "ihr": "zieht aus",
+        "sie_Sie": "ziehen aus"
+      },
+      "past": {
+        "ich": "zog aus",
+        "du": "zogst aus",
+        "er_sie_es": "zog aus",
+        "wir": "zogen aus",
+        "ihr": "zogt aus",
+        "sie_Sie": "zogen aus"
+      },
+      "pastParticiple": "ausgezogen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "'Ausziehen' hat zwei Bedeutungen: 1) aus einer Wohnung ausziehen, 2) Kleidung ausziehen - Kontext entscheidet.",
+      "Hilfsverb ist 'sein' bei der Bedeutung 'umziehen': 'Ich bin ausgezogen'."
+    ],
+    "usageNotes": [
+      "Man 'zieht aus einer Wohnung aus' - die Präposition ist 'aus' + Dativ.",
+      "Beim Ausziehen muss man oft die Wohnung renovieren (Schönheitsreparaturen), je nach Mietvertrag."
+    ],
+    "relatedWords": [
+      "einziehen",
+      "umziehen",
+      "der Auszug",
+      "die Schoenheitsreparaturen"
+    ],
+    "tags": [
+      "separable-verb",
+      "moving",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-030",
+    "word": "renovieren",
+    "baseForm": "renovieren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to renovate, to refurbish",
+    "meaningDe": "eine Wohnung oder ein Haus in einen besseren Zustand bringen, z.B. streichen oder reparieren",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Wohnung vor dem Einzug renovieren.",
+        "en": "We need to renovate the apartment before moving in.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Im Mietvertrag steht, dass wir beim Auszug renovieren müssen.",
+        "en": "The lease says we have to renovate when we move out.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wohnung wurde gerade frisch renoviert.",
+        "en": "The apartment was just freshly renovated.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "renoviere",
+        "du": "renovierst",
+        "er_sie_es": "renoviert",
+        "wir": "renovieren",
+        "ihr": "renoviert",
+        "sie_Sie": "renovieren"
+      },
+      "past": {
+        "ich": "renovierte",
+        "du": "renoviertest",
+        "er_sie_es": "renovierte",
+        "wir": "renovierten",
+        "ihr": "renoviertet",
+        "sie_Sie": "renovierten"
+      },
+      "pastParticiple": "renoviert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Renovieren' bedeutet meistens streichen und kleine Reparaturen - für grössere Arbeiten sagt man 'sanieren'.",
+      "Nicht trennbar: 'Ich renoviere die Wohnung' (nicht 'Ich noviere die Wohnung re')."
+    ],
+    "usageNotes": [
+      "Viele Klauseln im Mietvertrag zu 'Schönheitsreparaturen' (Renovierung beim Auszug) sind rechtlich unwirksam.",
+      "Typische Renovierungsarbeiten: Wände streichen, Löcher zuspachteln, Böden reinigen."
+    ],
+    "relatedWords": [
+      "die Renovierung",
+      "sanieren",
+      "streichen",
+      "die Schoenheitsreparaturen"
+    ],
+    "tags": [
+      "maintenance",
+      "moving"
+    ]
+  },
+  {
+    "id": "v-housing-031",
+    "word": "besichtigen",
+    "baseForm": "besichtigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to view, to inspect (an apartment)",
+    "meaningDe": "sich etwas ansehen, z.B. eine Wohnung, bevor man sich entscheidet",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich die Wohnung am Samstag besichtigen?",
+        "en": "Can I view the apartment on Saturday?",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir haben gestern drei Wohnungen besichtigt.",
+        "en": "We viewed three apartments yesterday.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wie viele Interessenten besichtigen die Wohnung?",
+        "en": "How many interested parties are viewing the apartment?",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "besichtige",
+        "du": "besichtigst",
+        "er_sie_es": "besichtigt",
+        "wir": "besichtigen",
+        "ihr": "besichtigt",
+        "sie_Sie": "besichtigen"
+      },
+      "past": {
+        "ich": "besichtigte",
+        "du": "besichtigtest",
+        "er_sie_es": "besichtigte",
+        "wir": "besichtigten",
+        "ihr": "besichtigtet",
+        "sie_Sie": "besichtigten"
+      },
+      "pastParticiple": "besichtigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Präfix 'be-'): 'Ich besichtige die Wohnung' (nicht 'Ich sichtige die Wohnung be').",
+      "Man 'besichtigt eine Wohnung' (Akkusativ), nicht 'besichtigt auf eine Wohnung'."
+    ],
+    "usageNotes": [
+      "Zur Besichtigung sollte man Unterlagen mitbringen: Schufa, Selbstauskunft, Gehaltsnachweise.",
+      "Bei Massenbesichtigungen: früh kommen, gepflegt auftreten und Unterlagen sofort abgeben."
+    ],
+    "relatedWords": [
+      "die Besichtigung",
+      "der Besichtigungstermin",
+      "die Massenbesichtigung"
+    ],
+    "tags": [
+      "apartment-search",
+      "inseparable-verb"
+    ]
+  },
+  {
+    "id": "v-housing-032",
+    "word": "umziehen",
+    "baseForm": "umziehen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to move (to a new place), to relocate",
+    "meaningDe": "den Wohnort wechseln, von einer Wohnung in eine andere ziehen",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wir ziehen nächsten Monat nach Hamburg um.",
+        "en": "We are moving to Hamburg next month.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wie oft bist du schon umgezogen?",
+        "en": "How often have you moved?",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich bin dreimal in fünf Jahren umgezogen.",
+        "en": "I moved three times in five years.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "ziehe um",
+        "du": "ziehst um",
+        "er_sie_es": "zieht um",
+        "wir": "ziehen um",
+        "ihr": "zieht um",
+        "sie_Sie": "ziehen um"
+      },
+      "past": {
+        "ich": "zog um",
+        "du": "zogst um",
+        "er_sie_es": "zog um",
+        "wir": "zogen um",
+        "ihr": "zogt um",
+        "sie_Sie": "zogen um"
+      },
+      "pastParticiple": "umgezogen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Trennbar bei der Bedeutung 'den Wohnort wechseln': 'Ich ziehe um'. Aber 'sich umziehen' (Kleidung wechseln) ist auch trennbar.",
+      "Hilfsverb ist 'sein': 'Ich bin umgezogen' (nicht 'Ich habe umgezogen')."
+    ],
+    "usageNotes": [
+      "Nach einem Umzug muss man sich beim Einwohnermeldeamt 'ummelden' - innerhalb von 14 Tagen!",
+      "'Umziehen' ist allgemeiner als 'einziehen' oder 'ausziehen' - es umfasst den ganzen Prozess."
+    ],
+    "relatedWords": [
+      "der Umzug",
+      "einziehen",
+      "ausziehen",
+      "sich ummelden"
+    ],
+    "tags": [
+      "separable-verb",
+      "moving",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-033",
+    "word": "vermieten",
+    "baseForm": "vermieten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to rent out, to let",
+    "meaningDe": "eine Wohnung oder etwas anderes gegen Bezahlung einer anderen Person zur Nutzung überlassen",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Meine Eltern vermieten eine Wohnung im Erdgeschoss.",
+        "en": "My parents rent out an apartment on the ground floor.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wohnung wird ab sofort vermietet.",
+        "en": "The apartment is available for rent immediately.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "vermiete",
+        "du": "vermietest",
+        "er_sie_es": "vermietet",
+        "wir": "vermieten",
+        "ihr": "vermietet",
+        "sie_Sie": "vermieten"
+      },
+      "past": {
+        "ich": "vermietete",
+        "du": "vermietetest",
+        "er_sie_es": "vermietete",
+        "wir": "vermieteten",
+        "ihr": "vermietetet",
+        "sie_Sie": "vermieteten"
+      },
+      "pastParticiple": "vermietet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht verwechseln: 'mieten' (als Mieter) vs. 'vermieten' (als Vermieter).",
+      "Nicht trennbar (Präfix 'ver-'): 'Ich vermiete die Wohnung'."
+    ],
+    "usageNotes": [
+      "'Zu vermieten' ist die typische Formulierung in Anzeigen und an Schildern.",
+      "In Anzeigen: 'Ab sofort zu vermieten' oder 'Wird zum [Datum] vermietet'."
+    ],
+    "relatedWords": [
+      "mieten",
+      "der Vermieter",
+      "die Vermietung",
+      "die Mietwohnung"
+    ],
+    "tags": [
+      "inseparable-verb",
+      "landlord-perspective"
+    ]
+  },
+  {
+    "id": "v-housing-034",
+    "word": "unterschreiben",
+    "baseForm": "unterschreiben",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to sign (a contract)",
+    "meaningDe": "seinen Namen unter ein Dokument schreiben, um es offiziell zu bestätigen",
+    "situations": [
+      "housing",
+      "legal",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bevor Sie den Mietvertrag unterschreiben, lesen Sie alles genau durch.",
+        "en": "Before you sign the lease, read everything carefully.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo muss ich unterschreiben?",
+        "en": "Where do I need to sign?",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir haben gestern den Vertrag unterschrieben.",
+        "en": "We signed the contract yesterday.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "unterschreibe",
+        "du": "unterschreibst",
+        "er_sie_es": "unterschreibt",
+        "wir": "unterschreiben",
+        "ihr": "unterschreibt",
+        "sie_Sie": "unterschreiben"
+      },
+      "past": {
+        "ich": "unterschrieb",
+        "du": "unterschriebst",
+        "er_sie_es": "unterschrieb",
+        "wir": "unterschrieben",
+        "ihr": "unterschriebt",
+        "sie_Sie": "unterschrieben"
+      },
+      "pastParticiple": "unterschrieben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich unterschreibe den Vertrag' (nicht 'Ich schreibe den Vertrag unter').",
+      "Unregelmässiges Verb: unterschreiben - unterschrieb - unterschrieben (Vokalwechsel ei-ie-ie)."
+    ],
+    "usageNotes": [
+      "Im Mietrecht müssen beide Seiten (Mieter und Vermieter) den Vertrag unterschreiben.",
+      "Synonym: 'unterzeichnen' (formeller)."
+    ],
+    "relatedWords": [
+      "die Unterschrift",
+      "unterzeichnen",
+      "der Vertrag",
+      "v-bureaucracy-032"
+    ],
+    "tags": [
+      "legal",
+      "inseparable-verb",
+      "contract"
+    ]
+  },
+  {
+    "id": "v-housing-035",
+    "word": "überweisen",
+    "baseForm": "überweisen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to transfer (money)",
+    "meaningDe": "Geld von einem Bankkonto auf ein anderes senden",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Ich überweise die Miete am Anfang des Monats.",
+        "en": "I transfer the rent at the beginning of the month.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte überweisen Sie die Kaution auf das folgende Konto.",
+        "en": "Please transfer the deposit to the following account.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du die Miete schon überwiesen?",
+        "en": "Have you already transferred the rent?",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "überweise",
+        "du": "überweist",
+        "er_sie_es": "überweist",
+        "wir": "überweisen",
+        "ihr": "überweist",
+        "sie_Sie": "überweisen"
+      },
+      "past": {
+        "ich": "überwies",
+        "du": "überwiesest",
+        "er_sie_es": "überwies",
+        "wir": "überwiesen",
+        "ihr": "überwiest",
+        "sie_Sie": "überwiesen"
+      },
+      "pastParticiple": "überwiesen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich überweise das Geld' (nicht 'Ich weise das Geld über').",
+      "Unregelmässiges Verb: überweisen - überwies - überwiesen."
+    ],
+    "usageNotes": [
+      "Einen 'Daürauftrag' (standing order) einrichten ist die einfachste Methode für die monatliche Miete.",
+      "In Deutschland zahlt man Miete fast immer per Überweisung, selten bar."
+    ],
+    "relatedWords": [
+      "die Ueberweisung",
+      "der Dauerauftrag",
+      "das Bankkonto",
+      "die Miete",
+      "v-healthcare-029"
+    ],
+    "tags": [
+      "finance",
+      "inseparable-verb",
+      "banking"
+    ]
+  },
+  {
+    "id": "v-housing-036",
+    "word": "streichen",
+    "baseForm": "streichen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to paint (walls)",
+    "meaningDe": "Wände oder Decken mit Farbe anmalen",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen die Wände weiss streichen, bevor wir ausziehen.",
+        "en": "We need to paint the walls white before we move out.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Am Wochenende streiche ich das Wohnzimmer.",
+        "en": "I am painting the living room this weekend.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "streiche",
+        "du": "streichst",
+        "er_sie_es": "streicht",
+        "wir": "streichen",
+        "ihr": "streicht",
+        "sie_Sie": "streichen"
+      },
+      "past": {
+        "ich": "strich",
+        "du": "strichst",
+        "er_sie_es": "strich",
+        "wir": "strichen",
+        "ihr": "stricht",
+        "sie_Sie": "strichen"
+      },
+      "pastParticiple": "gestrichen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Streichen' hat mehrere Bedeutungen: 1) Wände streichen 2) etwas durchstreichen 3) streicheln (Nein! Das ist ein anderes Wort).",
+      "Unregelmässig: streichen - strich - gestrichen."
+    ],
+    "usageNotes": [
+      "Beim Auszug muss man oft in 'neutralen Farben' streichen (weiss oder helles Beige).",
+      "Eine 'frisch gestrichene Wohnung' ist ein Pluspunkt bei der Wohnungssuche."
+    ],
+    "relatedWords": [
+      "die Farbe",
+      "die Wand",
+      "renovieren",
+      "die Schoenheitsreparaturen"
+    ],
+    "tags": [
+      "maintenance",
+      "DIY",
+      "irregular-verb"
+    ]
+  },
+  {
+    "id": "v-housing-037",
+    "word": "sich anmelden",
+    "baseForm": "anmelden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to register (one's residence)",
+    "meaningDe": "seinen Wohnsitz offiziell bei der Behörde registrieren",
+    "situations": [
+      "housing",
+      "bureaucracy"
+    ],
+    "examples": [
+      {
+        "de": "Nach dem Umzug müssen Sie sich beim Bürgeramt anmelden.",
+        "en": "After moving, you must register at the citizens' office.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe mich letzte Woche an meiner neün Adresse angemeldet.",
+        "en": "I registered at my new address last week.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Für die Anmeldung brauchen Sie eine Wohnungsgeberbestätigung.",
+        "en": "For registration, you need a landlord confirmation.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich an",
+        "du": "meldest dich an",
+        "er_sie_es": "meldet sich an",
+        "wir": "melden uns an",
+        "ihr": "meldet euch an",
+        "sie_Sie": "melden sich an"
+      },
+      "past": {
+        "ich": "meldete mich an",
+        "du": "meldetest dich an",
+        "er_sie_es": "meldete sich an",
+        "wir": "meldeten uns an",
+        "ihr": "meldetet euch an",
+        "sie_Sie": "meldeten sich an"
+      },
+      "pastParticiple": "angemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Man muss sich innerhalb von 14 Tagen nach dem Umzug anmelden - sonst droht ein Bussgeld!",
+      "Trennbar und reflexiv: 'Ich melde mich an' - nicht 'Ich anmelde mich'."
+    ],
+    "usageNotes": [
+      "Die 'Anmeldebestätigung' (Meldebescheinigung) braucht man für viele Dinge: Bankkonto, Arbeit, etc.",
+      "Man braucht die 'Wohnungsgeberbestätigung' vom Vermieter - ohne geht es nicht."
+    ],
+    "relatedWords": [
+      "die Anmeldung",
+      "sich ummelden",
+      "sich abmelden",
+      "das Buergeramt",
+      "die Meldebescheinigung",
+      "v-healthcare-033"
+    ],
+    "tags": [
+      "bureaucracy",
+      "separable-verb",
+      "reflexive",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-038",
+    "word": "sich beschweren",
+    "baseForm": "beschweren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to complain",
+    "meaningDe": "seinen Unmut äussern, weil etwas nicht in Ordnung ist",
+    "situations": [
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mich beim Vermieter über den Schimmel beschwert.",
+        "en": "I complained to the landlord about the mold.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Nachbarn beschweren sich über den Lärm.",
+        "en": "The neighbors are complaining about the noise.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wo kann ich mich beschweren?",
+        "en": "Where can I make a complaint?",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beschwere mich",
+        "du": "beschwerst dich",
+        "er_sie_es": "beschwert sich",
+        "wir": "beschweren uns",
+        "ihr": "beschwert euch",
+        "sie_Sie": "beschweren sich"
+      },
+      "past": {
+        "ich": "beschwerte mich",
+        "du": "beschwertest dich",
+        "er_sie_es": "beschwerte sich",
+        "wir": "beschwerten uns",
+        "ihr": "beschwertet euch",
+        "sie_Sie": "beschwerten sich"
+      },
+      "pastParticiple": "beschwert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexiv: 'sich beschweren UEBER etwas BEI jemandem' - die Präpositionen sind wichtig.",
+      "Nicht trennbar (Präfix 'be-'): 'Ich beschwere mich' (nicht 'Ich schwere mich be')."
+    ],
+    "usageNotes": [
+      "Bei ernsthaften Problemen (Schimmel, kaputte Heizung) schriftlich beschweren und eine Frist setzen.",
+      "Man kann sich beim Vermieter, bei der Hausverwaltung oder im Extremfall beim Mieterschutzverein beschweren."
+    ],
+    "relatedWords": [
+      "die Beschwerde",
+      "reklamieren",
+      "sich beklagen",
+      "der Mangel"
+    ],
+    "tags": [
+      "communication",
+      "reflexive",
+      "conflict-resolution"
+    ]
+  },
+  {
+    "id": "v-housing-039",
+    "word": "einrichten",
+    "baseForm": "einrichten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to furnish, to set up (an apartment)",
+    "meaningDe": "eine Wohnung mit Möbeln und Gegenständen ausstatten",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Wir richten gerade unsere neü Wohnung ein.",
+        "en": "We are currently furnishing our new apartment.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie hat ihr Zimmer geschmackvoll eingerichtet.",
+        "en": "She furnished her room tastefully.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wie möchtest du das Wohnzimmer einrichten?",
+        "en": "How would you like to furnish the living room?",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "richte ein",
+        "du": "richtest ein",
+        "er_sie_es": "richtet ein",
+        "wir": "richten ein",
+        "ihr": "richtet ein",
+        "sie_Sie": "richten ein"
+      },
+      "past": {
+        "ich": "richtete ein",
+        "du": "richtetest ein",
+        "er_sie_es": "richtete ein",
+        "wir": "richteten ein",
+        "ihr": "richtetet ein",
+        "sie_Sie": "richteten ein"
+      },
+      "pastParticiple": "eingerichtet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich richte die Wohnung ein' (nicht 'Ich einrichte die Wohnung').",
+      "Nicht verwechseln mit 'richten' (richten = to direct/to judge)."
+    ],
+    "usageNotes": [
+      "Die 'Einrichtung' meint sowohl den Vorgang als auch die Möbel selbst.",
+      "IKEA und andere Möbelgeschäfte sind in Deutschland sehr beliebt für die Ersteinrichtung."
+    ],
+    "relatedWords": [
+      "die Einrichtung",
+      "die Moebel",
+      "moebliert",
+      "das Moebelhaus"
+    ],
+    "tags": [
+      "separable-verb",
+      "furnishing",
+      "settling-in"
+    ]
+  },
+  {
+    "id": "v-housing-040",
+    "word": "sich ummelden",
+    "baseForm": "ummelden",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to re-register (change of address within the same city)",
+    "meaningDe": "seine Adresse bei der Behörde ändern, wenn man innerhalb einer Stadt umzieht",
+    "situations": [
+      "housing",
+      "bureaucracy"
+    ],
+    "examples": [
+      {
+        "de": "Wenn du innerhalb von Berlin umziehst, musst du dich ummelden.",
+        "en": "If you move within Berlin, you have to re-register.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss mich noch beim Bürgeramt ummelden.",
+        "en": "I still need to re-register at the citizens' office.",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich um",
+        "du": "meldest dich um",
+        "er_sie_es": "meldet sich um",
+        "wir": "melden uns um",
+        "ihr": "meldet euch um",
+        "sie_Sie": "melden sich um"
+      },
+      "past": {
+        "ich": "meldete mich um",
+        "du": "meldetest dich um",
+        "er_sie_es": "meldete sich um",
+        "wir": "meldeten uns um",
+        "ihr": "meldetet euch um",
+        "sie_Sie": "meldeten sich um"
+      },
+      "pastParticiple": "umgemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Anmelden' = erstmalige Registrierung oder Zuzug. 'Ummelden' = Adressänderung innerhalb derselben Stadt.",
+      "Trennbar und reflexiv: 'Ich melde mich um'."
+    ],
+    "usageNotes": [
+      "Auch hier gilt die 14-Tage-Frist nach dem Umzug.",
+      "Man braucht: Personalausweis, Wohnungsgeberbestätigung, Meldeformular."
+    ],
+    "relatedWords": [
+      "sich anmelden",
+      "sich abmelden",
+      "die Ummeldung",
+      "das Buergeramt"
+    ],
+    "tags": [
+      "bureaucracy",
+      "separable-verb",
+      "reflexive"
+    ]
+  },
+  {
+    "id": "v-housing-041",
+    "word": "möbliert",
+    "baseForm": "möbliert",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "furnished",
+    "meaningDe": "mit Möbeln ausgestattet (Bett, Schrank, Tisch usw.)",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ich suche eine möblierte Wohnung für sechs Monate.",
+        "en": "I am looking for a furnished apartment for six months.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Möblierte Wohnungen sind teurer als unmöblierte.",
+        "en": "Furnished apartments are more expensive than unfurnished ones.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Zimmer ist komplett möbliert.",
+        "en": "The room is fully furnished.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'möbliert', nicht 'möbiliert' - kein 'i' nach dem 'b'.",
+      "Die Abkürzung in Anzeigen ist 'möbl.' oder 'möb.'."
+    ],
+    "usageNotes": [
+      "'Möbliert' kann von minimal (Bett, Schrank) bis komplett (alles inklusive) variieren - nachfragen!",
+      "Für einen befristeten Aufenthalt ist eine möblierte Wohnung praktisch, aber oft deutlich teurer."
+    ],
+    "relatedWords": [
+      "unmoebliert",
+      "die Moebel",
+      "einrichten",
+      "teilmoebliert"
+    ],
+    "tags": [
+      "apartment-features",
+      "adjective"
+    ]
+  },
+  {
+    "id": "v-housing-042",
+    "word": "unmöbliert",
+    "baseForm": "unmöbliert",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "unfurnished",
+    "meaningDe": "ohne Möbel - die Wohnung ist leer",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die meisten Mietwohnungen in Deutschland sind unmöbliert.",
+        "en": "Most rental apartments in Germany are unfurnished.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Eine unmöblierte Wohnung hat oft nicht einmal eine Küche.",
+        "en": "An unfurnished apartment often does not even have a kitchen.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Unmöbliert' in Deutschland bedeutet wirklich LEER - oft nicht einmal Lampen oder Küche.",
+      "Nicht verwechseln mit 'teilmöbliert' (partially furnished)."
+    ],
+    "usageNotes": [
+      "Unmöblierte Wohnungen sind in Deutschland der Normalfall, anders als in vielen anderen Ländern.",
+      "Vorteil: günstigere Miete. Nachteil: hohe Anfangskosten für Möbel und Küche."
+    ],
+    "relatedWords": [
+      "moebliert",
+      "teilmoebliert",
+      "die Moebel",
+      "die Einbaukueche"
+    ],
+    "tags": [
+      "apartment-features",
+      "adjective"
+    ]
+  },
+  {
+    "id": "v-housing-043",
+    "word": "bezahlbar",
+    "baseForm": "bezahlbar",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "affordable",
+    "meaningDe": "preislich so, dass man es sich leisten kann",
+    "situations": [
+      "housing",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Bezahlbare Wohnungen in München zu finden ist sehr schwer.",
+        "en": "Finding affordable apartments in Munich is very difficult.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Miete ist kaum noch bezahlbar.",
+        "en": "The rent is hardly affordable anymore.",
+        "situation": "housing",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir brauchen mehr bezahlbaren Wohnraum.",
+        "en": "We need more affordable housing.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Gegenteil: 'unbezahlbar' - kann sowohl 'too expensive' als auch 'priceless' bedeuten!",
+      "Man sagt 'bezahlbarer Wohnraum', nicht 'bezahlbares Wohnen' (obwohl Letzteres auch vorkommt)."
+    ],
+    "usageNotes": [
+      "Ein grosses politisches Thema in Deutschland: 'bezahlbarer Wohnraum' ist ein häufiger Begriff in den Nachrichten.",
+      "Faustregel: Die Miete sollte nicht mehr als ein Drittel des Nettöinkommens betragen."
+    ],
+    "relatedWords": [
+      "unbezahlbar",
+      "guenstig",
+      "preiswert",
+      "teuer"
+    ],
+    "tags": [
+      "finance",
+      "political-topic"
+    ]
+  },
+  {
+    "id": "v-housing-044",
+    "word": "geräumig",
+    "baseForm": "geräumig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "spacious, roomy",
+    "meaningDe": "viel Platz bietend, gross",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die Wohnung ist überraschend geräumig.",
+        "en": "The apartment is surprisingly spacious.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir suchen eine geräumige Drei-Zimmer-Wohnung für unsere Familie.",
+        "en": "We are looking for a spacious three-room apartment for our family.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'räumlich' (spatial) - 'geräumig' bedeutet 'viel Platz habend'.",
+      "Steigerung: 'geräumiger', 'am geräumigsten'."
+    ],
+    "usageNotes": [
+      "In Wohnungsanzeigen ist 'geräumig' ein typisches Adjektiv - manchmal übertrieben verwendet.",
+      "Synonyme: 'grosszügig geschnitten', 'weitläufig'."
+    ],
+    "relatedWords": [
+      "gross",
+      "weitlaeufig",
+      "eng",
+      "klein"
+    ],
+    "tags": [
+      "apartment-features",
+      "description"
+    ]
+  },
+  {
+    "id": "v-housing-045",
+    "word": "hell",
+    "baseForm": "hell",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "bright, light (well-lit)",
+    "meaningDe": "viel Licht habend, nicht dunkel",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die Wohnung ist sehr hell dank der grossen Fenster.",
+        "en": "The apartment is very bright thanks to the large windows.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich möchte eine helle Wohnung mit Südbalkon.",
+        "en": "I would like a bright apartment with a south-facing balcony.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Schlafzimmer ist leider etwas dunkel, aber das Wohnzimmer ist hell.",
+        "en": "The bedroom is unfortunately a bit dark, but the living room is bright.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Hell' hat mehrere Bedeutungen: 1) bright/light (Wohnung), 2) light-colored (helle Farben), 3) pale (helles Bier).",
+      "Gegenteil: 'dunkel'."
+    ],
+    "usageNotes": [
+      "'Hell' ist eines der begehrtesten Merkmale bei der Wohnungssuche in Deutschland.",
+      "In Anzeigen: 'Helle 2-Zi.-Whg.' - ein wichtiges Verkaufsargument."
+    ],
+    "relatedWords": [
+      "dunkel",
+      "sonnig",
+      "lichtdurchflutet",
+      "das Fenster"
+    ],
+    "tags": [
+      "apartment-features",
+      "description",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-housing-046",
+    "word": "Ich suche eine Wohnung.",
+    "baseForm": "Ich suche eine Wohnung.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I am looking for an apartment.",
+    "meaningDe": "Ich bin auf der Suche nach einer neün Wohnung zum Mieten oder Kaufen.",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ich suche eine Wohnung in der Nähe vom Hauptbahnhof.",
+        "en": "I am looking for an apartment near the main train station.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich suche eine Zwei-Zimmer-Wohnung bis 700 Euro warm.",
+        "en": "I am looking for a two-room apartment up to 700 euros including utilities.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir suchen seit drei Monaten eine Wohnung - der Markt ist verrückt!",
+        "en": "We have been looking for an apartment for three months - the market is crazy!",
+        "situation": "housing",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'Ich suche eine Wohnung' (Akkusativ), nicht 'Ich suche für eine Wohnung'.",
+      "Spezifischer: 'Ich suche eine Wohnung ZUR MIETE' (to rent) vs. 'ZUM KAUF' (to buy)."
+    ],
+    "usageNotes": [
+      "Einer der ersten Sätze, die man bei der Wohnungssuche braucht.",
+      "Man kann den Satz erweitern: '...mit Balkon', '...in ruhiger Lage', '...ab sofort'."
+    ],
+    "relatedWords": [
+      "die Wohnungssuche",
+      "suchen",
+      "finden",
+      "die Wohnung"
+    ],
+    "tags": [
+      "essential-phrase",
+      "apartment-search"
+    ]
+  },
+  {
+    "id": "v-housing-047",
+    "word": "Sind die Nebenkosten inklusive?",
+    "baseForm": "Sind die Nebenkosten inklusive?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Are the utilities included?",
+    "meaningDe": "Sind die Nebenkosten (Heizung, Wasser usw.) im Mietpreis enthalten?",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Die Miete ist 600 Euro - sind die Nebenkosten inklusive?",
+        "en": "The rent is 600 euros - are the utilities included?",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sind die Nebenkosten inklusive oder kommen die noch dazu?",
+        "en": "Are the utilities included or do they come on top?",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Wenn der Preis 'inklusive Nebenkosten' ist, ist es die Warmmiete. Ohne Nebenkosten ist es die Kaltmiete.",
+      "Strom und Internet sind fast nie inklusive - danach separat fragen!"
+    ],
+    "usageNotes": [
+      "Diese Frage sollte man IMMER stellen - die Nebenkosten können die Miete um 100-300 Euro erhöhen.",
+      "Alternative Formulierung: 'Ist das die Kalt- oder die Warmmiete?'"
+    ],
+    "relatedWords": [
+      "die Nebenkosten",
+      "die Kaltmiete",
+      "die Warmmiete"
+    ],
+    "tags": [
+      "essential-phrase",
+      "apartment-search",
+      "viewing"
+    ]
+  },
+  {
+    "id": "v-housing-048",
+    "word": "Ab wann ist die Wohnung frei?",
+    "baseForm": "Ab wann ist die Wohnung frei?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "From when is the apartment available?",
+    "meaningDe": "Ab welchem Datum kann man in die Wohnung einziehen?",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Ab wann ist die Wohnung frei? Ich würde gerne im April einziehen.",
+        "en": "From when is the apartment available? I would like to move in in April.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wohnung ist ab dem 1. Juli frei.",
+        "en": "The apartment is available from July 1st.",
+        "situation": "housing",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man fragt 'Ab wann...?', nicht 'Von wann...?' in diesem Kontext.",
+      "Die Antwort verwendet auch 'ab': 'Ab dem 1. Mai' oder 'Ab sofort'."
+    ],
+    "usageNotes": [
+      "'Ab sofort' in einer Anzeige bedeutet, dass die Wohnung sofort verfügbar ist.",
+      "Wichtig: Das Datum des Einzugs und der Beginn des Mietvertrags sollten übereinstimmen."
+    ],
+    "relatedWords": [
+      "einziehen",
+      "der Einzugstermin",
+      "ab sofort",
+      "verfuegbar"
+    ],
+    "tags": [
+      "essential-phrase",
+      "apartment-search",
+      "viewing"
+    ]
+  },
+  {
+    "id": "v-housing-049",
+    "word": "Darf ich Haustiere halten?",
+    "baseForm": "Darf ich Haustiere halten?",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "Am I allowed to keep pets?",
+    "meaningDe": "Ist es erlaubt, Tiere wie Hunde oder Katzen in der Wohnung zu haben?",
+    "situations": [
+      "housing"
+    ],
+    "examples": [
+      {
+        "de": "Darf ich Haustiere halten? Ich habe eine Katze.",
+        "en": "Am I allowed to keep pets? I have a cat.",
+        "situation": "housing",
+        "tone": "neutral"
+      },
+      {
+        "de": "Im Mietvertrag steht, dass Haustiere nur mit Genehmigung erlaubt sind.",
+        "en": "The lease says that pets are only allowed with permission.",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Kleintiere (Hamster, Fische) sind immer erlaubt - die Frage bezieht sich hauptsächlich auf Hunde und Katzen.",
+      "Man sagt 'Haustiere halten', nicht 'Haustiere haben' im formellen Kontext."
+    ],
+    "usageNotes": [
+      "Ein generelles Haustierverbot im Mietvertrag ist nach aktüller Rechtsprechung oft unwirksam.",
+      "Besser direkt fragen als später Probleme zu bekommen - manche Vermieter erlauben Katzen, aber keine Hunde."
+    ],
+    "relatedWords": [
+      "das Haustier",
+      "die Erlaubnis",
+      "der Hund",
+      "die Katze",
+      "das Kleintierhaltung"
+    ],
+    "tags": [
+      "essential-phrase",
+      "viewing",
+      "tenant-rights"
+    ]
+  },
+  {
+    "id": "v-housing-050",
+    "word": "Ich möchte den Mietvertrag kündigen.",
+    "baseForm": "Ich möchte den Mietvertrag kündigen.",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "I would like to terminate the lease.",
+    "meaningDe": "Ich möchte das Mietverhältnis offiziell beenden.",
+    "situations": [
+      "housing",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte den Mietvertrag zum nächstmöglichen Zeitpunkt kündigen.",
+        "en": "I would like to terminate the lease at the earliest possible date.",
+        "situation": "housing",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich möchte den Mietvertrag kündigen. Wie ist die Kündigungsfrist?",
+        "en": "I would like to terminate the lease. What is the notice period?",
+        "situation": "housing",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Die Kündigung muss SCHRIFTLICH erfolgen - dieser Satz reicht mündlich nicht als Kündigung.",
+      "Man kündigt 'zum [Datum]', nicht 'am [Datum]' - das Datum ist das Ende des Mietverhältnisses."
+    ],
+    "usageNotes": [
+      "Eine formelle Kündigung muss per Brief erfolgen (am besten Einschreiben), nicht per E-Mail oder mündlich.",
+      "Die Kündigung muss spätestens am dritten Werktag eines Monats eingehen, um zum Ende des übernachsten Monats wirksam zu werden."
+    ],
+    "relatedWords": [
+      "die Kuendigung",
+      "kuendigen",
+      "die Kuendigungsfrist",
+      "das Einschreiben"
+    ],
+    "tags": [
+      "essential-phrase",
+      "legal",
+      "formal"
+    ]
+  }
+]

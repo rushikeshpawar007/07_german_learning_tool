@@ -1,0 +1,102 @@
+{
+  "id": "present-tense",
+  "title": "Present Tense (Präsens)",
+  "category": "verbs",
+  "level": "A2",
+  "description": "The present tense (Präsens) is the most commonly used tense in German. It describes current actions, habits, general truths, and can also express future events when context makes the time clear.",
+  "whenToUse": [
+    "Describing what is happening right now: Ich lese ein Buch.",
+    "Talking about habits and routines: Ich trinke jeden Morgen Kaffee.",
+    "Stating general facts and truths: Die Erde dreht sich um die Sonne.",
+    "Expressing future actions with a time indicator: Morgen fahre ich nach Berlin.",
+    "Narrating historical events vividly (historisches Präsens): 1989 fällt die Berliner Mauer."
+  ],
+  "rules": [
+    {
+      "title": "Regular Verb Conjugation Endings",
+      "explanation": "Regular (weak) verbs follow a predictable pattern. Remove the -en infinitive ending to find the stem, then add the personal endings: -e, -st, -t, -en, -t, -en.",
+      "examples": [
+        { "correct": "Ich mache meine Hausaufgaben.", "incorrect": "Ich mach meine Hausaufgaben.", "explanation": "The first person singular (ich) always takes the ending -e: mach + e = mache." },
+        { "correct": "Du spielst sehr gut Klavier.", "incorrect": "Du spielest sehr gut Klavier.", "explanation": "The second person singular (du) takes -st: spiel + st = spielst." },
+        { "correct": "Wir lernen zusammen Deutsch.", "explanation": "The first person plural (wir) and third person plural (sie/Sie) keep the infinitive form: lernen." }
+      ]
+    },
+    {
+      "title": "Stem-Changing Verbs: a → ä",
+      "explanation": "Some strong verbs change their stem vowel from 'a' to 'ä' in the du and er/sie/es forms. The ich, wir, ihr, and sie/Sie forms keep the original vowel.",
+      "examples": [
+        { "correct": "Er fährt jeden Tag mit dem Bus.", "incorrect": "Er fahrt jeden Tag mit dem Bus.", "explanation": "Fahren changes a → ä in the third person singular: er fährt, not er fahrt." },
+        { "correct": "Du schläfst zu lange.", "incorrect": "Du schlafst zu lange.", "explanation": "Schlafen changes a → ä in the du-form: du schläfst." },
+        { "correct": "Ich fahre gern Fahrrad.", "explanation": "The ich-form keeps the original stem vowel: ich fahre (not ich fähre)." }
+      ]
+    },
+    {
+      "title": "Stem-Changing Verbs: e → i and e → ie",
+      "explanation": "Some strong verbs change 'e' to 'i' (sprechen → spricht) or 'e' to 'ie' (lesen → liest) in the du and er/sie/es forms.",
+      "examples": [
+        { "correct": "Sie spricht drei Sprachen.", "incorrect": "Sie sprecht drei Sprachen.", "explanation": "Sprechen changes e → i: er/sie spricht." },
+        { "correct": "Er liest jeden Abend ein Buch.", "incorrect": "Er lest jeden Abend ein Buch.", "explanation": "Lesen changes e → ie: er liest." },
+        { "correct": "Du gibst mir das Buch.", "incorrect": "Du gebst mir das Buch.", "explanation": "Geben changes e → i: du gibst." }
+      ]
+    },
+    {
+      "title": "The Irregular Verbs: sein, haben, werden",
+      "explanation": "The three most important German verbs — sein (to be), haben (to have), and werden (to become) — are highly irregular and must be memorized.",
+      "examples": [
+        { "correct": "Ich bin müde.", "incorrect": "Ich sei müde.", "explanation": "Sein is completely irregular: ich bin, du bist, er ist, wir sind, ihr seid, sie sind." },
+        { "correct": "Du hast ein neues Auto.", "incorrect": "Du habst ein neues Auto.", "explanation": "Haben drops the -b- in the du and er/sie/es forms: du hast, er hat." },
+        { "correct": "Es wird langsam dunkel.", "explanation": "Werden changes stem in du/er forms: du wirst, er wird." }
+      ]
+    },
+    {
+      "title": "Verbs with Stems Ending in -t, -d, -chn, -fn, -gn",
+      "explanation": "When the verb stem ends in -t, -d, -chn, -fn, or -gn, an extra -e- is inserted before the -st and -t endings to make pronunciation easier.",
+      "examples": [
+        { "correct": "Du arbeitest sehr viel.", "incorrect": "Du arbeitst sehr viel.", "explanation": "Arbeiten has a stem ending in -t, so an extra -e- is added: du arbeitest, er arbeitet." },
+        { "correct": "Er findet den Schlüssel nicht.", "incorrect": "Er findt den Schlüssel nicht.", "explanation": "Finden has a stem ending in -d: er findet (not er findt)." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Regular Verb Conjugation: machen (to do/make)",
+      "headers": ["Pronoun", "Ending", "Conjugated Form"],
+      "rows": [
+        ["ich", "-e", "mache"],
+        ["du", "-st", "machst"],
+        ["er/sie/es", "-t", "macht"],
+        ["wir", "-en", "machen"],
+        ["ihr", "-t", "macht"],
+        ["sie/Sie", "-en", "machen"]
+      ]
+    },
+    {
+      "title": "Irregular Verbs: sein, haben, werden",
+      "headers": ["Pronoun", "sein", "haben", "werden"],
+      "rows": [
+        ["ich", "bin", "habe", "werde"],
+        ["du", "bist", "hast", "wirst"],
+        ["er/sie/es", "ist", "hat", "wird"],
+        ["wir", "sind", "haben", "werden"],
+        ["ihr", "seid", "habt", "werdet"],
+        ["sie/Sie", "sind", "haben", "werden"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Er fährt nach Hamburg.", "incorrect": "Er fahrt nach Hamburg.", "explanation": "Don't forget the stem vowel change a → ä in the du and er/sie/es forms of strong verbs like fahren, schlafen, tragen." },
+    { "correct": "Sie liest ein Buch.", "incorrect": "Sie lest ein Buch.", "explanation": "Lesen changes e → ie in the du and er/sie/es forms: du liest, er/sie liest." },
+    { "correct": "Du arbeitest heute.", "incorrect": "Du arbeitst heute.", "explanation": "Verbs with stems ending in -t or -d need an extra -e- before -st and -t endings for pronunciation." },
+    { "correct": "Ihr seid nett.", "incorrect": "Ihr sind nett.", "explanation": "Don't confuse the ihr-form (seid) with the sie/Sie-form (sind) of sein." },
+    { "correct": "Du hast Recht.", "incorrect": "Du habst Recht.", "explanation": "Haben is irregular: the -b- disappears in du hast and er/sie/es hat." }
+  ],
+  "tips": [
+    "The wir-form and sie/Sie-form are always identical to the infinitive — just memorize ich, du, and er/sie/es.",
+    "There are roughly 200 strong (stem-changing) verbs in German. Focus on the most common ones first: fahren, sprechen, lesen, geben, nehmen, sehen, essen.",
+    "When in doubt about whether a verb has a stem change, look it up — there is no rule to predict which verbs change.",
+    "The present tense in German covers both English simple present ('I play') and present continuous ('I am playing'). There is no separate continuous form.",
+    "Use the present tense with a future time word (morgen, nächste Woche) to express the future in everyday speech."
+  ],
+  "relatedTopics": ["perfekt", "modal-verbs", "separable-verbs"],
+  "relatedSentenceIds": []
+}

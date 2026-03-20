@@ -1,0 +1,29 @@
+.toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: var(--space-3);
+}
+
+.toggleAllBtn {
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  padding: var(--space-2) var(--space-4);
+  min-height: var(--touch-min);
+  color: var(--color-terracotta);
+  background: none;
+  border: 1px solid var(--color-terracotta);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.toggleAllBtn:hover {
+  background-color: var(--color-terracotta);
+  color: var(--color-white);
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}

@@ -1,0 +1,176 @@
+{
+  "id": "subordinate-clauses",
+  "title": "Subordinate Clauses (Nebensatz)",
+  "category": "word-order",
+  "level": "B1",
+  "description": "Subordinate clauses (Nebensätze) are dependent clauses introduced by a conjunction such as 'weil', 'dass', 'wenn', or 'ob'. In these clauses, the conjugated verb moves to the very end. A comma always separates the subordinate clause from the main clause. Mastering Nebensätze is a key milestone in German grammar.",
+  "whenToUse": [
+    "When giving a reason (weil, da)",
+    "When expressing that-clauses or reported speech (dass)",
+    "When describing conditions or habitual actions (wenn)",
+    "When expressing doubt or indirect yes/no questions (ob)",
+    "When expressing contrast or concession (obwohl)",
+    "When referring to past events (als), or sequencing events (bevor, nachdem)",
+    "When expressing purpose (damit) or result (sodass)"
+  ],
+  "rules": [
+    {
+      "title": "Verb Goes to the End",
+      "explanation": "In a subordinate clause, the conjugated verb moves to the final position. This is the defining feature of all Nebensätze and applies regardless of which conjunction introduces the clause.",
+      "examples": [
+        {
+          "correct": "Ich bleibe zu Hause, weil ich krank bin.",
+          "incorrect": "Ich bleibe zu Hause, weil ich bin krank.",
+          "explanation": "After 'weil', the conjugated verb 'bin' must go to the end of the clause."
+        },
+        {
+          "correct": "Er sagt, dass er morgen kommt.",
+          "incorrect": "Er sagt, dass er kommt morgen.",
+          "explanation": "In the dass-clause, 'kommt' moves to the final position, after 'morgen'."
+        },
+        {
+          "correct": "Ich weiß nicht, ob sie heute Abend Zeit hat.",
+          "explanation": "The verb 'hat' goes to the very end of the ob-clause."
+        }
+      ]
+    },
+    {
+      "title": "Comma Before the Conjunction",
+      "explanation": "A comma is always required before the subordinating conjunction that introduces the Nebensatz. This is a strict punctuation rule in German, unlike in English where commas with subordinate clauses are often optional.",
+      "examples": [
+        {
+          "correct": "Ich lerne Deutsch, weil ich in Berlin arbeiten möchte.",
+          "incorrect": "Ich lerne Deutsch weil ich in Berlin arbeiten möchte.",
+          "explanation": "A comma must appear before 'weil' to separate the main clause from the subordinate clause."
+        },
+        {
+          "correct": "Sie fragt, ob du mitkommst.",
+          "explanation": "The comma before 'ob' is mandatory."
+        }
+      ]
+    },
+    {
+      "title": "Nebensatz First — Verb-Subject Inversion in Main Clause",
+      "explanation": "When the subordinate clause comes before the main clause, it occupies position 1 of the overall sentence. The main clause then starts with its conjugated verb in position 2, followed by the subject (inversion). The pattern is: Nebensatz + comma + Verb + Subject + rest.",
+      "examples": [
+        {
+          "correct": "Wenn es regnet, bleibe ich zu Hause.",
+          "incorrect": "Wenn es regnet, ich bleibe zu Hause.",
+          "explanation": "The entire wenn-clause fills position 1, so the main clause must begin with the verb 'bleibe' (position 2), then the subject 'ich'."
+        },
+        {
+          "correct": "Obwohl er müde war, ging er joggen.",
+          "explanation": "After the obwohl-clause, the main clause inverts: verb 'ging' before subject 'er'."
+        },
+        {
+          "correct": "Bevor ich frühstücke, dusche ich.",
+          "explanation": "The bevor-clause comes first, so the main clause starts with the verb 'dusche' followed by subject 'ich'."
+        }
+      ]
+    },
+    {
+      "title": "Separable Verbs Rejoin in the Nebensatz",
+      "explanation": "In a main clause, separable verbs split apart. In a subordinate clause, the prefix re-attaches to the verb, and the whole verb goes to the end as one word.",
+      "examples": [
+        {
+          "correct": "Ich weiß, dass der Zug um 8 Uhr abfährt.",
+          "incorrect": "Ich weiß, dass der Zug um 8 Uhr fährt ab.",
+          "explanation": "In the Nebensatz, the separable verb 'abfahren' stays together as 'abfährt' at the end."
+        },
+        {
+          "correct": "Er ist traurig, weil seine Freundin nicht anruft.",
+          "explanation": "'Anrufen' stays as one word 'anruft' at the end of the weil-clause."
+        }
+      ]
+    },
+    {
+      "title": "Modal Verbs and Perfect Tense in Nebensatz",
+      "explanation": "When a subordinate clause contains a modal verb + infinitive or a perfect tense construction, the conjugated verb still goes to the very end, after the infinitive or past participle.",
+      "examples": [
+        {
+          "correct": "Ich weiß, dass er morgen arbeiten muss.",
+          "incorrect": "Ich weiß, dass er morgen muss arbeiten.",
+          "explanation": "The modal verb 'muss' (conjugated) goes after the infinitive 'arbeiten' — to the very end."
+        },
+        {
+          "correct": "Sie ist froh, weil sie die Prüfung bestanden hat.",
+          "explanation": "In the perfect tense Nebensatz, the auxiliary 'hat' goes to the final position, after the past participle 'bestanden'."
+        },
+        {
+          "correct": "Er fragt, ob ich ihm helfen kann.",
+          "explanation": "The modal 'kann' follows the infinitive 'helfen' at the end of the ob-clause."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Common Subordinating Conjunctions",
+      "headers": ["Conjunction", "Meaning", "Example"],
+      "rows": [
+        ["weil", "because", "Ich bleibe hier, weil es regnet."],
+        ["dass", "that", "Ich hoffe, dass du kommst."],
+        ["wenn", "if / when(ever)", "Wenn ich Zeit habe, lese ich."],
+        ["ob", "whether / if", "Ich weiß nicht, ob er kommt."],
+        ["obwohl", "although", "Er geht raus, obwohl es kalt ist."],
+        ["als", "when (single past event)", "Als ich klein war, spielte ich viel."],
+        ["bevor", "before", "Bevor du gehst, ruf mich an."],
+        ["nachdem", "after", "Nachdem er gegessen hatte, ging er."],
+        ["damit", "so that (purpose)", "Ich lerne, damit ich bestehe."],
+        ["sodass", "so that (result)", "Er rannte schnell, sodass er den Bus erreichte."]
+      ]
+    },
+    {
+      "title": "Word Order: Hauptsatz vs. Nebensatz",
+      "headers": ["Type", "Position 1", "Position 2 (Verb)", "Middle", "End"],
+      "rows": [
+        ["Hauptsatz", "Ich", "lerne", "jeden Tag", "Deutsch."],
+        ["Nebensatz (weil)", "…, weil", "ich", "jeden Tag Deutsch", "lerne."],
+        ["Hauptsatz", "Er", "fährt", "morgen nach Berlin", "ab."],
+        ["Nebensatz (dass)", "…, dass", "er", "morgen nach Berlin", "abfährt."],
+        ["Nebensatz first", "Weil ich krank bin,", "bleibe", "ich", "zu Hause."]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Ich bleibe zu Hause, weil ich krank bin.",
+      "incorrect": "Ich bleibe zu Hause, weil ich bin krank.",
+      "explanation": "In a subordinate clause the conjugated verb must go to the end. 'bin' must come after 'krank'."
+    },
+    {
+      "correct": "Wenn es regnet, bleibe ich zu Hause.",
+      "incorrect": "Wenn es regnet, ich bleibe zu Hause.",
+      "explanation": "When the Nebensatz comes first, the main clause must start with the verb (inversion). 'bleibe' before 'ich'."
+    },
+    {
+      "correct": "Ich weiß, dass der Zug um 8 Uhr abfährt.",
+      "incorrect": "Ich weiß, dass der Zug um 8 Uhr fährt ab.",
+      "explanation": "Separable verbs rejoin in a Nebensatz. The prefix does not separate — write 'abfährt' as one word at the end."
+    },
+    {
+      "correct": "Sie sagt, dass sie kommen kann.",
+      "incorrect": "Sie sagt, dass sie kann kommen.",
+      "explanation": "With modal verbs in a Nebensatz, the modal (conjugated) goes after the infinitive at the very end."
+    },
+    {
+      "correct": "Ich bin müde, weil ich nicht geschlafen habe.",
+      "incorrect": "Ich bin müde, weil ich habe nicht geschlafen.",
+      "explanation": "In perfect tense subordinate clauses, the auxiliary 'habe' must go to the final position."
+    },
+    {
+      "correct": "Er rief an, bevor er kam.",
+      "incorrect": "Er rief an bevor er kam.",
+      "explanation": "A comma is always required before a subordinating conjunction in German."
+    }
+  ],
+  "tips": [
+    "When you see a subordinating conjunction (weil, dass, wenn, ob, etc.), immediately move the conjugated verb to the end of that clause.",
+    "If your sentence starts with a Nebensatz, remember the main clause flips to Verb-Subject order. Think of it as: the entire Nebensatz is sitting in position 1.",
+    "Separable verbs become 'normal' again in a Nebensatz — the prefix and verb stem stick together as one word at the end.",
+    "Practice by taking simple Hauptsätze and converting them: 'Ich bin müde' becomes '…, weil ich müde bin.'",
+    "Watch out for 'weil' in spoken German — many native speakers use main clause word order after 'weil' in casual speech, but this is considered incorrect in writing."
+  ],
+  "relatedTopics": ["main-clause", "questions"],
+  "relatedSentenceIds": []
+}

@@ -1,0 +1,21 @@
+.tag {
+  display: inline-flex;
+  align-items: center;
+  font-size: var(--text-xs);
+  font-weight: var(--weight-medium);
+  padding: 2px var(--space-2);
+  border: 1px solid var(--color-warm-gray-light);
+  border-radius: var(--radius-sm);
+  color: var(--color-warm-gray);
+  background: transparent;
+  cursor: default;
+  transition: all var(--transition-fast);
+}
+
+button.tag {
+  cursor: pointer;
+}
+
+button.tag:hover {
+  background-color: var(--color-sand);
+}

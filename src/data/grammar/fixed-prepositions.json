@@ -1,0 +1,207 @@
+{
+  "id": "fixed-prepositions",
+  "title": "Verbs with Fixed Prepositions (Feste Präpositionen)",
+  "category": "prepositions",
+  "level": "B1",
+  "description": "Many German verbs are permanently paired with a specific preposition and case. Unlike two-way prepositions, the case here does not change based on meaning — it is fixed and must be memorized with each verb. These verb-preposition combinations are essential for fluent German and cannot be guessed from English translations.",
+  "whenToUse": [
+    "When expressing actions, emotions, or states that require a specific preposition in German",
+    "When the English equivalent uses a different preposition or no preposition at all",
+    "When forming questions or referring back to things using wo-/da- compounds",
+    "When writing or speaking at B1 level and above, where fixed prepositions are expected"
+  ],
+  "rules": [
+    {
+      "title": "Verbs with Fixed Prepositions + Accusative",
+      "explanation": "Many common verbs always take a specific preposition followed by the accusative case. The preposition and case must be learned together with the verb as a unit. The accusative case here is fixed — it does not depend on movement or location.",
+      "examples": [
+        {
+          "correct": "Ich warte auf den Bus.",
+          "incorrect": "Ich warte für den Bus.",
+          "explanation": "'warten auf + Akk' means 'to wait for'. German uses 'auf', not 'für' as you might expect from English."
+        },
+        {
+          "correct": "Sie freut sich auf die Ferien.",
+          "explanation": "'sich freuen auf + Akk' means 'to look forward to'. Note: 'sich freuen über + Akk' means 'to be happy about' (something that already happened)."
+        },
+        {
+          "correct": "Er denkt an seine Familie.",
+          "incorrect": "Er denkt über seine Familie.",
+          "explanation": "'denken an + Akk' means 'to think of/about someone'. 'Denken über' exists but means 'to have an opinion about'."
+        }
+      ]
+    },
+    {
+      "title": "Verbs with Fixed Prepositions + Dative",
+      "explanation": "Other verbs always take a specific preposition followed by the dative case. Again, this is fixed and must be memorized — the dative is not triggered by location but by the verb-preposition combination itself.",
+      "examples": [
+        {
+          "correct": "Ich treffe mich mit meinem Freund.",
+          "incorrect": "Ich treffe mich mit meinen Freund.",
+          "explanation": "'sich treffen mit + Dat' means 'to meet with'. 'Mit' always takes dative: meinem Freund (not meinen)."
+        },
+        {
+          "correct": "Sie hat Angst vor der Prüfung.",
+          "explanation": "'Angst haben vor + Dat' means 'to be afraid of'. 'Vor' here always takes dative in this fixed expression."
+        },
+        {
+          "correct": "Er träumt von einem neuen Auto.",
+          "incorrect": "Er träumt über ein neues Auto.",
+          "explanation": "'träumen von + Dat' means 'to dream of/about'. German uses 'von', not 'über'."
+        }
+      ]
+    },
+    {
+      "title": "Da- Compounds (darauf, dafür, darüber, ...)",
+      "explanation": "When referring back to a thing (not a person), German replaces the preposition + pronoun with a da-compound. If the preposition starts with a vowel, 'dar-' is used instead of 'da-'. Da-compounds are never used for people — use the preposition + personal pronoun instead.",
+      "examples": [
+        {
+          "correct": "Ich warte auf den Bus. → Ich warte darauf.",
+          "incorrect": "Ich warte auf es.",
+          "explanation": "For things, use the da-compound 'darauf' (da + auf). 'Auf es' is not standard German."
+        },
+        {
+          "correct": "Sie interessiert sich für Musik. → Sie interessiert sich dafür.",
+          "explanation": "'dafür' replaces 'für Musik' when referring back to it. Da + für = dafür."
+        },
+        {
+          "correct": "Er denkt an seinen Bruder. → Er denkt an ihn.",
+          "explanation": "For people, do NOT use a da-compound. Use the preposition + personal pronoun: 'an ihn' (not 'daran')."
+        }
+      ]
+    },
+    {
+      "title": "Wo- Compounds (worauf, wofür, worüber, ...)",
+      "explanation": "To ask a question about a thing with a fixed preposition, use a wo-compound. If the preposition starts with a vowel, 'wor-' is used. For people, use the preposition + 'wen/wem' instead.",
+      "examples": [
+        {
+          "correct": "Worauf wartest du? — Auf den Bus.",
+          "incorrect": "Auf was wartest du?",
+          "explanation": "'Worauf' (wo + auf) is the standard way to ask 'what are you waiting for?'. 'Auf was' is colloquial but not standard."
+        },
+        {
+          "correct": "Wofür interessierst du dich? — Für Kunst.",
+          "explanation": "'Wofür' (wo + für) asks 'what are you interested in?'"
+        },
+        {
+          "correct": "An wen denkst du? — An meinen Bruder.",
+          "explanation": "For people, use preposition + 'wen' (Akk) or 'wem' (Dat), NOT a wo-compound. 'Woran denkst du?' would ask about a thing."
+        }
+      ]
+    },
+    {
+      "title": "Distinguishing Similar Verb-Preposition Combinations",
+      "explanation": "Some verbs change meaning depending on which preposition they are paired with. Paying close attention to the preposition is critical for understanding and producing the correct meaning.",
+      "examples": [
+        {
+          "correct": "sich freuen auf + Akk = to look forward to / sich freuen über + Akk = to be happy about",
+          "explanation": "'Ich freue mich auf den Urlaub' (looking forward to the vacation, future). 'Ich freue mich über das Geschenk' (happy about the gift, present/past)."
+        },
+        {
+          "correct": "sprechen mit + Dat = to talk with / sprechen über + Akk = to talk about",
+          "explanation": "'Ich spreche mit meinem Chef' (talking with my boss). 'Ich spreche über das Problem' (talking about the problem)."
+        },
+        {
+          "correct": "denken an + Akk = to think of / denken über + Akk = to think about (have an opinion)",
+          "explanation": "'Ich denke an dich' (I'm thinking of you). 'Was denkst du über den Film?' (What do you think about the film?)."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Common Verbs with Fixed Prepositions",
+      "headers": ["Verb + Preposition", "Case", "Meaning", "Example"],
+      "rows": [
+        ["warten auf", "Akk", "to wait for", "Ich warte auf den Zug."],
+        ["sich freuen auf", "Akk", "to look forward to", "Wir freuen uns auf das Wochenende."],
+        ["sich vorbereiten auf", "Akk", "to prepare for", "Er bereitet sich auf die Prüfung vor."],
+        ["denken an", "Akk", "to think of", "Ich denke oft an dich."],
+        ["sich erinnern an", "Akk", "to remember", "Sie erinnert sich an den Urlaub."],
+        ["sich gewöhnen an", "Akk", "to get used to", "Ich gewöhne mich an das Wetter."],
+        ["sich interessieren für", "Akk", "to be interested in", "Er interessiert sich für Geschichte."],
+        ["sich entscheiden für", "Akk", "to decide on", "Sie entscheidet sich für das rote Kleid."],
+        ["bitten um", "Akk", "to ask for / request", "Er bittet um Hilfe."],
+        ["sich kümmern um", "Akk", "to take care of", "Sie kümmert sich um die Kinder."],
+        ["sprechen über", "Akk", "to talk about", "Wir sprechen über das Thema."],
+        ["sich ärgern über", "Akk", "to be annoyed about", "Ich ärgere mich über den Lärm."],
+        ["sich treffen mit", "Dat", "to meet with", "Ich treffe mich mit meiner Freundin."],
+        ["sprechen mit", "Dat", "to speak with", "Er spricht mit dem Lehrer."],
+        ["anfangen mit", "Dat", "to start with", "Wir fangen mit der Arbeit an."],
+        ["aufhören mit", "Dat", "to stop (doing)", "Hör auf mit dem Lärm!"],
+        ["träumen von", "Dat", "to dream of", "Sie träumt von einer Reise."],
+        ["erzählen von", "Dat", "to tell about", "Er erzählt von seinem Urlaub."],
+        ["teilnehmen an", "Dat", "to participate in", "Ich nehme am Kurs teil."],
+        ["sich erkundigen nach", "Dat", "to inquire about", "Sie erkundigt sich nach dem Preis."],
+        ["suchen nach", "Dat", "to search for", "Wir suchen nach einer Lösung."],
+        ["Angst haben vor", "Dat", "to be afraid of", "Das Kind hat Angst vor Hunden."],
+        ["sich fürchten vor", "Dat", "to be frightened of", "Er fürchtet sich vor Spinnen."],
+        ["gehören zu", "Dat", "to belong to / be part of", "Das gehört zum Plan."]
+      ]
+    },
+    {
+      "title": "Da- and Wo- Compounds",
+      "headers": ["Preposition", "Da-Compound", "Wo-Compound", "Example (Statement → Question)"],
+      "rows": [
+        ["auf", "darauf", "worauf", "Ich warte darauf. → Worauf wartest du?"],
+        ["an", "daran", "woran", "Ich denke daran. → Woran denkst du?"],
+        ["für", "dafür", "wofür", "Ich interessiere mich dafür. → Wofür interessierst du dich?"],
+        ["um", "darum", "worum", "Es geht darum. → Worum geht es?"],
+        ["über", "darüber", "worüber", "Ich ärgere mich darüber. → Worüber ärgerst du dich?"],
+        ["mit", "damit", "womit", "Ich fange damit an. → Womit fängst du an?"],
+        ["von", "davon", "wovon", "Ich träume davon. → Wovon träumst du?"],
+        ["nach", "danach", "wonach", "Ich suche danach. → Wonach suchst du?"],
+        ["vor", "davor", "wovor", "Ich habe Angst davor. → Wovor hast du Angst?"],
+        ["zu", "dazu", "wozu", "Das gehört dazu. → Wozu gehört das?"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Ich warte auf den Bus.",
+      "incorrect": "Ich warte für den Bus.",
+      "explanation": "German uses 'warten auf + Akk', not 'warten für'. This is a common transfer error from English 'wait for'."
+    },
+    {
+      "correct": "Ich denke an dich.",
+      "incorrect": "Ich denke über dich.",
+      "explanation": "'Denken an + Akk' means 'to think of someone'. 'Denken über' means 'to have an opinion about' and is used differently."
+    },
+    {
+      "correct": "Worauf wartest du?",
+      "incorrect": "Auf was wartest du?",
+      "explanation": "In standard German, use wo-compounds for things: 'worauf', not 'auf was'. The split form is colloquial."
+    },
+    {
+      "correct": "Ich warte darauf. (for things)",
+      "incorrect": "Ich warte auf es.",
+      "explanation": "When referring to things, use da-compounds (darauf), not preposition + 'es'. 'Auf es' is not standard."
+    },
+    {
+      "correct": "Er denkt an sie. (for people)",
+      "incorrect": "Er denkt daran. (when meaning a person)",
+      "explanation": "Da-compounds refer to things only. For people, always use the preposition + personal pronoun: 'an sie', 'an ihn', etc."
+    },
+    {
+      "correct": "Ich freue mich auf den Urlaub. (future event)",
+      "incorrect": "Ich freue mich über den Urlaub. (when meaning 'looking forward to')",
+      "explanation": "'sich freuen auf' = looking forward to (future). 'sich freuen über' = being happy about (present/past). Mixing them up changes the meaning."
+    }
+  ],
+  "tips": [
+    "Always learn verbs together with their preposition and case as a unit: 'warten auf + Akk', not just 'warten'. Write them in your vocabulary notebook this way.",
+    "Use da-compounds (darauf, dafür, darüber) for things and preposition + pronoun (auf ihn, für sie) for people. This is a strict rule in standard German.",
+    "Create flashcards with the verb + preposition + case on one side and an example sentence on the other. Regular review is the most effective way to internalize these combinations.",
+    "When you encounter a new verb-preposition combination in a text, note whether it takes accusative or dative immediately. Checking later is less effective than noticing in context.",
+    "Pay special attention to verbs that change meaning with different prepositions: 'sich freuen auf' vs. 'sich freuen über', 'sprechen mit' vs. 'sprechen über', 'denken an' vs. 'denken über'."
+  ],
+  "relatedTopics": [
+    "two-way-prepositions",
+    "accusative-case",
+    "dative-case",
+    "reflexive-verbs",
+    "accusative-prepositions",
+    "dative-prepositions"
+  ],
+  "relatedSentenceIds": []
+}

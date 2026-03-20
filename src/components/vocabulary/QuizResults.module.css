@@ -1,0 +1,98 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.title {
+  text-align: center;
+  font-size: var(--text-3xl);
+  color: var(--color-warm-brown);
+}
+
+.scoreCard {
+  text-align: center;
+  padding: var(--space-8);
+  background-color: var(--color-white);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-md);
+}
+
+.scoreNumber {
+  font-family: var(--font-heading);
+  font-size: 4rem;
+  font-weight: var(--weight-bold);
+  color: var(--color-terracotta);
+}
+
+.scoreDetail {
+  display: flex;
+  gap: var(--space-3);
+  justify-content: center;
+  font-size: var(--text-lg);
+  margin-top: var(--space-2);
+}
+
+.known {
+  color: var(--color-success);
+  font-weight: var(--weight-semibold);
+}
+
+.unknown {
+  color: var(--color-error);
+  font-weight: var(--weight-semibold);
+}
+
+.divider {
+  color: var(--color-warm-gray-light);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.sectionTitle {
+  font-size: var(--text-lg);
+  color: var(--color-warm-brown);
+  font-family: var(--font-body);
+}
+
+.wordList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.wordItem {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-2) var(--space-3);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-sand);
+  border-radius: var(--radius-md);
+}
+
+.german {
+  font-family: var(--font-heading);
+  font-weight: var(--weight-semibold);
+  color: var(--color-warm-brown);
+  min-width: 150px;
+}
+
+.english {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+  flex: 1;
+}
+
+.actions {
+  display: flex;
+  gap: var(--space-3);
+  justify-content: center;
+  margin-top: var(--space-4);
+}

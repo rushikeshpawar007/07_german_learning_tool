@@ -1,0 +1,2280 @@
+[
+  {
+    "id": "s-work-001",
+    "de": "Ich muss den Bericht bis Freitag fertigstellen.",
+    "en": "I have to finish the report by Friday.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Bericht",
+        "role": "object"
+      },
+      {
+        "text": "bis",
+        "role": "preposition"
+      },
+      {
+        "text": "Freitag",
+        "role": "object"
+      },
+      {
+        "text": "fertigstellen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb + infinitive at end",
+      "Accusative article 'den'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-050",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "The modal verb 'muss' goes in position 2, the infinitive goes to the end"
+    ],
+    "alternatives": [
+      "Bis Freitag muss ich den Bericht fertigstellen.",
+      "Den Bericht muss ich bis Freitag fertigstellen."
+    ]
+  },
+  {
+    "id": "s-work-002",
+    "de": "Wir haben heute eine wichtige Besprechung.",
+    "en": "We have an important meeting today.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "haben",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "wichtige",
+        "role": "other"
+      },
+      {
+        "text": "Besprechung",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Accusative feminine article 'eine'",
+      "Adjective declension with indefinite article"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-work-001"
+    ],
+    "builderHints": [
+      "The time adverb 'heute' often comes after the verb in German"
+    ],
+    "alternatives": [
+      "Heute haben wir eine wichtige Besprechung.",
+      "Eine wichtige Besprechung haben wir heute."
+    ]
+  },
+  {
+    "id": "s-work-003",
+    "de": "Können Sie mir bitte die Datei schicken?",
+    "en": "Can you please send me the file?",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Datei",
+        "role": "object"
+      },
+      {
+        "text": "schicken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb in yes/no question (V1 position)",
+      "Dative pronoun 'mir'",
+      "Formal 'Sie'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-phone-046"
+    ],
+    "builderHints": [
+      "In a question, the modal verb goes to position 1, the infinitive to the end"
+    ],
+    "alternatives": [
+      "Können Sie mir die Datei bitte schicken?"
+    ]
+  },
+  {
+    "id": "s-work-004",
+    "de": "Die Kollegin stellt das neue Projekt vor.",
+    "en": "The colleague is presenting the new project.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Kollegin",
+        "role": "subject"
+      },
+      {
+        "text": "stellt",
+        "role": "verb"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "neue",
+        "role": "other"
+      },
+      {
+        "text": "Projekt",
+        "role": "object"
+      },
+      {
+        "text": "vor",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'vorstellen' — prefix goes to the end",
+      "Accusative neuter article 'das'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "The separable prefix 'vor' goes to the very end of the sentence"
+    ],
+    "alternatives": [
+      "Das neue Projekt stellt die Kollegin vor."
+    ]
+  },
+  {
+    "id": "s-work-005",
+    "de": "Ich fange morgen mit der neuen Aufgabe an.",
+    "en": "I'm starting the new task tomorrow.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "fange",
+        "role": "verb"
+      },
+      {
+        "text": "morgen",
+        "role": "adverb"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "neuen",
+        "role": "other"
+      },
+      {
+        "text": "Aufgabe",
+        "role": "object"
+      },
+      {
+        "text": "an",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'anfangen'",
+      "Dative after 'mit' — 'der' (feminine dative)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-046",
+      "v-work-002"
+    ],
+    "builderHints": [
+      "'mit' takes the dative case; the prefix 'an' goes to the end"
+    ],
+    "alternatives": [
+      "Morgen fange ich mit der neuen Aufgabe an.",
+      "Mit der neuen Aufgabe fange ich morgen an."
+    ]
+  },
+  {
+    "id": "s-work-006",
+    "de": "Ich kann heute leider nicht an der Besprechung teilnehmen.",
+    "en": "Unfortunately I can't attend the meeting today.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "nicht",
+        "role": "particle"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Besprechung",
+        "role": "object"
+      },
+      {
+        "text": "teilnehmen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb + separable infinitive at end",
+      "Dative after 'an' — 'der' (feminine dative)",
+      "Negation with 'nicht'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-001",
+      "v-work-034"
+    ],
+    "builderHints": [
+      "With a modal verb, the separable verb stays together as one infinitive at the end"
+    ],
+    "alternatives": [
+      "Heute kann ich leider nicht an der Besprechung teilnehmen.",
+      "Leider kann ich heute nicht an der Besprechung teilnehmen."
+    ]
+  },
+  {
+    "id": "s-work-007",
+    "de": "Wir sollten den Kunden so schnell wie möglich anrufen.",
+    "en": "We should call the customer as soon as possible.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "sollten",
+        "role": "verb"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Kunden",
+        "role": "object"
+      },
+      {
+        "text": "so",
+        "role": "adverb"
+      },
+      {
+        "text": "schnell",
+        "role": "adverb"
+      },
+      {
+        "text": "wie",
+        "role": "conjunction"
+      },
+      {
+        "text": "möglich",
+        "role": "other"
+      },
+      {
+        "text": "anrufen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'sollten' (Konjunktiv II) + infinitive",
+      "Accusative weak noun 'Kunden'"
+    ],
+    "vocabIds": [
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-bureaucracy-050",
+      "v-smalltalk-043",
+      "v-phone-026"
+    ],
+    "builderHints": [
+      "'sollten' is in position 2; the infinitive 'anrufen' goes to the end"
+    ],
+    "alternatives": [
+      "Den Kunden sollten wir so schnell wie möglich anrufen."
+    ]
+  },
+  {
+    "id": "s-work-008",
+    "de": "Ich habe die E-Mail an alle Kollegen geschickt.",
+    "en": "I sent the email to all colleagues.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "E-Mail",
+        "role": "object"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "alle",
+        "role": "other"
+      },
+      {
+        "text": "Kollegen",
+        "role": "object"
+      },
+      {
+        "text": "geschickt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense: 'habe' + past participle at end",
+      "Accusative after 'an' (direction)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "In Perfekt, the auxiliary 'habe' is in position 2 and the participle goes to the end"
+    ],
+    "alternatives": [
+      "Die E-Mail habe ich an alle Kollegen geschickt.",
+      "An alle Kollegen habe ich die E-Mail geschickt."
+    ]
+  },
+  {
+    "id": "s-work-009",
+    "de": "Mein Chef möchte, dass ich die Präsentation halte.",
+    "en": "My boss wants me to give the presentation.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Mein",
+        "role": "article"
+      },
+      {
+        "text": "Chef",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Präsentation",
+        "role": "object"
+      },
+      {
+        "text": "halte",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Subordinate clause with 'dass' — verb goes to the end",
+      "Modal verb 'möchte'"
+    ],
+    "vocabIds": [
+      "v-housing-050",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-015"
+    ],
+    "builderHints": [
+      "After 'dass', the conjugated verb moves to the end of the subordinate clause"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-010",
+    "de": "Wir müssen die Deadline unbedingt einhalten.",
+    "en": "We absolutely must meet the deadline.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "müssen",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Deadline",
+        "role": "object"
+      },
+      {
+        "text": "unbedingt",
+        "role": "adverb"
+      },
+      {
+        "text": "einhalten",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Adverb placement before infinitive"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "The modal 'müssen' is in position 2; 'einhalten' goes to the end"
+    ],
+    "alternatives": [
+      "Die Deadline müssen wir unbedingt einhalten."
+    ]
+  },
+  {
+    "id": "s-work-011",
+    "de": "Ich lade Sie herzlich zur Besprechung ein.",
+    "en": "I cordially invite you to the meeting.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "lade",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "object"
+      },
+      {
+        "text": "herzlich",
+        "role": "adverb"
+      },
+      {
+        "text": "zur",
+        "role": "preposition"
+      },
+      {
+        "text": "Besprechung",
+        "role": "object"
+      },
+      {
+        "text": "ein",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'einladen'",
+      "Contraction 'zur' = zu + der (dative feminine)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-emails-040",
+      "v-meetings-046",
+      "v-work-048",
+      "v-work-001"
+    ],
+    "builderHints": [
+      "The prefix 'ein' separates and goes to the end; 'zur' is a contraction of 'zu der'"
+    ],
+    "alternatives": [
+      "Herzlich lade ich Sie zur Besprechung ein."
+    ]
+  },
+  {
+    "id": "s-work-012",
+    "de": "Er arbeitet seit drei Jahren in dieser Firma.",
+    "en": "He has been working at this company for three years.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Er",
+        "role": "subject"
+      },
+      {
+        "text": "arbeitet",
+        "role": "verb"
+      },
+      {
+        "text": "seit",
+        "role": "preposition"
+      },
+      {
+        "text": "drei",
+        "role": "other"
+      },
+      {
+        "text": "Jahren",
+        "role": "object"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "dieser",
+        "role": "article"
+      },
+      {
+        "text": "Firma",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'seit' + dative for duration",
+      "Dative plural 'Jahren'",
+      "Dative demonstrative 'dieser'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'seit' always takes the dative; German uses present tense for ongoing actions (not Perfekt)"
+    ],
+    "alternatives": [
+      "Seit drei Jahren arbeitet er in dieser Firma.",
+      "In dieser Firma arbeitet er seit drei Jahren."
+    ]
+  },
+  {
+    "id": "s-work-013",
+    "de": "Ich komme heute etwas später, weil der Zug Verspätung hat.",
+    "en": "I'll be a bit late today because the train is delayed.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "komme",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "etwas",
+        "role": "adverb"
+      },
+      {
+        "text": "später",
+        "role": "adverb"
+      },
+      {
+        "text": "weil",
+        "role": "conjunction"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Zug",
+        "role": "subject"
+      },
+      {
+        "text": "Verspätung",
+        "role": "object"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Subordinate clause with 'weil' — verb to end",
+      "V2 word order in main clause"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-050",
+      "v-travel-005"
+    ],
+    "builderHints": [
+      "In the 'weil' clause, the conjugated verb 'hat' goes to the very end"
+    ],
+    "alternatives": [
+      "Heute komme ich etwas später, weil der Zug Verspätung hat."
+    ]
+  },
+  {
+    "id": "s-work-014",
+    "de": "Bitte leiten Sie die Nachricht an die Abteilung weiter.",
+    "en": "Please forward the message to the department.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Bitte",
+        "role": "particle"
+      },
+      {
+        "text": "leiten",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Nachricht",
+        "role": "object"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Abteilung",
+        "role": "object"
+      },
+      {
+        "text": "weiter",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'weiterleiten' in imperative",
+      "Formal imperative with 'Sie'"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-work-030",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-phone-010",
+      "v-shopping-021",
+      "v-work-004"
+    ],
+    "builderHints": [
+      "In the formal imperative, the verb comes before 'Sie'; the prefix 'weiter' goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-015",
+    "de": "Das Meeting fängt um zehn Uhr an.",
+    "en": "The meeting starts at ten o'clock.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Meeting",
+        "role": "subject"
+      },
+      {
+        "text": "fängt",
+        "role": "verb"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "zehn",
+        "role": "other"
+      },
+      {
+        "text": "Uhr",
+        "role": "other"
+      },
+      {
+        "text": "an",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'anfangen'",
+      "Time expression with 'um' + Uhr"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "The prefix 'an' separates and goes to the end of the main clause"
+    ],
+    "alternatives": [
+      "Um zehn Uhr fängt das Meeting an."
+    ]
+  },
+  {
+    "id": "s-work-016",
+    "de": "Ich bin für das Projektmanagement verantwortlich.",
+    "en": "I am responsible for the project management.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Projektmanagement",
+        "role": "object"
+      },
+      {
+        "text": "verantwortlich",
+        "role": "other"
+      }
+    ],
+    "grammarPoints": [
+      "Adjective with 'für' + accusative",
+      "'verantwortlich' as predicate adjective"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-work-042"
+    ],
+    "builderHints": [
+      "'für' takes the accusative; the adjective 'verantwortlich' goes to the end"
+    ],
+    "alternatives": [
+      "Für das Projektmanagement bin ich verantwortlich."
+    ]
+  },
+  {
+    "id": "s-work-017",
+    "de": "Wenn du Fragen hast, kannst du mich jederzeit anrufen.",
+    "en": "If you have questions, you can call me anytime.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wenn",
+        "role": "conjunction"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "Fragen",
+        "role": "object"
+      },
+      {
+        "text": "hast",
+        "role": "verb"
+      },
+      {
+        "text": "kannst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "jederzeit",
+        "role": "adverb"
+      },
+      {
+        "text": "anrufen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Subordinate clause with 'wenn' — verb to end",
+      "Main clause after subordinate clause starts with verb (V1)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-emails-049",
+      "v-phone-048",
+      "v-shopping-049",
+      "v-smalltalk-046",
+      "v-phone-026"
+    ],
+    "builderHints": [
+      "After 'wenn', the verb goes to the end; the main clause starts with the verb because the 'wenn' clause fills position 1"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-018",
+    "de": "Die Firma sucht einen neuen Mitarbeiter für die IT-Abteilung.",
+    "en": "The company is looking for a new employee for the IT department.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Firma",
+        "role": "subject"
+      },
+      {
+        "text": "sucht",
+        "role": "verb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "neuen",
+        "role": "other"
+      },
+      {
+        "text": "Mitarbeiter",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "IT-Abteilung",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Accusative masculine article 'einen'",
+      "Adjective declension 'neuen' with indefinite article"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-046",
+      "v-bureaucracy-049",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-work-025",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'einen neuen' shows the accusative masculine endings for article and adjective"
+    ],
+    "alternatives": [
+      "Einen neuen Mitarbeiter sucht die Firma für die IT-Abteilung.",
+      "Für die IT-Abteilung sucht die Firma einen neuen Mitarbeiter."
+    ]
+  },
+  {
+    "id": "s-work-019",
+    "de": "Ich habe mich um die Stelle als Teamleiter beworben.",
+    "en": "I applied for the position as team leader.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Stelle",
+        "role": "object"
+      },
+      {
+        "text": "als",
+        "role": "preposition"
+      },
+      {
+        "text": "Teamleiter",
+        "role": "object"
+      },
+      {
+        "text": "beworben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich bewerben' in Perfekt",
+      "'um' + accusative with 'sich bewerben'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-work-016"
+    ],
+    "builderHints": [
+      "'sich bewerben um' — the reflexive 'mich' comes early; the past participle goes to the end"
+    ],
+    "alternatives": [
+      "Um die Stelle als Teamleiter habe ich mich beworben."
+    ]
+  },
+  {
+    "id": "s-work-020",
+    "de": "Der Drucker funktioniert schon wieder nicht.",
+    "en": "The printer isn't working again.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Drucker",
+        "role": "subject"
+      },
+      {
+        "text": "funktioniert",
+        "role": "verb"
+      },
+      {
+        "text": "schon",
+        "role": "particle"
+      },
+      {
+        "text": "wieder",
+        "role": "adverb"
+      },
+      {
+        "text": "nicht",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Negation with 'nicht' at end",
+      "Modal particle 'schon' expressing frustration"
+    ],
+    "vocabIds": [
+      "v-phone-050"
+    ],
+    "builderHints": [
+      "'nicht' goes to the end for full sentence negation; 'schon wieder' is a common collocation"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-021",
+    "de": "Ich möchte mich kurz mit Ihnen besprechen.",
+    "en": "I'd like to have a brief discussion with you.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "kurz",
+        "role": "adverb"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "Ihnen",
+        "role": "object"
+      },
+      {
+        "text": "besprechen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchte' + infinitive",
+      "Reflexive 'sich besprechen mit' + dative",
+      "Formal dative 'Ihnen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-emails-046",
+      "v-work-026"
+    ],
+    "builderHints": [
+      "'möchte' in position 2, the infinitive 'besprechen' at the end; 'mit' takes the dative 'Ihnen'"
+    ],
+    "alternatives": [
+      "Kurz möchte ich mich mit Ihnen besprechen."
+    ]
+  },
+  {
+    "id": "s-work-022",
+    "de": "Obwohl er krank war, ist er zur Arbeit gekommen.",
+    "en": "Although he was sick, he came to work.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Obwohl",
+        "role": "conjunction"
+      },
+      {
+        "text": "er",
+        "role": "subject"
+      },
+      {
+        "text": "krank",
+        "role": "other"
+      },
+      {
+        "text": "war",
+        "role": "verb"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "er",
+        "role": "subject"
+      },
+      {
+        "text": "zur",
+        "role": "preposition"
+      },
+      {
+        "text": "Arbeit",
+        "role": "object"
+      },
+      {
+        "text": "gekommen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Subordinate clause with 'obwohl' — verb to end",
+      "Main clause after subordinate clause begins with verb",
+      "Perfekt with 'ist'"
+    ],
+    "vocabIds": [
+      "v-healthcare-042",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-emails-040",
+      "v-meetings-046",
+      "v-work-048"
+    ],
+    "builderHints": [
+      "After 'obwohl', the verb goes to the end; the main clause starts with 'ist' because the subordinate clause fills position 1"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-023",
+    "de": "Vergessen Sie nicht, die Dokumente zu unterschreiben.",
+    "en": "Don't forget to sign the documents.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Vergessen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "nicht",
+        "role": "particle"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Dokumente",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "particle"
+      },
+      {
+        "text": "unterschreiben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Infinitive clause with 'zu'",
+      "Formal imperative with 'Sie'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-phone-050",
+      "v-bureaucracy-032",
+      "v-housing-034"
+    ],
+    "builderHints": [
+      "The infinitive clause uses 'zu' + infinitive; in imperatives, the verb comes first"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-024",
+    "de": "Sie hat die Unterlagen bereits an den Kunden weitergeleitet.",
+    "en": "She has already forwarded the documents to the customer.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Unterlagen",
+        "role": "object"
+      },
+      {
+        "text": "bereits",
+        "role": "adverb"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Kunden",
+        "role": "object"
+      },
+      {
+        "text": "weitergeleitet",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with separable verb 'weiterleiten' — prefix stays attached in participle",
+      "Accusative after 'an' (direction)"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-bureaucracy-047",
+      "v-housing-050",
+      "v-meetings-050"
+    ],
+    "builderHints": [
+      "In the Perfekt, separable verbs rejoin: 'weiter' + 'ge' + 'leitet' = 'weitergeleitet'"
+    ],
+    "alternatives": [
+      "Die Unterlagen hat sie bereits an den Kunden weitergeleitet.",
+      "Bereits hat sie die Unterlagen an den Kunden weitergeleitet."
+    ]
+  },
+  {
+    "id": "s-work-025",
+    "de": "Ich freue mich auf die Zusammenarbeit mit Ihrem Team.",
+    "en": "I'm looking forward to working with your team.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "freue",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Zusammenarbeit",
+        "role": "object"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "Ihrem",
+        "role": "article"
+      },
+      {
+        "text": "Team",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich freuen auf' + accusative",
+      "'mit' + dative possessive 'Ihrem'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050",
+      "v-emails-046"
+    ],
+    "builderHints": [
+      "'sich freuen auf' takes the accusative; 'mit' takes the dative — 'Ihrem' is dative neuter"
+    ],
+    "alternatives": [
+      "Auf die Zusammenarbeit mit Ihrem Team freue ich mich."
+    ]
+  },
+  {
+    "id": "s-work-026",
+    "de": "Hast du die Rechnung schon an die Buchhaltung geschickt?",
+    "en": "Have you already sent the invoice to accounting?",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Hast",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Rechnung",
+        "role": "object"
+      },
+      {
+        "text": "schon",
+        "role": "adverb"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Buchhaltung",
+        "role": "object"
+      },
+      {
+        "text": "geschickt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with V1 word order",
+      "Perfekt: 'hast' + participle at end"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "In a yes/no question, the auxiliary 'hast' goes to position 1; the participle stays at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-027",
+    "de": "Wir brauchen mehr Zeit für die Vorbereitung der Präsentation.",
+    "en": "We need more time to prepare the presentation.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "brauchen",
+        "role": "verb"
+      },
+      {
+        "text": "mehr",
+        "role": "other"
+      },
+      {
+        "text": "Zeit",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Vorbereitung",
+        "role": "object"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Präsentation",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Genitive 'der Präsentation' (feminine genitive = 'der')",
+      "'für' + accusative"
+    ],
+    "vocabIds": [
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-meetings-015"
+    ],
+    "builderHints": [
+      "'der Präsentation' is genitive feminine — it means 'of the presentation'"
+    ],
+    "alternatives": [
+      "Mehr Zeit brauchen wir für die Vorbereitung der Präsentation.",
+      "Für die Vorbereitung der Präsentation brauchen wir mehr Zeit."
+    ]
+  },
+  {
+    "id": "s-work-028",
+    "de": "Ich soll Ihnen ausrichten, dass das Meeting verschoben wurde.",
+    "en": "I'm supposed to tell you that the meeting has been postponed.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "soll",
+        "role": "verb"
+      },
+      {
+        "text": "Ihnen",
+        "role": "object"
+      },
+      {
+        "text": "ausrichten",
+        "role": "verb"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Meeting",
+        "role": "subject"
+      },
+      {
+        "text": "verschoben",
+        "role": "verb"
+      },
+      {
+        "text": "wurde",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'soll' + infinitive",
+      "Subordinate clause with 'dass'",
+      "Passive voice 'verschoben wurde'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'soll' in position 2, infinitive at end of main clause; in the 'dass' clause, 'wurde' goes to the very end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-029",
+    "de": "Kannst du mir bitte beim Umzug ins neue Büro helfen?",
+    "en": "Can you please help me with the move to the new office?",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Kannst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "beim",
+        "role": "preposition"
+      },
+      {
+        "text": "Umzug",
+        "role": "object"
+      },
+      {
+        "text": "ins",
+        "role": "preposition"
+      },
+      {
+        "text": "neue",
+        "role": "other"
+      },
+      {
+        "text": "Büro",
+        "role": "object"
+      },
+      {
+        "text": "helfen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb question (V1)",
+      "Contractions 'beim' = bei + dem, 'ins' = in + das",
+      "Dative 'mir' with 'helfen'"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-travel-050",
+      "v-phone-046",
+      "v-phone-048",
+      "v-housing-018",
+      "v-work-022"
+    ],
+    "builderHints": [
+      "'helfen' takes the dative — 'mir'; 'beim' and 'ins' are common contractions"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-030",
+    "de": "Nach der Besprechung schreibe ich das Protokoll.",
+    "en": "After the meeting I'll write the minutes.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Nach",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Besprechung",
+        "role": "object"
+      },
+      {
+        "text": "schreibe",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Protokoll",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Inversion: prepositional phrase in position 1, verb in position 2, subject in position 3",
+      "'nach' + dative"
+    ],
+    "vocabIds": [
+      "v-work-001",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-002"
+    ],
+    "builderHints": [
+      "When a prepositional phrase starts the sentence, the verb stays in position 2 and the subject moves after it"
+    ],
+    "alternatives": [
+      "Ich schreibe nach der Besprechung das Protokoll."
+    ]
+  },
+  {
+    "id": "s-work-031",
+    "de": "Ich habe heute viel zu tun und mache Überstunden.",
+    "en": "I have a lot to do today and I'm working overtime.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "viel",
+        "role": "other"
+      },
+      {
+        "text": "zu",
+        "role": "particle"
+      },
+      {
+        "text": "tun",
+        "role": "verb"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "mache",
+        "role": "verb"
+      },
+      {
+        "text": "Überstunden",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Two main clauses joined with 'und'",
+      "Infinitive with 'zu'",
+      "Expression 'Überstunden machen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-travel-047"
+    ],
+    "builderHints": [
+      "'und' joins two main clauses; each clause keeps V2 word order"
+    ],
+    "alternatives": [
+      "Heute habe ich viel zu tun und mache Überstunden."
+    ]
+  },
+  {
+    "id": "s-work-032",
+    "de": "Die Chefin hat uns gebeten, den Vorschlag zu überarbeiten.",
+    "en": "The boss asked us to revise the proposal.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Chefin",
+        "role": "subject"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "uns",
+        "role": "object"
+      },
+      {
+        "text": "gebeten",
+        "role": "verb"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Vorschlag",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "particle"
+      },
+      {
+        "text": "überarbeiten",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt of 'bitten': 'hat gebeten'",
+      "Infinitive clause with 'zu' + infinitive"
+    ],
+    "vocabIds": [
+      "v-smalltalk-044",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-meetings-005",
+      "v-smalltalk-019"
+    ],
+    "builderHints": [
+      "The past participle 'gebeten' comes before the infinitive clause; 'zu' + infinitive goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-033",
+    "de": "Am Montag findet ein Workshop zum Thema Teamarbeit statt.",
+    "en": "On Monday there's a workshop on the topic of teamwork.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Am",
+        "role": "preposition"
+      },
+      {
+        "text": "Montag",
+        "role": "object"
+      },
+      {
+        "text": "findet",
+        "role": "verb"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Workshop",
+        "role": "subject"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "Thema",
+        "role": "object"
+      },
+      {
+        "text": "Teamarbeit",
+        "role": "object"
+      },
+      {
+        "text": "statt",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'stattfinden'",
+      "Inversion: time expression in position 1",
+      "Contractions 'am' = an + dem, 'zum' = zu + dem"
+    ],
+    "vocabIds": [
+      "v-meetings-048",
+      "v-travel-050",
+      "v-smalltalk-020"
+    ],
+    "builderHints": [
+      "'Am Montag' fills position 1, so the verb 'findet' goes to position 2 and the subject follows; 'statt' goes to the end"
+    ],
+    "alternatives": [
+      "Ein Workshop zum Thema Teamarbeit findet am Montag statt."
+    ]
+  },
+  {
+    "id": "s-work-034",
+    "de": "Ich bin der Meinung, dass wir mehr Ressourcen brauchen.",
+    "en": "I'm of the opinion that we need more resources.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Meinung",
+        "role": "object"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "mehr",
+        "role": "other"
+      },
+      {
+        "text": "Ressourcen",
+        "role": "object"
+      },
+      {
+        "text": "brauchen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Expression 'der Meinung sein'",
+      "Subordinate clause with 'dass' — verb at end"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "After 'dass', the verb 'brauchen' goes to the end of the clause"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-work-035",
+    "de": "Wir hören um halb sechs mit der Arbeit auf.",
+    "en": "We stop working at half past five.",
+    "situation": "work",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "hören",
+        "role": "verb"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "halb",
+        "role": "other"
+      },
+      {
+        "text": "sechs",
+        "role": "other"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Arbeit",
+        "role": "object"
+      },
+      {
+        "text": "auf",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'aufhören mit' + dative",
+      "German time: 'halb sechs' = 5:30 (half before six)"
+    ],
+    "vocabIds": [
+      "v-emails-046",
+      "v-shopping-048",
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050"
+    ],
+    "builderHints": [
+      "The prefix 'auf' goes to the end; 'mit' takes the dative 'der Arbeit'; 'halb sechs' means 5:30 in German"
+    ],
+    "alternatives": [
+      "Um halb sechs hören wir mit der Arbeit auf.",
+      "Mit der Arbeit hören wir um halb sechs auf."
+    ]
+  }
+]

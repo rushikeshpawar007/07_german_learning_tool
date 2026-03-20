@@ -1,0 +1,2795 @@
+[
+  {
+    "id": "v-smalltalk-001",
+    "word": "das Wetter",
+    "baseForm": "Wetter",
+    "gender": "das",
+    "plural": "Wetter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "weather",
+    "meaningDe": "die Beschaffenheit der Atmosphäre an einem bestimmten Ort",
+    "situations": [
+      "smalltalk",
+      "weather",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wie ist das Wetter bei euch?",
+        "en": "What's the weather like where you are?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Das Wetter soll am Wochenende besser werden.",
+        "en": "The weather is supposed to get better on the weekend.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bei diesem Wetter bleibe ich lieber zu Hause.",
+        "en": "In this weather, I'd rather stay at home.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'das Wetter' (weather) with 'die Wette' (bet).",
+      "Use 'Wie ist das Wetter?' not 'Wie macht das Wetter?'."
+    ],
+    "usageNotes": [
+      "Talking about the weather is the most common way to start small talk in Germany.",
+      "Often combined with 'schön', 'schlecht', or 'herrlich'."
+    ],
+    "relatedWords": [
+      "die Temperatur",
+      "der Regen",
+      "die Sonne",
+      "bewölkt"
+    ],
+    "tags": [
+      "weather",
+      "conversation-starter"
+    ]
+  },
+  {
+    "id": "v-smalltalk-002",
+    "word": "das Hobby",
+    "baseForm": "Hobby",
+    "gender": "das",
+    "plural": "Hobbys",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "hobby",
+    "meaningDe": "eine Freizeitbeschäftigung, der man regelmäßig nachgeht",
+    "situations": [
+      "smalltalk",
+      "free-time",
+      "getting-to-know"
+    ],
+    "examples": [
+      {
+        "de": "Hast du irgendwelche Hobbys?",
+        "en": "Do you have any hobbies?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Mein Hobby ist Fotografieren.",
+        "en": "My hobby is photography.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Seit der Pandemie habe ich ein neüs Hobby angefangen.",
+        "en": "Since the pandemic, I've started a new hobby.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "The plural is 'Hobbys' (not 'Hobbies') in German.",
+      "Use 'ein Hobby haben' not 'ein Hobby machen'."
+    ],
+    "usageNotes": [
+      "A classic small talk topic, especially when getting to know someone.",
+      "In casual speech, Germans often ask 'Was machst du so in deiner Freizeit?' instead."
+    ],
+    "relatedWords": [
+      "die Freizeit",
+      "die Beschäftigung",
+      "das Interesse"
+    ],
+    "tags": [
+      "free-time",
+      "getting-to-know"
+    ]
+  },
+  {
+    "id": "v-smalltalk-003",
+    "word": "der Urlaub",
+    "baseForm": "Urlaub",
+    "gender": "der",
+    "plural": "Urlaube",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "vacation, holiday",
+    "meaningDe": "eine Zeit, in der man nicht arbeitet und sich erholt",
+    "situations": [
+      "smalltalk",
+      "travel",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Warst du schon im Urlaub dieses Jahr?",
+        "en": "Have you been on vacation this year yet?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich fahre nächste Woche in den Urlaub.",
+        "en": "I'm going on vacation next week.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wie war dein Urlaub?",
+        "en": "How was your vacation?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'in den Urlaub fahren' (not 'zum Urlaub fahren').",
+      "Don't confuse 'der Urlaub' (time off) with 'die Reise' (the trip)."
+    ],
+    "usageNotes": [
+      "One of the most popular small talk topics in Germany, especially before and after summer.",
+      "'Urlaub' refers to the time off; 'Reise' refers to the trip itself."
+    ],
+    "relatedWords": [
+      "die Reise",
+      "das Reiseziel",
+      "verreisen",
+      "der Feiertag",
+      "v-work-019"
+    ],
+    "tags": [
+      "travel",
+      "popular-topic"
+    ]
+  },
+  {
+    "id": "v-smalltalk-004",
+    "word": "das Wochenende",
+    "baseForm": "Wochenende",
+    "gender": "das",
+    "plural": "Wochenenden",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "weekend",
+    "meaningDe": "Samstag und Sonntag; die arbeitsfreien Tage am Ende der Woche",
+    "situations": [
+      "smalltalk",
+      "daily-life",
+      "free-time"
+    ],
+    "examples": [
+      {
+        "de": "Was hast du am Wochenende vor?",
+        "en": "What are your plans for the weekend?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Am Wochenende machen wir einen Ausflug.",
+        "en": "On the weekend we're going on a trip.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Hattest du ein schönes Wochenende?",
+        "en": "Did you have a nice weekend?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'am Wochenende' (not 'im Wochenende' or 'auf dem Wochenende').",
+      "Remember: 'das' Wochenende, not 'der' or 'die'."
+    ],
+    "usageNotes": [
+      "Asking about weekend plans is a standard conversation opener at work on Fridays.",
+      "On Mondays, 'Wie war dein Wochenende?' is the go-to qüstion."
+    ],
+    "relatedWords": [
+      "der Samstag",
+      "der Sonntag",
+      "der Ausflug",
+      "die Freizeit"
+    ],
+    "tags": [
+      "daily-life",
+      "conversation-starter"
+    ]
+  },
+  {
+    "id": "v-smalltalk-005",
+    "word": "die Nachbarschaft",
+    "baseForm": "Nachbarschaft",
+    "gender": "die",
+    "plural": "Nachbarschaften",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "neighborhood",
+    "meaningDe": "die Umgebung, in der man wohnt; die Gesamtheit der Nachbarn",
+    "situations": [
+      "smalltalk",
+      "housing",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wie gefällt dir die Nachbarschaft?",
+        "en": "How do you like the neighborhood?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "In unserer Nachbarschaft gibt es viele nette Leute.",
+        "en": "In our neighborhood there are many nice people.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir haben eine sehr ruhige Nachbarschaft.",
+        "en": "We have a very quiet neighborhood.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'die Nachbarschaft' (neighborhood) with 'der Nachbar' (neighbor).",
+      "Use 'in der Nachbarschaft' (not 'auf der Nachbarschaft')."
+    ],
+    "usageNotes": [
+      "A common topic when someone has recently moved.",
+      "Germans valü a good neighborhood and often discuss it in small talk."
+    ],
+    "relatedWords": [
+      "der Nachbar",
+      "die Nachbarin",
+      "die Gegend",
+      "das Viertel"
+    ],
+    "tags": [
+      "housing",
+      "community"
+    ]
+  },
+  {
+    "id": "v-smalltalk-006",
+    "word": "die Veranstaltung",
+    "baseForm": "Veranstaltung",
+    "gender": "die",
+    "plural": "Veranstaltungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "event",
+    "meaningDe": "ein geplantes, öffentliches Ereignis wie ein Konzert oder eine Feier",
+    "situations": [
+      "smalltalk",
+      "culture",
+      "free-time"
+    ],
+    "examples": [
+      {
+        "de": "Gehst du zu der Veranstaltung am Samstag?",
+        "en": "Are you going to the event on Saturday?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Es gibt dieses Wochenende viele Veranstaltungen in der Stadt.",
+        "en": "There are many events in the city this weekend.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Veranstaltung war wirklich gut organisiert.",
+        "en": "The event was really well organized.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Pronunciation: stress is on the third syllable (Ver-AN-stal-tung).",
+      "Don't use 'Event' in formal contexts; 'Veranstaltung' is more appropriate."
+    ],
+    "usageNotes": [
+      "A versatile word that covers concerts, festivals, conferences, and parties.",
+      "In casual speech, Germans often just say 'Event' as a loan word."
+    ],
+    "relatedWords": [
+      "das Konzert",
+      "das Festival",
+      "die Feier",
+      "die Messe"
+    ],
+    "tags": [
+      "culture",
+      "events"
+    ]
+  },
+  {
+    "id": "v-smalltalk-007",
+    "word": "die Erfahrung",
+    "baseForm": "Erfahrung",
+    "gender": "die",
+    "plural": "Erfahrungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "experience",
+    "meaningDe": "Wissen oder Können, das man durch Erleben gewonnen hat",
+    "situations": [
+      "smalltalk",
+      "work",
+      "getting-to-know"
+    ],
+    "examples": [
+      {
+        "de": "Hast du Erfahrung mit Kochen?",
+        "en": "Do you have experience with cooking?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Das war eine tolle Erfahrung.",
+        "en": "That was a great experience.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Aus meiner Erfahrung kann ich sagen, dass es sich lohnt.",
+        "en": "From my experience, I can say it's worth it.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'Erfahrung mit' + Dativ (not 'Erfahrung in' for general topics).",
+      "Don't confuse 'Erfahrung' (experience) with 'Erlebnis' (memorable event/experience)."
+    ],
+    "usageNotes": [
+      "'Erfahrung' emphasizes knowledge gained, while 'Erlebnis' emphasizes the emotional experience.",
+      "Very useful in small talk when sharing stories or giving advice."
+    ],
+    "relatedWords": [
+      "das Erlebnis",
+      "erfahren",
+      "die Kenntnis"
+    ],
+    "tags": [
+      "abstract",
+      "sharing-stories"
+    ]
+  },
+  {
+    "id": "v-smalltalk-008",
+    "word": "die Stimmung",
+    "baseForm": "Stimmung",
+    "gender": "die",
+    "plural": "Stimmungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "mood, atmosphere",
+    "meaningDe": "die allgemeine Gefühlslage oder Atmosphäre",
+    "situations": [
+      "smalltalk",
+      "emotions",
+      "events"
+    ],
+    "examples": [
+      {
+        "de": "Die Stimmung auf der Party war super.",
+        "en": "The atmosphere at the party was great.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich bin heute in guter Stimmung.",
+        "en": "I'm in a good mood today.",
+        "tone": "informal"
+      },
+      {
+        "de": "Wie ist die Stimmung bei euch im Büro?",
+        "en": "What's the mood like at your office?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'in guter/schlechter Stimmung sein' (not 'eine gute Stimmung haben').",
+      "Don't confuse 'Stimmung' (mood/atmosphere) with 'Stimme' (voice)."
+    ],
+    "usageNotes": [
+      "Can refer to both personal mood and the atmosphere of a place or event.",
+      "'Stimmung!' is also used as an exclamation at parties, meaning 'Let's get the party going!'"
+    ],
+    "relatedWords": [
+      "die Laune",
+      "die Atmosphäre",
+      "gestimmt"
+    ],
+    "tags": [
+      "emotions",
+      "events"
+    ]
+  },
+  {
+    "id": "v-smalltalk-009",
+    "word": "der Geschmack",
+    "baseForm": "Geschmack",
+    "gender": "der",
+    "plural": "Geschmäcker",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "taste (literal and figurative)",
+    "meaningDe": "der Sinn für das, was man mag; auch: der Sinneseindruck beim Essen",
+    "situations": [
+      "smalltalk",
+      "food",
+      "culture"
+    ],
+    "examples": [
+      {
+        "de": "Du hast einen guten Geschmack!",
+        "en": "You have good taste!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Über Geschmack lässt sich nicht streiten.",
+        "en": "There's no accounting for taste.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Essen hat einen interessanten Geschmack.",
+        "en": "The food has an interesting taste.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "The plural 'Geschmäcker' is irregular; don't say 'Geschmacke'.",
+      "Use 'Geschmack haben' for figurative taste, 'schmecken' for literal tasting."
+    ],
+    "usageNotes": [
+      "Works both for literal taste (food) and figurative taste (style, preferences).",
+      "The saying 'Über Geschmack lässt sich nicht streiten' is very common in conversation."
+    ],
+    "relatedWords": [
+      "schmecken",
+      "geschmacklos",
+      "der Lieblingsgeschmack"
+    ],
+    "tags": [
+      "food",
+      "preferences"
+    ]
+  },
+  {
+    "id": "v-smalltalk-010",
+    "word": "der Tipp",
+    "baseForm": "Tipp",
+    "gender": "der",
+    "plural": "Tipps",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "tip, piece of advice",
+    "meaningDe": "ein nützlicher Hinweis oder Ratschlag",
+    "situations": [
+      "smalltalk",
+      "advice",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Hast du einen Tipp für ein gutes Restaurant?",
+        "en": "Do you have a tip for a good restaurant?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Danke für den Tipp!",
+        "en": "Thanks for the tip!",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich habe einen guten Tipp für dich.",
+        "en": "I have a good tip for you.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Spelled with double 'p' in German: 'Tipp' (not 'Tip').",
+      "Use 'einen Tipp geben' (not 'einen Tipp sagen')."
+    ],
+    "usageNotes": [
+      "Very common in casual conversation for sharing recommendations.",
+      "Often used with restaurants, travel destinations, and life hacks."
+    ],
+    "relatedWords": [
+      "der Ratschlag",
+      "empfehlen",
+      "der Hinweis"
+    ],
+    "tags": [
+      "advice",
+      "recommendations"
+    ]
+  },
+  {
+    "id": "v-smalltalk-011",
+    "word": "die Neuigkeit",
+    "baseForm": "Neuigkeit",
+    "gender": "die",
+    "plural": "Neuigkeiten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "news (piece of news)",
+    "meaningDe": "eine neü, interessante Information",
+    "situations": [
+      "smalltalk",
+      "news",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Gibt es irgendwelche Neuigkeiten?",
+        "en": "Is there any news?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich habe eine tolle Neuigkeit für dich!",
+        "en": "I have great news for you!",
+        "tone": "informal"
+      },
+      {
+        "de": "Erzähl mal, was gibt es für Neuigkeiten?",
+        "en": "Tell me, what's new?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'Neuigkeit' (a piece of news) with 'Nachrichten' (news broadcast).",
+      "Usually used in plural: 'Neuigkeiten'."
+    ],
+    "usageNotes": [
+      "Perfect for catching up with someone you haven't seen in a while.",
+      "'Nachrichten' refers to news on TV/radio; 'Neuigkeiten' is personal or local news."
+    ],
+    "relatedWords": [
+      "die Nachrichten",
+      "neu",
+      "erfahren"
+    ],
+    "tags": [
+      "news",
+      "catching-up"
+    ]
+  },
+  {
+    "id": "v-smalltalk-012",
+    "word": "die Empfehlung",
+    "baseForm": "Empfehlung",
+    "gender": "die",
+    "plural": "Empfehlungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "recommendation",
+    "meaningDe": "ein Vorschlag oder Ratschlag, etwas Bestimmtes zu tun",
+    "situations": [
+      "smalltalk",
+      "advice",
+      "food"
+    ],
+    "examples": [
+      {
+        "de": "Hast du eine Empfehlung für einen guten Film?",
+        "en": "Do you have a recommendation for a good movie?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Auf Empfehlung meiner Freundin habe ich das Buch gelesen.",
+        "en": "On my friend's recommendation, I read the book.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich kann dir eine Empfehlung geben.",
+        "en": "I can give you a recommendation.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'eine Empfehlung geben/aussprechen' (not 'eine Empfehlung machen').",
+      "Don't confuse with 'Empfindung' (sensation/feeling)."
+    ],
+    "usageNotes": [
+      "Very useful in small talk when discussing restaurants, books, movies, or travel.",
+      "More formal than 'Tipp'; use 'Tipp' in casual settings."
+    ],
+    "relatedWords": [
+      "empfehlen",
+      "der Tipp",
+      "der Vorschlag",
+      "raten"
+    ],
+    "tags": [
+      "advice",
+      "recommendations"
+    ]
+  },
+  {
+    "id": "v-smalltalk-013",
+    "word": "die Laune",
+    "baseForm": "Laune",
+    "gender": "die",
+    "plural": "Launen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "mood",
+    "meaningDe": "die augenblickliche Gemütsverfassung",
+    "situations": [
+      "smalltalk",
+      "emotions",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Du bist ja heute gut gelaunt!",
+        "en": "You're in a good mood today!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Lass dir nicht die Laune verderben.",
+        "en": "Don't let it ruin your mood.",
+        "tone": "informal"
+      },
+      {
+        "de": "Er hat immer gute Laune.",
+        "en": "He's always in a good mood.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'gute/schlechte Laune haben' (without article: not 'eine gute Laune haben').",
+      "Don't confuse 'Laune' (mood) with 'launisch' (moody, as a personality trait)."
+    ],
+    "usageNotes": [
+      "More casual than 'Stimmung' and focuses on personal mood rather than atmosphere.",
+      "The adjective 'gelaunt' is very common: 'gut gelaunt', 'schlecht gelaunt'."
+    ],
+    "relatedWords": [
+      "die Stimmung",
+      "gelaunt",
+      "launisch",
+      "die Gemütslage"
+    ],
+    "tags": [
+      "emotions",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "v-smalltalk-014",
+    "word": "der Ausflug",
+    "baseForm": "Ausflug",
+    "gender": "der",
+    "plural": "Ausflüge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "trip, excursion, outing",
+    "meaningDe": "ein kurzer Besuch an einem anderen Ort, meist zur Erholung",
+    "situations": [
+      "smalltalk",
+      "free-time",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wir machen am Sonntag einen Ausflug an den See.",
+        "en": "We're taking a trip to the lake on Sunday.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Habt ihr Lust auf einen Ausflug?",
+        "en": "Do you feel like going on an outing?",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Ausflug in die Berge war wunderschön.",
+        "en": "The excursion to the mountains was wonderful.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'einen Ausflug machen' (not 'einen Ausflug nehmen').",
+      "The plural has an umlaut: 'Ausflüge' (not 'Ausflugs')."
+    ],
+    "usageNotes": [
+      "Refers to a short day trip, not a longer vacation.",
+      "Very common small talk topic, especially on Fridays and Mondays."
+    ],
+    "relatedWords": [
+      "die Wanderung",
+      "der Spaziergang",
+      "die Reise",
+      "verreisen"
+    ],
+    "tags": [
+      "free-time",
+      "travel"
+    ]
+  },
+  {
+    "id": "v-smalltalk-015",
+    "word": "die Gegend",
+    "baseForm": "Gegend",
+    "gender": "die",
+    "plural": "Gegenden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "area, region",
+    "meaningDe": "ein bestimmter Bereich oder eine Umgebung",
+    "situations": [
+      "smalltalk",
+      "housing",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wie findest du die Gegend hier?",
+        "en": "How do you like the area here?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "In der Gegend gibt es viele schöne Cafés.",
+        "en": "There are many nice cafes in the area.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich kenne mich in dieser Gegend nicht so gut aus.",
+        "en": "I don't know this area very well.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'in der Gegend' (not 'auf der Gegend').",
+      "Don't confuse 'Gegend' (area) with 'Gebiet' (territory, more formal/political)."
+    ],
+    "usageNotes": [
+      "Often used when talking about where you live or a place you visited.",
+      "More casual than 'Region' or 'Gebiet'."
+    ],
+    "relatedWords": [
+      "die Umgebung",
+      "das Viertel",
+      "die Region",
+      "die Nachbarschaft"
+    ],
+    "tags": [
+      "location",
+      "housing"
+    ]
+  },
+  {
+    "id": "v-smalltalk-016",
+    "word": "die Abwechslung",
+    "baseForm": "Abwechslung",
+    "gender": "die",
+    "plural": "Abwechslungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "change, variety",
+    "meaningDe": "etwas Anderes als das Gewohnte; Abwechslung vom Alltag",
+    "situations": [
+      "smalltalk",
+      "daily-life",
+      "free-time"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche mal etwas Abwechslung.",
+        "en": "I need some variety for a change.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Zur Abwechslung könnten wir mal ins Theater gehen.",
+        "en": "For a change, we could go to the theater.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Reisen bietet eine schöne Abwechslung zum Alltag.",
+        "en": "Traveling offers a nice change from everyday life.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'zur Abwechslung' (for a change), not 'für Abwechslung'.",
+      "Don't forget the prefix: 'Abwechslung' (not 'Wechslung')."
+    ],
+    "usageNotes": [
+      "A great word for expressing the desire to do something different.",
+      "Often appears with 'mal': 'mal zur Abwechslung'."
+    ],
+    "relatedWords": [
+      "abwechslungsreich",
+      "der Alltag",
+      "die Routine"
+    ],
+    "tags": [
+      "daily-life",
+      "variety"
+    ]
+  },
+  {
+    "id": "v-smalltalk-017",
+    "word": "die Unternehmung",
+    "baseForm": "Unternehmung",
+    "gender": "die",
+    "plural": "Unternehmungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "activity, undertaking",
+    "meaningDe": "etwas, das man plant und gemeinsam macht",
+    "situations": [
+      "smalltalk",
+      "free-time",
+      "planning"
+    ],
+    "examples": [
+      {
+        "de": "Habt ihr am Wochenende irgendwelche Unternehmungen geplant?",
+        "en": "Do you have any activities planned for the weekend?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir sind immer offen für gemeinsame Unternehmungen.",
+        "en": "We're always open for doing things together.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das war eine tolle Unternehmung.",
+        "en": "That was a great activity.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'die Unternehmung' (activity) with 'das Unternehmen' (company/business).",
+      "Use 'etwas unternehmen' as the verb form, not 'eine Unternehmung machen'."
+    ],
+    "usageNotes": [
+      "Slightly formal; in casual speech, people prefer 'etwas unternehmen' or 'etwas machen'.",
+      "Implies a planned group activity."
+    ],
+    "relatedWords": [
+      "unternehmen",
+      "der Ausflug",
+      "die Aktivität",
+      "vorhaben"
+    ],
+    "tags": [
+      "planning",
+      "group-activities"
+    ]
+  },
+  {
+    "id": "v-smalltalk-018",
+    "word": "der Eindruck",
+    "baseForm": "Eindruck",
+    "gender": "der",
+    "plural": "Eindrücke",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "impression",
+    "meaningDe": "die Wirkung, die etwas oder jemand auf einen hat",
+    "situations": [
+      "smalltalk",
+      "opinions",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Was ist dein erster Eindruck?",
+        "en": "What's your first impression?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Die Stadt hat einen guten Eindruck auf mich gemacht.",
+        "en": "The city made a good impression on me.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe den Eindruck, dass es hier sehr gemütlich ist.",
+        "en": "I have the impression that it's very cozy here.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'einen Eindruck machen' (not 'einen Eindruck geben').",
+      "Plural with umlaut: 'Eindrücke' (not 'Eindrucke')."
+    ],
+    "usageNotes": [
+      "Perfect for expressing opinions politely: 'Ich habe den Eindruck, dass...'",
+      "Often used when discussing travel experiences or meeting new people."
+    ],
+    "relatedWords": [
+      "beeindruckend",
+      "beeindrucken",
+      "eindrucksvoll"
+    ],
+    "tags": [
+      "opinions",
+      "politeness"
+    ]
+  },
+  {
+    "id": "v-smalltalk-019",
+    "word": "der Vorschlag",
+    "baseForm": "Vorschlag",
+    "gender": "der",
+    "plural": "Vorschläge",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "suggestion, proposal",
+    "meaningDe": "eine Idee, die man jemandem empfiehlt",
+    "situations": [
+      "smalltalk",
+      "planning",
+      "advice"
+    ],
+    "examples": [
+      {
+        "de": "Ich hätte einen Vorschlag.",
+        "en": "I'd have a suggestion.",
+        "situation": "smalltalk",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das ist ein guter Vorschlag!",
+        "en": "That's a good suggestion!",
+        "tone": "informal"
+      },
+      {
+        "de": "Hast du einen Vorschlag, wo wir essen gehen könnten?",
+        "en": "Do you have a suggestion for where we could go eat?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'einen Vorschlag machen' (not 'einen Vorschlag geben').",
+      "Plural with umlaut: 'Vorschläge' (not 'Vorschlage')."
+    ],
+    "usageNotes": [
+      "A polite way to introduce your idea in a conversation.",
+      "Often used with Konjunktiv II: 'Ich hätte da einen Vorschlag.'"
+    ],
+    "relatedWords": [
+      "vorschlagen",
+      "die Idee",
+      "die Empfehlung",
+      "der Tipp",
+      "v-meetings-005"
+    ],
+    "tags": [
+      "planning",
+      "suggestions"
+    ]
+  },
+  {
+    "id": "v-smalltalk-020",
+    "word": "das Thema",
+    "baseForm": "Thema",
+    "gender": "das",
+    "plural": "Themen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "topic, subject",
+    "meaningDe": "ein Gegenstand, über den man spricht oder nachdenkt",
+    "situations": [
+      "smalltalk",
+      "conversation",
+      "general"
+    ],
+    "examples": [
+      {
+        "de": "Lass uns das Thema wechseln.",
+        "en": "Let's change the subject.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Das ist ein spannendes Thema.",
+        "en": "That's an exciting topic.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Welche Themen interessieren dich?",
+        "en": "What topics interest you?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Irregular plural: 'Themen' (not 'Themas').",
+      "Use 'über ein Thema sprechen' (not 'von einem Thema sprechen')."
+    ],
+    "usageNotes": [
+      "Useful for navigating conversations: changing or introducing topics.",
+      "'Kein Thema!' is a casual way of saying 'No problem!'"
+    ],
+    "relatedWords": [
+      "das Gespräch",
+      "besprechen",
+      "thematisieren"
+    ],
+    "tags": [
+      "conversation",
+      "meta"
+    ]
+  },
+  {
+    "id": "v-smalltalk-021",
+    "word": "sich unterhalten",
+    "baseForm": "unterhalten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to chat, to have a conversation",
+    "meaningDe": "mit jemandem ein Gespräch führen",
+    "situations": [
+      "smalltalk",
+      "conversation",
+      "social"
+    ],
+    "examples": [
+      {
+        "de": "Wir haben uns lange unterhalten.",
+        "en": "We chatted for a long time.",
+        "situation": "smalltalk",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich unterhalte mich gern mit meinen Nachbarn.",
+        "en": "I enjoy chatting with my neighbors.",
+        "tone": "informal"
+      },
+      {
+        "de": "Worüber habt ihr euch unterhalten?",
+        "en": "What did you talk about?",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "unterhalte mich",
+        "du": "unterhältst dich",
+        "er_sie_es": "unterhält sich",
+        "wir": "unterhalten uns",
+        "ihr": "unterhaltet euch",
+        "sie_Sie": "unterhalten sich"
+      },
+      "past": {
+        "ich": "unterhielt mich",
+        "du": "unterhieltest dich",
+        "er_sie_es": "unterhielt sich",
+        "wir": "unterhielten uns",
+        "ihr": "unterhieltet euch",
+        "sie_Sie": "unterhielten sich"
+      },
+      "pastParticiple": "unterhalten",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Don't forget the reflexive pronoun: 'sich unterhalten' (not just 'unterhalten').",
+      "Use 'über' + Akkusativ for the topic: 'sich über das Wetter unterhalten'."
+    ],
+    "usageNotes": [
+      "The reflexive form means 'to chat'; without 'sich', 'unterhalten' means 'to entertain'.",
+      "More natural than 'sprechen' for casual conversations."
+    ],
+    "relatedWords": [
+      "das Gespräch",
+      "reden",
+      "plaudern",
+      "die Unterhaltung"
+    ],
+    "tags": [
+      "conversation",
+      "social"
+    ]
+  },
+  {
+    "id": "v-smalltalk-022",
+    "word": "erzählen",
+    "baseForm": "erzählen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to tell, to narrate",
+    "meaningDe": "jemandem etwas berichten oder eine Geschichte wiedergeben",
+    "situations": [
+      "smalltalk",
+      "storytelling",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Erzähl mal, wie war dein Urlaub?",
+        "en": "Tell me, how was your vacation?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Sie hat mir eine lustige Geschichte erzählt.",
+        "en": "She told me a funny story.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Davon hast du mir noch nie erzählt!",
+        "en": "You've never told me about that!",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erzähle",
+        "du": "erzählst",
+        "er_sie_es": "erzählt",
+        "wir": "erzählen",
+        "ihr": "erzählt",
+        "sie_Sie": "erzählen"
+      },
+      "past": {
+        "ich": "erzählte",
+        "du": "erzähltest",
+        "er_sie_es": "erzählte",
+        "wir": "erzählten",
+        "ihr": "erzähltet",
+        "sie_Sie": "erzählten"
+      },
+      "pastParticiple": "erzählt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Don't confuse 'erzählen' (to tell/narrate) with 'sagen' (to say). 'Erzählen' implies a longer story.",
+      "Use dative for the person: 'jemandem etwas erzählen' (not 'jemanden')."
+    ],
+    "usageNotes": [
+      "'Erzähl mal!' is a very common conversational prompt meaning 'Go on, tell me!'",
+      "Often used with 'von' + Dativ: 'von der Reise erzählen'."
+    ],
+    "relatedWords": [
+      "die Erzählung",
+      "berichten",
+      "sagen",
+      "die Geschichte"
+    ],
+    "tags": [
+      "storytelling",
+      "conversation"
+    ]
+  },
+  {
+    "id": "v-smalltalk-023",
+    "word": "empfehlen",
+    "baseForm": "empfehlen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to recommend",
+    "meaningDe": "jemandem raten, etwas zu tun oder auszuprobieren",
+    "situations": [
+      "smalltalk",
+      "advice",
+      "food"
+    ],
+    "examples": [
+      {
+        "de": "Kannst du mir ein gutes Restaurant empfehlen?",
+        "en": "Can you recommend a good restaurant to me?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich empfehle dir dieses Buch.",
+        "en": "I recommend this book to you.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Was würdest du empfehlen?",
+        "en": "What would you recommend?",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "empfehle",
+        "du": "empfiehlst",
+        "er_sie_es": "empfiehlt",
+        "wir": "empfehlen",
+        "ihr": "empfehlt",
+        "sie_Sie": "empfehlen"
+      },
+      "past": {
+        "ich": "empfahl",
+        "du": "empfahlst",
+        "er_sie_es": "empfahl",
+        "wir": "empfahlen",
+        "ihr": "empfahlt",
+        "sie_Sie": "empfahlen"
+      },
+      "pastParticiple": "empfohlen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Irregular verb: stem changes to 'ie' in du/er forms (empfiehlst, empfiehlt).",
+      "Past participle is 'empfohlen' (not 'empfehlt')."
+    ],
+    "usageNotes": [
+      "Takes dative for the person and accusative for the thing: 'jemandem etwas empfehlen'.",
+      "Very common in small talk when sharing tips about restaurants, movies, or travel."
+    ],
+    "relatedWords": [
+      "die Empfehlung",
+      "raten",
+      "vorschlagen",
+      "der Tipp",
+      "v-shopping-036"
+    ],
+    "tags": [
+      "advice",
+      "recommendations"
+    ]
+  },
+  {
+    "id": "v-smalltalk-024",
+    "word": "kennenlernen",
+    "baseForm": "kennenlernen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to get to know, to meet (for the first time)",
+    "meaningDe": "jemanden zum ersten Mal treffen und etwas über ihn erfahren",
+    "situations": [
+      "smalltalk",
+      "getting-to-know",
+      "social"
+    ],
+    "examples": [
+      {
+        "de": "Freut mich, dich kennenzulernen!",
+        "en": "Nice to meet you!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Wo habt ihr euch kennengelernt?",
+        "en": "Where did you meet?",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich würde gern neü Leute kennenlernen.",
+        "en": "I'd like to meet new people.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "lerne kennen",
+        "du": "lernst kennen",
+        "er_sie_es": "lernt kennen",
+        "wir": "lernen kennen",
+        "ihr": "lernt kennen",
+        "sie_Sie": "lernen kennen"
+      },
+      "past": {
+        "ich": "lernte kennen",
+        "du": "lerntest kennen",
+        "er_sie_es": "lernte kennen",
+        "wir": "lernten kennen",
+        "ihr": "lerntet kennen",
+        "sie_Sie": "lernten kennen"
+      },
+      "pastParticiple": "kennengelernt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Ich lerne ihn kennen' (not 'Ich kennenlerne ihn').",
+      "Don't confuse 'kennenlernen' (to meet for first time) with 'treffen' (to meet up with someone you know)."
+    ],
+    "usageNotes": [
+      "Used exclusively for first meetings; use 'treffen' for subseqünt meetings.",
+      "'Freut mich, Sie kennenzulernen' is the formal version."
+    ],
+    "relatedWords": [
+      "treffen",
+      "sich vorstellen",
+      "die Bekanntschaft",
+      "bekannt"
+    ],
+    "tags": [
+      "first-meeting",
+      "social"
+    ]
+  },
+  {
+    "id": "v-smalltalk-025",
+    "word": "vorhaben",
+    "baseForm": "vorhaben",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to plan, to intend",
+    "meaningDe": "die Absicht haben, etwas Bestimmtes zu tun",
+    "situations": [
+      "smalltalk",
+      "planning",
+      "free-time"
+    ],
+    "examples": [
+      {
+        "de": "Was hast du heute Abend vor?",
+        "en": "What are you up to tonight?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Hast du am Samstag schon etwas vor?",
+        "en": "Do you already have plans for Saturday?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir haben vor, nächstes Jahr nach Spanien zu fahren.",
+        "en": "We plan to go to Spain next year.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "habe vor",
+        "du": "hast vor",
+        "er_sie_es": "hat vor",
+        "wir": "haben vor",
+        "ihr": "habt vor",
+        "sie_Sie": "haben vor"
+      },
+      "past": {
+        "ich": "hatte vor",
+        "du": "hattest vor",
+        "er_sie_es": "hatte vor",
+        "wir": "hatten vor",
+        "ihr": "hattet vor",
+        "sie_Sie": "hatten vor"
+      },
+      "pastParticiple": "vorgehabt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Was hast du vor?' (not 'Was vorhast du?').",
+      "Don't confuse 'vorhaben' (to plan) with 'vorstellen' (to introduce/imagine)."
+    ],
+    "usageNotes": [
+      "'Hast du was vor?' is one of the most common casual qüstions in German.",
+      "Can be used with 'zu + Infinitiv': 'Ich habe vor, früh aufzustehen.'"
+    ],
+    "relatedWords": [
+      "planen",
+      "die Pläne",
+      "beabsichtigen",
+      "der Vorsatz"
+    ],
+    "tags": [
+      "planning",
+      "casual"
+    ]
+  },
+  {
+    "id": "v-smalltalk-026",
+    "word": "sich freün",
+    "baseForm": "freün",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to be happy, to look forward to",
+    "meaningDe": "Freude empfinden; etwas mit Vorfreude erwarten",
+    "situations": [
+      "smalltalk",
+      "emotions",
+      "social"
+    ],
+    "examples": [
+      {
+        "de": "Ich freü mich auf das Wochenende.",
+        "en": "I'm looking forward to the weekend.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Freut mich!",
+        "en": "Nice to meet you! / Glad to hear it!",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir freün uns, dass du kommen kannst.",
+        "en": "We're happy that you can come.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "freü mich",
+        "du": "freust dich",
+        "er_sie_es": "freut sich",
+        "wir": "freün uns",
+        "ihr": "freut euch",
+        "sie_Sie": "freün sich"
+      },
+      "past": {
+        "ich": "freute mich",
+        "du": "freutest dich",
+        "er_sie_es": "freute sich",
+        "wir": "freuten uns",
+        "ihr": "freutet euch",
+        "sie_Sie": "freuten sich"
+      },
+      "pastParticiple": "gefreut",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'sich freün auf' = to look forward to (future); 'sich freün über' = to be happy about (present/past).",
+      "Don't forget the reflexive pronoun: 'Ich freü mich' (not 'Ich freü')."
+    ],
+    "usageNotes": [
+      "'Freut mich!' alone is a common greeting response, short for 'Es freut mich, Sie kennenzulernen.'",
+      "The auf/über distinction is very important and often tested."
+    ],
+    "relatedWords": [
+      "die Freude",
+      "erfreut",
+      "die Vorfreude",
+      "froh"
+    ],
+    "tags": [
+      "emotions",
+      "greetings"
+    ]
+  },
+  {
+    "id": "v-smalltalk-027",
+    "word": "unternehmen",
+    "baseForm": "unternehmen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to do (an activity), to undertake",
+    "meaningDe": "eine Aktivität planen und durchführen",
+    "situations": [
+      "smalltalk",
+      "free-time",
+      "planning"
+    ],
+    "examples": [
+      {
+        "de": "Wollen wir am Wochenende etwas unternehmen?",
+        "en": "Shall we do something on the weekend?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Was habt ihr gestern unternommen?",
+        "en": "What did you do yesterday?",
+        "tone": "informal"
+      },
+      {
+        "de": "Bei dem schönen Wetter muss man etwas unternehmen.",
+        "en": "In this nice weather, you have to do something.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "unternehme",
+        "du": "unternimmst",
+        "er_sie_es": "unternimmt",
+        "wir": "unternehmen",
+        "ihr": "unternehmt",
+        "sie_Sie": "unternehmen"
+      },
+      "past": {
+        "ich": "unternahm",
+        "du": "unternahmst",
+        "er_sie_es": "unternahm",
+        "wir": "unternahmen",
+        "ihr": "unternahmt",
+        "sie_Sie": "unternahmen"
+      },
+      "pastParticiple": "unternommen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Inseparable verb (unlike many 'unter-' verbs): 'Ich unternehme' (not 'Ich nehme unter').",
+      "Stem change: 'du unternimmst' (not 'du unternemmst')."
+    ],
+    "usageNotes": [
+      "Often used with 'etwas': 'etwas unternehmen' = to do an activity together.",
+      "More active than 'machen'; implies going out and doing something fun."
+    ],
+    "relatedWords": [
+      "die Unternehmung",
+      "vorhaben",
+      "machen",
+      "der Ausflug"
+    ],
+    "tags": [
+      "activities",
+      "planning"
+    ]
+  },
+  {
+    "id": "v-smalltalk-028",
+    "word": "sich gewöhnen an",
+    "baseForm": "gewöhnen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to get used to",
+    "meaningDe": "sich an etwas Neüs anpassen",
+    "situations": [
+      "smalltalk",
+      "daily-life",
+      "moving"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mich an das Wetter hier gewöhnt.",
+        "en": "I've gotten used to the weather here.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Man gewöhnt sich schnell daran.",
+        "en": "You get used to it quickly.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Hast du dich schon an die neü Stadt gewöhnt?",
+        "en": "Have you gotten used to the new city yet?",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "gewöhne mich",
+        "du": "gewöhnst dich",
+        "er_sie_es": "gewöhnt sich",
+        "wir": "gewöhnen uns",
+        "ihr": "gewöhnt euch",
+        "sie_Sie": "gewöhnen sich"
+      },
+      "past": {
+        "ich": "gewöhnte mich",
+        "du": "gewöhntest dich",
+        "er_sie_es": "gewöhnte sich",
+        "wir": "gewöhnten uns",
+        "ihr": "gewöhntet euch",
+        "sie_Sie": "gewöhnten sich"
+      },
+      "pastParticiple": "gewöhnt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Always needs 'an' + Akkusativ: 'sich an etwas gewöhnen' (not 'sich zu etwas gewöhnen').",
+      "Don't confuse with 'gewohnt sein' (to be accustomed to), which uses 'an' + Akkusativ too but is a state, not a process."
+    ],
+    "usageNotes": [
+      "Very useful for people who have recently moved or started something new.",
+      "Often combined with 'daran': 'Ich habe mich daran gewöhnt.'"
+    ],
+    "relatedWords": [
+      "die Gewohnheit",
+      "gewohnt",
+      "gewöhnlich",
+      "sich anpassen"
+    ],
+    "tags": [
+      "adaptation",
+      "daily-life"
+    ]
+  },
+  {
+    "id": "v-smalltalk-029",
+    "word": "vorbeikommen",
+    "baseForm": "vorbeikommen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to come by, to stop by, to visit",
+    "meaningDe": "jemanden kurz besuchen; an einem Ort vorbeigehen",
+    "situations": [
+      "smalltalk",
+      "social",
+      "invitations"
+    ],
+    "examples": [
+      {
+        "de": "Komm doch mal bei uns vorbei!",
+        "en": "Come by our place sometime!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich komme morgen kurz bei dir vorbei.",
+        "en": "I'll stop by your place briefly tomorrow.",
+        "tone": "informal"
+      },
+      {
+        "de": "Wann kommst du mal wieder vorbei?",
+        "en": "When will you come by again?",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "komme vorbei",
+        "du": "kommst vorbei",
+        "er_sie_es": "kommt vorbei",
+        "wir": "kommen vorbei",
+        "ihr": "kommt vorbei",
+        "sie_Sie": "kommen vorbei"
+      },
+      "past": {
+        "ich": "kam vorbei",
+        "du": "kamst vorbei",
+        "er_sie_es": "kam vorbei",
+        "wir": "kamen vorbei",
+        "ihr": "kamt vorbei",
+        "sie_Sie": "kamen vorbei"
+      },
+      "pastParticiple": "vorbeigekommen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Uses 'sein' as auxiliary (not 'haben'): 'Ich bin vorbeigekommen.'",
+      "Separable verb: 'Ich komme vorbei' (not 'Ich vorbeikomme')."
+    ],
+    "usageNotes": [
+      "A casual, friendly way to invite someone. Very common in German neighborhoods.",
+      "Often combined with 'mal' and 'bei': 'Komm mal bei mir vorbei!'"
+    ],
+    "relatedWords": [
+      "besuchen",
+      "vorbeigehen",
+      "vorbeischauen",
+      "der Besuch"
+    ],
+    "tags": [
+      "invitations",
+      "casual"
+    ]
+  },
+  {
+    "id": "v-smalltalk-030",
+    "word": "sich verabreden",
+    "baseForm": "verabreden",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to arrange to meet, to make plans with someone",
+    "meaningDe": "einen Termin oder ein Treffen mit jemandem vereinbaren",
+    "situations": [
+      "smalltalk",
+      "social",
+      "planning"
+    ],
+    "examples": [
+      {
+        "de": "Wollen wir uns mal verabreden?",
+        "en": "Shall we make plans to meet up?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich bin schon verabredet.",
+        "en": "I already have plans.",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir haben uns für Freitag verabredet.",
+        "en": "We've arranged to meet on Friday.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verabrede mich",
+        "du": "verabredest dich",
+        "er_sie_es": "verabredet sich",
+        "wir": "verabreden uns",
+        "ihr": "verabredet euch",
+        "sie_Sie": "verabreden sich"
+      },
+      "past": {
+        "ich": "verabredete mich",
+        "du": "verabredetest dich",
+        "er_sie_es": "verabredete sich",
+        "wir": "verabredeten uns",
+        "ihr": "verabredetet euch",
+        "sie_Sie": "verabredeten sich"
+      },
+      "pastParticiple": "verabredet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexive verb: 'sich verabreden' (not just 'verabreden').",
+      "'Ich bin verabredet' means 'I have plans' - don't translate literally as 'I am dated'."
+    ],
+    "usageNotes": [
+      "'Ich bin schon verabredet' is a polite way to decline an invitation.",
+      "Use 'mit jemandem' for the person and 'für/auf' for the time."
+    ],
+    "relatedWords": [
+      "die Verabredung",
+      "sich treffen",
+      "der Termin",
+      "das Date"
+    ],
+    "tags": [
+      "social",
+      "planning"
+    ]
+  },
+  {
+    "id": "v-smalltalk-031",
+    "word": "sich interessieren für",
+    "baseForm": "interessieren",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to be interested in",
+    "meaningDe": "Interesse an etwas haben",
+    "situations": [
+      "smalltalk",
+      "getting-to-know",
+      "hobbies"
+    ],
+    "examples": [
+      {
+        "de": "Wofür interessierst du dich?",
+        "en": "What are you interested in?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich interessiere mich sehr für Geschichte.",
+        "en": "I'm very interested in history.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Interessiert ihr euch für Kunst?",
+        "en": "Are you interested in art?",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "interessiere mich",
+        "du": "interessierst dich",
+        "er_sie_es": "interessiert sich",
+        "wir": "interessieren uns",
+        "ihr": "interessiert euch",
+        "sie_Sie": "interessieren sich"
+      },
+      "past": {
+        "ich": "interessierte mich",
+        "du": "interessiertest dich",
+        "er_sie_es": "interessierte sich",
+        "wir": "interessierten uns",
+        "ihr": "interessiertet euch",
+        "sie_Sie": "interessierten sich"
+      },
+      "pastParticiple": "interessiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Always 'für' + Akkusativ: 'sich für etwas interessieren' (not 'sich in etwas interessieren').",
+      "Don't forget the reflexive pronoun: 'Ich interessiere mich' (not 'Ich interessiere')."
+    ],
+    "usageNotes": [
+      "A key qüstion for getting to know someone.",
+      "The non-reflexive form 'Das interessiert mich' also works: 'That interests me.'"
+    ],
+    "relatedWords": [
+      "das Interesse",
+      "interessant",
+      "neugierig",
+      "sich begeistern für"
+    ],
+    "tags": [
+      "getting-to-know",
+      "hobbies"
+    ]
+  },
+  {
+    "id": "v-smalltalk-032",
+    "word": "plaudern",
+    "baseForm": "plaudern",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to chat, to have a casual conversation",
+    "meaningDe": "ungezwungen und gemütlich miteinander reden",
+    "situations": [
+      "smalltalk",
+      "social",
+      "casual"
+    ],
+    "examples": [
+      {
+        "de": "Wir haben bei einem Kaffee geplaudert.",
+        "en": "We chatted over a coffee.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Die Nachbarinnen plaudern gern über den Gartenzaun.",
+        "en": "The neighbors like to chat over the garden fence.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Lass uns ein bisschen plaudern.",
+        "en": "Let's chat a bit.",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "plaudere",
+        "du": "plauderst",
+        "er_sie_es": "plaudert",
+        "wir": "plaudern",
+        "ihr": "plaudert",
+        "sie_Sie": "plaudern"
+      },
+      "past": {
+        "ich": "plauderte",
+        "du": "plaudertest",
+        "er_sie_es": "plauderte",
+        "wir": "plauderten",
+        "ihr": "plaudertet",
+        "sie_Sie": "plauderten"
+      },
+      "pastParticiple": "geplaudert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Don't use 'plaudern' in formal or business contexts; it's casual.",
+      "Use 'mit jemandem plaudern' (not 'zu jemandem plaudern')."
+    ],
+    "usageNotes": [
+      "More casual and lighthearted than 'sich unterhalten'.",
+      "Implies a relaxed, friendly conversation without a specific goal."
+    ],
+    "relatedWords": [
+      "sich unterhalten",
+      "quatschen",
+      "reden",
+      "das Plauderei"
+    ],
+    "tags": [
+      "casual",
+      "social"
+    ]
+  },
+  {
+    "id": "v-smalltalk-033",
+    "word": "sich erkundigen",
+    "baseForm": "erkundigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to inquire, to ask about",
+    "meaningDe": "höflich nach etwas fragen",
+    "situations": [
+      "smalltalk",
+      "formal",
+      "polite-conversation"
+    ],
+    "examples": [
+      {
+        "de": "Ich wollte mich erkundigen, wie es Ihnen geht.",
+        "en": "I wanted to inquire how you are doing.",
+        "situation": "smalltalk",
+        "tone": "formal"
+      },
+      {
+        "de": "Darf ich mich nach Ihrer Familie erkundigen?",
+        "en": "May I ask about your family?",
+        "tone": "formal"
+      },
+      {
+        "de": "Er hat sich nach dir erkundigt.",
+        "en": "He asked about you.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erkundige mich",
+        "du": "erkundigst dich",
+        "er_sie_es": "erkundigt sich",
+        "wir": "erkundigen uns",
+        "ihr": "erkundigt euch",
+        "sie_Sie": "erkundigen sich"
+      },
+      "past": {
+        "ich": "erkundigte mich",
+        "du": "erkundigtest dich",
+        "er_sie_es": "erkundigte sich",
+        "wir": "erkundigten uns",
+        "ihr": "erkundigtet euch",
+        "sie_Sie": "erkundigten sich"
+      },
+      "pastParticiple": "erkundigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Use 'sich erkundigen nach' + Dativ (not 'über').",
+      "Don't forget the reflexive pronoun."
+    ],
+    "usageNotes": [
+      "More polite and formal than 'fragen'. Good for professional or respectful contexts.",
+      "Shows genuine interest and politeness in German culture."
+    ],
+    "relatedWords": [
+      "fragen",
+      "nachfragen",
+      "sich informieren",
+      "die Erkundigung"
+    ],
+    "tags": [
+      "formal",
+      "polite"
+    ]
+  },
+  {
+    "id": "v-smalltalk-034",
+    "word": "vorbeischaün",
+    "baseForm": "vorbeischaün",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to drop by, to pop in",
+    "meaningDe": "jemanden kurz und ungeplant besuchen",
+    "situations": [
+      "smalltalk",
+      "social",
+      "invitations"
+    ],
+    "examples": [
+      {
+        "de": "Schau doch mal vorbei, wenn du Zeit hast.",
+        "en": "Drop by when you have time.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich schaü morgen kurz bei dir vorbei.",
+        "en": "I'll pop in briefly at your place tomorrow.",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir können am Samstag bei euch vorbeischaün.",
+        "en": "We can drop by your place on Saturday.",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "schaü vorbei",
+        "du": "schaust vorbei",
+        "er_sie_es": "schaut vorbei",
+        "wir": "schaün vorbei",
+        "ihr": "schaut vorbei",
+        "sie_Sie": "schaün vorbei"
+      },
+      "past": {
+        "ich": "schaute vorbei",
+        "du": "schautest vorbei",
+        "er_sie_es": "schaute vorbei",
+        "wir": "schauten vorbei",
+        "ihr": "schautet vorbei",
+        "sie_Sie": "schauten vorbei"
+      },
+      "pastParticiple": "vorbeigeschaut",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Ich schaü vorbei' (not 'Ich vorbeischaü').",
+      "More southern German; in the north, 'vorbeigucken' or 'vorbeikommen' is more common."
+    ],
+    "usageNotes": [
+      "Even more casual than 'vorbeikommen'. Implies a quick, informal visit.",
+      "Common in southern Germany and Austria; northerners might say 'vorbeigucken'."
+    ],
+    "relatedWords": [
+      "vorbeikommen",
+      "besuchen",
+      "vorbeigehen",
+      "reinschauen"
+    ],
+    "tags": [
+      "casual",
+      "regional",
+      "invitations"
+    ]
+  },
+  {
+    "id": "v-smalltalk-035",
+    "word": "ausprobieren",
+    "baseForm": "ausprobieren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to try out",
+    "meaningDe": "etwas zum ersten Mal testen oder versuchen",
+    "situations": [
+      "smalltalk",
+      "food",
+      "hobbies"
+    ],
+    "examples": [
+      {
+        "de": "Hast du das neü Restaurant schon ausprobiert?",
+        "en": "Have you tried out the new restaurant yet?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich möchte mal Klettern ausprobieren.",
+        "en": "I'd like to try climbing sometime.",
+        "tone": "informal"
+      },
+      {
+        "de": "Probier das unbedingt mal aus!",
+        "en": "You absolutely have to try that!",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "probiere aus",
+        "du": "probierst aus",
+        "er_sie_es": "probiert aus",
+        "wir": "probieren aus",
+        "ihr": "probiert aus",
+        "sie_Sie": "probieren aus"
+      },
+      "past": {
+        "ich": "probierte aus",
+        "du": "probiertest aus",
+        "er_sie_es": "probierte aus",
+        "wir": "probierten aus",
+        "ihr": "probiertet aus",
+        "sie_Sie": "probierten aus"
+      },
+      "pastParticiple": "ausprobiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Ich probiere es aus' (not 'Ich ausprobiere es').",
+      "Don't confuse with 'probieren' (to taste/try food) vs. 'ausprobieren' (to try out something new)."
+    ],
+    "usageNotes": [
+      "Very common in small talk when discussing new things: restaurants, hobbies, recipes.",
+      "'Probier mal!' can mean 'Have a taste!' while 'Probier es aus!' means 'Give it a try!'"
+    ],
+    "relatedWords": [
+      "probieren",
+      "versuchen",
+      "testen",
+      "der Versuch"
+    ],
+    "tags": [
+      "trying-new-things",
+      "recommendations"
+    ]
+  },
+  {
+    "id": "v-smalltalk-036",
+    "word": "gemütlich",
+    "baseForm": "gemütlich",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "cozy, comfortable, relaxed",
+    "meaningDe": "behaglich und angenehm; eine warme, entspannte Atmosphäre",
+    "situations": [
+      "smalltalk",
+      "describing-places",
+      "compliments"
+    ],
+    "examples": [
+      {
+        "de": "Es ist hier sehr gemütlich.",
+        "en": "It's very cozy here.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Lass uns einen gemütlichen Abend machen.",
+        "en": "Let's have a relaxed evening.",
+        "tone": "informal"
+      },
+      {
+        "de": "Ihr habt eine gemütliche Wohnung.",
+        "en": "You have a cozy apartment.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't translate as just 'comfortable' - it has a deeper cultural meaning of warmth and coziness.",
+      "Pronunciation: ge-MÜÜT-lich (long ü sound)."
+    ],
+    "usageNotes": [
+      "One of the most German words that exists - describes a feeling of warmth, coziness, and belonging.",
+      "Complimenting someone's home as 'gemütlich' is always well received."
+    ],
+    "relatedWords": [
+      "die Gemütlichkeit",
+      "behaglich",
+      "bequem",
+      "entspannt"
+    ],
+    "tags": [
+      "culture",
+      "compliments",
+      "describing-places"
+    ]
+  },
+  {
+    "id": "v-smalltalk-037",
+    "word": "spannend",
+    "baseForm": "spannend",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "exciting, thrilling, fascinating",
+    "meaningDe": "sehr interessant und fesselnd",
+    "situations": [
+      "smalltalk",
+      "reactions",
+      "storytelling"
+    ],
+    "examples": [
+      {
+        "de": "Das klingt total spannend!",
+        "en": "That sounds really exciting!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Dein Job ist bestimmt spannend.",
+        "en": "Your job must be exciting.",
+        "tone": "informal"
+      },
+      {
+        "de": "Es war ein spannender Abend.",
+        "en": "It was an exciting evening.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Don't overuse it - Germans also say 'interessant', 'aufregend', or 'faszinierend'.",
+      "'Spannend' comes from 'spannen' (to stretch/tighten), evoking tension and suspense."
+    ],
+    "usageNotes": [
+      "A very popular reaction word in German conversation. Shows interest and enthusiasm.",
+      "Can be used for stories, jobs, books, movies, experiences - very versatile."
+    ],
+    "relatedWords": [
+      "interessant",
+      "aufregend",
+      "faszinierend",
+      "die Spannung"
+    ],
+    "tags": [
+      "reactions",
+      "positive"
+    ]
+  },
+  {
+    "id": "v-smalltalk-038",
+    "word": "langweilig",
+    "baseForm": "langweilig",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "boring",
+    "meaningDe": "nicht interessant; eintönig",
+    "situations": [
+      "smalltalk",
+      "opinions",
+      "reactions"
+    ],
+    "examples": [
+      {
+        "de": "Der Film war ziemlich langweilig.",
+        "en": "The movie was pretty boring.",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Mir ist langweilig.",
+        "en": "I'm bored.",
+        "tone": "informal"
+      },
+      {
+        "de": "Das Wochenende war nicht langweilig!",
+        "en": "The weekend wasn't boring!",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Mir ist langweilig' (I'm bored) vs. 'Ich bin langweilig' (I am a boring person) - big difference!",
+      "Use dative for the person: 'Mir ist langweilig' (not 'Ich bin langweilig' when you mean 'I'm bored')."
+    ],
+    "usageNotes": [
+      "The 'mir ist langweilig' vs. 'ich bin langweilig' distinction is a classic learner trap.",
+      "Often softened with 'ein bisschen' or 'ziemlich' to be more polite."
+    ],
+    "relatedWords": [
+      "die Langeweile",
+      "sich langweilen",
+      "eintönig",
+      "öde"
+    ],
+    "tags": [
+      "opinions",
+      "negative"
+    ]
+  },
+  {
+    "id": "v-smalltalk-039",
+    "word": "gesellig",
+    "baseForm": "gesellig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "sociable, convivial",
+    "meaningDe": "gern in Gesellschaft anderer Menschen; ein geselliges Beisammensein liebend",
+    "situations": [
+      "smalltalk",
+      "personality",
+      "social"
+    ],
+    "examples": [
+      {
+        "de": "Es war ein geselliger Abend.",
+        "en": "It was a convivial evening.",
+        "situation": "smalltalk",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie ist ein sehr geselliger Mensch.",
+        "en": "She's a very sociable person.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Deutsche Biergärten sind sehr gesellig.",
+        "en": "German beer gardens are very convivial.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'gesellig' (sociable) with 'gesellschaftlich' (societal/social in a political sense).",
+      "Refers to atmosphere or personality, not to social media or social issüs."
+    ],
+    "usageNotes": [
+      "A very positive word in German culture - being 'gesellig' is valüd.",
+      "Often used to describe evenings, gatherings, or people who enjoy company."
+    ],
+    "relatedWords": [
+      "die Geselligkeit",
+      "die Gesellschaft",
+      "gesellschaftlich",
+      "kontaktfreudig"
+    ],
+    "tags": [
+      "personality",
+      "culture"
+    ]
+  },
+  {
+    "id": "v-smalltalk-040",
+    "word": "neugierig",
+    "baseForm": "neugierig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "curious",
+    "meaningDe": "wissbegierig; den Wunsch habend, etwas zu erfahren",
+    "situations": [
+      "smalltalk",
+      "personality",
+      "reactions"
+    ],
+    "examples": [
+      {
+        "de": "Jetzt bin ich aber neugierig!",
+        "en": "Now I'm curious!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Da bin ich neugierig, wie es weitergeht.",
+        "en": "I'm curious to see how it continues.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sei nicht so neugierig!",
+        "en": "Don't be so nosy!",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Neugierig' can be positive (curious) or slightly negative (nosy), depending on context.",
+      "Use 'neugierig auf' + Akkusativ: 'Ich bin neugierig auf das Ergebnis.'"
+    ],
+    "usageNotes": [
+      "As a reaction in conversation, 'Da bin ich neugierig!' is always positive and shows interest.",
+      "When said about a person's character ('Sie ist so neugierig'), it can imply nosiness."
+    ],
+    "relatedWords": [
+      "die Neugier",
+      "die Neugierde",
+      "wissbegierig",
+      "gespannt"
+    ],
+    "tags": [
+      "reactions",
+      "personality"
+    ]
+  },
+  {
+    "id": "v-smalltalk-041",
+    "word": "Was gibt's Neüs?",
+    "baseForm": "Was gibt's Neüs?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "What's new?",
+    "meaningDe": "Frage nach Neuigkeiten; eine lockere Begrüßungsfrage",
+    "situations": [
+      "smalltalk",
+      "greetings",
+      "catching-up"
+    ],
+    "examples": [
+      {
+        "de": "Hey! Was gibt's Neüs?",
+        "en": "Hey! What's new?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Na, was gibt's Neüs bei dir?",
+        "en": "So, what's new with you?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't use this in formal situations - it's casual.",
+      "The response dösn't need to be actual news; 'Nicht viel' or 'Das Übliche' are fine."
+    ],
+    "usageNotes": [
+      "A very common and natural conversation opener among friends and acquaintances.",
+      "Expected responses: 'Nicht viel', 'Alles beim Alten', or actual news."
+    ],
+    "relatedWords": [
+      "die Neuigkeit",
+      "Was geht?",
+      "Na, wie geht's?"
+    ],
+    "tags": [
+      "greetings",
+      "conversation-opener"
+    ]
+  },
+  {
+    "id": "v-smalltalk-042",
+    "word": "Schönes Wochenende!",
+    "baseForm": "Schönes Wochenende!",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Have a nice weekend!",
+    "meaningDe": "ein freundlicher Abschiedsgruß am Ende der Woche",
+    "situations": [
+      "smalltalk",
+      "farewells",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Tschüss, schönes Wochenende!",
+        "en": "Bye, have a nice weekend!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich wünsche Ihnen ein schönes Wochenende.",
+        "en": "I wish you a nice weekend.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "The full sentence is 'Ich wünsche dir/Ihnen ein schönes Wochenende', but the short form is more common.",
+      "Don't say 'Gutes Wochenende' - while understood, 'Schönes Wochenende' is more natural."
+    ],
+    "usageNotes": [
+      "Used every Friday in workplaces, shops, and casual encounters throughout Germany.",
+      "The typical response is 'Danke, dir/Ihnen auch!' or 'Gleichfalls!'"
+    ],
+    "relatedWords": [
+      "Schönen Abend!",
+      "Schönen Tag!",
+      "Gleichfalls!"
+    ],
+    "tags": [
+      "farewells",
+      "friday"
+    ]
+  },
+  {
+    "id": "v-smalltalk-043",
+    "word": "Wie läuft's?",
+    "baseForm": "Wie läuft's?",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "How's it going?",
+    "meaningDe": "informelle Frage, wie es jemandem geht oder wie etwas vorangeht",
+    "situations": [
+      "smalltalk",
+      "greetings",
+      "casual"
+    ],
+    "examples": [
+      {
+        "de": "Na, wie läuft's bei dir so?",
+        "en": "So, how's it going with you?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Wie läuft's mit dem neün Job?",
+        "en": "How's the new job going?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Very informal - don't use with strangers or in formal settings.",
+      "Don't confuse 'Wie läuft's?' (How's it going?) with 'Wie geht's?' (How are you?)."
+    ],
+    "usageNotes": [
+      "More casual than 'Wie geht's?' and often implies asking about a specific situation.",
+      "Can be used about life in general or a specific topic: 'Wie läuft's mit dem Studium?'"
+    ],
+    "relatedWords": [
+      "Wie geht's?",
+      "Was geht?",
+      "Alles klar?"
+    ],
+    "tags": [
+      "greetings",
+      "casual"
+    ]
+  },
+  {
+    "id": "v-smalltalk-044",
+    "word": "Lass uns in Kontakt bleiben!",
+    "baseForm": "Lass uns in Kontakt bleiben!",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "Let's stay in touch!",
+    "meaningDe": "der Wunsch, die Verbindung aufrechtzürhalten",
+    "situations": [
+      "smalltalk",
+      "farewells",
+      "networking"
+    ],
+    "examples": [
+      {
+        "de": "Es war schön, dich zu sehen. Lass uns in Kontakt bleiben!",
+        "en": "It was nice to see you. Let's stay in touch!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Wir sollten in Kontakt bleiben.",
+        "en": "We should stay in touch.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'in Kontakt bleiben' (not 'im Kontakt bleiben').",
+      "The formal version is 'Lassen Sie uns in Kontakt bleiben.'"
+    ],
+    "usageNotes": [
+      "Often said at the end of a gathering or when parting ways after a nice conversation.",
+      "Can be genuine or just a polite farewell phrase - context matters."
+    ],
+    "relatedWords": [
+      "sich melden",
+      "in Verbindung bleiben",
+      "auf dem Laufenden halten"
+    ],
+    "tags": [
+      "farewells",
+      "networking"
+    ]
+  },
+  {
+    "id": "v-smalltalk-045",
+    "word": "Na, alles klar?",
+    "baseForm": "Na, alles klar?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Hey, everything okay? / What's up?",
+    "meaningDe": "eine sehr lockere Begrüßungsfrage",
+    "situations": [
+      "smalltalk",
+      "greetings",
+      "casual"
+    ],
+    "examples": [
+      {
+        "de": "Na, alles klar bei dir?",
+        "en": "Hey, everything good with you?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Na, alles klar? – Ja, bei mir passt alles.",
+        "en": "What's up? – Yeah, everything's fine with me.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "This is NOT a real qüstion about problems - it's a casual greeting.",
+      "Don't respond with a long list of issüs; 'Ja, alles gut!' is the expected reply."
+    ],
+    "usageNotes": [
+      "'Na' is a very German filler word that softens the greeting.",
+      "The expected response is 'Ja, alles gut, und bei dir?' - not a detailed life update."
+    ],
+    "relatedWords": [
+      "Na?",
+      "Wie geht's?",
+      "Was geht?",
+      "Alles gut?"
+    ],
+    "tags": [
+      "greetings",
+      "casual"
+    ]
+  },
+  {
+    "id": "v-smalltalk-046",
+    "word": "Das freut mich für dich!",
+    "baseForm": "Das freut mich für dich!",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I'm happy for you!",
+    "meaningDe": "Ausdruck der Mitfreude über den Erfolg oder das Glück einer anderen Person",
+    "situations": [
+      "smalltalk",
+      "reactions",
+      "congratulations"
+    ],
+    "examples": [
+      {
+        "de": "Du hast den Job bekommen? Das freut mich für dich!",
+        "en": "You got the job? I'm happy for you!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Das freut mich wirklich sehr für euch.",
+        "en": "I'm really happy for you guys.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Das freut mich' = I'm glad (general). 'Das freut mich für dich' = I'm happy FOR you (specific).",
+      "Don't confuse with 'Freut mich!' which is used when meeting someone."
+    ],
+    "usageNotes": [
+      "A warm, genuine way to express happiness for someone else's good news.",
+      "Adding 'wirklich' or 'total' makes it more emphatic."
+    ],
+    "relatedWords": [
+      "Herzlichen Glückwunsch!",
+      "Toll!",
+      "Super!",
+      "sich freuen"
+    ],
+    "tags": [
+      "reactions",
+      "positive",
+      "empathy"
+    ]
+  },
+  {
+    "id": "v-smalltalk-047",
+    "word": "Ich bin gespannt!",
+    "baseForm": "Ich bin gespannt!",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "I can't wait! / I'm excited to find out!",
+    "meaningDe": "Ausdruck der Neugier und Vorfreude auf etwas",
+    "situations": [
+      "smalltalk",
+      "reactions",
+      "anticipation"
+    ],
+    "examples": [
+      {
+        "de": "Morgen ist die Prüfung. Ich bin gespannt!",
+        "en": "The exam is tomorrow. I can't wait to see the results!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich bin gespannt, wie dir das Essen schmeckt.",
+        "en": "I'm curious to see how you'll like the food.",
+        "tone": "informal"
+      },
+      {
+        "de": "Da bin ich aber gespannt!",
+        "en": "Oh, I'm really curious about that!",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Gespannt' literally means 'tense/taut' but here means 'eagerly anticipating'.",
+      "Use 'gespannt auf' + Akkusativ or 'gespannt, ob/wie/was...' for what you're curious about."
+    ],
+    "usageNotes": [
+      "Very common reaction phrase that shows interest and anticipation.",
+      "Works great as a conversation encourager: 'Da bin ich gespannt, erzähl!'"
+    ],
+    "relatedWords": [
+      "neugierig",
+      "die Spannung",
+      "erwarten",
+      "sich freuen auf"
+    ],
+    "tags": [
+      "reactions",
+      "anticipation"
+    ]
+  },
+  {
+    "id": "v-smalltalk-048",
+    "word": "Sag mal, ...",
+    "baseForm": "Sag mal, ...",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Say, ... / Tell me, ...",
+    "meaningDe": "eine informelle Einleitung, um ein neüs Thema anzusprechen oder eine Frage zu stellen",
+    "situations": [
+      "smalltalk",
+      "conversation",
+      "topic-change"
+    ],
+    "examples": [
+      {
+        "de": "Sag mal, warst du schon mal in Italien?",
+        "en": "Say, have you ever been to Italy?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Sag mal, was machst du eigentlich beruflich?",
+        "en": "Tell me, what do you actually do for work?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Only use in informal settings - the formal version is 'Sagen Sie mal, ...'",
+      "Don't confuse with 'Sag mir' (tell me specifically) - 'Sag mal' is softer and more conversational."
+    ],
+    "usageNotes": [
+      "A very natural way to introduce a new topic or ask a personal qüstion without being too direct.",
+      "The 'mal' softens the reqüst and makes it sound more casual."
+    ],
+    "relatedWords": [
+      "Übrigens, ...",
+      "Apropos, ...",
+      "Mal eine Frage, ..."
+    ],
+    "tags": [
+      "conversation-tools",
+      "topic-change"
+    ]
+  },
+  {
+    "id": "v-smalltalk-049",
+    "word": "Hört sich gut an!",
+    "baseForm": "Hört sich gut an!",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Sounds good!",
+    "meaningDe": "positive Reaktion auf einen Vorschlag oder eine Erzählung",
+    "situations": [
+      "smalltalk",
+      "reactions",
+      "planning"
+    ],
+    "examples": [
+      {
+        "de": "Wollen wir morgen grillen? – Hört sich gut an!",
+        "en": "Shall we barbecue tomorrow? – Sounds good!",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Das hört sich nach einem tollen Plan an!",
+        "en": "That sounds like a great plan!",
+        "tone": "informal"
+      },
+      {
+        "de": "Hört sich gut an, ich bin dabei!",
+        "en": "Sounds good, I'm in!",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "The verb is reflexive: 'sich anhören' (hört sich an), not just 'hört gut an'.",
+      "Also correct: 'Klingt gut!' - even shorter and equally common."
+    ],
+    "usageNotes": [
+      "One of the most useful reaction phrases in German small talk.",
+      "'Klingt gut!' is an even shorter alternative that means the same thing."
+    ],
+    "relatedWords": [
+      "Klingt gut!",
+      "Gute Idee!",
+      "Super!",
+      "Bin dabei!"
+    ],
+    "tags": [
+      "reactions",
+      "agreement"
+    ]
+  },
+  {
+    "id": "v-smalltalk-050",
+    "word": "Schön, dich zu sehen!",
+    "baseForm": "Schön, dich zu sehen!",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Nice to see you!",
+    "meaningDe": "ein freundlicher Ausdruck der Freude, jemanden zu treffen",
+    "situations": [
+      "smalltalk",
+      "greetings",
+      "reunions"
+    ],
+    "examples": [
+      {
+        "de": "Hey, schön, dich zu sehen! Wie geht's?",
+        "en": "Hey, nice to see you! How are you?",
+        "situation": "smalltalk",
+        "tone": "informal"
+      },
+      {
+        "de": "Schön, Sie wiederzusehen!",
+        "en": "Nice to see you again!",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'dich' (informal) or 'Sie' (formal): 'Schön, dich zu sehen' vs. 'Schön, Sie zu sehen'.",
+      "Don't confuse with 'Freut mich, dich kennenzulernen' which is for first meetings only."
+    ],
+    "usageNotes": [
+      "Used when you already know the person and are meeting them again.",
+      "Adding 'wieder' (again) makes it warmer: 'Schön, dich wiederzusehen!'"
+    ],
+    "relatedWords": [
+      "Freut mich!",
+      "Lange nicht gesehen!",
+      "Wie schön!"
+    ],
+    "tags": [
+      "greetings",
+      "warm",
+      "reunions"
+    ]
+  }
+]

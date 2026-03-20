@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-16) var(--space-8);
+  text-align: center;
+}
+
+.title {
+  font-size: var(--text-xl);
+  color: var(--color-warm-gray);
+  margin-bottom: var(--space-2);
+}
+
+.description {
+  font-size: var(--text-base);
+  color: var(--color-warm-gray-light);
+  max-width: 400px;
+}
+
+.action {
+  margin-top: var(--space-6);
+}

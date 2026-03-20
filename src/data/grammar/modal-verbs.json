@@ -1,0 +1,104 @@
+{
+  "id": "modal-verbs",
+  "title": "Modal Verbs (Modalverben)",
+  "category": "verbs",
+  "level": "A2",
+  "description": "Modal verbs modify the meaning of the main verb, expressing ability, permission, obligation, desire, or necessity. German has six modal verbs: können, müssen, dürfen, sollen, wollen, and mögen (with its subjunctive form möchten). They follow special conjugation patterns and require a specific word order.",
+  "whenToUse": [
+    "Expressing ability or possibility: Ich kann schwimmen.",
+    "Expressing obligation or necessity: Du musst deine Hausaufgaben machen.",
+    "Expressing permission or prohibition: Hier darf man nicht rauchen.",
+    "Expressing a recommendation or duty: Du sollst mehr Wasser trinken.",
+    "Expressing a wish or desire: Ich will Arzt werden. / Ich möchte einen Kaffee."
+  ],
+  "rules": [
+    {
+      "title": "Word Order: Modal Verb in Position 2, Infinitive at the End",
+      "explanation": "In a main clause, the modal verb is conjugated and takes position 2. The main verb stays in the infinitive form and goes to the very end of the sentence.",
+      "examples": [
+        { "correct": "Ich kann gut Deutsch sprechen.", "incorrect": "Ich kann sprechen gut Deutsch.", "explanation": "The infinitive (sprechen) must go to the end of the clause, after all other elements." },
+        { "correct": "Du musst morgen früh aufstehen.", "explanation": "The modal (musst) is in position 2, and the infinitive (aufstehen) is at the end." },
+        { "correct": "Wir wollen nächstes Jahr nach Japan fliegen.", "explanation": "Even with many elements between them, the modal stays in position 2 and the infinitive at the end." }
+      ]
+    },
+    {
+      "title": "Conjugation Pattern: Singular Forms Are Irregular",
+      "explanation": "Modal verbs have irregular singular forms — the ich and er/sie/es forms are identical and have no ending. The plural forms follow regular patterns. Most modals also change their stem vowel in the singular.",
+      "examples": [
+        { "correct": "Ich kann das verstehen.", "incorrect": "Ich könne das verstehen.", "explanation": "The ich-form of können is kann (not könne, which is Konjunktiv I). No ending is added." },
+        { "correct": "Er muss heute arbeiten.", "incorrect": "Er musst heute arbeiten.", "explanation": "The er/sie/es form is identical to the ich-form: ich muss, er muss (not musst — that is du)." },
+        { "correct": "Wir dürfen hier parken.", "explanation": "Plural forms are regular: wir dürfen, ihr dürft, sie dürfen." }
+      ]
+    },
+    {
+      "title": "Negation with nicht",
+      "explanation": "To negate a sentence with a modal verb, nicht is typically placed before the infinitive at the end. If there is no infinitive, nicht follows the modal verb.",
+      "examples": [
+        { "correct": "Du darfst hier nicht rauchen.", "incorrect": "Du darfst nicht hier rauchen.", "explanation": "Nicht goes directly before the infinitive: nicht rauchen." },
+        { "correct": "Ich kann morgen nicht kommen.", "explanation": "Nicht is placed before the infinitive kommen." },
+        { "correct": "Das darf nicht sein.", "explanation": "When the infinitive is sein, nicht comes before it as usual." }
+      ]
+    },
+    {
+      "title": "möchten vs. wollen",
+      "explanation": "Both express wanting, but möchten is the polite form (would like) and wollen is the direct form (want). Use möchten in polite contexts, restaurants, and with strangers. Wollen can sound demanding if used with people.",
+      "examples": [
+        { "correct": "Ich möchte einen Kaffee, bitte.", "incorrect": "Ich will einen Kaffee.", "explanation": "In a restaurant or shop, möchten is polite. Wollen sounds rude or demanding in this context." },
+        { "correct": "Ich will Ärztin werden.", "explanation": "For strong personal goals and ambitions, wollen is appropriate: I want to become a doctor." },
+        { "correct": "Möchtest du mitkommen?", "explanation": "Use möchten for polite invitations and offers." }
+      ]
+    },
+    {
+      "title": "Meanings of Each Modal Verb",
+      "explanation": "Each modal verb has a core meaning: können (ability/possibility), müssen (necessity/obligation), dürfen (permission), sollen (recommendation/duty/hearsay), wollen (strong desire/intention), möchten (polite wish).",
+      "examples": [
+        { "correct": "Du sollst nicht so viel Zucker essen.", "explanation": "Sollen expresses a recommendation or instruction from someone else: You should not eat so much sugar." },
+        { "correct": "Hier darf man nicht fotografieren.", "explanation": "Dürfen expresses permission — or, with nicht, prohibition: One is not allowed to take photos here." },
+        { "correct": "Es soll morgen regnen.", "explanation": "Sollen can express hearsay — something someone heard: It is supposed to rain tomorrow." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Modal Verb Conjugation in Present Tense",
+      "headers": ["Pronoun", "können", "müssen", "dürfen", "sollen", "wollen", "möchten"],
+      "rows": [
+        ["ich", "kann", "muss", "darf", "soll", "will", "möchte"],
+        ["du", "kannst", "musst", "darfst", "sollst", "willst", "möchtest"],
+        ["er/sie/es", "kann", "muss", "darf", "soll", "will", "möchte"],
+        ["wir", "können", "müssen", "dürfen", "sollen", "wollen", "möchten"],
+        ["ihr", "könnt", "müsst", "dürft", "sollt", "wollt", "möchtet"],
+        ["sie/Sie", "können", "müssen", "dürfen", "sollen", "wollen", "möchten"]
+      ]
+    },
+    {
+      "title": "Modal Verb Meanings at a Glance",
+      "headers": ["Modal Verb", "Core Meaning", "Example"],
+      "rows": [
+        ["können", "ability, possibility", "Ich kann schwimmen."],
+        ["müssen", "necessity, obligation", "Ich muss arbeiten."],
+        ["dürfen", "permission", "Darf ich fragen?"],
+        ["sollen", "recommendation, duty, hearsay", "Du sollst mehr schlafen."],
+        ["wollen", "strong desire, intention", "Ich will nach Hause."],
+        ["möchten", "polite wish", "Ich möchte bestellen."]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Ich will nach Hause gehen.", "incorrect": "Ich will nach Hause zu gehen.", "explanation": "Modal verbs take a bare infinitive without 'zu'. Never add zu before the infinitive with a modal verb." },
+    { "correct": "Er muss arbeiten.", "incorrect": "Er musst arbeiten.", "explanation": "The er/sie/es form is the same as ich: er muss (not musst, which is the du-form)." },
+    { "correct": "Ich möchte ein Glas Wasser.", "incorrect": "Ich will ein Glas Wasser.", "explanation": "In polite situations (restaurants, requests), use möchten. Wollen sounds demanding." },
+    { "correct": "Du musst das nicht machen.", "incorrect": "Du musst das nicht zu machen.", "explanation": "No zu before the infinitive with modal verbs. This is a common transfer error from English." },
+    { "correct": "Ich kann nicht schwimmen.", "incorrect": "Ich kann schwimmen nicht.", "explanation": "Nicht goes before the infinitive: nicht schwimmen, not after it." },
+    { "correct": "Du sollst zum Arzt gehen.", "incorrect": "Du musst zum Arzt gehen.", "explanation": "Sollen (should, someone recommends) is softer than müssen (must, absolute necessity). Choose based on intended strength." }
+  ],
+  "tips": [
+    "Modal verbs never take 'zu' before the infinitive. This is one of the most reliable rules in German grammar.",
+    "The ich-form and er/sie/es-form are always identical for modal verbs: ich kann = er kann, ich muss = er muss.",
+    "müssen + nicht means 'don't have to' (no obligation), NOT 'must not'. For prohibition, use dürfen + nicht: Du darfst das nicht tun.",
+    "In the Präteritum, modal verbs lose their umlaut: können → konnte, müssen → musste, dürfen → durfte.",
+    "möchten is technically the Konjunktiv II of mögen, but it functions as its own modal verb meaning 'would like'."
+  ],
+  "relatedTopics": ["present-tense", "praeteritum", "konjunktiv-ii"],
+  "relatedSentenceIds": []
+}

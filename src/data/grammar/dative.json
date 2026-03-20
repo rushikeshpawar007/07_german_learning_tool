@@ -1,0 +1,167 @@
+{
+  "id": "dative",
+  "title": "The Dative Case (Dativ)",
+  "category": "cases",
+  "level": "B1",
+  "description": "The dative case marks the indirect object — the person or thing that receives the benefit or result of an action. It is also required after certain prepositions and with specific verbs that inherently take a dative object.",
+  "whenToUse": [
+    "For the indirect object (the receiver or beneficiary of an action)",
+    "After the prepositions aus, bei, mit, nach, seit, von, zu, gegenüber",
+    "With verbs that inherently take the dative: helfen, gefallen, gehören, danken, folgen, gratulieren, etc.",
+    "After two-way prepositions (Wechselpräpositionen) when indicating location (no movement toward)"
+  ],
+  "rules": [
+    {
+      "title": "The indirect object takes the dative",
+      "explanation": "The indirect object is the person who receives something or benefits from the action. Ask \"Wem?\" (to whom?) to identify it. In sentences with both a direct and indirect object, the indirect object is in the dative.",
+      "examples": [
+        {
+          "correct": "Ich gebe dem Mann das Buch.",
+          "incorrect": "Ich gebe den Mann das Buch.",
+          "explanation": "\"Dem Mann\" is the indirect object (to whom?). Masculine \"der\" becomes \"dem\" in the dative."
+        },
+        {
+          "correct": "Sie schenkt der Freundin eine Blume.",
+          "explanation": "\"Der Freundin\" is the indirect object. Feminine \"die\" becomes \"der\" in the dative."
+        },
+        {
+          "correct": "Er zeigt dem Kind das Bild.",
+          "explanation": "\"Dem Kind\" is the indirect object. Neuter \"das\" becomes \"dem\" in the dative."
+        }
+      ]
+    },
+    {
+      "title": "Dative prepositions: aus, bei, mit, nach, seit, von, zu",
+      "explanation": "These prepositions always require the dative case. A common mnemonic is \"AUS-BEI-MIT nach SEIT-VON-ZU\" (sung to the tune of \"Blue Danube\"). Also: gegenüber always takes the dative.",
+      "examples": [
+        {
+          "correct": "Er kommt aus dem Haus.",
+          "incorrect": "Er kommt aus das Haus.",
+          "explanation": "After \"aus\", the neuter article changes to \"dem\"."
+        },
+        {
+          "correct": "Sie fährt mit dem Bus zur Arbeit.",
+          "explanation": "After \"mit\", the masculine article becomes \"dem\". Note: \"zur\" = \"zu der\" (dative contraction)."
+        },
+        {
+          "correct": "Seit einem Jahr wohne ich in Berlin.",
+          "explanation": "After \"seit\", the neuter article \"ein\" becomes \"einem\"."
+        }
+      ]
+    },
+    {
+      "title": "Verbs that take the dative",
+      "explanation": "Some German verbs always require a dative object instead of an accusative one. These must be memorized. Common ones: helfen (to help), gefallen (to please), gehören (to belong to), danken (to thank), folgen (to follow), antworten (to answer), gratulieren (to congratulate).",
+      "examples": [
+        {
+          "correct": "Ich helfe dem Schüler.",
+          "incorrect": "Ich helfe den Schüler.",
+          "explanation": "\"Helfen\" takes the dative. Use \"dem Schüler\", not \"den Schüler\"."
+        },
+        {
+          "correct": "Das Buch gefällt der Lehrerin.",
+          "explanation": "\"Gefallen\" takes a dative object: \"der Lehrerin\" (fem. dative)."
+        },
+        {
+          "correct": "Das Auto gehört meinem Vater.",
+          "explanation": "\"Gehören\" takes the dative: \"meinem Vater\" (masc. dative of \"mein\")."
+        }
+      ]
+    },
+    {
+      "title": "Dative article changes for all genders",
+      "explanation": "In the dative, ALL genders change their articles — not just masculine. Masculine: der → dem, feminine: die → der, neuter: das → dem, plural: die → den (and the noun adds -n if possible).",
+      "examples": [
+        {
+          "correct": "Ich spreche mit dem Lehrer. (masc.)",
+          "explanation": "Masculine: der → dem."
+        },
+        {
+          "correct": "Ich spreche mit der Lehrerin. (fem.)",
+          "explanation": "Feminine: die → der."
+        },
+        {
+          "correct": "Er spielt mit den Kindern. (plural)",
+          "explanation": "Plural: die → den, and the noun adds \"-n\" (Kind → Kindern)."
+        }
+      ]
+    },
+    {
+      "title": "Plural nouns add -n in the dative",
+      "explanation": "In the dative plural, the article changes to \"den\" and the noun itself adds an -n ending — unless the plural already ends in -n or -s.",
+      "examples": [
+        {
+          "correct": "Er hilft den Schülern.",
+          "explanation": "Plural \"die Schüler\" becomes \"den Schülern\" — article changes and -n is added."
+        },
+        {
+          "correct": "Sie spricht mit den Frauen.",
+          "explanation": "\"Die Frauen\" already ends in -n, so only the article changes to \"den\"."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Definite Articles: Nominative vs. Dative",
+      "headers": ["Gender", "Nominative", "Dative", "Example (Dative)"],
+      "rows": [
+        ["Masculine", "der", "dem", "mit dem Mann"],
+        ["Feminine", "die", "der", "mit der Frau"],
+        ["Neuter", "das", "dem", "mit dem Kind"],
+        ["Plural", "die", "den (+n)", "mit den Kindern"]
+      ]
+    },
+    {
+      "title": "Indefinite Articles: Nominative vs. Dative",
+      "headers": ["Gender", "Nominative", "Dative", "Example (Dative)"],
+      "rows": [
+        ["Masculine", "ein", "einem", "von einem Freund"],
+        ["Feminine", "eine", "einer", "von einer Freundin"],
+        ["Neuter", "ein", "einem", "von einem Kind"],
+        ["Plural (kein)", "keine", "keinen (+n)", "von keinen Freunden"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Ich helfe dem Kind.",
+      "incorrect": "Ich helfe das Kind.",
+      "explanation": "\"Helfen\" requires the dative, not the accusative. Neuter \"das\" must become \"dem\"."
+    },
+    {
+      "correct": "Sie geht zu der Schule. / Sie geht zur Schule.",
+      "incorrect": "Sie geht zu die Schule.",
+      "explanation": "\"Zu\" requires the dative. Feminine \"die\" becomes \"der\" (contracted: \"zur\")."
+    },
+    {
+      "correct": "Er spricht mit den Kindern.",
+      "incorrect": "Er spricht mit die Kinder.",
+      "explanation": "After \"mit\" (dative), plural \"die\" becomes \"den\" and the noun adds \"-n\"."
+    },
+    {
+      "correct": "Das Kleid gefällt meiner Mutter.",
+      "incorrect": "Das Kleid gefällt meine Mutter.",
+      "explanation": "\"Gefallen\" takes the dative. Feminine possessive \"meine\" becomes \"meiner\"."
+    },
+    {
+      "correct": "Ich wohne bei meinem Onkel.",
+      "incorrect": "Ich wohne bei meinen Onkel.",
+      "explanation": "\"Bei\" requires the dative. Masculine \"mein\" becomes \"meinem\", not \"meinen\" (which is accusative)."
+    },
+    {
+      "correct": "Er dankt den Lehrern für die Hilfe.",
+      "incorrect": "Er dankt die Lehrer für die Hilfe.",
+      "explanation": "\"Danken\" takes the dative. Plural \"die Lehrer\" becomes \"den Lehrern\"."
+    }
+  ],
+  "tips": [
+    "Ask \"Wem?\" (to whom / for whom?) to identify the dative object in a sentence.",
+    "Memorize the dative prepositions with the mnemonic melody: \"AUS-BEI-MIT nach SEIT-VON-ZU fährst du immer mit der U\" (a well-known German learner rhyme).",
+    "Unlike the accusative, the dative changes articles for ALL genders — not just masculine. Pay special attention to feminine (die → der), which looks like the masculine nominative.",
+    "Learn dative verbs as a group: helfen, gefallen, gehören, danken, folgen, antworten, gratulieren, glauben, passen, schmecken.",
+    "Do not forget the -n on plural nouns in the dative (den Kindern, den Häusern) unless the plural already ends in -n or -s."
+  ],
+  "relatedTopics": ["nominative", "accusative", "genitive"],
+  "relatedSentenceIds": []
+}

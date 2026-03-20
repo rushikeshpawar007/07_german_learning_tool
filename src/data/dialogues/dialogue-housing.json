@@ -1,0 +1,34 @@
+{
+  "id": "housing-viewing",
+  "title": "Die Wohnungsbesichtigung",
+  "titleEn": "The Apartment Viewing",
+  "situation": "housing",
+  "level": "B1",
+  "description": "A potential tenant visits an apartment viewing and asks the landlord about rent, deposit, pets, and required documents.",
+  "speakers": {
+    "a": { "name": "Priya", "role": "Mieterin" },
+    "b": { "name": "Herr Hoffmann", "role": "Vermieter" }
+  },
+  "lines": [
+    { "speaker": "a", "de": "Guten Tag, Herr Hoffmann. Ich bin Priya, wir haben wegen der Wohnungsbesichtigung telefoniert.", "en": "Good day, Herr Hoffmann. I am Priya, we spoke on the phone about the apartment viewing." },
+    { "speaker": "b", "de": "Guten Tag, Priya. Schön, dass Sie es einrichten konnten. Kommen Sie herein, ich zeige Ihnen alles.", "en": "Good day, Priya. Nice that you could make it. Come in, I'll show you everything." },
+    { "speaker": "a", "de": "Vielen Dank. Die Lage gefällt mir sehr gut. Wie groß ist die Wohnung genau?", "en": "Thank you very much. I really like the location. How large is the apartment exactly?" },
+    { "speaker": "b", "de": "Die Wohnung hat drei Zimmer, Küche und Bad, insgesamt fünfundsiebzig Quadratmeter. Hier sehen Sie das Wohnzimmer mit Balkon.", "en": "The apartment has three rooms, kitchen, and bathroom, seventy-five square meters in total. Here you can see the living room with balcony." },
+    { "speaker": "a", "de": "Das ist wirklich hell und geräumig. Wie hoch ist die Kaltmiete?", "en": "It is really bright and spacious. How much is the base rent?" },
+    { "speaker": "b", "de": "Die Kaltmiete beträgt siebenhundertfünfzig Euro im Monat.", "en": "The base rent is seven hundred and fifty euros per month." },
+    { "speaker": "a", "de": "Und wie hoch sind die Nebenkosten?", "en": "And how much are the additional costs?" },
+    { "speaker": "b", "de": "Die Nebenkosten liegen bei ungefähr zweihundert Euro monatlich. Das beinhaltet Heizung, Wasser, Müllabfuhr und Hausmeisterservice. Strom müssen Sie selbst anmelden.", "en": "The additional costs are approximately two hundred euros per month. That includes heating, water, waste collection, and caretaker service. You need to register electricity yourself." },
+    { "speaker": "a", "de": "Verstehe. Und wie hoch ist die Kaution?", "en": "I see. And how much is the deposit?" },
+    { "speaker": "b", "de": "Die Kaution beträgt drei Kaltmieten, also zweitausendzweihundertfünfzig Euro. Sie können die Kaution auch in drei monatlichen Raten zahlen.", "en": "The deposit is three months' base rent, so two thousand two hundred and fifty euros. You can also pay the deposit in three monthly installments." },
+    { "speaker": "a", "de": "Das ist gut zu wissen. Ab wann wäre die Wohnung verfügbar?", "en": "That is good to know. From when would the apartment be available?" },
+    { "speaker": "b", "de": "Ab dem ersten Mai. Der aktuelle Mieter zieht Ende April aus.", "en": "From the first of May. The current tenant is moving out at the end of April." },
+    { "speaker": "a", "de": "Das würde zeitlich gut passen. Ich habe noch eine wichtige Frage: Sind Haustiere erlaubt? Ich habe eine Katze.", "en": "That would fit well timing-wise. I have one more important question: are pets allowed? I have a cat." },
+    { "speaker": "b", "de": "Kleintiere wie Katzen sind kein Problem. Nur größere Hunde müssten wir im Einzelfall besprechen.", "en": "Small animals like cats are no problem. Only larger dogs would need to be discussed on a case-by-case basis." },
+    { "speaker": "a", "de": "Das freut mich. Welche Unterlagen brauchen Sie von mir, wenn ich mich bewerben möchte?", "en": "I'm glad to hear that. What documents do you need from me if I want to apply?" },
+    { "speaker": "b", "de": "Ich bräuchte eine aktuelle Schufa-Auskunft, die letzten drei Gehaltsnachweise, eine Kopie Ihres Personalausweises und eine Mietschuldenfreiheitsbescheinigung vom vorherigen Vermieter.", "en": "I would need a current Schufa credit report, the last three salary statements, a copy of your ID, and a rent arrears clearance certificate from your previous landlord." },
+    { "speaker": "a", "de": "Die Schufa-Auskunft habe ich schon beantragt. Die restlichen Unterlagen kann ich Ihnen bis Ende der Woche schicken. Die Wohnung gefällt mir sehr gut, und ich hätte großes Interesse.", "en": "I have already requested the Schufa report. I can send you the remaining documents by the end of the week. I really like the apartment, and I would be very interested." },
+    { "speaker": "b", "de": "Das freut mich zu hören. Schicken Sie mir die Unterlagen per E-Mail, und ich melde mich dann bei Ihnen. Haben Sie sonst noch Fragen?", "en": "I'm glad to hear that. Send me the documents by email, and I will get back to you. Do you have any other questions?" },
+    { "speaker": "a", "de": "Nein, das war alles. Vielen Dank für die Besichtigung und Ihre Zeit, Herr Hoffmann.", "en": "No, that was everything. Thank you very much for the viewing and your time, Herr Hoffmann." },
+    { "speaker": "b", "de": "Gerne. Ich wünsche Ihnen einen schönen Tag, Priya. Bis bald!", "en": "My pleasure. I wish you a nice day, Priya. See you soon!" }
+  ]
+}

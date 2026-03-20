@@ -1,0 +1,100 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-8);
+}
+
+.title {
+  font-size: var(--text-3xl);
+  color: var(--color-warm-brown);
+}
+
+.subtitle {
+  font-size: var(--text-lg);
+  color: var(--color-warm-gray);
+  margin-top: calc(-1 * var(--space-6));
+}
+
+.section {
+  width: 100%;
+}
+
+.label {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-warm-gray);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
+  margin-bottom: var(--space-3);
+}
+
+.situationGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  justify-content: center;
+}
+
+.situationBtn {
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  color: var(--color-warm-gray);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-sand-dark);
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.situationBtn:hover {
+  border-color: var(--color-terracotta);
+  color: var(--color-terracotta);
+}
+
+.situationBtn.active {
+  background-color: var(--color-terracotta);
+  border-color: var(--color-terracotta);
+  color: var(--color-white);
+}
+
+.countGroup {
+  display: flex;
+  gap: var(--space-2);
+  justify-content: center;
+}
+
+.countBtn {
+  width: 60px;
+  height: 60px;
+  font-size: var(--text-xl);
+  font-weight: var(--weight-bold);
+  color: var(--color-warm-brown);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-sand-dark);
+  border-radius: var(--radius-lg);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.countBtn:hover {
+  border-color: var(--color-terracotta);
+}
+
+.countBtn.active {
+  border-color: var(--color-terracotta);
+  background-color: var(--color-terracotta);
+  color: var(--color-white);
+}
+
+@media (max-width: 768px) {
+  .situationBtn {
+    min-height: var(--touch-min);
+    padding: var(--space-2) var(--space-3);
+  }
+}

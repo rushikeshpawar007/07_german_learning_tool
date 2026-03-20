@@ -1,0 +1,130 @@
+.panel {
+  background-color: var(--color-white);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6) var(--space-8);
+  box-shadow: var(--shadow-sm);
+}
+
+.tabContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.mainWord {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.german {
+  font-family: var(--font-heading);
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-bold);
+  color: var(--color-warm-brown);
+}
+
+.english {
+  font-size: var(--text-lg);
+  color: var(--color-warm-gray);
+}
+
+.germanDef {
+  font-size: var(--text-base);
+  color: var(--color-warm-brown-light);
+  font-style: italic;
+}
+
+.metaRow {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.grammarInfo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.infoRow {
+  display: flex;
+  gap: var(--space-3);
+  align-items: baseline;
+}
+
+.infoLabel {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+  min-width: 80px;
+}
+
+.infoValue {
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  color: var(--color-warm-brown);
+}
+
+.notesList,
+.mistakesList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.note {
+  font-size: var(--text-sm);
+  color: var(--color-warm-brown);
+  padding: var(--space-2) var(--space-3);
+  background-color: var(--color-cream);
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--color-sage);
+}
+
+.mistake {
+  font-size: var(--text-sm);
+  color: var(--color-warm-brown);
+  padding: var(--space-2) var(--space-3);
+  background-color: var(--color-error-light);
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--color-error);
+}
+
+.situationTags {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.tags {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.example {
+  padding: var(--space-3) var(--space-4);
+  background-color: var(--color-cream);
+  border-radius: var(--radius-md);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.exampleDe {
+  font-size: var(--text-base);
+  font-weight: var(--weight-medium);
+  color: var(--color-warm-brown);
+}
+
+.exampleEn {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+}
+
+.noData {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray-light);
+  font-style: italic;
+}

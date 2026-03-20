@@ -1,0 +1,166 @@
+{
+  "id": "main-clause",
+  "title": "Main Clause Word Order (Hauptsatz)",
+  "category": "word-order",
+  "level": "A2",
+  "description": "In German main clauses, the conjugated verb must always be in the second position (V2 rule). This is the most fundamental word order rule in German and applies to all declarative main clauses. Understanding this rule, along with inversion and the TeKaMoLo principle, is essential for constructing correct German sentences.",
+  "whenToUse": [
+    "When forming any declarative statement in German",
+    "When starting a sentence with a time expression, place, or adverb",
+    "When deciding where to place multiple pieces of information (time, reason, manner, place)",
+    "When negating a sentence with 'nicht'"
+  ],
+  "rules": [
+    {
+      "title": "The V2 Rule — Verb in Position 2",
+      "explanation": "In every German main clause, the conjugated (finite) verb must occupy the second position. The first position can be filled by the subject, a time expression, an adverb, or any other element — but the verb always comes second.",
+      "examples": [
+        {
+          "correct": "Ich lerne Deutsch.",
+          "explanation": "Subject (Ich) in position 1, verb (lerne) in position 2, object (Deutsch) in position 3."
+        },
+        {
+          "correct": "Der Mann kauft ein Buch.",
+          "incorrect": "Der Mann ein Buch kauft.",
+          "explanation": "The verb 'kauft' must be in position 2, not at the end. German is not an SOV language in main clauses."
+        },
+        {
+          "correct": "Wir gehen heute ins Kino.",
+          "explanation": "Subject (Wir) in position 1, verb (gehen) in position 2, followed by time and place."
+        }
+      ]
+    },
+    {
+      "title": "Inversion — Non-Subject in Position 1",
+      "explanation": "When something other than the subject occupies position 1 (such as a time expression, place, or adverb), the subject and verb swap places. The verb remains in position 2, and the subject moves to position 3. This is called inversion.",
+      "examples": [
+        {
+          "correct": "Morgen gehe ich einkaufen.",
+          "incorrect": "Morgen ich gehe einkaufen.",
+          "explanation": "When 'Morgen' takes position 1, the verb 'gehe' stays in position 2 and the subject 'ich' moves to position 3."
+        },
+        {
+          "correct": "In Berlin wohnt meine Schwester.",
+          "incorrect": "In Berlin meine Schwester wohnt.",
+          "explanation": "The prepositional phrase 'In Berlin' is in position 1, so the verb 'wohnt' must be in position 2, followed by the subject."
+        },
+        {
+          "correct": "Leider kann ich nicht kommen.",
+          "explanation": "The adverb 'Leider' is in position 1, the modal verb 'kann' in position 2, and the subject 'ich' in position 3."
+        }
+      ]
+    },
+    {
+      "title": "TeKaMoLo — Order of Adverbials in the Middle Field",
+      "explanation": "When a sentence contains multiple adverbial elements, they generally follow the TeKaMoLo order: Temporal (when), Kausal (why), Modal (how), Lokal (where). This is a guideline rather than a strict rule, but following it produces natural-sounding German.",
+      "examples": [
+        {
+          "correct": "Ich fahre morgen wegen der Arbeit schnell nach Berlin.",
+          "explanation": "Temporal (morgen) → Kausal (wegen der Arbeit) → Modal (schnell) → Lokal (nach Berlin) follows TeKaMoLo."
+        },
+        {
+          "correct": "Er geht heute gern ins Kino.",
+          "incorrect": "Er geht ins Kino heute gern.",
+          "explanation": "Temporal (heute) comes before Modal (gern) and Lokal (ins Kino), following Te-Ka-Mo-Lo order."
+        }
+      ]
+    },
+    {
+      "title": "Position of 'nicht' for Negation",
+      "explanation": "'Nicht' generally goes as late as possible in the sentence, but before the element it negates. If negating the entire sentence, 'nicht' goes before the final verb part, adjective, or prepositional phrase. If negating a specific element, 'nicht' goes directly before that element.",
+      "examples": [
+        {
+          "correct": "Ich gehe heute nicht ins Kino.",
+          "incorrect": "Ich gehe nicht heute ins Kino.",
+          "explanation": "When negating the whole action, 'nicht' goes before the locational phrase 'ins Kino'. Placing it before 'heute' would specifically negate the time."
+        },
+        {
+          "correct": "Das ist nicht mein Buch.",
+          "explanation": "'Nicht' is placed before the specific element being negated — here it negates 'mein Buch' (it's not MY book)."
+        },
+        {
+          "correct": "Er hat den Brief nicht geschrieben.",
+          "explanation": "In perfect tense, 'nicht' comes before the past participle 'geschrieben' at the end."
+        }
+      ]
+    },
+    {
+      "title": "Verb Bracket (Satzklammer) with Separable Verbs and Modals",
+      "explanation": "When a sentence has a separable verb or a modal + infinitive, the conjugated part stays in position 2, while the prefix or infinitive goes to the very end. This creates a 'bracket' around the middle of the sentence.",
+      "examples": [
+        {
+          "correct": "Ich stehe jeden Morgen um 7 Uhr auf.",
+          "incorrect": "Ich aufstehe jeden Morgen um 7 Uhr.",
+          "explanation": "The separable verb 'aufstehen' splits: 'stehe' in position 2, 'auf' at the end."
+        },
+        {
+          "correct": "Wir müssen heute Abend unsere Hausaufgaben machen.",
+          "explanation": "The modal 'müssen' is in position 2, and the infinitive 'machen' goes to the end, creating the sentence bracket."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Main Clause Word Order Positions",
+      "headers": ["Position 1", "Position 2 (Verb)", "Position 3 (Subject*)", "Middle Field", "End"],
+      "rows": [
+        ["Ich", "lerne", "", "jeden Tag", "Deutsch."],
+        ["Jeden Tag", "lerne", "ich", "", "Deutsch."],
+        ["Morgen", "gehe", "ich", "mit Freunden", "einkaufen."],
+        ["In Berlin", "wohnt", "meine Schwester", "seit 2020", "."],
+        ["Der Hund", "hat", "", "den ganzen Tag", "geschlafen."]
+      ]
+    },
+    {
+      "title": "TeKaMoLo — Adverbial Order",
+      "headers": ["Temporal (when)", "Kausal (why)", "Modal (how)", "Lokal (where)"],
+      "rows": [
+        ["heute", "wegen des Regens", "schnell", "nach Hause"],
+        ["morgen", "aus Neugier", "gern", "ins Museum"],
+        ["jeden Tag", "für die Prüfung", "fleißig", "in der Bibliothek"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Morgen gehe ich ins Kino.",
+      "incorrect": "Morgen ich gehe ins Kino.",
+      "explanation": "When a non-subject element is in position 1, the verb must still be in position 2. The subject moves to position 3 (inversion)."
+    },
+    {
+      "correct": "Ich habe gestern ein Buch gelesen.",
+      "incorrect": "Ich habe gestern gelesen ein Buch.",
+      "explanation": "The past participle (gelesen) goes to the end of the sentence in perfect tense, after all other elements."
+    },
+    {
+      "correct": "Ich gehe heute nicht ins Kino.",
+      "incorrect": "Ich nicht gehe heute ins Kino.",
+      "explanation": "'Nicht' should not be placed before the conjugated verb in a main clause. It generally goes later in the sentence."
+    },
+    {
+      "correct": "Ich stehe um 7 Uhr auf.",
+      "incorrect": "Ich aufstehe um 7 Uhr.",
+      "explanation": "Separable prefixes must split from the verb. The conjugated part stays in position 2, the prefix goes to the end."
+    },
+    {
+      "correct": "Er fährt morgen schnell nach Hamburg.",
+      "incorrect": "Er fährt nach Hamburg morgen schnell.",
+      "explanation": "Adverbials should follow TeKaMoLo order: temporal (morgen) before modal (schnell) before lokal (nach Hamburg)."
+    },
+    {
+      "correct": "Leider kann ich dir nicht helfen.",
+      "incorrect": "Leider ich kann dir nicht helfen.",
+      "explanation": "Even when starting with an adverb like 'leider', the verb (kann) must be in position 2 with subject-verb inversion."
+    }
+  ],
+  "tips": [
+    "Always check: is my conjugated verb in position 2? This is the single most important rule for German main clauses.",
+    "Think of position 1 as a spotlight — whatever you put there gets emphasis. 'Ich gehe morgen' vs. 'Morgen gehe ich' both work, but the first word gets the focus.",
+    "Remember TeKaMoLo as a mnemonic: Time before Cause before Manner before Location. When in doubt, follow this order.",
+    "For separable verbs, imagine a rubber band connecting the prefix and the verb — they stretch apart but the prefix always snaps to the end.",
+    "When placing 'nicht', start by putting it at the end and then move it left only if you need to negate a specific element."
+  ],
+  "relatedTopics": ["subordinate-clauses", "questions"],
+  "relatedSentenceIds": []
+}

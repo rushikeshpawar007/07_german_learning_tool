@@ -1,0 +1,2937 @@
+[
+  {
+    "id": "v-shopping-001",
+    "word": "die Kasse",
+    "baseForm": "Kasse",
+    "gender": "die",
+    "plural": "Kassen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "checkout, cash register",
+    "meaningDe": "der Ort im Geschäft, wo man bezahlt",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte gehen Sie zur Kasse.",
+        "en": "Please go to the checkout.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "An der Kasse war eine lange Schlange.",
+        "en": "There was a long queue at the checkout.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich warte an Kasse 3.",
+        "en": "I am waiting at checkout 3.",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'An der Kasse' (nicht 'auf der Kasse') - die richtige Präposition ist 'an'.",
+      "Nicht verwechseln mit 'Kasten' (box) oder 'Kissen' (pillow)."
+    ],
+    "usageNotes": [
+      "'Kasse' wird auch für den Geldautomaten verwendet: 'Geld aus der Kasse nehmen'.",
+      "Im Supermarkt sagt man oft 'Schnellkasse' für die Express-Kasse (wenige Artikel)."
+    ],
+    "relatedWords": [
+      "der Kassenbon",
+      "der Kassierer",
+      "die Kassiererin",
+      "die Schnellkasse"
+    ],
+    "tags": [
+      "supermarket",
+      "payment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-002",
+    "word": "das Angebot",
+    "baseForm": "Angebot",
+    "gender": "das",
+    "plural": "Angebote",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "offer, deal, special offer",
+    "meaningDe": "ein Produkt, das zu einem günstigeren Preis verkauft wird",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Diese Woche gibt es viele Angebote im Supermarkt.",
+        "en": "There are many offers in the supermarket this week.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Angebot gilt nur bis Samstag.",
+        "en": "The offer is only valid until Saturday.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Hast du die Angebote in der Zeitung gesehen?",
+        "en": "Did you see the deals in the newspaper?",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Im Angebot' bedeutet 'on sale/special offer', nicht einfach 'erhältlich'.",
+      "Verwechslung: 'Angebot' (offer) vs. 'Nachfrage' (demand) - Gegensatzpaar."
+    ],
+    "usageNotes": [
+      "'Im Angebot' ist der übliche Ausdruck für Sonderpreise: 'Milch ist diese Woche im Angebot.'",
+      "Deutsche schaün oft die wöchentlichen Angebotsprospekte von Supermäerkten an."
+    ],
+    "relatedWords": [
+      "das Sonderangebot",
+      "der Rabatt",
+      "guenstig",
+      "die Werbung"
+    ],
+    "tags": [
+      "prices",
+      "supermarket",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-003",
+    "word": "die Quittung",
+    "baseForm": "Quittung",
+    "gender": "die",
+    "plural": "Quittungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "receipt",
+    "meaningDe": "ein Zettel, der beweist, dass man etwas bezahlt hat",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich bitte die Quittung haben?",
+        "en": "Can I have the receipt, please?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Bewahren Sie die Quittung für den Umtausch auf.",
+        "en": "Keep the receipt for returns.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe die Quittung leider verloren.",
+        "en": "I unfortunately lost the receipt.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Quittung' und 'Kassenbon' werden oft synonym verwendet, aber 'Quittung' ist formeller.",
+      "Nicht verwechseln mit 'Rechnung' (invoice/bill) - 'Rechnung' ist oft für grössere Beträge."
+    ],
+    "usageNotes": [
+      "In Deutschland braucht man die Quittung für Umtausch oder Rückgabe.",
+      "'Kassenbon' oder 'Bon' wird umgangssprachlich häufiger verwendet als 'Quittung'."
+    ],
+    "relatedWords": [
+      "der Kassenbon",
+      "die Rechnung",
+      "der Beleg",
+      "der Umtausch"
+    ],
+    "tags": [
+      "payment",
+      "documents",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-004",
+    "word": "der Umtausch",
+    "baseForm": "Umtausch",
+    "gender": "der",
+    "plural": "Umtausche",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "exchange, return (of goods)",
+    "meaningDe": "wenn man ein gekauftes Produkt zurückgibt oder gegen ein anderes tauscht",
+    "situations": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "de": "Ein Umtausch ist nur mit Quittung möglich.",
+        "en": "An exchange is only possible with a receipt.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ist ein Umtausch innerhalb von 14 Tagen möglich?",
+        "en": "Is an exchange possible within 14 days?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Vom Umtausch ausgeschlossen.",
+        "en": "Excluded from exchange.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Umtausch' (exchange for different item) vs. 'Rückgabe' (return for refund) - nicht dasselbe.",
+      "Falscher Artikel: es heisst 'der Umtausch' (maskulin), nicht 'die Umtausch'."
+    ],
+    "usageNotes": [
+      "In Deutschland gibt es kein gesetzliches Umtauschrecht im Laden - es ist eine Kulanzleistung.",
+      "Bei Online-Käufen hat man 14 Tage Widerrufsrecht."
+    ],
+    "relatedWords": [
+      "umtauschen",
+      "die Rueckgabe",
+      "zurueckgeben",
+      "die Quittung"
+    ],
+    "tags": [
+      "returns",
+      "customer-service"
+    ]
+  },
+  {
+    "id": "v-shopping-005",
+    "word": "die Grösse",
+    "baseForm": "Grösse",
+    "gender": "die",
+    "plural": "Grössen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "size",
+    "meaningDe": "die Massangabe für Kleidung oder Schuhe",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Welche Grösse tragen Sie?",
+        "en": "What size do you wear?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie das in einer anderen Grösse?",
+        "en": "Do you have this in a different size?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Diese Grösse passt mir nicht.",
+        "en": "This size doesn't fit me.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "In Deutschland werden andere Konfektionsgrössen als in den USA verwendet (z.B. 38 statt M).",
+      "'Grösse' bezieht sich auf Kleidung, 'Masse' auf allgemeine Abmessungen."
+    ],
+    "usageNotes": [
+      "Deutsche Kleidergrössen: 34 (XS), 36 (S), 38 (M), 40 (L), 42 (XL).",
+      "Man fragt: 'Welche Grösse haben Sie?' oder 'Welche Grösse brauchen Sie?'"
+    ],
+    "relatedWords": [
+      "passen",
+      "anprobieren",
+      "die Konfektionsgroesse",
+      "die Schuhgroesse"
+    ],
+    "tags": [
+      "clothing",
+      "sizes",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-006",
+    "word": "das Sonderangebot",
+    "baseForm": "Sonderangebot",
+    "gender": "das",
+    "plural": "Sonderangebote",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "special offer, bargain",
+    "meaningDe": "ein besonders günstiger Preis für eine bestimmte Zeit",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Im Sonderangebot: Äpfel nur 1,49 Euro pro Kilo.",
+        "en": "On special offer: apples only 1.49 euros per kilo.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich kaufe nur Sachen im Sonderangebot.",
+        "en": "I only buy things on special offer.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Die Sonderangebote gelten von Montag bis Samstag.",
+        "en": "The special offers are valid from Monday to Saturday.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Im Sonderangebot' (nicht 'in Sonderangebot') - Artikel nicht vergessen.",
+      "Betonung auf 'Sonder-' - es ist ein zusammengesetztes Wort aus 'Sonder' + 'Angebot'."
+    ],
+    "usageNotes": [
+      "Typisch deutsch: Prospekte mit wöchentlichen Sonderangeboten von Aldi, Lidl, Rewe etc.",
+      "Synonym: 'Aktion' oder 'Aktionspreis' wird auch häufig verwendet."
+    ],
+    "relatedWords": [
+      "das Angebot",
+      "der Rabatt",
+      "die Aktion",
+      "der Aktionspreis"
+    ],
+    "tags": [
+      "prices",
+      "supermarket",
+      "deals"
+    ]
+  },
+  {
+    "id": "v-shopping-007",
+    "word": "der Einkaufswagen",
+    "baseForm": "Einkaufswagen",
+    "gender": "der",
+    "plural": "Einkaufswagen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "shopping cart, trolley",
+    "meaningDe": "der Wagen auf Rädern, den man im Supermarkt benutzt",
+    "situations": [
+      "shopping",
+      "supermarket"
+    ],
+    "examples": [
+      {
+        "de": "Hast du eine Münze für den Einkaufswagen?",
+        "en": "Do you have a coin for the shopping cart?",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Einkaufswagen ist schon ganz voll.",
+        "en": "The shopping cart is already completely full.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte bringen Sie den Einkaufswagen zurück.",
+        "en": "Please return the shopping cart.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist gleich wie der Singular: 'der Einkaufswagen' / 'die Einkaufswagen'.",
+      "Nicht verwechseln mit 'Einkaufskorb' (shopping basket) - der ist kleiner."
+    ],
+    "usageNotes": [
+      "In Deutschland braucht man eine 1-Euro- oder 50-Cent-Münze (oder einen Chip), um einen Einkaufswagen zu lösen.",
+      "Umgangssprachlich auch einfach 'Wagen' genannt."
+    ],
+    "relatedWords": [
+      "der Einkaufskorb",
+      "die Muenze",
+      "der Chip",
+      "einkaufen"
+    ],
+    "tags": [
+      "supermarket",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-008",
+    "word": "der Markt",
+    "baseForm": "Markt",
+    "gender": "der",
+    "plural": "Märkte",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "market",
+    "meaningDe": "ein Ort, wo Händler ihre Waren unter freiem Himmel verkaufen",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Samstags gehe ich immer auf den Markt.",
+        "en": "On Saturdays I always go to the market.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Auf dem Markt gibt es frisches Obst und Gemüse.",
+        "en": "At the market there is fresh fruit and vegetables.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Wochenmarkt findet jeden Mittwoch statt.",
+        "en": "The weekly market takes place every Wednesday.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Auf den Markt gehen' (Bewegung) vs. 'auf dem Markt sein' (Ort) - Wechselpräposition beachten.",
+      "Umlaut im Plural: 'Märkte' (nicht 'Markte')."
+    ],
+    "usageNotes": [
+      "Viele deutsche Städte haben regelmässige Wochenmärkte mit frischen, regionalen Produkten.",
+      "'Flohmarkt' (flea market) ist auch sehr beliebt in Deutschland."
+    ],
+    "relatedWords": [
+      "der Wochenmarkt",
+      "der Flohmarkt",
+      "der Supermarkt",
+      "die Markthalle"
+    ],
+    "tags": [
+      "market",
+      "food",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-009",
+    "word": "das Pfand",
+    "baseForm": "Pfand",
+    "gender": "das",
+    "plural": "Pfänder",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "deposit (on bottles/cans)",
+    "meaningDe": "ein Geldbetrag, den man beim Kauf von Flaschen oder Dosen extra bezahlt und beim Zurückgeben zurückbekommt",
+    "situations": [
+      "shopping",
+      "supermarket",
+      "sustainability"
+    ],
+    "examples": [
+      {
+        "de": "Auf diese Flasche ist 25 Cent Pfand.",
+        "en": "There is a 25 cent deposit on this bottle.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss noch die Pfandflaschen zurückbringen.",
+        "en": "I still need to return the deposit bottles.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Das Pfand bekommt man am Automaten zurück.",
+        "en": "You get the deposit back at the machine.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Das Pfand' (nicht 'der Pfand') - es ist Neutrum.",
+      "Einwegpfand (25 Cent) vs. Mehrwegpfand (8 oder 15 Cent) - verschiedene Beträge."
+    ],
+    "usageNotes": [
+      "Das deutsche Pfandsystem ist einzigartig: Fast alle Flaschen und Dosen haben Pfand.",
+      "'Pfandautomat' oder 'Leergutautomat' ist die Maschine, an der man Flaschen zurückgibt."
+    ],
+    "relatedWords": [
+      "die Pfandflasche",
+      "der Pfandautomat",
+      "das Leergut",
+      "die Dose"
+    ],
+    "tags": [
+      "supermarket",
+      "sustainability",
+      "culture"
+    ]
+  },
+  {
+    "id": "v-shopping-010",
+    "word": "die Tüte",
+    "baseForm": "Tüte",
+    "gender": "die",
+    "plural": "Tüten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "bag (plastic or paper)",
+    "meaningDe": "eine Verpackung aus Plastik oder Papier zum Tragen von Einkaufen",
+    "situations": [
+      "shopping",
+      "supermarket"
+    ],
+    "examples": [
+      {
+        "de": "Brauchen Sie eine Tüte?",
+        "en": "Do you need a bag?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe meinen eigenen Beutel dabei.",
+        "en": "I brought my own bag.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Plastiktüte kostet 20 Cent.",
+        "en": "The plastic bag costs 20 cents.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Regionaler Unterschied: 'Tüte' (Norden), 'Sackerl' (Österreich), 'Beutel' (überall).",
+      "'Tüte' kann umgangssprachlich auch eine unfähige Person bedeuten (abwertend)."
+    ],
+    "usageNotes": [
+      "In Deutschland sind Plastiktüten seit 2022 verboten. Man benutzt Stoffbeutel oder Papiertüten.",
+      "An der Kasse wird man oft gefragt: 'Brauchen Sie eine Tüte?' oder 'Möchten Sie einen Beutel?'"
+    ],
+    "relatedWords": [
+      "der Beutel",
+      "der Stoffbeutel",
+      "die Plastiktuete",
+      "die Papiertuete"
+    ],
+    "tags": [
+      "supermarket",
+      "sustainability",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-011",
+    "word": "der Preis",
+    "baseForm": "Preis",
+    "gender": "der",
+    "plural": "Preise",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "price",
+    "meaningDe": "der Geldbetrag, den man für etwas bezahlen muss",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Was ist der Preis für dieses Kleid?",
+        "en": "What is the price for this dress?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Preise sind in letzter Zeit stark gestiegen.",
+        "en": "Prices have risen sharply recently.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Preis ist reduziert.",
+        "en": "The price is reduced.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Preis' kann auch 'prize' (Auszeichnung) bedeuten - Kontext beachten.",
+      "'Kosten' (Plural) vs. 'Preis' (Singular) - 'Kosten' sind allgemeine Ausgaben, 'Preis' bezieht sich auf einen Artikel."
+    ],
+    "usageNotes": [
+      "In deutschen Geschäften sind die Preise immer inklusive Mehrwertsteür (MwSt.).",
+      "Handeln ist in Deutschland unüblich (ausser auf Flohmärkten)."
+    ],
+    "relatedWords": [
+      "kosten",
+      "die Kosten",
+      "der Normalpreis",
+      "der Rabatt",
+      "teuer",
+      "guenstig"
+    ],
+    "tags": [
+      "prices",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-012",
+    "word": "der Rabatt",
+    "baseForm": "Rabatt",
+    "gender": "der",
+    "plural": "Rabatte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "discount",
+    "meaningDe": "eine Ermässigung vom normalen Preis",
+    "situations": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "de": "Auf alle Winterjacken gibt es 30 Prozent Rabatt.",
+        "en": "There is a 30 percent discount on all winter jackets.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bekommen Studenten hier Rabatt?",
+        "en": "Do students get a discount here?",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Mit der Kundenkarte erhalten Sie einen Rabatt.",
+        "en": "With the customer card you receive a discount.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Rabatt' (kaufmännisch) vs. 'Ermässigung' (allgemein) - oft austauschbar im Alltag.",
+      "'Prozent Rabatt' (nicht 'Prozent Discount') - 'Discount' wird im Deutschen selten verwendet."
+    ],
+    "usageNotes": [
+      "Grosse Rabattaktionen gibt es beim Winterschlussverkauf (WSV) und Sommerschlussverkauf (SSV).",
+      "In Deutschland wird nicht gehandelt - Rabatte sind festgelegt."
+    ],
+    "relatedWords": [
+      "die Ermaessigung",
+      "reduziert",
+      "der Schlussverkauf",
+      "sparen"
+    ],
+    "tags": [
+      "prices",
+      "deals"
+    ]
+  },
+  {
+    "id": "v-shopping-013",
+    "word": "die Umkleidekabine",
+    "baseForm": "Umkleidekabine",
+    "gender": "die",
+    "plural": "Umkleidekabinen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "fitting room, changing room",
+    "meaningDe": "ein kleiner Raum in einem Geschäft, in dem man Kleidung anprobieren kann",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Wo sind die Umkleidekabinen, bitte?",
+        "en": "Where are the fitting rooms, please?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie dürfen maximal drei Teile mit in die Umkleidekabine nehmen.",
+        "en": "You may take a maximum of three items into the fitting room.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Umkleidekabine ist besetzt.",
+        "en": "The fitting room is occupied.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Langes Wort - Aussprache üben: Um-klei-de-ka-bi-ne.",
+      "Auch kurz 'Kabine' oder 'Umkleide' genannt."
+    ],
+    "usageNotes": [
+      "In vielen Geschäften gibt es ein Limit für die Anzahl der Kleidungsstücke.",
+      "Kurzform: 'Kann ich das anprobieren?' reicht oft - man wird dann zur Kabine geführt."
+    ],
+    "relatedWords": [
+      "anprobieren",
+      "die Kabine",
+      "die Umkleide",
+      "passen"
+    ],
+    "tags": [
+      "clothing",
+      "store"
+    ]
+  },
+  {
+    "id": "v-shopping-014",
+    "word": "der Kassenbon",
+    "baseForm": "Kassenbon",
+    "gender": "der",
+    "plural": "Kassenbons",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "receipt, till receipt",
+    "meaningDe": "der kleine Zettel, den man nach dem Bezahlen an der Kasse bekommt",
+    "situations": [
+      "shopping",
+      "supermarket"
+    ],
+    "examples": [
+      {
+        "de": "Möchten Sie den Kassenbon?",
+        "en": "Would you like the receipt?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Den Kassenbon brauche ich nicht.",
+        "en": "I don't need the receipt.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Heben Sie den Kassenbon auf, falls Sie etwas umtauschen möchten.",
+        "en": "Keep the receipt in case you want to exchange something.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Bon' wird französisch ausgesprochen: [bɔ̃], nicht 'bon' wie im Englischen.",
+      "Plural: 'Kassenbons' (nicht 'Kassenbön')."
+    ],
+    "usageNotes": [
+      "Seit 2020 gibt es in Deutschland die Bonpflicht - jeder Einkauf muss einen Bon bekommen.",
+      "Viele Deutsche lehnen den Bon ab, um Papier zu sparen."
+    ],
+    "relatedWords": [
+      "die Quittung",
+      "der Beleg",
+      "die Kasse",
+      "die Bonpflicht"
+    ],
+    "tags": [
+      "supermarket",
+      "payment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-015",
+    "word": "die Währung",
+    "baseForm": "Währung",
+    "gender": "die",
+    "plural": "Währungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "currency",
+    "meaningDe": "das Geldsystem eines Landes, z.B. Euro, Dollar",
+    "situations": [
+      "shopping",
+      "travel",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Der Euro ist die Währung in Deutschland.",
+        "en": "The Euro is the currency in Germany.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "In welcher Währung möchten Sie bezahlen?",
+        "en": "In which currency would you like to pay?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Wechselkurs zwischen den Währungen ändert sich täglich.",
+        "en": "The exchange rate between currencies changes daily.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Aussprache: 'Wäh-rung', nicht 'Wä-rung' - das 'h' verlängert den Vokal.",
+      "'Währung' (currency system) vs. 'Geld' (money) - nicht dasselbe."
+    ],
+    "usageNotes": [
+      "Deutschland, Österreich und ein Teil der Schweiz (Grenzregionen) verwenden den Euro.",
+      "Die Schweiz hat den Schweizer Franken (CHF) als eigene Währung."
+    ],
+    "relatedWords": [
+      "der Euro",
+      "das Bargeld",
+      "der Wechselkurs",
+      "das Kleingeld"
+    ],
+    "tags": [
+      "money",
+      "finance"
+    ]
+  },
+  {
+    "id": "v-shopping-016",
+    "word": "das Bargeld",
+    "baseForm": "Bargeld",
+    "gender": "das",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "cash",
+    "meaningDe": "Geld in Form von Münzen und Scheinen",
+    "situations": [
+      "shopping",
+      "daily-life",
+      "payment"
+    ],
+    "examples": [
+      {
+        "de": "Wir akzeptieren nur Bargeld.",
+        "en": "We only accept cash.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe kein Bargeld dabei.",
+        "en": "I don't have any cash on me.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Möchten Sie bar oder mit Karte zahlen?",
+        "en": "Would you like to pay cash or by card?",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Bargeld' hat keinen Plural - es ist ein Sammelwort (uncountable).",
+      "'Bar zahlen' (nicht 'mit Bar zahlen') - 'bar' ist hier ein Adverb."
+    ],
+    "usageNotes": [
+      "Deutsche benutzen Bargeld deutlich häufiger als Menschen in anderen Ländern.",
+      "Viele kleine Geschäfte und Restaurants akzeptieren nur Bargeld - immer etwas dabei haben!"
+    ],
+    "relatedWords": [
+      "die Muenze",
+      "der Schein",
+      "das Kleingeld",
+      "die EC-Karte"
+    ],
+    "tags": [
+      "payment",
+      "money",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-017",
+    "word": "der Einkaufszettel",
+    "baseForm": "Einkaufszettel",
+    "gender": "der",
+    "plural": "Einkaufszettel",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "shopping list",
+    "meaningDe": "eine Liste mit Dingen, die man einkaufen möchte",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Hast du den Einkaufszettel mitgenommen?",
+        "en": "Did you take the shopping list?",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich schreibe schnell einen Einkaufszettel.",
+        "en": "I'll quickly write a shopping list.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Was steht noch auf dem Einkaufszettel?",
+        "en": "What's still on the shopping list?",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Plural ist gleich wie Singular: 'die Einkaufszettel'.",
+      "Synonym: 'die Einkaufsliste' ist ebenso gebräuchlich."
+    ],
+    "usageNotes": [
+      "Viele Deutsche nutzen inzwischen Apps als Einkaufszettel.",
+      "'Einkaufszettel' klingt etwas altmodischer, 'Einkaufsliste' ist neutraler."
+    ],
+    "relatedWords": [
+      "die Einkaufsliste",
+      "einkaufen",
+      "der Zettel",
+      "notieren"
+    ],
+    "tags": [
+      "supermarket",
+      "planning",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-018",
+    "word": "die Mehrwertsteür",
+    "baseForm": "Mehrwertsteür",
+    "gender": "die",
+    "plural": "Mehrwertsteürn",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "value-added tax (VAT)",
+    "meaningDe": "eine Steür, die auf den Preis von Waren und Dienstleistungen aufgeschlagen wird",
+    "situations": [
+      "shopping",
+      "finance"
+    ],
+    "examples": [
+      {
+        "de": "Alle Preise verstehen sich inklusive Mehrwertsteür.",
+        "en": "All prices include VAT.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Mehrwertsteür in Deutschland beträgt 19 Prozent.",
+        "en": "The VAT in Germany is 19 percent.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Auf Lebensmittel gilt ein reduzierter Mehrwertsteürsatz von 7 Prozent.",
+        "en": "A reduced VAT rate of 7 percent applies to food.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Abkürzung: MwSt. (nicht MWSt oder Mwst).",
+      "Zwei Sätze: 19% (normal) und 7% (ermässigt, z.B. Lebensmittel, Bücher)."
+    ],
+    "usageNotes": [
+      "In Deutschland sind alle ausgeschilderten Preise Bruttopreise (inkl. MwSt.) - anders als z.B. in den USA.",
+      "Abkürzung 'MwSt.' findet man auf jeder Quittung."
+    ],
+    "relatedWords": [
+      "die Steuer",
+      "brutto",
+      "netto",
+      "inklusive"
+    ],
+    "tags": [
+      "finance",
+      "tax",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-shopping-019",
+    "word": "das Wechselgeld",
+    "baseForm": "Wechselgeld",
+    "gender": "das",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "change (money returned)",
+    "meaningDe": "das Geld, das man zurückbekommt, wenn man mehr bezahlt hat",
+    "situations": [
+      "shopping",
+      "payment"
+    ],
+    "examples": [
+      {
+        "de": "Stimmt so, behalten Sie das Wechselgeld.",
+        "en": "Keep the change.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Ihr Wechselgeld beträgt 3,50 Euro.",
+        "en": "Your change is 3.50 euros.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe leider kein Wechselgeld.",
+        "en": "I unfortunately don't have any change.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Wechselgeld' hat keinen Plural.",
+      "'Wechselgeld' (change after payment) vs. 'Kleingeld' (small coins) - unterschiedliche Bedeutung."
+    ],
+    "usageNotes": [
+      "'Stimmt so' ist die übliche Art zu sagen, dass man kein Wechselgeld möchte (z.B. als Trinkgeld).",
+      "An der Kasse zählt der Kassierer das Wechselgeld oft laut vor."
+    ],
+    "relatedWords": [
+      "das Kleingeld",
+      "zurueckgeben",
+      "das Bargeld",
+      "wechseln"
+    ],
+    "tags": [
+      "payment",
+      "money"
+    ]
+  },
+  {
+    "id": "v-shopping-020",
+    "word": "die Kundenkarte",
+    "baseForm": "Kundenkarte",
+    "gender": "die",
+    "plural": "Kundenkarten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "loyalty card, customer card",
+    "meaningDe": "eine Karte, mit der man Punkte sammeln oder Rabatte bekommen kann",
+    "situations": [
+      "shopping",
+      "supermarket"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie eine Kundenkarte?",
+        "en": "Do you have a loyalty card?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Mit der Kundenkarte sammeln Sie Punkte.",
+        "en": "With the loyalty card you collect points.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe meine Kundenkarte vergessen.",
+        "en": "I forgot my loyalty card.",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Kundenkarte' ist nicht dasselbe wie 'Kreditkarte' - Verwechslungsgefahr an der Kasse.",
+      "Man 'hat' oder 'besitzt' eine Kundenkarte (nicht 'trägt')."
+    ],
+    "usageNotes": [
+      "Bekannte Kundenkarten in Deutschland: Payback (Rewe, dm), Deutschlandcard (Netto, Edeka).",
+      "An der Kasse wird man fast immer gefragt: 'Haben Sie eine Kundenkarte?' oder 'Sammeln Sie Punkte?'"
+    ],
+    "relatedWords": [
+      "die Payback-Karte",
+      "die Punkte",
+      "der Rabatt",
+      "die Treuekarte"
+    ],
+    "tags": [
+      "supermarket",
+      "loyalty",
+      "customer-service"
+    ]
+  },
+  {
+    "id": "v-shopping-021",
+    "word": "die Abteilung",
+    "baseForm": "Abteilung",
+    "gender": "die",
+    "plural": "Abteilungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "department, section (of a store)",
+    "meaningDe": "ein Bereich in einem Kaufhaus oder grossen Geschäft",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Die Schuhabteilung ist im zweiten Stock.",
+        "en": "The shoe department is on the second floor.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "In welcher Abteilung finde ich Kinderbekleidung?",
+        "en": "In which department can I find children's clothing?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Lebensmittelabteilung ist im Untergeschoss.",
+        "en": "The food department is in the basement.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Abteilung' wird auch im Arbeitskontext verwendet (department) - gleiche Bedeutung, anderer Kontext.",
+      "'In der Abteilung' (nicht 'auf der Abteilung')."
+    ],
+    "usageNotes": [
+      "Grosse Kaufhäuser wie Galeria haben viele Abteilungen auf verschiedenen Etagen.",
+      "Man kann fragen: 'Wo finde ich die Abteilung für...?' oder 'Wo ist die ...abteilung?'"
+    ],
+    "relatedWords": [
+      "das Kaufhaus",
+      "die Etage",
+      "das Stockwerk",
+      "der Bereich",
+      "v-work-004"
+    ],
+    "tags": [
+      "department-store",
+      "clothing",
+      "navigation"
+    ]
+  },
+  {
+    "id": "v-shopping-022",
+    "word": "der Schlussverkauf",
+    "baseForm": "Schlussverkauf",
+    "gender": "der",
+    "plural": "Schlussverkäufe",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "clearance sale, end-of-season sale",
+    "meaningDe": "ein Verkauf am Ende einer Saison mit stark reduzierten Preisen",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Im Schlussverkauf habe ich eine tolle Jacke gefunden.",
+        "en": "I found a great jacket in the clearance sale.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Sommerschlussverkauf beginnt nächste Woche.",
+        "en": "The summer clearance sale starts next week.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Beim Schlussverkauf sind viele Sachen bis zu 70 Prozent reduziert.",
+        "en": "During the clearance sale many items are reduced by up to 70 percent.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Abkürzungen: SSV (Sommerschlussverkauf), WSV (Winterschlussverkauf).",
+      "'Schlussverkauf' ist ein langes zusammengesetztes Wort - beim Sprechen auf die Betonung achten."
+    ],
+    "usageNotes": [
+      "Früher waren die Termine gesetzlich geregelt, seit 2004 dürfen Geschäfte jederzeit reduzieren.",
+      "Viele Deutsche warten gezielt auf den Schlussverkauf, um günstig einzukaufen."
+    ],
+    "relatedWords": [
+      "der Ausverkauf",
+      "reduziert",
+      "der Rabatt",
+      "das Schnaeppchen"
+    ],
+    "tags": [
+      "sales",
+      "clothing",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "v-shopping-023",
+    "word": "das Schnäppchen",
+    "baseForm": "Schnäppchen",
+    "gender": "das",
+    "plural": "Schnäppchen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "bargain, great deal",
+    "meaningDe": "ein Produkt, das man besonders günstig gekauft hat",
+    "situations": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "de": "Das war ein echtes Schnäppchen!",
+        "en": "That was a real bargain!",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Im Schlussverkauf kann man viele Schnäppchen machen.",
+        "en": "During the clearance sale you can find many bargains.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Auf dem Flohmarkt habe ich ein Schnäppchen gemacht.",
+        "en": "I got a bargain at the flea market.",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Ein Schnäppchen machen' (idiomatisch) - man 'macht' ein Schnäppchen.",
+      "Plural ist gleich: 'die Schnäppchen'."
+    ],
+    "usageNotes": [
+      "Eher umgangssprachlich - wird viel im Alltag und in der Werbung verwendet.",
+      "'Schnäppchenjagd' bedeutet die aktive Suche nach günstigen Angeboten."
+    ],
+    "relatedWords": [
+      "guenstig",
+      "das Angebot",
+      "der Rabatt",
+      "die Schnaeppchenjagd"
+    ],
+    "tags": [
+      "deals",
+      "informal",
+      "colloquial"
+    ]
+  },
+  {
+    "id": "v-shopping-024",
+    "word": "die Reklamation",
+    "baseForm": "Reklamation",
+    "gender": "die",
+    "plural": "Reklamationen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "complaint, claim (about a product)",
+    "meaningDe": "eine Beschwerde über ein fehlerhaftes oder nicht zufriedenstellendes Produkt",
+    "situations": [
+      "shopping",
+      "customer-service"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte eine Reklamation machen.",
+        "en": "I would like to make a complaint.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Für Reklamationen wenden Sie sich bitte an den Kundenservice.",
+        "en": "For complaints please contact customer service.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Reklamation wurde anerkannt und ich bekomme mein Geld zurück.",
+        "en": "The complaint was accepted and I will get my money back.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Reklamation' (formal, kaufmännisch) vs. 'Beschwerde' (allgemeiner) - ähnlich aber nicht identisch.",
+      "'Reklamieren' ist das Verb dazu, nicht 'reklamationen'."
+    ],
+    "usageNotes": [
+      "In Deutschland hat man 2 Jahre gesetzliche Gewährleistung auf neü Waren.",
+      "Bei einer Reklamation sollte man immer die Quittung oder Rechnung dabei haben."
+    ],
+    "relatedWords": [
+      "reklamieren",
+      "die Beschwerde",
+      "die Gewaehrleistung",
+      "die Garantie"
+    ],
+    "tags": [
+      "customer-service",
+      "formal",
+      "rights"
+    ]
+  },
+  {
+    "id": "v-shopping-025",
+    "word": "das Schildchen",
+    "baseForm": "Schildchen",
+    "gender": "das",
+    "plural": "Schildchen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "price tag, label",
+    "meaningDe": "ein kleines Etikett an einem Produkt mit Preis- oder Grössenangabe",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Auf dem Schildchen steht der Preis.",
+        "en": "The price is on the tag.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich kann das Schildchen nicht lesen, die Schrift ist zu klein.",
+        "en": "I can't read the tag, the font is too small.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Bitte das Schildchen nicht entfernen.",
+        "en": "Please don't remove the tag.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Auch 'Preisschild' oder 'Etikett' genannt - alle drei sind gebräuchlich.",
+      "'Schildchen' ist die Verkleinerungsform von 'Schild' und immer Neutrum."
+    ],
+    "usageNotes": [
+      "'Preisschild' ist häufiger im Supermarkt, 'Schildchen' eher bei Kleidung.",
+      "Beim Umtausch muss das Schildchen oft noch dran sein."
+    ],
+    "relatedWords": [
+      "das Preisschild",
+      "das Etikett",
+      "der Preis",
+      "die Groesse"
+    ],
+    "tags": [
+      "clothing",
+      "labels"
+    ]
+  },
+  {
+    "id": "v-shopping-026",
+    "word": "umtauschen",
+    "baseForm": "umtauschen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to exchange, to return (goods)",
+    "meaningDe": "eine gekaufte Ware zurückgeben und gegen etwas anderes tauschen",
+    "situations": [
+      "shopping",
+      "customer-service"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich diesen Pullover umtauschen?",
+        "en": "Can I exchange this sweater?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich möchte dieses Hemd umtauschen, es ist zu klein.",
+        "en": "I would like to exchange this shirt, it is too small.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ohne Quittung können wir leider nicht umtauschen.",
+        "en": "Without a receipt we unfortunately cannot do an exchange.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "tausche um",
+        "du": "tauschst um",
+        "er_sie_es": "tauscht um",
+        "wir": "tauschen um",
+        "ihr": "tauscht um",
+        "sie_Sie": "tauschen um"
+      },
+      "past": {
+        "ich": "tauschte um",
+        "du": "tauschtest um",
+        "er_sie_es": "tauschte um",
+        "wir": "tauschten um",
+        "ihr": "tauschtet um",
+        "sie_Sie": "tauschten um"
+      },
+      "pastParticiple": "umgetauscht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbares Verb: 'Ich tausche den Pullover um.' (nicht 'Ich umtausche den Pullover.').",
+      "Im Nebensatz bleibt es zusammen: 'Ich möchte wissen, ob ich das umtauschen kann.'"
+    ],
+    "usageNotes": [
+      "'Umtauschen' (exchange for different item) vs. 'zurückgeben' (return for refund) - wichtiger Unterschied.",
+      "In Deutschland gibt es kein gesetzliches Umtauschrecht im Laden - nur Kulanz."
+    ],
+    "relatedWords": [
+      "der Umtausch",
+      "zurueckgeben",
+      "die Rueckgabe",
+      "tauschen"
+    ],
+    "tags": [
+      "returns",
+      "customer-service",
+      "separable-verb"
+    ]
+  },
+  {
+    "id": "v-shopping-027",
+    "word": "anprobieren",
+    "baseForm": "anprobieren",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to try on (clothing)",
+    "meaningDe": "Kleidung im Geschäft anziehen, um zu sehen, ob sie passt",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Darf ich das anprobieren?",
+        "en": "May I try this on?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich möchte diese Hose gern anprobieren.",
+        "en": "I would like to try on these trousers.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Probier mal die blaü Jacke an!",
+        "en": "Try on the blue jacket!",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "probiere an",
+        "du": "probierst an",
+        "er_sie_es": "probiert an",
+        "wir": "probieren an",
+        "ihr": "probiert an",
+        "sie_Sie": "probieren an"
+      },
+      "past": {
+        "ich": "probierte an",
+        "du": "probiertest an",
+        "er_sie_es": "probierte an",
+        "wir": "probierten an",
+        "ihr": "probiertet an",
+        "sie_Sie": "probierten an"
+      },
+      "pastParticiple": "anprobiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich probiere das Kleid an.' (nicht 'Ich anprobiere das Kleid.').",
+      "'Anprobieren' (Kleidung) vs. 'probieren' (Essen kosten) - verschiedene Bedeutungen."
+    ],
+    "usageNotes": [
+      "'Darf ich das anprobieren?' ist die höflichste Standardfrage im Geschäft.",
+      "In der Umkleidekabine probiert man Kleidung an."
+    ],
+    "relatedWords": [
+      "die Umkleidekabine",
+      "passen",
+      "die Groesse",
+      "probieren"
+    ],
+    "tags": [
+      "clothing",
+      "separable-verb",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-028",
+    "word": "bezahlen",
+    "baseForm": "bezahlen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to pay",
+    "meaningDe": "Geld für eine Ware oder Dienstleistung geben",
+    "situations": [
+      "shopping",
+      "daily-life",
+      "restaurant"
+    ],
+    "examples": [
+      {
+        "de": "Wo kann ich bezahlen?",
+        "en": "Where can I pay?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich mit Karte bezahlen?",
+        "en": "Can I pay by card?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe 50 Euro dafür bezahlt.",
+        "en": "I paid 50 euros for it.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bezahle",
+        "du": "bezahlst",
+        "er_sie_es": "bezahlt",
+        "wir": "bezahlen",
+        "ihr": "bezahlt",
+        "sie_Sie": "bezahlen"
+      },
+      "past": {
+        "ich": "bezahlte",
+        "du": "bezahltest",
+        "er_sie_es": "bezahlte",
+        "wir": "bezahlten",
+        "ihr": "bezahltet",
+        "sie_Sie": "bezahlten"
+      },
+      "pastParticiple": "bezahlt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Bezahlen' (etwas/jemanden bezahlen) vs. 'zahlen' (einen Betrag zahlen) - feiner Unterschied.",
+      "Man bezahlt 'mit Karte' oder 'bar' (nicht 'durch Karte' oder 'durch Bar')."
+    ],
+    "usageNotes": [
+      "'Bezahlen' und 'zahlen' sind im Alltag fast austauschbar.",
+      "Im Restaurant: 'Zahlen, bitte!' oder 'Ich möchte bitte bezahlen.'"
+    ],
+    "relatedWords": [
+      "zahlen",
+      "die Zahlung",
+      "die Bezahlung",
+      "kosten"
+    ],
+    "tags": [
+      "payment",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-029",
+    "word": "sparen",
+    "baseForm": "sparen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to save (money)",
+    "meaningDe": "weniger Geld ausgeben oder Geld zurücklegen",
+    "situations": [
+      "shopping",
+      "finance",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bei diesem Angebot sparen Sie 10 Euro.",
+        "en": "With this offer you save 10 euros.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich spare auf ein neüs Fahrrad.",
+        "en": "I'm saving up for a new bicycle.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Im Schlussverkauf kann man viel Geld sparen.",
+        "en": "During the clearance sale you can save a lot of money.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "spare",
+        "du": "sparst",
+        "er_sie_es": "spart",
+        "wir": "sparen",
+        "ihr": "spart",
+        "sie_Sie": "sparen"
+      },
+      "past": {
+        "ich": "sparte",
+        "du": "spartest",
+        "er_sie_es": "sparte",
+        "wir": "sparten",
+        "ihr": "spartet",
+        "sie_Sie": "sparten"
+      },
+      "pastParticiple": "gespart",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Sparen auf' (Akkusativ) = saving up for something: 'Ich spare auf ein Auto.'",
+      "'Sparen an' (Dativ) = economize on something: 'Er spart am falschen Ende.'"
+    ],
+    "usageNotes": [
+      "Deutsche sind bekannt für ihre Sparsamkeit - 'sparen' ist ein wichtiges Konzept.",
+      "'Sie sparen ...' ist ein Standardsatz in der Werbung."
+    ],
+    "relatedWords": [
+      "die Ersparnis",
+      "das Sparkonto",
+      "die Sparsamkeit",
+      "guenstig"
+    ],
+    "tags": [
+      "money",
+      "finance",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-030",
+    "word": "vergleichen",
+    "baseForm": "vergleichen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to compare",
+    "meaningDe": "zwei oder mehr Dinge nebeneinander betrachten, um Unterschiede zu finden",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich vergleiche immer die Preise, bevor ich kaufe.",
+        "en": "I always compare prices before I buy.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Vergleich mal die beiden Angebote.",
+        "en": "Compare the two offers.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Online kann man Preise leicht vergleichen.",
+        "en": "Online you can easily compare prices.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "vergleiche",
+        "du": "vergleichst",
+        "er_sie_es": "vergleicht",
+        "wir": "vergleichen",
+        "ihr": "vergleicht",
+        "sie_Sie": "vergleichen"
+      },
+      "past": {
+        "ich": "verglich",
+        "du": "verglichst",
+        "er_sie_es": "verglich",
+        "wir": "verglichen",
+        "ihr": "verglicht",
+        "sie_Sie": "verglichen"
+      },
+      "pastParticiple": "verglichen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Starkes Verb: Vergangenheit 'verglich' (nicht 'vergleichte').",
+      "'Vergleichen mit' (Dativ): 'Vergleich das mit dem anderen Preis.'"
+    ],
+    "usageNotes": [
+      "Online-Preisvergleichsportale (wie idealo.de) sind in Deutschland sehr beliebt.",
+      "'Preise vergleichen' ist ein gängiger Ausdruck beim Einkaufen."
+    ],
+    "relatedWords": [
+      "der Vergleich",
+      "der Preisvergleich",
+      "vergleichbar",
+      "aehnlich"
+    ],
+    "tags": [
+      "prices",
+      "smart-shopping"
+    ]
+  },
+  {
+    "id": "v-shopping-031",
+    "word": "kosten",
+    "baseForm": "kosten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to cost",
+    "meaningDe": "einen bestimmten Preis haben",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Was kostet das?",
+        "en": "How much does that cost?",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Schuhe kosten 89 Euro.",
+        "en": "The shoes cost 89 euros.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das hat mich fast nichts gekostet.",
+        "en": "That cost me almost nothing.",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "koste",
+        "du": "kostest",
+        "er_sie_es": "kostet",
+        "wir": "kosten",
+        "ihr": "kostet",
+        "sie_Sie": "kosten"
+      },
+      "past": {
+        "ich": "kostete",
+        "du": "kostetest",
+        "er_sie_es": "kostete",
+        "wir": "kosteten",
+        "ihr": "kostetet",
+        "sie_Sie": "kosteten"
+      },
+      "pastParticiple": "gekostet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Was kostet das?' (nicht 'Wie viel kostet das?' - beides ist korrekt, aber 'Was kostet...' ist üblicher).",
+      "'Kosten' kann auch 'to taste/try' bedeuten: 'Darf ich mal kosten?' (Essen probieren)."
+    ],
+    "usageNotes": [
+      "'Was kostet das?' ist die wichtigste Frage beim Einkaufen.",
+      "'Das kostet ein Vermögen' = Das ist sehr teür (Redewendung)."
+    ],
+    "relatedWords": [
+      "der Preis",
+      "die Kosten",
+      "bezahlen",
+      "teuer",
+      "guenstig"
+    ],
+    "tags": [
+      "prices",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-032",
+    "word": "einkaufen",
+    "baseForm": "einkaufen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to shop, to go shopping",
+    "meaningDe": "Waren in einem Geschäft kaufen",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich gehe heute Nachmittag einkaufen.",
+        "en": "I'm going shopping this afternoon.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir müssen noch Lebensmittel einkaufen.",
+        "en": "We still need to buy groceries.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Samstags kaufe ich immer auf dem Markt ein.",
+        "en": "On Saturdays I always shop at the market.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "kaufe ein",
+        "du": "kaufst ein",
+        "er_sie_es": "kauft ein",
+        "wir": "kaufen ein",
+        "ihr": "kauft ein",
+        "sie_Sie": "kaufen ein"
+      },
+      "past": {
+        "ich": "kaufte ein",
+        "du": "kauftest ein",
+        "er_sie_es": "kaufte ein",
+        "wir": "kauften ein",
+        "ihr": "kauftet ein",
+        "sie_Sie": "kauften ein"
+      },
+      "pastParticiple": "eingekauft",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich kaufe im Supermarkt ein.' (nicht 'Ich einkaufe im Supermarkt.').",
+      "'Einkaufen' (Alltagseinkauf) vs. 'shoppen' (Vergnügen, v.a. Kleidung) - feiner Unterschied."
+    ],
+    "usageNotes": [
+      "'Einkaufen gehen' ist der üblichste Ausdruck für den Gang zum Supermarkt.",
+      "Achtung: Sonntags sind die meisten Geschäfte in Deutschland geschlossen!"
+    ],
+    "relatedWords": [
+      "der Einkauf",
+      "der Einkaufswagen",
+      "die Einkaufsliste",
+      "kaufen"
+    ],
+    "tags": [
+      "essential",
+      "daily-life",
+      "separable-verb"
+    ]
+  },
+  {
+    "id": "v-shopping-033",
+    "word": "passen",
+    "baseForm": "passen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to fit",
+    "meaningDe": "die richtige Grösse haben, gut sitzen (Kleidung)",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Die Hose passt mir perfekt.",
+        "en": "The trousers fit me perfectly.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Rock passt mir leider nicht.",
+        "en": "The skirt unfortunately doesn't fit me.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Passt Ihnen die Grösse?",
+        "en": "Does the size fit you?",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "passe",
+        "du": "passt",
+        "er_sie_es": "passt",
+        "wir": "passen",
+        "ihr": "passt",
+        "sie_Sie": "passen"
+      },
+      "past": {
+        "ich": "passte",
+        "du": "passtest",
+        "er_sie_es": "passte",
+        "wir": "passten",
+        "ihr": "passtet",
+        "sie_Sie": "passten"
+      },
+      "pastParticiple": "gepasst",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Passen' + Dativ: 'Das passt mir.' (nicht 'Das passt mich.').",
+      "'Passen' (Grösse) vs. 'stehen' (Aussehen): 'Das Kleid passt.' (Grösse ok) vs. 'Das Kleid steht dir.' (sieht gut aus)."
+    ],
+    "usageNotes": [
+      "'Das passt' wird auch allgemein für 'that works/that's fine' verwendet.",
+      "In Kombination mit 'zu': 'Das passt zu deiner Jacke.' (matches your jacket)."
+    ],
+    "relatedWords": [
+      "die Groesse",
+      "anprobieren",
+      "stehen",
+      "passend"
+    ],
+    "tags": [
+      "clothing",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-034",
+    "word": "ausgeben",
+    "baseForm": "ausgeben",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to spend (money)",
+    "meaningDe": "Geld für etwas verwenden",
+    "situations": [
+      "shopping",
+      "finance",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe zu viel Geld ausgegeben.",
+        "en": "I spent too much money.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Wie viel möchtest du für das Geschenk ausgeben?",
+        "en": "How much do you want to spend on the gift?",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Für Lebensmittel gebe ich etwa 200 Euro im Monat aus.",
+        "en": "I spend about 200 euros a month on groceries.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "gebe aus",
+        "du": "gibst aus",
+        "er_sie_es": "gibt aus",
+        "wir": "geben aus",
+        "ihr": "gebt aus",
+        "sie_Sie": "geben aus"
+      },
+      "past": {
+        "ich": "gab aus",
+        "du": "gabst aus",
+        "er_sie_es": "gab aus",
+        "wir": "gaben aus",
+        "ihr": "gabt aus",
+        "sie_Sie": "gaben aus"
+      },
+      "pastParticiple": "ausgegeben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Starkes Verb mit Vokalwechsel: ich gebe - du gibst - er gibt (wie 'geben').",
+      "'Geld ausgeben für' (Akkusativ): 'Ich gebe viel Geld für Kleidung aus.'"
+    ],
+    "usageNotes": [
+      "Trennbares Verb: 'Ich gebe nicht so viel Geld aus.'",
+      "'Ausgeben' hat auch andere Bedeutungen: 'sich als jemand ausgeben' (pretend to be someone)."
+    ],
+    "relatedWords": [
+      "die Ausgabe",
+      "die Ausgaben",
+      "sparen",
+      "das Budget"
+    ],
+    "tags": [
+      "money",
+      "separable-verb",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-035",
+    "word": "zurückgeben",
+    "baseForm": "zurückgeben",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to return, to give back",
+    "meaningDe": "eine gekaufte Ware an das Geschäft zurückbringen",
+    "situations": [
+      "shopping",
+      "customer-service"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte diese Bluse zurückgeben.",
+        "en": "I would like to return this blouse.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich das innerhalb von 14 Tagen zurückgeben?",
+        "en": "Can I return this within 14 days?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Schuhe waren kaputt, also habe ich sie zurückgegeben.",
+        "en": "The shoes were broken, so I returned them.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "gebe zurück",
+        "du": "gibst zurück",
+        "er_sie_es": "gibt zurück",
+        "wir": "geben zurück",
+        "ihr": "gebt zurück",
+        "sie_Sie": "geben zurück"
+      },
+      "past": {
+        "ich": "gab zurück",
+        "du": "gabst zurück",
+        "er_sie_es": "gab zurück",
+        "wir": "gaben zurück",
+        "ihr": "gabt zurück",
+        "sie_Sie": "gaben zurück"
+      },
+      "pastParticiple": "zurückgegeben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Starkes Verb: 'zurückgegeben' (nicht 'zurückgegebt').",
+      "'Zurückgeben' (return for refund) vs. 'umtauschen' (exchange) - nicht dasselbe."
+    ],
+    "usageNotes": [
+      "Bei Online-Bestellungen hat man in der EU 14 Tage Widerrufsrecht.",
+      "Im Laden hängt das Rückgaberecht von der Kulanz des Geschäfts ab."
+    ],
+    "relatedWords": [
+      "die Rueckgabe",
+      "umtauschen",
+      "das Widerrufsrecht",
+      "reklamieren"
+    ],
+    "tags": [
+      "returns",
+      "separable-verb",
+      "customer-service"
+    ]
+  },
+  {
+    "id": "v-shopping-036",
+    "word": "empfehlen",
+    "baseForm": "empfehlen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to recommend",
+    "meaningDe": "jemandem etwas vorschlagen, weil man es für gut hält",
+    "situations": [
+      "shopping",
+      "daily-life",
+      "restaurant"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir etwas empfehlen?",
+        "en": "Can you recommend something to me?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich empfehle Ihnen diese Marke.",
+        "en": "I recommend this brand to you.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Diese Creme wurde mir von einer Freundin empfohlen.",
+        "en": "This cream was recommended to me by a friend.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "empfehle",
+        "du": "empfiehlst",
+        "er_sie_es": "empfiehlt",
+        "wir": "empfehlen",
+        "ihr": "empfehlt",
+        "sie_Sie": "empfehlen"
+      },
+      "past": {
+        "ich": "empfahl",
+        "du": "empfahlst",
+        "er_sie_es": "empfahl",
+        "wir": "empfahlen",
+        "ihr": "empfahlt",
+        "sie_Sie": "empfahlen"
+      },
+      "pastParticiple": "empfohlen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Vokalwechsel: ich empfehle - du empfiehlst - er empfiehlt (e -> ie).",
+      "Partizip: 'empfohlen' (nicht 'empfehlt' oder 'empfohlt')."
+    ],
+    "usageNotes": [
+      "'Können Sie mir etwas empfehlen?' ist eine höfliche Standardfrage beim Einkaufen.",
+      "Auch mit Dativ: 'Ich empfehle Ihnen...' (I recommend to you...)."
+    ],
+    "relatedWords": [
+      "die Empfehlung",
+      "vorschlagen",
+      "raten",
+      "empfehlenswert",
+      "v-smalltalk-023"
+    ],
+    "tags": [
+      "customer-service",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-shopping-037",
+    "word": "bestellen",
+    "baseForm": "bestellen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to order",
+    "meaningDe": "eine Ware anfordern, die geliefert wird",
+    "situations": [
+      "shopping",
+      "online-shopping",
+      "restaurant"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe die Schuhe online bestellt.",
+        "en": "I ordered the shoes online.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie den Artikel für mich bestellen?",
+        "en": "Can you order the item for me?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Lieferung kommt drei Tage nach der Bestellung.",
+        "en": "The delivery arrives three days after the order.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bestelle",
+        "du": "bestellst",
+        "er_sie_es": "bestellt",
+        "wir": "bestellen",
+        "ihr": "bestellt",
+        "sie_Sie": "bestellen"
+      },
+      "past": {
+        "ich": "bestellte",
+        "du": "bestelltest",
+        "er_sie_es": "bestellte",
+        "wir": "bestellten",
+        "ihr": "bestelltet",
+        "sie_Sie": "bestellten"
+      },
+      "pastParticiple": "bestellt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich bestelle online.' (nicht 'Ich stelle online be.').",
+      "'Bestellen' im Restaurant = to order food, im Geschäft = to order/place an order for goods."
+    ],
+    "usageNotes": [
+      "Online-Shopping wird in Deutschland immer beliebter, besonders über Amazon und Zalando.",
+      "'Auf Rechnung bestellen' (order on invoice) ist in Deutschland eine beliebte Zahlungsart."
+    ],
+    "relatedWords": [
+      "die Bestellung",
+      "die Lieferung",
+      "liefern",
+      "der Versand"
+    ],
+    "tags": [
+      "online-shopping",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-038",
+    "word": "reklamieren",
+    "baseForm": "reklamieren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to complain (about a product), to make a claim",
+    "meaningDe": "sich über ein fehlerhaftes Produkt beschweren und Ersatz oder Erstattung fordern",
+    "situations": [
+      "shopping",
+      "customer-service"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte dieses Gerät reklamieren, es funktioniert nicht.",
+        "en": "I would like to complain about this device, it doesn't work.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie das Produkt schon reklamiert?",
+        "en": "Have you already made a complaint about the product?",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Man kann innerhalb der Garantiezeit reklamieren.",
+        "en": "You can make a claim within the warranty period.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "reklamiere",
+        "du": "reklamierst",
+        "er_sie_es": "reklamiert",
+        "wir": "reklamieren",
+        "ihr": "reklamiert",
+        "sie_Sie": "reklamieren"
+      },
+      "past": {
+        "ich": "reklamierte",
+        "du": "reklamiertest",
+        "er_sie_es": "reklamierte",
+        "wir": "reklamierten",
+        "ihr": "reklamiertet",
+        "sie_Sie": "reklamierten"
+      },
+      "pastParticiple": "reklamiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich reklamiere das Gerät.' (korrekt).",
+      "'Reklamieren' (formell, kaufmännisch) vs. 'sich beschweren' (allgemein) - ähnlich aber verschiedene Register."
+    ],
+    "usageNotes": [
+      "In Deutschland hat man 2 Jahre gesetzliche Gewährleistung - man kann also lange reklamieren.",
+      "Für eine Reklamation braucht man meist den Kaufbeleg (Quittung oder Rechnung)."
+    ],
+    "relatedWords": [
+      "die Reklamation",
+      "die Beschwerde",
+      "die Garantie",
+      "die Gewaehrleistung"
+    ],
+    "tags": [
+      "customer-service",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-shopping-039",
+    "word": "suchen",
+    "baseForm": "suchen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to look for, to search",
+    "meaningDe": "versuchen, etwas Bestimmtes zu finden",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich suche ein Geschenk für meine Mutter.",
+        "en": "I'm looking for a gift for my mother.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Suchen Sie etwas Bestimmtes?",
+        "en": "Are you looking for something specific?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich suche die Grösse 40 in Blau.",
+        "en": "I'm looking for size 40 in blue.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "suche",
+        "du": "suchst",
+        "er_sie_es": "sucht",
+        "wir": "suchen",
+        "ihr": "sucht",
+        "sie_Sie": "suchen"
+      },
+      "past": {
+        "ich": "suchte",
+        "du": "suchtest",
+        "er_sie_es": "suchte",
+        "wir": "suchten",
+        "ihr": "suchtet",
+        "sie_Sie": "suchten"
+      },
+      "pastParticiple": "gesucht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Suchen' + Akkusativ (ohne Präposition): 'Ich suche einen Rock.' (nicht 'Ich suche nach einem Rock.' - auch möglich, aber weniger üblich).",
+      "'Suchen' (to look for) vs. 'finden' (to find) - verschiedene Aktionen."
+    ],
+    "usageNotes": [
+      "'Kann ich Ihnen helfen? Suchen Sie etwas?' - Standardfrage von Verkäufer:innen.",
+      "'Ich suche...' ist der natürlichste Einstieg, wenn man im Geschäft Hilfe braucht."
+    ],
+    "relatedWords": [
+      "finden",
+      "die Suche",
+      "aussuchen",
+      "heraussuchen"
+    ],
+    "tags": [
+      "communication",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-040",
+    "word": "sich leisten",
+    "baseForm": "sich leisten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to afford",
+    "meaningDe": "genug Geld haben, um sich etwas kaufen zu können",
+    "situations": [
+      "shopping",
+      "finance",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Das kann ich mir leider nicht leisten.",
+        "en": "I unfortunately can't afford that.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können wir uns das neü Sofa leisten?",
+        "en": "Can we afford the new sofa?",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich leiste mir heute mal etwas Besonderes.",
+        "en": "I'm treating myself to something special today.",
+        "situation": "shopping",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "leiste mir",
+        "du": "leistest dir",
+        "er_sie_es": "leistet sich",
+        "wir": "leisten uns",
+        "ihr": "leistet euch",
+        "sie_Sie": "leisten sich"
+      },
+      "past": {
+        "ich": "leistete mir",
+        "du": "leistetest dir",
+        "er_sie_es": "leistete sich",
+        "wir": "leisteten uns",
+        "ihr": "leistetet euch",
+        "sie_Sie": "leisteten sich"
+      },
+      "pastParticiple": "geleistet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexivpronomen im Dativ: 'Ich leiste mir' (nicht 'Ich leiste mich').",
+      "'Sich etwas leisten' = afford; 'etwas leisten' (ohne sich) = to accomplish/achieve."
+    ],
+    "usageNotes": [
+      "'Das kann ich mir nicht leisten' ist ein sehr gängiger Satz beim Einkaufen.",
+      "'Sich etwas leisten' kann auch positiv sein: 'Ich leiste mir etwas Schönes' (I'm treating myself)."
+    ],
+    "relatedWords": [
+      "bezahlen",
+      "teuer",
+      "das Budget",
+      "erschwinglich"
+    ],
+    "tags": [
+      "money",
+      "reflexive-verb"
+    ]
+  },
+  {
+    "id": "v-shopping-041",
+    "word": "günstig",
+    "baseForm": "günstig",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "cheap, affordable, reasonably priced",
+    "meaningDe": "nicht teür, ein guter Preis",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Tomaten sind heute besonders günstig.",
+        "en": "The tomatoes are particularly cheap today.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wo kann man hier günstig einkaufen?",
+        "en": "Where can you shop cheaply here?",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Das ist ein sehr günstiger Preis.",
+        "en": "That is a very reasonable price.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Günstig' (positiv: good valü) vs. 'billig' (kann negativ klingen: cheap quality).",
+      "Steigerung: günstig - günstiger - am günstigsten."
+    ],
+    "usageNotes": [
+      "'Günstig' klingt positiver als 'billig' - im Geschäft besser 'günstig' verwenden.",
+      "Aldi und Lidl gelten als besonders günstige Supermärkte in Deutschland."
+    ],
+    "relatedWords": [
+      "billig",
+      "preiswert",
+      "teuer",
+      "erschwinglich",
+      "das Angebot"
+    ],
+    "tags": [
+      "prices",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-042",
+    "word": "reduziert",
+    "baseForm": "reduziert",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "reduced (in price)",
+    "meaningDe": "im Preis herabgesetzt, günstiger als normal",
+    "situations": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "de": "Alle Winterjacken sind reduziert.",
+        "en": "All winter jackets are reduced.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Dieses Kleid ist von 80 auf 49 Euro reduziert.",
+        "en": "This dress is reduced from 80 to 49 euros.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie auch reduzierte Schuhe?",
+        "en": "Do you also have reduced shoes?",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Reduziert' wird wie ein Adjektiv benutzt, ist aber eigentlich das Partizip von 'reduzieren'.",
+      "'Reduziert um 30%' (reduced by 30%) vs. 'reduziert auf 30 Euro' (reduced to 30 euros)."
+    ],
+    "usageNotes": [
+      "Man sieht oft rote Schilder mit 'REDUZIERT' in Schaufenstern.",
+      "'Stark reduziert' bedeutet eine grosse Preissenkung."
+    ],
+    "relatedWords": [
+      "reduzieren",
+      "der Rabatt",
+      "das Sonderangebot",
+      "der Schlussverkauf"
+    ],
+    "tags": [
+      "prices",
+      "sales"
+    ]
+  },
+  {
+    "id": "v-shopping-043",
+    "word": "ausverkauft",
+    "baseForm": "ausverkauft",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "sold out",
+    "meaningDe": "nicht mehr vorhanden, alles ist verkauft worden",
+    "situations": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "de": "Tut mir leid, der Artikel ist leider ausverkauft.",
+        "en": "I'm sorry, the item is unfortunately sold out.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Grösse 38 ist schon ausverkauft.",
+        "en": "Size 38 is already sold out.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Sonderangebot war schnell ausverkauft.",
+        "en": "The special offer was quickly sold out.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Ausverkauft' (sold out, nothing left) vs. 'vergriffen' (out of print / out of stock for longer).",
+      "Partizip von 'ausverkaufen' - wird fast nur als Adjektiv verwendet."
+    ],
+    "usageNotes": [
+      "Bei beliebten Sonderangeboten hört man oft: 'Nur solange der Vorrat reicht' (while supplies last).",
+      "Man kann fragen: 'Bekommen Sie den Artikel nochmal?' (Will you get the item again?)."
+    ],
+    "relatedWords": [
+      "vergriffen",
+      "der Vorrat",
+      "vorraettig",
+      "nachbestellen"
+    ],
+    "tags": [
+      "availability",
+      "stock"
+    ]
+  },
+  {
+    "id": "v-shopping-044",
+    "word": "preiswert",
+    "baseForm": "preiswert",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "good value, reasonably priced",
+    "meaningDe": "viel Qualität für wenig Geld, ein gutes Preis-Leistungs-Verhältnis",
+    "situations": [
+      "shopping"
+    ],
+    "examples": [
+      {
+        "de": "Dieses Restaurant ist wirklich preiswert.",
+        "en": "This restaurant is really good value.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich suche preiswerte Kleidung für den Alltag.",
+        "en": "I'm looking for good-value clothing for everyday wear.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Gerät ist preiswert und trotzdem sehr gut.",
+        "en": "The device is affordable and yet very good.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Preiswert' betont das gute Verhältnis von Preis und Qualität - positiver als 'billig'.",
+      "Steigerung: preiswert - preiswerter - am preiswertesten."
+    ],
+    "usageNotes": [
+      "'Preiswert' = den Preis wert - wörtlich: 'worth the price'.",
+      "Rangfolge positiv: preiswert > günstig > billig (billig kann negativ klingen)."
+    ],
+    "relatedWords": [
+      "guenstig",
+      "billig",
+      "erschwinglich",
+      "teuer",
+      "das Preis-Leistungs-Verhaeltnis"
+    ],
+    "tags": [
+      "prices",
+      "quality"
+    ]
+  },
+  {
+    "id": "v-shopping-045",
+    "word": "teür",
+    "baseForm": "teür",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "expensive",
+    "meaningDe": "einen hohen Preis habend, viel Geld kostend",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Das ist mir zu teür.",
+        "en": "That is too expensive for me.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bio-Produkte sind oft teurer als konventionelle.",
+        "en": "Organic products are often more expensive than conventional ones.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "In der Innenstadt sind die Geschäfte am teürsten.",
+        "en": "The shops are most expensive in the city center.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Steigerung: teür - teurer (nicht 'teürer') - am teürsten.",
+      "'Teür' vs. 'kostspielig' (costly, more formal) - 'teür' ist die Alltagsform."
+    ],
+    "usageNotes": [
+      "'Das ist mir zu teür' ist die höflliche Standardfrase, wenn man etwas nicht kaufen möchte.",
+      "'Teür' kann auch 'lieb/wertvoll' bedeuten in gehobenem Deutsch: 'Teurer Freund' (Dear friend)."
+    ],
+    "relatedWords": [
+      "guenstig",
+      "billig",
+      "preiswert",
+      "der Preis",
+      "sich leisten"
+    ],
+    "tags": [
+      "prices",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-shopping-046",
+    "word": "Das ist mir zu teür.",
+    "baseForm": "Das ist mir zu teür.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "That is too expensive for me.",
+    "meaningDe": "Ich möchte das nicht kaufen, weil der Preis zu hoch ist.",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "200 Euro für ein T-Shirt? Das ist mir zu teür.",
+        "en": "200 euros for a T-shirt? That's too expensive for me.",
+        "situation": "shopping",
+        "tone": "informal"
+      },
+      {
+        "de": "Das Kleid ist schön, aber das ist mir leider zu teür.",
+        "en": "The dress is beautiful, but it's unfortunately too expensive for me.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie etwas Günstigeres? Das hier ist mir zu teür.",
+        "en": "Do you have something cheaper? This is too expensive for me.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Dativ: 'mir' (nicht 'für mich') - typisch deutsche Konstruktion mit Dativ.",
+      "Nicht unhöfllich - eine ganz normale Aussage beim Einkaufen."
+    ],
+    "usageNotes": [
+      "Höfliche Art, etwas abzulehnen, ohne den Laden oder das Produkt zu kritisieren.",
+      "Alternative: 'Das ist leider nicht in meinem Budget.' (formeller)."
+    ],
+    "relatedWords": [
+      "teuer",
+      "guenstig",
+      "sich leisten",
+      "das Budget"
+    ],
+    "tags": [
+      "essential-phrase",
+      "polite-refusal"
+    ]
+  },
+  {
+    "id": "v-shopping-047",
+    "word": "Haben Sie das in einer anderen Grösse?",
+    "baseForm": "Haben Sie das in einer anderen Grösse?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Do you have this in a different size?",
+    "meaningDe": "Man fragt, ob das Kleidungsstück auch in einer anderen Grösse erhältlich ist.",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie das in einer anderen Grösse? Diese hier ist zu klein.",
+        "en": "Do you have this in a different size? This one is too small.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Entschuldigung, haben Sie das in einer anderen Grösse? Ich brauche eine 42.",
+        "en": "Excuse me, do you have this in a different size? I need a 42.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Grösse 38 passt nicht. Haben Sie das in einer anderen Grösse?",
+        "en": "Size 38 doesn't fit. Do you have this in a different size?",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'In einer anderen Grösse' (Dativ) - nicht 'in eine andere Grösse' (Akkusativ).",
+      "Man kann auch spezifischer fragen: 'Haben Sie das eine Nummer grösser/kleiner?'"
+    ],
+    "usageNotes": [
+      "Standardfrage in jedem Bekleidungsgeschäft.",
+      "Varianten: 'Haben Sie das auch in Grösse 40?' oder 'Gibt es das auch in S?'"
+    ],
+    "relatedWords": [
+      "die Groesse",
+      "anprobieren",
+      "passen",
+      "die Umkleidekabine"
+    ],
+    "tags": [
+      "essential-phrase",
+      "clothing"
+    ]
+  },
+  {
+    "id": "v-shopping-048",
+    "word": "Kann ich mit Karte zahlen?",
+    "baseForm": "Kann ich mit Karte zahlen?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Can I pay by card?",
+    "meaningDe": "Man fragt, ob man mit EC-Karte oder Kreditkarte bezahlen kann.",
+    "situations": [
+      "shopping",
+      "payment",
+      "restaurant"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich mit Karte zahlen, oder nur bar?",
+        "en": "Can I pay by card, or only cash?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Entschuldigung, kann ich mit Karte zahlen? Ich habe kein Bargeld dabei.",
+        "en": "Excuse me, can I pay by card? I don't have any cash on me.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich mit Karte zahlen? – Ja, ab 10 Euro.",
+        "en": "Can I pay by card? – Yes, from 10 euros.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Mit Karte' (nicht 'per Karte' oder 'durch Karte') - 'mit' ist die richtige Präposition.",
+      "'EC-Karte' ist in Deutschland üblicher als 'Debitkarte' - offiziell heisst es jetzt 'Girocard'."
+    ],
+    "usageNotes": [
+      "In Deutschland akzeptieren viele kleine Geschäfte und Bäckereien nur Bargeld - immer vorher fragen!",
+      "Oft gibt es einen Mindestbetrag für Kartenzahlung (z.B. 5 oder 10 Euro)."
+    ],
+    "relatedWords": [
+      "die EC-Karte",
+      "die Kreditkarte",
+      "das Bargeld",
+      "bar zahlen",
+      "kontaktlos"
+    ],
+    "tags": [
+      "essential-phrase",
+      "payment"
+    ]
+  },
+  {
+    "id": "v-shopping-049",
+    "word": "Ich schaü mich nur um.",
+    "baseForm": "Ich schaü mich nur um.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I'm just looking / I'm just browsing.",
+    "meaningDe": "Man möchte keine Hilfe vom Verkäufer und schaut sich nur die Waren an.",
+    "situations": [
+      "shopping",
+      "clothing"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich Ihnen helfen? – Danke, ich schaü mich nur um.",
+        "en": "Can I help you? – Thanks, I'm just looking.",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich schaü mich nur um, danke.",
+        "en": "I'm just browsing, thanks.",
+        "situation": "shopping",
+        "tone": "neutral"
+      },
+      {
+        "de": "Suchen Sie etwas Bestimmtes? – Nein danke, ich schaü mich nur um.",
+        "en": "Are you looking for something specific? – No thanks, I'm just looking.",
+        "situation": "shopping",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Sich umschaün' ist ein trennbares, reflexives Verb: 'Ich schaü mich um.'",
+      "Auch 'Ich gucke mich nur um' (umgangssprachlicher, norddeutsch)."
+    ],
+    "usageNotes": [
+      "Höfliche Standardantwort, wenn ein Verkäufer fragt, ob man Hilfe braucht.",
+      "In Deutschland werden Kunden oft von Verkäufer:innen angesprochen - diese Phrase ist sehr nützlich."
+    ],
+    "relatedWords": [
+      "sich umschauen",
+      "sich umsehen",
+      "suchen",
+      "stoebern"
+    ],
+    "tags": [
+      "essential-phrase",
+      "polite"
+    ]
+  },
+  {
+    "id": "v-shopping-050",
+    "word": "Wo finde ich...?",
+    "baseForm": "Wo finde ich...?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Where can I find...?",
+    "meaningDe": "Man fragt nach dem Standort eines Produkts oder einer Abteilung im Geschäft.",
+    "situations": [
+      "shopping",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigung, wo finde ich die Milchprodukte?",
+        "en": "Excuse me, where can I find the dairy products?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo finde ich die Herrenabteilung?",
+        "en": "Where can I find the men's department?",
+        "situation": "shopping",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo finde ich Batterien? – Im dritten Gang links.",
+        "en": "Where can I find batteries? – In the third aisle on the left.",
+        "situation": "shopping",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Wo finde ich...?' (nicht 'Wo kann ich finden...?') - die einfache Form ist natürlicher.",
+      "Alternative: 'Wo gibt es hier...?' oder 'Wo sind die...?'"
+    ],
+    "usageNotes": [
+      "Immer mit 'Entschuldigung' oder 'Entschuldigen Sie' beginnen, wenn man jemanden anspricht.",
+      "Im Supermarkt kann man auch nach dem 'Gang' (aisle) fragen: 'In welchem Gang finde ich...?'"
+    ],
+    "relatedWords": [
+      "suchen",
+      "finden",
+      "die Abteilung",
+      "der Gang"
+    ],
+    "tags": [
+      "essential-phrase",
+      "navigation",
+      "polite"
+    ]
+  }
+]

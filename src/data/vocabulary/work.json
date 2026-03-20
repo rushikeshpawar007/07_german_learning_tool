@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "v-work-001",
+    "word": "die Besprechung",
+    "baseForm": "Besprechung",
+    "gender": "die",
+    "plural": "Besprechungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "meeting, discussion",
+    "meaningDe": "ein geplantes Treffen, bei dem man Themen bespricht",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Besprechung findet um 10 Uhr im Konferenzraum statt.",
+        "en": "The meeting takes place at 10 o'clock in the conference room.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Kannst du die Besprechung auf morgen verschieben?",
+        "en": "Can you postpone the meeting to tomorrow?",
+        "situation": "work",
+        "tone": "informal"
+      },
+      {
+        "de": "In der Besprechung haben wir das neü Projekt besprochen.",
+        "en": "In the meeting we discussed the new project.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Verwechslung mit 'Meeting' - 'Besprechung' ist formeller und wird oft im geschriebenen Deutsch bevorzugt.",
+      "Falsche Praposition: 'in der Besprechung' (nicht 'auf der Besprechung')."
+    ],
+    "usageNotes": [
+      "'Besprechung' klingt formeller als 'Meeting', das im Alltag auch häufig verwendet wird.",
+      "Oft mit Verben wie 'abhalten', 'verschieben', 'absagen' kombiniert."
+    ],
+    "relatedWords": [
+      "besprechen",
+      "das Meeting",
+      "die Sitzung",
+      "die Konferenz"
+    ],
+    "tags": [
+      "office",
+      "communication",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-work-002",
+    "word": "die Aufgabe",
+    "baseForm": "Aufgabe",
+    "gender": "die",
+    "plural": "Aufgaben",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "task, assignment",
+    "meaningDe": "etwas, das man tun oder erledigen muss",
+    "situations": [
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe heute viele Aufgaben zu erledigen.",
+        "en": "I have many tasks to complete today.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das gehört nicht zu meinen Aufgaben.",
+        "en": "That is not part of my responsibilities.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Aufgabe' kann sowohl 'task' als auch 'homework' bedeuten - der Kontext entscheidet.",
+      "Nicht verwechseln mit 'Ausgabe' (Ausgabe = edition/expenditure)."
+    ],
+    "usageNotes": [
+      "Im Arbeitskontext oft mit 'erledigen', 'übernehmen' oder 'verteilen' benutzt.",
+      "'Aufgabenbereich' beschreibt den gesamten Verantwortungsbereich."
+    ],
+    "relatedWords": [
+      "erledigen",
+      "die Pflicht",
+      "die Verantwortung",
+      "der Aufgabenbereich"
+    ],
+    "tags": [
+      "responsibility",
+      "daily-work"
+    ]
+  },
+  {
+    "id": "v-work-003",
+    "word": "der Kollege",
+    "baseForm": "Kollege",
+    "gender": "der",
+    "plural": "Kollegen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "colleague (male)",
+    "meaningDe": "eine Person, mit der man zusammenarbeitet",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Mein Kollege hilft mir bei dem Projekt.",
+        "en": "My colleague is helping me with the project.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich verstehe mich gut mit meinen Kollegen.",
+        "en": "I get along well with my colleagues.",
+        "situation": "work",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "N-Deklination beachten: 'dem Kollegen' (Dativ), 'den Kollegen' (Akkusativ), nicht 'dem Kollege'.",
+      "Die weibliche Form ist 'die Kollegin' (Plural: Kolleginnen)."
+    ],
+    "usageNotes": [
+      "'Kollege' gehört zur N-Deklination - in allen Fällen ausser Nominativ Singular endet es auf '-en'.",
+      "Im modernen Deutsch oft geschlechtsneutral: 'Kolleginnen und Kollegen' oder 'Kolleg:innen'."
+    ],
+    "relatedWords": [
+      "die Kollegin",
+      "der Mitarbeiter",
+      "das Team"
+    ],
+    "tags": [
+      "people",
+      "office"
+    ]
+  },
+  {
+    "id": "v-work-004",
+    "word": "die Abteilung",
+    "baseForm": "Abteilung",
+    "gender": "die",
+    "plural": "Abteilungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "department, division",
+    "meaningDe": "ein Bereich innerhalb eines Unternehmens mit bestimmten Aufgaben",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich arbeite in der Marketingabteilung.",
+        "en": "I work in the marketing department.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Abteilung hat zwanzig Mitarbeiter.",
+        "en": "The department has twenty employees.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Oft als Kompositum verwendet: 'Personalabteilung', 'Verkaufsabteilung' - das Grundwort bestimmt den Artikel (immer 'die')."
+    ],
+    "usageNotes": [
+      "Kann mit vielen Nomen kombiniert werden: Personal-, Marketing-, Finanz-, IT-Abteilung.",
+      "'Abteilungsleiter/in' ist der/die Vorgesetzte einer Abteilung."
+    ],
+    "relatedWords": [
+      "der Abteilungsleiter",
+      "der Bereich",
+      "die Firma",
+      "v-shopping-021"
+    ],
+    "tags": [
+      "organization",
+      "structure"
+    ]
+  },
+  {
+    "id": "v-work-005",
+    "word": "der Termin",
+    "baseForm": "Termin",
+    "gender": "der",
+    "plural": "Termine",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "appointment, deadline",
+    "meaningDe": "ein festgelegter Zeitpunkt für ein Treffen oder eine Frist",
+    "situations": [
+      "work",
+      "daily-life",
+      "health"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe morgen einen wichtigen Termin mit einem Kunden.",
+        "en": "I have an important appointment with a client tomorrow.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Termin für die Abgabe ist nächsten Freitag.",
+        "en": "The deadline for the submission is next Friday.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können wir einen Termin vereinbaren?",
+        "en": "Can we arrange an appointment?",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Termin' bedeutet nicht immer 'deadline' - es kann auch 'appointment' heissen.",
+      "Nicht verwechseln mit 'Datum' - 'Termin' ist ein konkreter Zeitpunkt mit einem Zweck, 'Datum' ist nur das kalendarische Datum."
+    ],
+    "usageNotes": [
+      "Häufige Kombinationen: 'einen Termin vereinbaren/absagen/verschieben'.",
+      "'Terminkalender' ist ein Kalender für Termine (Planer)."
+    ],
+    "relatedWords": [
+      "vereinbaren",
+      "absagen",
+      "verschieben",
+      "der Terminkalender",
+      "v-bureaucracy-015",
+      "v-healthcare-006",
+      "v-phone-018"
+    ],
+    "tags": [
+      "time",
+      "planning",
+      "scheduling"
+    ]
+  },
+  {
+    "id": "v-work-006",
+    "word": "die Bewerbung",
+    "baseForm": "Bewerbung",
+    "gender": "die",
+    "plural": "Bewerbungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "application (for a job)",
+    "meaningDe": "die Unterlagen, die man schickt, um eine Stelle zu bekommen",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meine Bewerbung gestern abgeschickt.",
+        "en": "I sent my application yesterday.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Bewerbung muss ein Anschreiben und einen Lebenslauf enthalten.",
+        "en": "The application must contain a cover letter and a CV.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Anmeldung' (registration) oder 'Antrag' (formal reqüst/application for something official).",
+      "'Bewerbung' bezieht sich fast immer auf eine Stellenbewerbung."
+    ],
+    "usageNotes": [
+      "Eine deutsche Bewerbung besteht typischerweise aus: Anschreiben, Lebenslauf und Zeugnissen.",
+      "Häufige Verben: 'eine Bewerbung schreiben/einreichen/abschicken'."
+    ],
+    "relatedWords": [
+      "sich bewerben",
+      "das Anschreiben",
+      "der Lebenslauf",
+      "das Vorstellungsgespraech"
+    ],
+    "tags": [
+      "job-search",
+      "documents"
+    ]
+  },
+  {
+    "id": "v-work-007",
+    "word": "das Gehalt",
+    "baseForm": "Gehalt",
+    "gender": "das",
+    "plural": "Gehälter",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "salary",
+    "meaningDe": "das Geld, das man regelmässig für seine Arbeit bekommt",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Das Gehalt wird am Ende des Monats überwiesen.",
+        "en": "The salary is transferred at the end of the month.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich möchte über eine Gehaltserhöhung sprechen.",
+        "en": "I would like to talk about a salary increase.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Lohn' - 'Gehalt' ist das monatliche Einkommen für Angestellte, 'Lohn' wird oft für Stunden- oder Wochenvergütung verwendet.",
+      "Plural: 'Gehälter' (mit Umlaut), nicht 'Gehalte'."
+    ],
+    "usageNotes": [
+      "In Deutschland spricht man oft vom 'Brutto-' und 'Nettogehalt'.",
+      "'Gehaltserhöhung' (salary raise) ist ein wichtiges Kompositum."
+    ],
+    "relatedWords": [
+      "der Lohn",
+      "die Gehaltserhoehung",
+      "das Einkommen",
+      "das Bruttogehalt"
+    ],
+    "tags": [
+      "money",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-008",
+    "word": "der Vorgesetzte",
+    "baseForm": "Vorgesetzter",
+    "gender": "der",
+    "plural": "Vorgesetzten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "superior, boss",
+    "meaningDe": "eine Person, die in der Hierarchie über einem steht",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Mein Vorgesetzter hat das Projekt genehmigt.",
+        "en": "My superior approved the project.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss das zürst mit meinem Vorgesetzten besprechen.",
+        "en": "I have to discuss this with my superior first.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Vorgesetzter' wird wie ein Adjektiv dekliniert: 'mein Vorgesetzter' (Nom.), 'meinem Vorgesetzten' (Dat.).",
+      "Weibliche Form: 'die Vorgesetzte' - ebenfalls adjektivisch dekliniert."
+    ],
+    "usageNotes": [
+      "Formeller als 'Chef/Chefin', wird oft in offiziellen Dokumenten und im Arbeitsrecht verwendet.",
+      "Adjektivische Deklination: 'ein Vorgesetzter', aber 'der Vorgesetzte'."
+    ],
+    "relatedWords": [
+      "der Chef",
+      "die Chefin",
+      "der Abteilungsleiter",
+      "die Fuehrungskraft"
+    ],
+    "tags": [
+      "hierarchy",
+      "people",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-work-009",
+    "word": "das Praktikum",
+    "baseForm": "Praktikum",
+    "gender": "das",
+    "plural": "Praktika",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "internship, work placement",
+    "meaningDe": "eine zeitlich begrenzte praktische Tätigkeit in einem Unternehmen zum Lernen",
+    "situations": [
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Ich mache ein Praktikum bei einer grossen Firma.",
+        "en": "I am doing an internship at a large company.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Praktikum daürt drei Monate.",
+        "en": "The internship lasts three months.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist 'Praktika' (aus dem Lateinischen), nicht 'Praktikums' oder 'Praktikumen'.",
+      "'Ein Praktikum machen' ist die richtige Kollokation, nicht 'ein Praktikum arbeiten'."
+    ],
+    "usageNotes": [
+      "In Deutschland sind Praktika für viele Studiengänge Pflicht.",
+      "'Praktikant/in' ist die Person, die ein Praktikum macht."
+    ],
+    "relatedWords": [
+      "der Praktikant",
+      "die Praktikantin",
+      "die Werkstudentenstelle"
+    ],
+    "tags": [
+      "job-search",
+      "education",
+      "entry-level"
+    ]
+  },
+  {
+    "id": "v-work-010",
+    "word": "der Vertrag",
+    "baseForm": "Vertrag",
+    "gender": "der",
+    "plural": "Verträge",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "contract",
+    "meaningDe": "eine schriftliche Vereinbarung zwischen zwei oder mehr Parteien",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Arbeitsvertrag unterschrieben.",
+        "en": "I signed the employment contract.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Vertrag läuft nächstes Jahr aus.",
+        "en": "The contract expires next year.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Plural mit Umlaut: 'Verträge', nicht 'Vertrage'.",
+      "'Einen Vertrag unterschreiben' (sign) vs. 'einen Vertrag kündigen' (terminate)."
+    ],
+    "usageNotes": [
+      "'Arbeitsvertrag' ist der spezifische Begriff für einen Arbeitsvertrag.",
+      "Wichtige Kombinationen: 'einen Vertrag abschliessen/kündigen/verlängern'."
+    ],
+    "relatedWords": [
+      "der Arbeitsvertrag",
+      "kuendigen",
+      "unterschreiben",
+      "die Kuendigung"
+    ],
+    "tags": [
+      "legal",
+      "documents",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-011",
+    "word": "die Kündigung",
+    "baseForm": "Kündigung",
+    "gender": "die",
+    "plural": "Kündigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "termination, notice (of employment)",
+    "meaningDe": "die Beendigung eines Arbeitsverhältnisses oder Vertrags",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Er hat seine Kündigung eingereicht.",
+        "en": "He handed in his resignation.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Kündigungsfrist beträgt drei Monate.",
+        "en": "The notice period is three months.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Kündigung' kann sowohl vom Arbeitnehmer als auch vom Arbeitgeber ausgehen.",
+      "Nicht verwechseln mit 'Entlassung' (dismissal/firing) - 'Kündigung' ist der allgemeine Begriff."
+    ],
+    "usageNotes": [
+      "In Deutschland gibt es eine gesetzliche Kündigungsfrist.",
+      "'Die Kündigung einreichen' heisst, dass man selbst kündigt."
+    ],
+    "relatedWords": [
+      "kuendigen",
+      "die Kuendigungsfrist",
+      "der Arbeitsvertrag",
+      "die Entlassung",
+      "v-housing-009"
+    ],
+    "tags": [
+      "employment",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-work-012",
+    "word": "die Überstunde",
+    "baseForm": "Überstunde",
+    "gender": "die",
+    "plural": "Überstunden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "overtime (hour)",
+    "meaningDe": "Arbeitszeit, die über die normale Arbeitszeit hinausgeht",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss heute Überstunden machen.",
+        "en": "I have to work overtime today.",
+        "situation": "work",
+        "tone": "informal"
+      },
+      {
+        "de": "Die Überstunden werden nächsten Monat ausgezahlt.",
+        "en": "The overtime hours will be paid out next month.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Meist im Plural verwendet: 'Überstunden machen', selten 'eine Überstunde'.",
+      "'Überstunden machen' (nicht 'Überstunden arbeiten')."
+    ],
+    "usageNotes": [
+      "Häufig im Plural: 'Überstunden machen/abbaün/auszahlen'.",
+      "'Überstunden abbaün' bedeutet, die extra Stunden als Freizeit zu nehmen."
+    ],
+    "relatedWords": [
+      "die Arbeitszeit",
+      "die Gleitzeit",
+      "der Feierabend"
+    ],
+    "tags": [
+      "working-hours",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-013",
+    "word": "der Lebenslauf",
+    "baseForm": "Lebenslauf",
+    "gender": "der",
+    "plural": "Lebensläufe",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "CV, resume",
+    "meaningDe": "eine Übersicht über die berufliche und schulische Laufbahn einer Person",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte schicken Sie Ihren Lebenslauf an unsere Personalabteilung.",
+        "en": "Please send your CV to our HR department.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss meinen Lebenslauf aktualisieren.",
+        "en": "I need to update my CV.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "In Deutschland ist ein tabellarischer Lebenslauf Standard, kein Fliesstext.",
+      "Plural: 'Lebensläufe' (mit Umlaut)."
+    ],
+    "usageNotes": [
+      "In Deutschland enthält der Lebenslauf oft ein Foto - das ist in vielen anderen Ländern unüblich.",
+      "'Tabellarischer Lebenslauf' ist das gängige Format."
+    ],
+    "relatedWords": [
+      "die Bewerbung",
+      "das Anschreiben",
+      "das Zeugnis"
+    ],
+    "tags": [
+      "job-search",
+      "documents"
+    ]
+  },
+  {
+    "id": "v-work-014",
+    "word": "die Fortbildung",
+    "baseForm": "Fortbildung",
+    "gender": "die",
+    "plural": "Fortbildungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "further training, professional development",
+    "meaningDe": "Weiterbildung im Beruf, um neü Fähigkeiten zu lernen",
+    "situations": [
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Die Firma bietet regelmässig Fortbildungen an.",
+        "en": "The company regularly offers further training courses.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich nehme nächste Woche an einer Fortbildung teil.",
+        "en": "I am attending a training course next week.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Ausbildung' (vocational training/apprenticeship) - 'Fortbildung' ist für Berufstätige.",
+      "'An einer Fortbildung teilnehmen' (nicht 'eine Fortbildung besuchen' - beides möglich, aber 'teilnehmen' formeller)."
+    ],
+    "usageNotes": [
+      "'Weiterbildung' ist ein Synonym und wird genauso häufig benutzt.",
+      "In vielen deutschen Unternehmen haben Mitarbeiter ein Recht auf Fortbildung."
+    ],
+    "relatedWords": [
+      "die Weiterbildung",
+      "die Ausbildung",
+      "die Schulung",
+      "der Kurs"
+    ],
+    "tags": [
+      "education",
+      "career-development"
+    ]
+  },
+  {
+    "id": "v-work-015",
+    "word": "das Vorstellungsgespräch",
+    "baseForm": "Vorstellungsgespräch",
+    "gender": "das",
+    "plural": "Vorstellungsgespräche",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "job interview",
+    "meaningDe": "ein Gespräch bei einem Unternehmen, um eine Stelle zu bekommen",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin zum Vorstellungsgespräch eingeladen worden.",
+        "en": "I have been invited to a job interview.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Vorstellungsgespräch hat gut gelaufen.",
+        "en": "The job interview went well.",
+        "situation": "work",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Langes Kompositum - korrekte Schreibung als ein Wort: 'Vorstellungsgespräch'.",
+      "Nicht verwechseln mit 'Gespräch' (conversation) allein."
+    ],
+    "usageNotes": [
+      "Häufig abgekürzt als 'Gespräch' im Kontext: 'Ich habe morgen ein Gespräch bei Siemens.'",
+      "'Zu einem Vorstellungsgespräch eingeladen werden' ist die übliche Formulierung."
+    ],
+    "relatedWords": [
+      "die Bewerbung",
+      "sich bewerben",
+      "die Stelle",
+      "der Bewerber"
+    ],
+    "tags": [
+      "job-search",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-work-016",
+    "word": "die Stelle",
+    "baseForm": "Stelle",
+    "gender": "die",
+    "plural": "Stellen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "position, job",
+    "meaningDe": "ein Arbeitsplatz in einem Unternehmen",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Stelle ist ab sofort zu besetzen.",
+        "en": "The position is to be filled immediately.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich suche eine neü Stelle.",
+        "en": "I am looking for a new job.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Stelle' hat viele Bedeutungen (place, spot, position) - im Arbeitskontext heisst es 'job/position'.",
+      "'Eine Stelle suchen' (nicht 'einen Stelle suchen' - 'Stelle' ist feminin)."
+    ],
+    "usageNotes": [
+      "'Stellenanzeige' ist eine Jobannonce, 'Stellenangebot' ein Jobangebot.",
+      "'Eine Stelle besetzen' bedeutet, jemanden für die Position einzustellen."
+    ],
+    "relatedWords": [
+      "die Stellenanzeige",
+      "die Position",
+      "der Arbeitsplatz"
+    ],
+    "tags": [
+      "job-search",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-017",
+    "word": "der Feierabend",
+    "baseForm": "Feierabend",
+    "gender": "der",
+    "plural": "Feierabende",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "end of the working day, time after work",
+    "meaningDe": "das Ende des Arbeitstags; die freie Zeit nach der Arbeit",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe um 17 Uhr Feierabend.",
+        "en": "I finish work at 5 PM.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Was machst du nach Feierabend?",
+        "en": "What do you do after work?",
+        "situation": "work",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Feierabend haben' (nicht 'Feierabend machen' für den regulären Arbeitsschluss). 'Feierabend machen' bedeutet eher 'to call it a day'.",
+      "Kein direktes englisches Äquivalent - es ist ein typisch deutsches Konzept."
+    ],
+    "usageNotes": [
+      "'Feierabend!' kann man auch als Ausruf benutzen: 'Jetzt ist Feierabend!' (Schluss jetzt!).",
+      "Ein sehr kulturell deutsches Wort - es drückt die klare Trennung zwischen Arbeit und Freizeit aus."
+    ],
+    "relatedWords": [
+      "die Arbeitszeit",
+      "die Ueberstunde",
+      "die Freizeit"
+    ],
+    "tags": [
+      "culture",
+      "working-hours"
+    ]
+  },
+  {
+    "id": "v-work-018",
+    "word": "der Arbeitgeber",
+    "baseForm": "Arbeitgeber",
+    "gender": "der",
+    "plural": "Arbeitgeber",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "employer",
+    "meaningDe": "eine Person oder Firma, die Arbeitnehmer beschäftigt",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Mein Arbeitgeber bietet flexible Arbeitszeiten an.",
+        "en": "My employer offers flexible working hours.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Arbeitgeber muss die Sozialversicherung bezahlen.",
+        "en": "The employer must pay the social insurance.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Arbeitnehmer' (employee) - die Bedeutung ist genau umgekehrt: Arbeit-Geber gibt Arbeit, Arbeit-Nehmer nimmt Arbeit.",
+      "Plural ist identisch mit Singular: 'die Arbeitgeber'."
+    ],
+    "usageNotes": [
+      "Gegenstück: 'der Arbeitnehmer' (employee).",
+      "In offiziellen Dokumenten und im Arbeitsrecht ein sehr wichtiger Begriff."
+    ],
+    "relatedWords": [
+      "der Arbeitnehmer",
+      "die Firma",
+      "das Unternehmen",
+      "der Chef"
+    ],
+    "tags": [
+      "employment",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-work-019",
+    "word": "der Urlaub",
+    "baseForm": "Urlaub",
+    "gender": "der",
+    "plural": "Urlaube",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "vacation, holiday, leave",
+    "meaningDe": "freie Tage von der Arbeit",
+    "situations": [
+      "work",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe nächste Woche Urlaub.",
+        "en": "I have vacation next week.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss noch Urlaub beantragen.",
+        "en": "I still need to request leave.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "In Deutschland hat man mindestens 20 Tage Urlaub im Jahr.",
+        "en": "In Germany you have at least 20 days of vacation per year.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Urlaub' (von der Arbeit) vs. 'Ferien' (Schulferien) - im Arbeitskontext immer 'Urlaub'.",
+      "'Im Urlaub sein' (nicht 'auf Urlaub sein' - regional unterschiedlich, aber 'im' ist Standard)."
+    ],
+    "usageNotes": [
+      "'Urlaub nehmen/beantragen/bekommen' sind wichtige Kollokationen.",
+      "In Deutschland: gesetzlicher Mindesturlaub von 20 Tagen (bei einer 5-Tage-Woche)."
+    ],
+    "relatedWords": [
+      "die Ferien",
+      "der Urlaubstag",
+      "der Urlaubsantrag",
+      "v-smalltalk-003"
+    ],
+    "tags": [
+      "time-off",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-020",
+    "word": "der Besprechungsraum",
+    "baseForm": "Besprechungsraum",
+    "gender": "der",
+    "plural": "Besprechungsräume",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "meeting room, conference room",
+    "meaningDe": "ein Raum, in dem Besprechungen stattfinden",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Besprechungsraum ist für 14 Uhr reserviert.",
+        "en": "The meeting room is reserved for 2 PM.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können wir in den Besprechungsraum gehen?",
+        "en": "Can we go to the meeting room?",
+        "situation": "work",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Der Artikel ist 'der' (wegen 'Raum'), nicht 'die' (trotz 'Besprechung').",
+      "Bei Komposita bestimmt das letzte Wort den Artikel."
+    ],
+    "usageNotes": [
+      "Synonym: 'der Konferenzraum' (etwas formeller).",
+      "In vielen Büros muss man Besprechungsräume im Voraus buchen."
+    ],
+    "relatedWords": [
+      "die Besprechung",
+      "der Konferenzraum",
+      "das Buero"
+    ],
+    "tags": [
+      "office",
+      "space"
+    ]
+  },
+  {
+    "id": "v-work-021",
+    "word": "die Frist",
+    "baseForm": "Frist",
+    "gender": "die",
+    "plural": "Fristen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "deadline, time limit",
+    "meaningDe": "ein festgelegter Zeitraum, bis zu dem etwas erledigt sein muss",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Frist endet am 31. März.",
+        "en": "The deadline is March 31st.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir müssen die Frist unbedingt einhalten.",
+        "en": "We absolutely must meet the deadline.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Die Frist einhalten' (to meet the deadline) vs. 'die Frist versäumen/verpassen' (to miss the deadline).",
+      "Nicht verwechseln mit 'Termin' - 'Frist' betont den Zeitraum, 'Termin' den Zeitpunkt."
+    ],
+    "usageNotes": [
+      "'Fristgerecht' bedeutet 'innerhalb der Frist'.",
+      "'Die Frist verlängern' = die Deadline verschieben."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "die Deadline",
+      "fristgerecht",
+      "fristlos",
+      "v-bureaucracy-018",
+      "v-emails-014",
+      "v-meetings-017"
+    ],
+    "tags": [
+      "time",
+      "planning"
+    ]
+  },
+  {
+    "id": "v-work-022",
+    "word": "das Büro",
+    "baseForm": "Büro",
+    "gender": "das",
+    "plural": "Büros",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "office",
+    "meaningDe": "ein Arbeitsraum, in dem man am Schreibtisch arbeitet",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin den ganzen Tag im Büro.",
+        "en": "I am in the office all day.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Unser Büro ist im dritten Stock.",
+        "en": "Our office is on the third floor.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Die korrekte Schreibung ist 'Büro' (mit ü-Umlaut). International wird oft 'Büro' geschrieben.",
+      "Plural: 'Büros' (mit -s, weil es ein Fremdwort ist)."
+    ],
+    "usageNotes": [
+      "'Homeoffice' ist inzwischen auch im Deutschen ein gängiger Begriff.",
+      "'Grossraumbüro' (open-plan office) vs. 'Einzelbüro' (private office)."
+    ],
+    "relatedWords": [
+      "der Schreibtisch",
+      "das Homeoffice",
+      "das Grossraumbuero"
+    ],
+    "tags": [
+      "office",
+      "space"
+    ]
+  },
+  {
+    "id": "v-work-023",
+    "word": "die Gehaltsabrechnung",
+    "baseForm": "Gehaltsabrechnung",
+    "gender": "die",
+    "plural": "Gehaltsabrechnungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "payslip, salary statement",
+    "meaningDe": "ein Dokument, das zeigt, wie das Gehalt berechnet wird",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meine Gehaltsabrechnung noch nicht bekommen.",
+        "en": "I haven't received my payslip yet.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Auf der Gehaltsabrechnung sieht man alle Abzüge.",
+        "en": "You can see all deductions on the payslip.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Langes Kompositum - die richtige Zusammensetzung ist Gehalts+abrechnung.",
+      "Nicht verwechseln mit 'Rechnung' (invoice/bill)."
+    ],
+    "usageNotes": [
+      "Deutsche Gehaltsabrechnungen sind oft komplex mit vielen Abzügen (Steürn, Sozialversicherung).",
+      "Synonym: 'die Lohnabrechnung' (eher für Lohnempfänger)."
+    ],
+    "relatedWords": [
+      "das Gehalt",
+      "die Steuer",
+      "die Sozialversicherung",
+      "der Abzug"
+    ],
+    "tags": [
+      "money",
+      "documents"
+    ]
+  },
+  {
+    "id": "v-work-024",
+    "word": "der Schreibtisch",
+    "baseForm": "Schreibtisch",
+    "gender": "der",
+    "plural": "Schreibtische",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "desk",
+    "meaningDe": "ein Tisch, an dem man arbeitet oder schreibt",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Auf meinem Schreibtisch liegt zu viel Papier.",
+        "en": "There is too much paper on my desk.",
+        "situation": "work",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich habe einen höhenverstellbaren Schreibtisch.",
+        "en": "I have a height-adjustable desk.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht einfach 'Tisch' sagen, wenn man den Arbeitsplatz meint - 'Schreibtisch' ist spezifischer."
+    ],
+    "usageNotes": [
+      "Kompositum aus 'schreiben' + 'Tisch'.",
+      "'Clean Desk Policy' wird auch im Deutschen so genannt."
+    ],
+    "relatedWords": [
+      "das Buero",
+      "der Stuhl",
+      "der Bildschirm",
+      "die Tastatur"
+    ],
+    "tags": [
+      "office",
+      "furniture"
+    ]
+  },
+  {
+    "id": "v-work-025",
+    "word": "der Mitarbeiter",
+    "baseForm": "Mitarbeiter",
+    "gender": "der",
+    "plural": "Mitarbeiter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "employee, staff member",
+    "meaningDe": "eine Person, die in einem Unternehmen arbeitet",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Firma hat über 500 Mitarbeiter.",
+        "en": "The company has over 500 employees.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Alle Mitarbeiter sind zur Weihnachtsfeier eingeladen.",
+        "en": "All employees are invited to the Christmas party.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Plural ist gleich wie Singular: 'der Mitarbeiter' / 'die Mitarbeiter'.",
+      "Weibliche Form: 'die Mitarbeiterin', Plural: 'die Mitarbeiterinnen'."
+    ],
+    "usageNotes": [
+      "Im modernen Sprachgebrauch oft: 'Mitarbeiterinnen und Mitarbeiter' oder 'Mitarbeitende'.",
+      "'Mitarbeitergespräch' ist ein jährliches Feedbackgespräch mit dem Vorgesetzten."
+    ],
+    "relatedWords": [
+      "der Kollege",
+      "der Angestellte",
+      "das Personal",
+      "die Belegschaft"
+    ],
+    "tags": [
+      "people",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-026",
+    "word": "besprechen",
+    "baseForm": "besprechen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to discuss, to talk about",
+    "meaningDe": "über etwas ausführlich reden, um eine Lösung zu finden",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen das Thema in der nächsten Sitzung besprechen.",
+        "en": "We need to discuss the topic in the next meeting.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du das schon mit deinem Chef besprochen?",
+        "en": "Have you already discussed this with your boss?",
+        "situation": "work",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bespreche",
+        "du": "besprichst",
+        "er_sie_es": "bespricht",
+        "wir": "besprechen",
+        "ihr": "besprecht",
+        "sie_Sie": "besprechen"
+      },
+      "past": {
+        "ich": "besprach",
+        "du": "besprachst",
+        "er_sie_es": "besprach",
+        "wir": "besprachen",
+        "ihr": "bespracht",
+        "sie_Sie": "besprachen"
+      },
+      "pastParticiple": "besprochen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Vokalwechsel in der 2. und 3. Person Singular: 'du besprichst', 'er bespricht' (e -> i).",
+      "Nicht trennbar! 'Ich bespreche das' (nicht 'Ich spreche das be')."
+    ],
+    "usageNotes": [
+      "Formeller als 'über etwas reden/sprechen'.",
+      "'Etwas besprechen' (Akkusativ) - 'Wir besprechen den Plan.'"
+    ],
+    "relatedWords": [
+      "die Besprechung",
+      "diskutieren",
+      "erwaegen"
+    ],
+    "tags": [
+      "communication",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-work-027",
+    "word": "erledigen",
+    "baseForm": "erledigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to complete, to take care of, to get done",
+    "meaningDe": "eine Aufgabe vollständig abschliessen",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch ein paar Sachen erledigen.",
+        "en": "I still need to take care of a few things.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Aufgabe ist erledigt.",
+        "en": "The task is done.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erledige",
+        "du": "erledigst",
+        "er_sie_es": "erledigt",
+        "wir": "erledigen",
+        "ihr": "erledigt",
+        "sie_Sie": "erledigen"
+      },
+      "past": {
+        "ich": "erledigte",
+        "du": "erledigtest",
+        "er_sie_es": "erledigte",
+        "wir": "erledigten",
+        "ihr": "erledigtet",
+        "sie_Sie": "erledigten"
+      },
+      "pastParticiple": "erledigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Erledigt' als Adjektiv/Partizip kann auch 'exhausted' bedeuten (umgangssprachlich): 'Ich bin erledigt.'",
+      "Nicht trennbar."
+    ],
+    "usageNotes": [
+      "Sehr nützliches Alltagsverb: 'Einkaüfe erledigen', 'Papierkram erledigen'.",
+      "'Das hat sich erledigt' = das ist nicht mehr relevant/nötig."
+    ],
+    "relatedWords": [
+      "abschliessen",
+      "fertigstellen",
+      "die Aufgabe",
+      "die Erledigung"
+    ],
+    "tags": [
+      "productivity",
+      "daily-work"
+    ]
+  },
+  {
+    "id": "v-work-028",
+    "word": "kündigen",
+    "baseForm": "kündigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to resign, to give notice, to terminate",
+    "meaningDe": "einen Vertrag oder ein Arbeitsverhältnis beenden",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Sie hat zum Ende des Monats gekündigt.",
+        "en": "She resigned effective at the end of the month.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Dem Mitarbeiter wurde fristlos gekündigt.",
+        "en": "The employee was dismissed without notice.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "kündige",
+        "du": "kündigst",
+        "er_sie_es": "kündigt",
+        "wir": "kündigen",
+        "ihr": "kündigt",
+        "sie_Sie": "kündigen"
+      },
+      "past": {
+        "ich": "kündigte",
+        "du": "kündigtest",
+        "er_sie_es": "kündigte",
+        "wir": "kündigten",
+        "ihr": "kündigtet",
+        "sie_Sie": "kündigten"
+      },
+      "pastParticiple": "gekündigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Kündigen' kann intransitiv (selbst kündigen) oder transitiv (jemandem kündigen) verwendet werden.",
+      "'Jemandem kündigen' = jemanden entlassen. 'Kündigen' (ohne Objekt) = selbst gehen."
+    ],
+    "usageNotes": [
+      "'Fristlos kündigen' = ohne Einhaltung der Kündigungsfrist.",
+      "Man kann auch Abonnements, Mietverträge usw. 'kündigen'."
+    ],
+    "relatedWords": [
+      "die Kuendigung",
+      "die Kuendigungsfrist",
+      "entlassen",
+      "aufhoeren",
+      "v-housing-027"
+    ],
+    "tags": [
+      "employment",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-work-029",
+    "word": "sich bewerben",
+    "baseForm": "bewerben",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to apply (for a job)",
+    "meaningDe": "sich um eine Stelle oder Position bemühen",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe mich bei drei Firmen beworben.",
+        "en": "I applied to three companies.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie bewirbt sich um die Stelle als Projektleiterin.",
+        "en": "She is applying for the position of project manager.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bewerbe mich",
+        "du": "bewirbst dich",
+        "er_sie_es": "bewirbt sich",
+        "wir": "bewerben uns",
+        "ihr": "bewerbt euch",
+        "sie_Sie": "bewerben sich"
+      },
+      "past": {
+        "ich": "bewarb mich",
+        "du": "bewarbst dich",
+        "er_sie_es": "bewarb sich",
+        "wir": "bewarben uns",
+        "ihr": "bewarbt euch",
+        "sie_Sie": "bewarben sich"
+      },
+      "pastParticiple": "beworben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexiv! 'Sich bewerben', nicht einfach 'bewerben'.",
+      "Vokalwechsel: 'du bewirbst dich', 'er bewirbt sich' (e -> i).",
+      "Präpositionen: 'sich bei einer Firma bewerben' (bei + Dativ), 'sich um eine Stelle bewerben' (um + Akkusativ)."
+    ],
+    "usageNotes": [
+      "'Sich bei jemandem bewerben' (bei der Firma) und 'sich um etwas bewerben' (um die Stelle).",
+      "'Der Bewerber / die Bewerberin' = der/die Kandidat/in."
+    ],
+    "relatedWords": [
+      "die Bewerbung",
+      "der Bewerber",
+      "das Vorstellungsgespraech"
+    ],
+    "tags": [
+      "job-search"
+    ]
+  },
+  {
+    "id": "v-work-030",
+    "word": "leiten",
+    "baseForm": "leiten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to lead, to manage, to head",
+    "meaningDe": "eine Gruppe oder ein Projekt führen und organisieren",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Sie leitet die Marketingabteilung.",
+        "en": "She heads the marketing department.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer leitet die heutige Besprechung?",
+        "en": "Who is leading today's meeting?",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "leite",
+        "du": "leitest",
+        "er_sie_es": "leitet",
+        "wir": "leiten",
+        "ihr": "leitet",
+        "sie_Sie": "leiten"
+      },
+      "past": {
+        "ich": "leitete",
+        "du": "leitetest",
+        "er_sie_es": "leitete",
+        "wir": "leiteten",
+        "ihr": "leitetet",
+        "sie_Sie": "leiteten"
+      },
+      "pastParticiple": "geleitet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht verwechseln mit 'leiden' (to suffer) - ähnliche Schreibweise, komplett andere Bedeutung.",
+      "Regelmässige Konjugation (schwaches Verb)."
+    ],
+    "usageNotes": [
+      "'Der/die Leiter/in' ist die Person, die leitet.",
+      "'Eine Abteilung/ein Team/ein Projekt leiten' sind typische Kollokationen."
+    ],
+    "relatedWords": [
+      "der Leiter",
+      "die Leitung",
+      "fuehren",
+      "die Fuehrungskraft"
+    ],
+    "tags": [
+      "management",
+      "leadership"
+    ]
+  },
+  {
+    "id": "v-work-031",
+    "word": "einstellen",
+    "baseForm": "einstellen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to hire, to employ; to adjust, to set",
+    "meaningDe": "jemanden für eine Arbeit anstellen; etwas anpassen",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Firma hat zehn neü Mitarbeiter eingestellt.",
+        "en": "The company hired ten new employees.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir stellen ab nächstem Monat neü Leute ein.",
+        "en": "We are hiring new people starting next month.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "stelle ein",
+        "du": "stellst ein",
+        "er_sie_es": "stellt ein",
+        "wir": "stellen ein",
+        "ihr": "stellt ein",
+        "sie_Sie": "stellen ein"
+      },
+      "past": {
+        "ich": "stellte ein",
+        "du": "stelltest ein",
+        "er_sie_es": "stellte ein",
+        "wir": "stellten ein",
+        "ihr": "stelltet ein",
+        "sie_Sie": "stellten ein"
+      },
+      "pastParticiple": "eingestellt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbares Verb! 'Wir stellen neü Leute ein.' (nicht 'Wir einstellen neü Leute.').",
+      "'Einstellen' hat mehrere Bedeutungen: hire, adjust, stop/cease ('die Produktion einstellen')."
+    ],
+    "usageNotes": [
+      "Im Arbeitskontext meistens 'to hire': 'jemanden einstellen'.",
+      "'Die Einstellung' kann 'hiring' oder 'attitude/mindset' bedeuten."
+    ],
+    "relatedWords": [
+      "die Einstellung",
+      "die Anstellung",
+      "entlassen",
+      "der Mitarbeiter"
+    ],
+    "tags": [
+      "hiring",
+      "employment"
+    ]
+  },
+  {
+    "id": "v-work-032",
+    "word": "unterstützen",
+    "baseForm": "unterstützen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to support, to assist",
+    "meaningDe": "jemandem bei etwas helfen",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Mein Team unterstützt mich bei dem Projekt.",
+        "en": "My team supports me with the project.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wie kann ich Sie dabei unterstützen?",
+        "en": "How can I support you with this?",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "unterstütze",
+        "du": "unterstützt",
+        "er_sie_es": "unterstützt",
+        "wir": "unterstützen",
+        "ihr": "unterstützt",
+        "sie_Sie": "unterstützen"
+      },
+      "past": {
+        "ich": "unterstützte",
+        "du": "unterstütztest",
+        "er_sie_es": "unterstützte",
+        "wir": "unterstützten",
+        "ihr": "unterstütztet",
+        "sie_Sie": "unterstützten"
+      },
+      "pastParticiple": "unterstützt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Betonung auf 'stütz', nicht auf 'unter').",
+      "Formeller als 'helfen' - 'unterstützen' impliziert stärkere oder längere Hilfe."
+    ],
+    "usageNotes": [
+      "'Jemanden bei etwas unterstützen' (bei + Dativ).",
+      "'Die Unterstützung' ist das Nomen dazu."
+    ],
+    "relatedWords": [
+      "die Unterstuetzung",
+      "helfen",
+      "foerdern"
+    ],
+    "tags": [
+      "teamwork",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "v-work-033",
+    "word": "vereinbaren",
+    "baseForm": "vereinbaren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to arrange, to agree on, to schedule",
+    "meaningDe": "gemeinsam etwas festlegen oder abmachen",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Können wir einen Termin vereinbaren?",
+        "en": "Can we schedule an appointment?",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir haben vereinbart, dass das Projekt bis Juni fertig sein muss.",
+        "en": "We agreed that the project must be finished by June.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er_sie_es": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie_Sie": "vereinbaren"
+      },
+      "past": {
+        "ich": "vereinbarte",
+        "du": "vereinbartest",
+        "er_sie_es": "vereinbarte",
+        "wir": "vereinbarten",
+        "ihr": "vereinbartet",
+        "sie_Sie": "vereinbarten"
+      },
+      "pastParticiple": "vereinbart",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar!",
+      "'Einen Termin vereinbaren' (nicht 'einen Termin machen' - obwohl letzteres umgangssprachlich möglich ist)."
+    ],
+    "usageNotes": [
+      "Oft in formeller Sprache: 'Wie vereinbart...' (as agreed...).",
+      "'Die Vereinbarung' = die Abmachung/das Agreement."
+    ],
+    "relatedWords": [
+      "die Vereinbarung",
+      "abmachen",
+      "der Termin",
+      "festlegen",
+      "v-phone-036"
+    ],
+    "tags": [
+      "scheduling",
+      "formal",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-work-034",
+    "word": "teilnehmen",
+    "baseForm": "teilnehmen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to participate, to attend",
+    "meaningDe": "bei etwas mitmachen oder dabei sein",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich nehme an der Besprechung teil.",
+        "en": "I am attending the meeting.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer nimmt an der Fortbildung teil?",
+        "en": "Who is participating in the training?",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "nehme teil",
+        "du": "nimmst teil",
+        "er_sie_es": "nimmt teil",
+        "wir": "nehmen teil",
+        "ihr": "nehmt teil",
+        "sie_Sie": "nehmen teil"
+      },
+      "past": {
+        "ich": "nahm teil",
+        "du": "nahmst teil",
+        "er_sie_es": "nahm teil",
+        "wir": "nahmen teil",
+        "ihr": "nahmt teil",
+        "sie_Sie": "nahmen teil"
+      },
+      "pastParticiple": "teilgenommen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar! 'Ich nehme teil' (nicht 'Ich teilnehme').",
+      "'An etwas teilnehmen' (an + Dativ) - die Praposition 'an' ist obligatorisch."
+    ],
+    "usageNotes": [
+      "'Der/die Teilnehmer/in' = participant.",
+      "'Die Teilnahme' = participation."
+    ],
+    "relatedWords": [
+      "die Teilnahme",
+      "der Teilnehmer",
+      "mitmachen",
+      "besuchen"
+    ],
+    "tags": [
+      "participation",
+      "events"
+    ]
+  },
+  {
+    "id": "v-work-035",
+    "word": "abgeben",
+    "baseForm": "abgeben",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to hand in, to submit",
+    "meaningDe": "etwas an jemanden übergeben oder einreichen",
+    "situations": [
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss den Bericht bis Freitag abgeben.",
+        "en": "I have to submit the report by Friday.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte geben Sie das Formular bei der Rezeption ab.",
+        "en": "Please hand in the form at the reception.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "gebe ab",
+        "du": "gibst ab",
+        "er_sie_es": "gibt ab",
+        "wir": "geben ab",
+        "ihr": "gebt ab",
+        "sie_Sie": "geben ab"
+      },
+      "past": {
+        "ich": "gab ab",
+        "du": "gabst ab",
+        "er_sie_es": "gab ab",
+        "wir": "gaben ab",
+        "ihr": "gabt ab",
+        "sie_Sie": "gaben ab"
+      },
+      "pastParticiple": "abgegeben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar! 'Ich gebe den Bericht ab.'",
+      "Vokalwechsel: 'du gibst ab', 'er gibt ab' (e -> i)."
+    ],
+    "usageNotes": [
+      "Auch: 'eine Erklärung abgeben' (to make a statement), 'eine Stimme abgeben' (to cast a vote).",
+      "Im Arbeitskontext meistens: Dokumente, Berichte, Formulare abgeben."
+    ],
+    "relatedWords": [
+      "einreichen",
+      "die Abgabe",
+      "der Bericht",
+      "v-bureaucracy-039"
+    ],
+    "tags": [
+      "documents",
+      "deadlines"
+    ]
+  },
+  {
+    "id": "v-work-036",
+    "word": "sich melden",
+    "baseForm": "melden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to get in touch, to report, to contact",
+    "meaningDe": "sich bei jemandem zurückmelden oder Kontakt aufnehmen",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich melde mich bei Ihnen, sobald ich mehr weiss.",
+        "en": "I will get back to you as soon as I know more.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Hat sich der Kunde schon gemeldet?",
+        "en": "Has the client gotten in touch yet?",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich",
+        "du": "meldest dich",
+        "er_sie_es": "meldet sich",
+        "wir": "melden uns",
+        "ihr": "meldet euch",
+        "sie_Sie": "melden sich"
+      },
+      "past": {
+        "ich": "meldete mich",
+        "du": "meldetest dich",
+        "er_sie_es": "meldete sich",
+        "wir": "meldeten uns",
+        "ihr": "meldetet euch",
+        "sie_Sie": "meldeten sich"
+      },
+      "pastParticiple": "gemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Sich melden' (reflexiv, = get in touch) vs. 'melden' (ohne sich, = to report something).",
+      "'Ich melde mich bei dir' (nicht 'Ich melde dir')."
+    ],
+    "usageNotes": [
+      "Sehr häufig in der Geschäftskommunikation: 'Ich melde mich!'",
+      "'Sich krank melden' = to call in sick."
+    ],
+    "relatedWords": [
+      "die Meldung",
+      "sich zurueckmelden",
+      "Bescheid geben"
+    ],
+    "tags": [
+      "communication",
+      "phone"
+    ]
+  },
+  {
+    "id": "v-work-037",
+    "word": "übernehmen",
+    "baseForm": "übernehmen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to take over, to take on (a task/responsibility)",
+    "meaningDe": "eine Aufgabe oder Verantwortung von jemandem annehmen",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Kannst du diese Aufgabe übernehmen?",
+        "en": "Can you take on this task?",
+        "situation": "work",
+        "tone": "informal"
+      },
+      {
+        "de": "Frau Müller übernimmt die Leitung des Projekts.",
+        "en": "Ms. Mueller is taking over the management of the project.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "übernehme",
+        "du": "übernimmst",
+        "er_sie_es": "übernimmt",
+        "wir": "übernehmen",
+        "ihr": "übernehmt",
+        "sie_Sie": "übernehmen"
+      },
+      "past": {
+        "ich": "übernahm",
+        "du": "übernahmst",
+        "er_sie_es": "übernahm",
+        "wir": "übernahmen",
+        "ihr": "übernahmt",
+        "sie_Sie": "übernahmen"
+      },
+      "pastParticiple": "übernommen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar! 'Ich übernehme die Aufgabe' (nicht 'Ich nehme die Aufgabe über').",
+      "Vokalwechsel: 'du übernimmst' (e -> i)."
+    ],
+    "usageNotes": [
+      "'Die Verantwortung/Kosten/Leitung übernehmen' sind häufige Kollokationen.",
+      "'Die Übernahme' ist das entsprechende Nomen."
+    ],
+    "relatedWords": [
+      "die Uebernahme",
+      "die Verantwortung",
+      "die Aufgabe"
+    ],
+    "tags": [
+      "responsibility",
+      "management"
+    ]
+  },
+  {
+    "id": "v-work-038",
+    "word": "zusammenarbeiten",
+    "baseForm": "zusammenarbeiten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to collaborate, to work together",
+    "meaningDe": "gemeinsam an etwas arbeiten",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir arbeiten eng mit der IT-Abteilung zusammen.",
+        "en": "We work closely with the IT department.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Es macht Spass, mit Ihnen zusammenzuarbeiten.",
+        "en": "It is a pleasure to work with you.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "arbeite zusammen",
+        "du": "arbeitest zusammen",
+        "er_sie_es": "arbeitet zusammen",
+        "wir": "arbeiten zusammen",
+        "ihr": "arbeitet zusammen",
+        "sie_Sie": "arbeiten zusammen"
+      },
+      "past": {
+        "ich": "arbeitete zusammen",
+        "du": "arbeitetest zusammen",
+        "er_sie_es": "arbeitete zusammen",
+        "wir": "arbeiteten zusammen",
+        "ihr": "arbeitetet zusammen",
+        "sie_Sie": "arbeiteten zusammen"
+      },
+      "pastParticiple": "zusammengearbeitet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar! 'Wir arbeiten zusammen.' Im Infinitiv mit 'zu': 'zusammenzuarbeiten'.",
+      "'Mit jemandem zusammenarbeiten' (mit + Dativ)."
+    ],
+    "usageNotes": [
+      "'Die Zusammenarbeit' = collaboration/cooperation.",
+      "'In enger Zusammenarbeit mit...' ist eine gängige Formulierung in Berichten."
+    ],
+    "relatedWords": [
+      "die Zusammenarbeit",
+      "kooperieren",
+      "das Team",
+      "die Teamarbeit"
+    ],
+    "tags": [
+      "teamwork",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "v-work-039",
+    "word": "beantragen",
+    "baseForm": "beantragen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to apply for, to request (formally)",
+    "meaningDe": "etwas offiziell/schriftlich anfordern",
+    "situations": [
+      "work",
+      "bureaucracy"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte Urlaub beantragen.",
+        "en": "I would like to request vacation.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie hat eine Gehaltserhöhung beantragt.",
+        "en": "She applied for a salary increase.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beantrage",
+        "du": "beantragst",
+        "er_sie_es": "beantragt",
+        "wir": "beantragen",
+        "ihr": "beantragt",
+        "sie_Sie": "beantragen"
+      },
+      "past": {
+        "ich": "beantragte",
+        "du": "beantragtest",
+        "er_sie_es": "beantragte",
+        "wir": "beantragten",
+        "ihr": "beantragtet",
+        "sie_Sie": "beantragten"
+      },
+      "pastParticiple": "beantragt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar! 'Ich beantrage Urlaub.' (nicht 'Ich trage Urlaub bean').",
+      "Formeller als 'bitten um' - 'beantragen' impliziert einen offiziellen Prozess."
+    ],
+    "usageNotes": [
+      "'Der Antrag' = the application/reqüst.",
+      "'Einen Antrag stellen' ist synonym mit 'etwas beantragen'."
+    ],
+    "relatedWords": [
+      "der Antrag",
+      "der Urlaubsantrag",
+      "genehmigen",
+      "v-bureaucracy-026"
+    ],
+    "tags": [
+      "bureaucracy",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-work-040",
+    "word": "betreün",
+    "baseForm": "betreün",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to look after, to be in charge of, to manage (clients/projects)",
+    "meaningDe": "sich um jemanden oder etwas kümmern",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich betreü drei grosse Kunden.",
+        "en": "I manage three large clients.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer betreut dieses Projekt?",
+        "en": "Who is in charge of this project?",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "betreü",
+        "du": "betreust",
+        "er_sie_es": "betreut",
+        "wir": "betreün",
+        "ihr": "betreut",
+        "sie_Sie": "betreün"
+      },
+      "past": {
+        "ich": "betreute",
+        "du": "betreutest",
+        "er_sie_es": "betreute",
+        "wir": "betreuten",
+        "ihr": "betreutet",
+        "sie_Sie": "betreuten"
+      },
+      "pastParticiple": "betreut",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar.",
+      "Nicht verwechseln mit 'behandeln' (to treat medically) oder 'verwalten' (to administer)."
+    ],
+    "usageNotes": [
+      "'Der Betreür / die Betreürin' = person in charge, supervisor, caretaker.",
+      "Wird auch für Kinderbetreuung verwendet: 'Kinder betreün'."
+    ],
+    "relatedWords": [
+      "die Betreuung",
+      "der Betreuer",
+      "sich kuemmern um"
+    ],
+    "tags": [
+      "client-management",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "v-work-041",
+    "word": "zuständig",
+    "baseForm": "zuständig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "responsible (for), in charge (of)",
+    "meaningDe": "für etwas verantwortlich oder beauftragt sein",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wer ist dafür zuständig?",
+        "en": "Who is responsible for this?",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich bin für die Kundenbetreuung zuständig.",
+        "en": "I am in charge of customer service.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Da sind Sie bei mir leider falsch - dafür ist die andere Abteilung zuständig.",
+        "en": "I'm afraid you've come to the wrong person - the other department is responsible for that.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Zuständig für' (+ Akkusativ), nicht 'zuständig von'.",
+      "Nicht verwechseln mit 'verantwortlich' - 'zuständig' betont die formale Aufgabenzuteilung."
+    ],
+    "usageNotes": [
+      "'Die Zuständigkeit' = area of responsibility, jurisdiction.",
+      "Sehr häufig in Behörden und Unternehmen: 'die zuständige Stelle/Behörde'."
+    ],
+    "relatedWords": [
+      "die Zustaendigkeit",
+      "verantwortlich",
+      "der Zustaendigkeitsbereich",
+      "v-bureaucracy-041",
+      "v-emails-044",
+      "v-meetings-045",
+      "v-phone-044"
+    ],
+    "tags": [
+      "responsibility",
+      "organization"
+    ]
+  },
+  {
+    "id": "v-work-042",
+    "word": "verantwortlich",
+    "baseForm": "verantwortlich",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "responsible",
+    "meaningDe": "die Pflicht haben, für etwas einzustehen",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Sie ist verantwortlich für das Budget.",
+        "en": "She is responsible for the budget.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Wer ist dafür verantwortlich?",
+        "en": "Who is responsible for this?",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Verantwortlich für' (+ Akkusativ).",
+      "Im Unterschied zu 'zuständig' impliziert 'verantwortlich' auch die Haftung/Schuld."
+    ],
+    "usageNotes": [
+      "'Die Verantwortung tragen/übernehmen' = to bear/take responsibility.",
+      "'Verantwortlich' kann auch 'accountable' bedeuten."
+    ],
+    "relatedWords": [
+      "die Verantwortung",
+      "zustaendig",
+      "haftbar"
+    ],
+    "tags": [
+      "responsibility",
+      "accountability"
+    ]
+  },
+  {
+    "id": "v-work-043",
+    "word": "pünktlich",
+    "baseForm": "pünktlich",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "punctual, on time",
+    "meaningDe": "genau zur vereinbarten Zeit",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte seien Sie pünktlich zur Besprechung.",
+        "en": "Please be on time for the meeting.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Er ist immer pünktlich.",
+        "en": "He is always punctual.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Pünktlich' kann auch als Adverb verwendet werden: 'Er kommt pünktlich.'",
+      "Nicht verwechseln mit 'rechtzeitig' (in time, before the deadline) - 'pünktlich' heisst genau zur festgelegten Zeit."
+    ],
+    "usageNotes": [
+      "Pünktlichkeit ist in der deutschen Arbeitskultur sehr wichtig.",
+      "'Die Pünktlichkeit' = punctuality."
+    ],
+    "relatedWords": [
+      "rechtzeitig",
+      "die Puenktlichkeit",
+      "der Termin",
+      "v-travel-043"
+    ],
+    "tags": [
+      "time",
+      "culture",
+      "soft-skills"
+    ]
+  },
+  {
+    "id": "v-work-044",
+    "word": "dringend",
+    "baseForm": "dringend",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "urgent",
+    "meaningDe": "sehr eilig, muss sofort erledigt werden",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Das ist eine dringende Angelegenheit.",
+        "en": "This is an urgent matter.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss dringend mit Ihnen sprechen.",
+        "en": "I urgently need to speak with you.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Dringend' kann Adjektiv und Adverb sein: 'eine dringende Frage' (Adj.) / 'Ich brauche dringend Hilfe' (Adv.).",
+      "Steigerung: 'dringend - dringender - am dringendsten'."
+    ],
+    "usageNotes": [
+      "'Dringend empfohlen' = strongly recommended.",
+      "In E-Mails oft: 'Dringend!' als Betreffzeile."
+    ],
+    "relatedWords": [
+      "eilig",
+      "die Dringlichkeit",
+      "sofort",
+      "v-emails-042",
+      "v-phone-043"
+    ],
+    "tags": [
+      "priority",
+      "time"
+    ]
+  },
+  {
+    "id": "v-work-045",
+    "word": "selbstständig",
+    "baseForm": "selbstständig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "independent, self-employed",
+    "meaningDe": "ohne Hilfe anderer arbeitend; nicht angestellt",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Sie arbeitet selbstständig als Grafikdesignerin.",
+        "en": "She works as a self-employed graphic designer.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir suchen jemanden, der selbstständig arbeiten kann.",
+        "en": "We are looking for someone who can work independently.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Zwei Bedeutungen: 'self-employed' und 'independent/autonomous' - Kontext entscheidet.",
+      "Auch 'selbständig' geschrieben (beide Schreibweisen sind korrekt)."
+    ],
+    "usageNotes": [
+      "'Sich selbstständig machen' = to become self-employed.",
+      "In Stellenanzeigen oft gefordert: 'selbstständige Arbeitsweise'."
+    ],
+    "relatedWords": [
+      "die Selbststaendigkeit",
+      "eigenstaendig",
+      "unabhaengig",
+      "der Freiberufler"
+    ],
+    "tags": [
+      "employment",
+      "soft-skills"
+    ]
+  },
+  {
+    "id": "v-work-046",
+    "word": "Bescheid geben",
+    "baseForm": "Bescheid geben",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to let someone know, to inform",
+    "meaningDe": "jemandem eine Information mitteilen",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Geben Sie mir bitte Bescheid, wenn Sie fertig sind.",
+        "en": "Please let me know when you are finished.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich gebe dir morgen Bescheid.",
+        "en": "I will let you know tomorrow.",
+        "situation": "work",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Bescheid' wird grossgeschrieben! Es ist ein Nomen in dieser Wendung.",
+      "'Jemandem Bescheid geben' (Dativ) - 'Ich gebe Ihnen Bescheid.'"
+    ],
+    "usageNotes": [
+      "Auch: 'Bescheid wissen' = to know about something, to be informed.",
+      "'Sag mir Bescheid!' ist die informelle Variante."
+    ],
+    "relatedWords": [
+      "informieren",
+      "mitteilen",
+      "sich melden",
+      "Bescheid wissen"
+    ],
+    "tags": [
+      "communication",
+      "common-phrase"
+    ]
+  },
+  {
+    "id": "v-work-047",
+    "word": "in Frage kommen",
+    "baseForm": "in Frage kommen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to be an option, to be eligible, to come into question",
+    "meaningDe": "als Möglichkeit oder Option gelten",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Für diese Stelle kommen nur Bewerber mit Berufserfahrung in Frage.",
+        "en": "Only applicants with work experience are eligible for this position.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Das kommt für mich nicht in Frage.",
+        "en": "That is not an option for me.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Auch 'infrage kommen' (zusammengeschrieben) ist korrekt - beide Schreibweisen erlaubt.",
+      "Nicht verwechseln mit 'in Frage stellen' (to qüstion/challenge something)."
+    ],
+    "usageNotes": [
+      "'Nicht in Frage kommen' = to be out of the qüstion.",
+      "'Etwas in Frage stellen' hat eine andere Bedeutung: etwas anzweifeln."
+    ],
+    "relatedWords": [
+      "moeglich sein",
+      "in Betracht kommen",
+      "in Frage stellen"
+    ],
+    "tags": [
+      "decision-making",
+      "common-phrase"
+    ]
+  },
+  {
+    "id": "v-work-048",
+    "word": "zur Verfügung stehen",
+    "baseForm": "zur Verfügung stehen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to be available, to be at someone's disposal",
+    "meaningDe": "bereit oder verfügbar sein",
+    "situations": [
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich stehe Ihnen jederzeit zur Verfügung.",
+        "en": "I am at your disposal at any time.",
+        "situation": "work",
+        "tone": "formal"
+      },
+      {
+        "de": "Für Rückfragen stehen wir Ihnen gerne zur Verfügung.",
+        "en": "We are happy to be available for any questions.",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Sehr formell - in informeller Sprache eher: 'Ich bin da, wenn du mich brauchst.'",
+      "'Zur Verfügung stellen' (to provide/make available) ist eine andere Wendung!"
+    ],
+    "usageNotes": [
+      "Häufig am Ende von Geschäftsbriefen und E-Mails.",
+      "'Etwas zur Verfügung stellen' = etwas bereitstellen."
+    ],
+    "relatedWords": [
+      "verfuegbar",
+      "zur Verfuegung stellen",
+      "bereitstehen",
+      "v-emails-040"
+    ],
+    "tags": [
+      "formal",
+      "business-correspondence",
+      "common-phrase"
+    ]
+  },
+  {
+    "id": "v-work-049",
+    "word": "Bescheid wissen",
+    "baseForm": "Bescheid wissen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to know about something, to be informed",
+    "meaningDe": "über etwas informiert sein",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Weisst du darüber Bescheid?",
+        "en": "Do you know about this?",
+        "situation": "work",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Chef weiss schon Bescheid.",
+        "en": "The boss already knows about it.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Bescheid' wird grossgeschrieben.",
+      "'Über etwas Bescheid wissen' (nicht 'von etwas Bescheid wissen')."
+    ],
+    "usageNotes": [
+      "Kombination mit 'Bescheid geben/sagen': 'Sag mir Bescheid, sobald du Bescheid weisst.'",
+      "Alltäglicher als 'informiert sein'."
+    ],
+    "relatedWords": [
+      "Bescheid geben",
+      "wissen",
+      "informiert sein",
+      "sich auskennen"
+    ],
+    "tags": [
+      "communication",
+      "common-phrase"
+    ]
+  },
+  {
+    "id": "v-work-050",
+    "word": "sich um etwas kümmern",
+    "baseForm": "sich kümmern",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "to take care of something, to deal with something",
+    "meaningDe": "sich einer Sache annehmen und sie bearbeiten",
+    "situations": [
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich kümmere mich darum.",
+        "en": "I will take care of it.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer kümmert sich um die Bestellung?",
+        "en": "Who is taking care of the order?",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Könnten Sie sich bitte darum kümmern?",
+        "en": "Could you please take care of this?",
+        "situation": "work",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Reflexiv + Praposition: 'sich um etwas kümmern' (um + Akkusativ).",
+      "Nicht verwechseln mit 'bekümmern' (to worry/sadden) - komplett andere Bedeutung."
+    ],
+    "usageNotes": [
+      "'Ich kümmere mich darum' ist eine der nützlichsten Formulierungen im Arbeitsalltag.",
+      "Auch für Menschen: 'sich um jemanden kümmern' (to look after someone)."
+    ],
+    "relatedWords": [
+      "erledigen",
+      "betreuen",
+      "bearbeiten",
+      "sich annehmen"
+    ],
+    "tags": [
+      "responsibility",
+      "common-phrase",
+      "daily-work"
+    ]
+  }
+]

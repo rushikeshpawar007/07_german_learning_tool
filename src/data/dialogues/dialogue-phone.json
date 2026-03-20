@@ -1,0 +1,29 @@
+{
+  "id": "phone-appointment",
+  "title": "Einen Termin vereinbaren",
+  "titleEn": "Making an Appointment",
+  "situation": "phone",
+  "level": "B1",
+  "description": "A caller phones a doctor's office to schedule an appointment, navigating availability and spelling out her name.",
+  "speakers": {
+    "a": { "name": "Frau Yilmaz", "role": "Anruferin" },
+    "b": { "name": "Rezeptionist", "role": "Rezeptionist" }
+  },
+  "lines": [
+    { "speaker": "b", "de": "Praxis Dr. Meier, guten Tag. Was kann ich für Sie tun?", "en": "Dr. Meier's practice, good day. What can I do for you?" },
+    { "speaker": "a", "de": "Guten Tag, mein Name ist Yilmaz. Ich würde gerne einen Termin bei Dr. Meier vereinbaren.", "en": "Good day, my name is Yilmaz. I would like to make an appointment with Dr. Meier." },
+    { "speaker": "b", "de": "Natürlich. Waren Sie schon einmal bei uns als Patientin?", "en": "Of course. Have you been to our practice before as a patient?" },
+    { "speaker": "a", "de": "Nein, ich wäre eine neue Patientin. Ich bin vor Kurzem in die Gegend gezogen.", "en": "No, I would be a new patient. I recently moved to the area." },
+    { "speaker": "b", "de": "Verstehe. Worum geht es denn? Ist es dringend, oder ist es eine Routineuntersuchung?", "en": "I see. What is it about? Is it urgent, or is it a routine check-up?" },
+    { "speaker": "a", "de": "Es ist nicht dringend, aber ich hätte gern eine allgemeine Untersuchung. Gibt es diese Woche noch etwas frei?", "en": "It is not urgent, but I would like a general check-up. Is there anything available this week?" },
+    { "speaker": "b", "de": "Diese Woche ist leider alles ausgebucht. Der früheste Termin wäre am Dienstag, den sechsundzwanzigsten März, um zehn Uhr dreißig.", "en": "Unfortunately, this week is fully booked. The earliest appointment would be on Tuesday, March 26th, at ten thirty." },
+    { "speaker": "a", "de": "Dienstag passt mir leider nicht. Hätten Sie am Mittwoch oder Donnerstag etwas frei?", "en": "Unfortunately, Tuesday doesn't work for me. Would you have anything available on Wednesday or Thursday?" },
+    { "speaker": "b", "de": "Am Donnerstag, den achtundzwanzigsten, hätte ich um vierzehn Uhr fünfzehn einen freien Termin. Würde Ihnen das passen?", "en": "On Thursday the twenty-eighth, I would have an available slot at two fifteen p.m. Would that work for you?" },
+    { "speaker": "a", "de": "Ja, Donnerstag um vierzehn Uhr fünfzehn passt mir sehr gut.", "en": "Yes, Thursday at two fifteen p.m. works very well for me." },
+    { "speaker": "b", "de": "Wunderbar. Darf ich Ihren vollständigen Namen notieren? Könnten Sie ihn bitte buchstabieren?", "en": "Wonderful. May I note down your full name? Could you please spell it?" },
+    { "speaker": "a", "de": "Ja, natürlich. Yilmaz: Ypsilon, Ida, Ludwig, Martha, Anton, Zacharias. Vorname: Elif — Emil, Ludwig, Ida, Friedrich.", "en": "Yes, of course. Yilmaz: Y, I, L, M, A, Z. First name: Elif — E, L, I, F." },
+    { "speaker": "b", "de": "Elif Yilmaz, Donnerstag, der achtundzwanzigste März, um vierzehn Uhr fünfzehn bei Dr. Meier. Bitte bringen Sie Ihre Versichertenkarte und einen Lichtbildausweis mit.", "en": "Elif Yilmaz, Thursday, March 28th, at two fifteen p.m. with Dr. Meier. Please bring your insurance card and a photo ID." },
+    { "speaker": "a", "de": "Alles klar, das mache ich. Vielen Dank für Ihre Hilfe. Auf Wiederhören!", "en": "All right, I will do that. Thank you very much for your help. Goodbye!" },
+    { "speaker": "b", "de": "Gerne geschehen. Auf Wiederhören, Frau Yilmaz!", "en": "You're welcome. Goodbye, Frau Yilmaz!" }
+  ]
+}

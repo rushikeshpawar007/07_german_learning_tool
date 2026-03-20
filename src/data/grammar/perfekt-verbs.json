@@ -1,0 +1,1102 @@
+[
+  {
+    "infinitive": "machen",
+    "meaning": "to do / to make",
+    "auxiliary": "haben",
+    "pastParticiple": "gemacht",
+    "example": {
+      "de": "Ich habe heute meine Hausaufgaben gemacht.",
+      "en": "I did my homework today."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "kaufen",
+    "meaning": "to buy",
+    "auxiliary": "haben",
+    "pastParticiple": "gekauft",
+    "example": {
+      "de": "Wir haben gestern ein neues Auto gekauft.",
+      "en": "We bought a new car yesterday."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "arbeiten",
+    "meaning": "to work",
+    "auxiliary": "haben",
+    "pastParticiple": "gearbeitet",
+    "example": {
+      "de": "Er hat den ganzen Tag gearbeitet.",
+      "en": "He worked the whole day."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "wohnen",
+    "meaning": "to live (reside)",
+    "auxiliary": "haben",
+    "pastParticiple": "gewohnt",
+    "example": {
+      "de": "Ich habe zwei Jahre in Berlin gewohnt.",
+      "en": "I lived in Berlin for two years."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "spielen",
+    "meaning": "to play",
+    "auxiliary": "haben",
+    "pastParticiple": "gespielt",
+    "example": {
+      "de": "Die Kinder haben im Garten gespielt.",
+      "en": "The children played in the garden."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "kochen",
+    "meaning": "to cook",
+    "auxiliary": "haben",
+    "pastParticiple": "gekocht",
+    "example": {
+      "de": "Meine Mutter hat eine Suppe gekocht.",
+      "en": "My mother cooked a soup."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "lernen",
+    "meaning": "to learn",
+    "auxiliary": "haben",
+    "pastParticiple": "gelernt",
+    "example": {
+      "de": "Ich habe Deutsch in der Schule gelernt.",
+      "en": "I learned German at school."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "hören",
+    "meaning": "to hear / to listen",
+    "auxiliary": "haben",
+    "pastParticiple": "gehört",
+    "example": {
+      "de": "Hast du die Nachrichten gehört?",
+      "en": "Did you hear the news?"
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "sagen",
+    "meaning": "to say",
+    "auxiliary": "haben",
+    "pastParticiple": "gesagt",
+    "example": {
+      "de": "Er hat mir die Wahrheit gesagt.",
+      "en": "He told me the truth."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "fragen",
+    "meaning": "to ask",
+    "auxiliary": "haben",
+    "pastParticiple": "gefragt",
+    "example": {
+      "de": "Sie hat mich nach dem Weg gefragt.",
+      "en": "She asked me for directions."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "suchen",
+    "meaning": "to search / to look for",
+    "auxiliary": "haben",
+    "pastParticiple": "gesucht",
+    "example": {
+      "de": "Ich habe meinen Schlüssel überall gesucht.",
+      "en": "I searched everywhere for my key."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "brauchen",
+    "meaning": "to need",
+    "auxiliary": "haben",
+    "pastParticiple": "gebraucht",
+    "example": {
+      "de": "Wir haben mehr Zeit gebraucht.",
+      "en": "We needed more time."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "glauben",
+    "meaning": "to believe",
+    "auxiliary": "haben",
+    "pastParticiple": "geglaubt",
+    "example": {
+      "de": "Ich habe ihm nicht geglaubt.",
+      "en": "I didn't believe him."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "zahlen",
+    "meaning": "to pay",
+    "auxiliary": "haben",
+    "pastParticiple": "gezahlt",
+    "example": {
+      "de": "Ich habe die Rechnung schon gezahlt.",
+      "en": "I already paid the bill."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "danken",
+    "meaning": "to thank",
+    "auxiliary": "haben",
+    "pastParticiple": "gedankt",
+    "example": {
+      "de": "Sie hat ihm für die Hilfe gedankt.",
+      "en": "She thanked him for the help."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "warten",
+    "meaning": "to wait",
+    "auxiliary": "haben",
+    "pastParticiple": "gewartet",
+    "example": {
+      "de": "Wir haben eine Stunde auf den Bus gewartet.",
+      "en": "We waited an hour for the bus."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "zeigen",
+    "meaning": "to show",
+    "auxiliary": "haben",
+    "pastParticiple": "gezeigt",
+    "example": {
+      "de": "Er hat mir die Stadt gezeigt.",
+      "en": "He showed me the city."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "öffnen",
+    "meaning": "to open",
+    "auxiliary": "haben",
+    "pastParticiple": "geöffnet",
+    "example": {
+      "de": "Sie hat das Fenster geöffnet.",
+      "en": "She opened the window."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "schließen",
+    "meaning": "to close",
+    "auxiliary": "haben",
+    "pastParticiple": "geschlossen",
+    "example": {
+      "de": "Er hat die Tür leise geschlossen.",
+      "en": "He closed the door quietly."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "packen",
+    "meaning": "to pack",
+    "auxiliary": "haben",
+    "pastParticiple": "gepackt",
+    "example": {
+      "de": "Ich habe meinen Koffer schon gepackt.",
+      "en": "I already packed my suitcase."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "putzen",
+    "meaning": "to clean",
+    "auxiliary": "haben",
+    "pastParticiple": "geputzt",
+    "example": {
+      "de": "Ich habe heute die Wohnung geputzt.",
+      "en": "I cleaned the apartment today."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "rauchen",
+    "meaning": "to smoke",
+    "auxiliary": "haben",
+    "pastParticiple": "geraucht",
+    "example": {
+      "de": "Er hat früher viel geraucht.",
+      "en": "He used to smoke a lot."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "reisen",
+    "meaning": "to travel",
+    "auxiliary": "sein",
+    "pastParticiple": "gereist",
+    "example": {
+      "de": "Wir sind letzten Sommer nach Italien gereist.",
+      "en": "We traveled to Italy last summer."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "schmecken",
+    "meaning": "to taste",
+    "auxiliary": "haben",
+    "pastParticiple": "geschmeckt",
+    "example": {
+      "de": "Das Essen hat sehr gut geschmeckt.",
+      "en": "The food tasted very good."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "wünschen",
+    "meaning": "to wish",
+    "auxiliary": "haben",
+    "pastParticiple": "gewünscht",
+    "example": {
+      "de": "Sie hat sich ein neues Handy gewünscht.",
+      "en": "She wished for a new phone."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "antworten",
+    "meaning": "to answer",
+    "auxiliary": "haben",
+    "pastParticiple": "geantwortet",
+    "example": {
+      "de": "Er hat auf meine Frage geantwortet.",
+      "en": "He answered my question."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "benutzen",
+    "meaning": "to use",
+    "auxiliary": "haben",
+    "pastParticiple": "benutzt",
+    "example": {
+      "de": "Ich habe den Computer benutzt.",
+      "en": "I used the computer."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "dauern",
+    "meaning": "to last / to take (time)",
+    "auxiliary": "haben",
+    "pastParticiple": "gedauert",
+    "example": {
+      "de": "Die Reise hat drei Stunden gedauert.",
+      "en": "The trip took three hours."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "fehlen",
+    "meaning": "to be missing / to lack",
+    "auxiliary": "haben",
+    "pastParticiple": "gefehlt",
+    "example": {
+      "de": "Du hast mir sehr gefehlt.",
+      "en": "I missed you a lot."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "kosten",
+    "meaning": "to cost",
+    "auxiliary": "haben",
+    "pastParticiple": "gekostet",
+    "example": {
+      "de": "Das Buch hat zwanzig Euro gekostet.",
+      "en": "The book cost twenty euros."
+    },
+    "type": "regular"
+  },
+  {
+    "infinitive": "gehen",
+    "meaning": "to go",
+    "auxiliary": "sein",
+    "pastParticiple": "gegangen",
+    "example": {
+      "de": "Ich bin gestern ins Kino gegangen.",
+      "en": "I went to the cinema yesterday."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "kommen",
+    "meaning": "to come",
+    "auxiliary": "sein",
+    "pastParticiple": "gekommen",
+    "example": {
+      "de": "Er ist gestern aus München gekommen.",
+      "en": "He came from Munich yesterday."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "fahren",
+    "meaning": "to drive / to go (by vehicle)",
+    "auxiliary": "sein",
+    "pastParticiple": "gefahren",
+    "example": {
+      "de": "Wir sind mit dem Zug nach Hamburg gefahren.",
+      "en": "We went to Hamburg by train."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "fliegen",
+    "meaning": "to fly",
+    "auxiliary": "sein",
+    "pastParticiple": "geflogen",
+    "example": {
+      "de": "Sie ist nach New York geflogen.",
+      "en": "She flew to New York."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "laufen",
+    "meaning": "to run / to walk",
+    "auxiliary": "sein",
+    "pastParticiple": "gelaufen",
+    "example": {
+      "de": "Ich bin heute fünf Kilometer gelaufen.",
+      "en": "I ran five kilometers today."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "schwimmen",
+    "meaning": "to swim",
+    "auxiliary": "sein",
+    "pastParticiple": "geschwommen",
+    "example": {
+      "de": "Die Kinder sind im See geschwommen.",
+      "en": "The children swam in the lake."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "sein",
+    "meaning": "to be",
+    "auxiliary": "sein",
+    "pastParticiple": "gewesen",
+    "example": {
+      "de": "Ich bin letzte Woche krank gewesen.",
+      "en": "I was sick last week."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "werden",
+    "meaning": "to become",
+    "auxiliary": "sein",
+    "pastParticiple": "geworden",
+    "example": {
+      "de": "Er ist Arzt geworden.",
+      "en": "He became a doctor."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "bleiben",
+    "meaning": "to stay",
+    "auxiliary": "sein",
+    "pastParticiple": "geblieben",
+    "example": {
+      "de": "Wir sind zu Hause geblieben.",
+      "en": "We stayed at home."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "schreiben",
+    "meaning": "to write",
+    "auxiliary": "haben",
+    "pastParticiple": "geschrieben",
+    "example": {
+      "de": "Ich habe meiner Freundin eine E-Mail geschrieben.",
+      "en": "I wrote an email to my friend."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "lesen",
+    "meaning": "to read",
+    "auxiliary": "haben",
+    "pastParticiple": "gelesen",
+    "example": {
+      "de": "Ich habe das Buch in zwei Tagen gelesen.",
+      "en": "I read the book in two days."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "sprechen",
+    "meaning": "to speak",
+    "auxiliary": "haben",
+    "pastParticiple": "gesprochen",
+    "example": {
+      "de": "Wir haben über das Problem gesprochen.",
+      "en": "We talked about the problem."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "essen",
+    "meaning": "to eat",
+    "auxiliary": "haben",
+    "pastParticiple": "gegessen",
+    "example": {
+      "de": "Ich habe heute Pizza gegessen.",
+      "en": "I ate pizza today."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "trinken",
+    "meaning": "to drink",
+    "auxiliary": "haben",
+    "pastParticiple": "getrunken",
+    "example": {
+      "de": "Er hat einen Kaffee getrunken.",
+      "en": "He drank a coffee."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "schlafen",
+    "meaning": "to sleep",
+    "auxiliary": "haben",
+    "pastParticiple": "geschlafen",
+    "example": {
+      "de": "Ich habe letzte Nacht gut geschlafen.",
+      "en": "I slept well last night."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "finden",
+    "meaning": "to find",
+    "auxiliary": "haben",
+    "pastParticiple": "gefunden",
+    "example": {
+      "de": "Hast du deine Tasche gefunden?",
+      "en": "Did you find your bag?"
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "geben",
+    "meaning": "to give",
+    "auxiliary": "haben",
+    "pastParticiple": "gegeben",
+    "example": {
+      "de": "Sie hat mir ein Geschenk gegeben.",
+      "en": "She gave me a gift."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "nehmen",
+    "meaning": "to take",
+    "auxiliary": "haben",
+    "pastParticiple": "genommen",
+    "example": {
+      "de": "Er hat den Bus genommen.",
+      "en": "He took the bus."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "helfen",
+    "meaning": "to help",
+    "auxiliary": "haben",
+    "pastParticiple": "geholfen",
+    "example": {
+      "de": "Mein Freund hat mir beim Umzug geholfen.",
+      "en": "My friend helped me with the move."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "sehen",
+    "meaning": "to see",
+    "auxiliary": "haben",
+    "pastParticiple": "gesehen",
+    "example": {
+      "de": "Ich habe den Film schon gesehen.",
+      "en": "I have already seen the movie."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "stehen",
+    "meaning": "to stand",
+    "auxiliary": "haben",
+    "pastParticiple": "gestanden",
+    "example": {
+      "de": "Wir haben lange an der Haltestelle gestanden.",
+      "en": "We stood at the bus stop for a long time."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "sitzen",
+    "meaning": "to sit",
+    "auxiliary": "haben",
+    "pastParticiple": "gesessen",
+    "example": {
+      "de": "Ich habe den ganzen Tag am Schreibtisch gesessen.",
+      "en": "I sat at the desk the whole day."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "liegen",
+    "meaning": "to lie (be lying down)",
+    "auxiliary": "haben",
+    "pastParticiple": "gelegen",
+    "example": {
+      "de": "Das Buch hat auf dem Tisch gelegen.",
+      "en": "The book was lying on the table."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "tragen",
+    "meaning": "to carry / to wear",
+    "auxiliary": "haben",
+    "pastParticiple": "getragen",
+    "example": {
+      "de": "Sie hat ein rotes Kleid getragen.",
+      "en": "She wore a red dress."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "halten",
+    "meaning": "to hold / to stop",
+    "auxiliary": "haben",
+    "pastParticiple": "gehalten",
+    "example": {
+      "de": "Der Bus hat an der Ecke gehalten.",
+      "en": "The bus stopped at the corner."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "fallen",
+    "meaning": "to fall",
+    "auxiliary": "sein",
+    "pastParticiple": "gefallen",
+    "example": {
+      "de": "Das Kind ist vom Fahrrad gefallen.",
+      "en": "The child fell off the bicycle."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "lassen",
+    "meaning": "to let / to leave",
+    "auxiliary": "haben",
+    "pastParticiple": "gelassen",
+    "example": {
+      "de": "Ich habe mein Handy zu Hause gelassen.",
+      "en": "I left my phone at home."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "rufen",
+    "meaning": "to call / to shout",
+    "auxiliary": "haben",
+    "pastParticiple": "gerufen",
+    "example": {
+      "de": "Sie hat laut um Hilfe gerufen.",
+      "en": "She called loudly for help."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "ziehen",
+    "meaning": "to pull / to move",
+    "auxiliary": "haben",
+    "pastParticiple": "gezogen",
+    "example": {
+      "de": "Er hat den schweren Koffer gezogen.",
+      "en": "He pulled the heavy suitcase."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "waschen",
+    "meaning": "to wash",
+    "auxiliary": "haben",
+    "pastParticiple": "gewaschen",
+    "example": {
+      "de": "Ich habe die Wäsche gewaschen.",
+      "en": "I washed the laundry."
+    },
+    "type": "irregular"
+  },
+  {
+    "infinitive": "anfangen",
+    "meaning": "to begin / to start",
+    "auxiliary": "haben",
+    "pastParticiple": "angefangen",
+    "example": {
+      "de": "Der Film hat um acht Uhr angefangen.",
+      "en": "The movie started at eight o'clock."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "aufstehen",
+    "meaning": "to get up",
+    "auxiliary": "sein",
+    "pastParticiple": "aufgestanden",
+    "example": {
+      "de": "Ich bin heute um sechs Uhr aufgestanden.",
+      "en": "I got up at six o'clock today."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "einkaufen",
+    "meaning": "to shop / to buy groceries",
+    "auxiliary": "haben",
+    "pastParticiple": "eingekauft",
+    "example": {
+      "de": "Wir haben im Supermarkt eingekauft.",
+      "en": "We shopped at the supermarket."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "einladen",
+    "meaning": "to invite",
+    "auxiliary": "haben",
+    "pastParticiple": "eingeladen",
+    "example": {
+      "de": "Sie hat mich zu ihrer Party eingeladen.",
+      "en": "She invited me to her party."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "anrufen",
+    "meaning": "to call (phone)",
+    "auxiliary": "haben",
+    "pastParticiple": "angerufen",
+    "example": {
+      "de": "Ich habe dich gestern Abend angerufen.",
+      "en": "I called you last evening."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "aufhören",
+    "meaning": "to stop / to quit",
+    "auxiliary": "haben",
+    "pastParticiple": "aufgehört",
+    "example": {
+      "de": "Es hat endlich aufgehört zu regnen.",
+      "en": "It finally stopped raining."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "ausgehen",
+    "meaning": "to go out",
+    "auxiliary": "sein",
+    "pastParticiple": "ausgegangen",
+    "example": {
+      "de": "Wir sind am Samstag mit Freunden ausgegangen.",
+      "en": "We went out with friends on Saturday."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "einziehen",
+    "meaning": "to move in",
+    "auxiliary": "sein",
+    "pastParticiple": "eingezogen",
+    "example": {
+      "de": "Wir sind letzte Woche in die neue Wohnung eingezogen.",
+      "en": "We moved into the new apartment last week."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "umziehen",
+    "meaning": "to move (relocate)",
+    "auxiliary": "sein",
+    "pastParticiple": "umgezogen",
+    "example": {
+      "de": "Sie ist nach Frankfurt umgezogen.",
+      "en": "She moved to Frankfurt."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "aufmachen",
+    "meaning": "to open",
+    "auxiliary": "haben",
+    "pastParticiple": "aufgemacht",
+    "example": {
+      "de": "Er hat die Flasche aufgemacht.",
+      "en": "He opened the bottle."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "zumachen",
+    "meaning": "to close",
+    "auxiliary": "haben",
+    "pastParticiple": "zugemacht",
+    "example": {
+      "de": "Hast du das Fenster zugemacht?",
+      "en": "Did you close the window?"
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "mitbringen",
+    "meaning": "to bring along",
+    "auxiliary": "haben",
+    "pastParticiple": "mitgebracht",
+    "example": {
+      "de": "Sie hat einen Kuchen zur Party mitgebracht.",
+      "en": "She brought a cake to the party."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "vorstellen",
+    "meaning": "to introduce / to imagine",
+    "auxiliary": "haben",
+    "pastParticiple": "vorgestellt",
+    "example": {
+      "de": "Er hat sich bei der Firma vorgestellt.",
+      "en": "He introduced himself at the company."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "aufräumen",
+    "meaning": "to tidy up / to clean up",
+    "auxiliary": "haben",
+    "pastParticiple": "aufgeräumt",
+    "example": {
+      "de": "Ich habe mein Zimmer aufgeräumt.",
+      "en": "I tidied up my room."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "zurückkommen",
+    "meaning": "to come back / to return",
+    "auxiliary": "sein",
+    "pastParticiple": "zurückgekommen",
+    "example": {
+      "de": "Sie ist erst spät aus dem Urlaub zurückgekommen.",
+      "en": "She came back late from vacation."
+    },
+    "type": "separable"
+  },
+  {
+    "infinitive": "besuchen",
+    "meaning": "to visit",
+    "auxiliary": "haben",
+    "pastParticiple": "besucht",
+    "example": {
+      "de": "Ich habe meine Großeltern am Sonntag besucht.",
+      "en": "I visited my grandparents on Sunday."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "verstehen",
+    "meaning": "to understand",
+    "auxiliary": "haben",
+    "pastParticiple": "verstanden",
+    "example": {
+      "de": "Ich habe die Frage nicht verstanden.",
+      "en": "I didn't understand the question."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "erzählen",
+    "meaning": "to tell / to narrate",
+    "auxiliary": "haben",
+    "pastParticiple": "erzählt",
+    "example": {
+      "de": "Sie hat uns eine lustige Geschichte erzählt.",
+      "en": "She told us a funny story."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "vergessen",
+    "meaning": "to forget",
+    "auxiliary": "haben",
+    "pastParticiple": "vergessen",
+    "example": {
+      "de": "Ich habe meinen Regenschirm vergessen.",
+      "en": "I forgot my umbrella."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "beginnen",
+    "meaning": "to begin",
+    "auxiliary": "haben",
+    "pastParticiple": "begonnen",
+    "example": {
+      "de": "Der Kurs hat schon begonnen.",
+      "en": "The course has already begun."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "bekommen",
+    "meaning": "to get / to receive",
+    "auxiliary": "haben",
+    "pastParticiple": "bekommen",
+    "example": {
+      "de": "Ich habe zum Geburtstag viele Geschenke bekommen.",
+      "en": "I received many gifts for my birthday."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "empfehlen",
+    "meaning": "to recommend",
+    "auxiliary": "haben",
+    "pastParticiple": "empfohlen",
+    "example": {
+      "de": "Der Kellner hat uns den Fisch empfohlen.",
+      "en": "The waiter recommended the fish to us."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "entscheiden",
+    "meaning": "to decide",
+    "auxiliary": "haben",
+    "pastParticiple": "entschieden",
+    "example": {
+      "de": "Wir haben uns für das blaue Auto entschieden.",
+      "en": "We decided on the blue car."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "erklären",
+    "meaning": "to explain",
+    "auxiliary": "haben",
+    "pastParticiple": "erklärt",
+    "example": {
+      "de": "Der Lehrer hat die Grammatik erklärt.",
+      "en": "The teacher explained the grammar."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "gehören",
+    "meaning": "to belong to",
+    "auxiliary": "haben",
+    "pastParticiple": "gehört",
+    "example": {
+      "de": "Das Buch hat meinem Bruder gehört.",
+      "en": "The book belonged to my brother."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "gefallen",
+    "meaning": "to please / to like",
+    "auxiliary": "haben",
+    "pastParticiple": "gefallen",
+    "example": {
+      "de": "Die Stadt hat mir sehr gefallen.",
+      "en": "I really liked the city."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "verbringen",
+    "meaning": "to spend (time)",
+    "auxiliary": "haben",
+    "pastParticiple": "verbracht",
+    "example": {
+      "de": "Wir haben den Sommer am Meer verbracht.",
+      "en": "We spent the summer at the sea."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "verlieren",
+    "meaning": "to lose",
+    "auxiliary": "haben",
+    "pastParticiple": "verloren",
+    "example": {
+      "de": "Er hat seinen Geldbeutel verloren.",
+      "en": "He lost his wallet."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "versuchen",
+    "meaning": "to try / to attempt",
+    "auxiliary": "haben",
+    "pastParticiple": "versucht",
+    "example": {
+      "de": "Ich habe versucht, dich anzurufen.",
+      "en": "I tried to call you."
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "bezahlen",
+    "meaning": "to pay (for)",
+    "auxiliary": "haben",
+    "pastParticiple": "bezahlt",
+    "example": {
+      "de": "Wer hat das Abendessen bezahlt?",
+      "en": "Who paid for the dinner?"
+    },
+    "type": "inseparable"
+  },
+  {
+    "infinitive": "denken",
+    "meaning": "to think",
+    "auxiliary": "haben",
+    "pastParticiple": "gedacht",
+    "example": {
+      "de": "Ich habe an dich gedacht.",
+      "en": "I thought of you."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "bringen",
+    "meaning": "to bring",
+    "auxiliary": "haben",
+    "pastParticiple": "gebracht",
+    "example": {
+      "de": "Er hat mir Blumen gebracht.",
+      "en": "He brought me flowers."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "kennen",
+    "meaning": "to know (be familiar with)",
+    "auxiliary": "haben",
+    "pastParticiple": "gekannt",
+    "example": {
+      "de": "Ich habe ihn schon als Kind gekannt.",
+      "en": "I knew him since childhood."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "wissen",
+    "meaning": "to know (a fact)",
+    "auxiliary": "haben",
+    "pastParticiple": "gewusst",
+    "example": {
+      "de": "Das habe ich nicht gewusst.",
+      "en": "I didn't know that."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "studieren",
+    "meaning": "to study (at university)",
+    "auxiliary": "haben",
+    "pastParticiple": "studiert",
+    "example": {
+      "de": "Sie hat Medizin in Heidelberg studiert.",
+      "en": "She studied medicine in Heidelberg."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "telefonieren",
+    "meaning": "to talk on the phone",
+    "auxiliary": "haben",
+    "pastParticiple": "telefoniert",
+    "example": {
+      "de": "Ich habe eine Stunde mit meiner Mutter telefoniert.",
+      "en": "I talked on the phone with my mother for an hour."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "passieren",
+    "meaning": "to happen",
+    "auxiliary": "sein",
+    "pastParticiple": "passiert",
+    "example": {
+      "de": "Was ist gestern Abend passiert?",
+      "en": "What happened last evening?"
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "funktionieren",
+    "meaning": "to work / to function",
+    "auxiliary": "haben",
+    "pastParticiple": "funktioniert",
+    "example": {
+      "de": "Der Drucker hat gestern nicht funktioniert.",
+      "en": "The printer didn't work yesterday."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "interessieren",
+    "meaning": "to interest",
+    "auxiliary": "haben",
+    "pastParticiple": "interessiert",
+    "example": {
+      "de": "Das Thema hat mich sehr interessiert.",
+      "en": "The topic interested me a lot."
+    },
+    "type": "mixed"
+  },
+  {
+    "infinitive": "reservieren",
+    "meaning": "to reserve / to book",
+    "auxiliary": "haben",
+    "pastParticiple": "reserviert",
+    "example": {
+      "de": "Ich habe einen Tisch im Restaurant reserviert.",
+      "en": "I reserved a table at the restaurant."
+    },
+    "type": "mixed"
+  }
+]

@@ -1,0 +1,99 @@
+{
+  "id": "perfekt",
+  "title": "Present Perfect (Perfekt)",
+  "category": "verbs",
+  "level": "B1",
+  "description": "The Perfekt is the most common past tense in spoken German. It is formed with an auxiliary verb (haben or sein) in position 2 and a past participle (Partizip II) at the end of the clause.",
+  "whenToUse": [
+    "Talking about completed past actions in spoken German: Ich habe gestern Pizza gegessen.",
+    "Describing personal experiences: Ich bin schon einmal nach Japan geflogen.",
+    "Reporting recent events: Es hat heute geregnet.",
+    "In informal writing such as emails or text messages: Hast du meine Nachricht bekommen?"
+  ],
+  "rules": [
+    {
+      "title": "Choosing the Auxiliary: haben vs. sein",
+      "explanation": "Most verbs use haben. Sein is used with verbs of movement from A to B (gehen, fahren, fliegen), verbs indicating a change of state (einschlafen, aufwachen, sterben), and the verbs sein, werden, bleiben.",
+      "examples": [
+        { "correct": "Ich habe ein Buch gelesen.", "incorrect": "Ich bin ein Buch gelesen.", "explanation": "Lesen does not indicate movement or change of state, so it takes haben." },
+        { "correct": "Er ist nach Berlin gefahren.", "incorrect": "Er hat nach Berlin gefahren.", "explanation": "Fahren describes movement from A to B, so it takes sein." },
+        { "correct": "Sie ist eingeschlafen.", "incorrect": "Sie hat eingeschlafen.", "explanation": "Einschlafen indicates a change of state (awake → asleep), so it takes sein." }
+      ]
+    },
+    {
+      "title": "Past Participle of Regular (Weak) Verbs",
+      "explanation": "Regular verbs form the Partizip II with the prefix ge- and the ending -t added to the verb stem: ge- + stem + -t. Example: machen → gemacht, spielen → gespielt.",
+      "examples": [
+        { "correct": "Ich habe Fußball gespielt.", "explanation": "Spielen is regular: ge- + spiel + -t = gespielt." },
+        { "correct": "Wir haben lange gewartet.", "explanation": "Warten is regular but has a stem ending in -t, so the participle is ge- + wart + -et = gewartet." },
+        { "correct": "Du hast das Fenster geöffnet.", "explanation": "Öffnen is regular: ge- + öffn + -et = geöffnet (extra -e- because stem ends in -n after a consonant)." }
+      ]
+    },
+    {
+      "title": "Past Participle of Irregular (Strong) Verbs",
+      "explanation": "Strong verbs form the Partizip II with ge- and the ending -en, often with a vowel change in the stem: ge- + changed stem + -en. These must be memorized. Example: trinken → getrunken, schreiben → geschrieben.",
+      "examples": [
+        { "correct": "Sie hat den Brief geschrieben.", "explanation": "Schreiben is strong: ge- + schrieb + -en = geschrieben (ei → ie vowel change)." },
+        { "correct": "Wir haben Wasser getrunken.", "explanation": "Trinken is strong: ge- + trunk + -en = getrunken (i → u vowel change)." },
+        { "correct": "Er hat mich gesehen.", "explanation": "Sehen is strong: ge- + seh + -en = gesehen (no vowel change in this case)." }
+      ]
+    },
+    {
+      "title": "Inseparable Prefix Verbs: No ge- in Partizip II",
+      "explanation": "Verbs with inseparable prefixes (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-) do NOT add ge- to the past participle. The prefix stays attached.",
+      "examples": [
+        { "correct": "Ich habe meine Oma besucht.", "incorrect": "Ich habe meine Oma gebesucht.", "explanation": "Besuchen has the inseparable prefix be-, so the participle is besucht (not gebesucht)." },
+        { "correct": "Er hat die Frage nicht verstanden.", "incorrect": "Er hat die Frage nicht geverstanden.", "explanation": "Verstehen has the inseparable prefix ver-, so the participle is verstanden." },
+        { "correct": "Sie hat das Dokument unterschrieben.", "explanation": "Unterschreiben has an inseparable prefix, so no ge-: unterschrieben." }
+      ]
+    },
+    {
+      "title": "Word Order in Perfekt",
+      "explanation": "The auxiliary verb (haben/sein) takes position 2 in the main clause, and the past participle goes to the very end of the clause.",
+      "examples": [
+        { "correct": "Ich habe gestern einen Film gesehen.", "incorrect": "Ich habe gesehen gestern einen Film.", "explanation": "The past participle (gesehen) must go to the end, not directly after the auxiliary." },
+        { "correct": "Gestern hat er lange geschlafen.", "explanation": "Even with a time expression in position 1, the auxiliary stays in position 2 and the participle at the end." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "haben vs. sein: Quick Reference",
+      "headers": ["Auxiliary", "Used With", "Examples"],
+      "rows": [
+        ["haben", "Most verbs (transitive, reflexive, etc.)", "gemacht, gespielt, gelesen, gegessen"],
+        ["sein", "Movement from A to B", "gefahren, gegangen, geflogen, gelaufen"],
+        ["sein", "Change of state", "eingeschlafen, aufgewacht, gestorben, gewachsen"],
+        ["sein", "sein, werden, bleiben", "gewesen, geworden, geblieben"]
+      ]
+    },
+    {
+      "title": "Past Participle Formation Patterns",
+      "headers": ["Type", "Pattern", "Example Infinitive", "Partizip II"],
+      "rows": [
+        ["Regular (weak)", "ge- + stem + -t", "machen", "gemacht"],
+        ["Irregular (strong)", "ge- + stem + -en", "trinken", "getrunken"],
+        ["Inseparable prefix", "prefix + stem + -t/-en", "besuchen / verstehen", "besucht / verstanden"],
+        ["Separable prefix", "prefix + ge- + stem + -t/-en", "aufmachen / anfangen", "aufgemacht / angefangen"],
+        ["-ieren verbs", "stem + -t (no ge-)", "studieren", "studiert"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Ich bin nach Hause gegangen.", "incorrect": "Ich habe nach Hause gegangen.", "explanation": "Gehen indicates movement from A to B, so it requires sein, not haben." },
+    { "correct": "Sie hat das Buch besucht. / Er hat die Stadt besucht.", "incorrect": "Er hat die Stadt gebesucht.", "explanation": "Inseparable prefix verbs (be-, ver-, er-, ent-, etc.) never get ge- in the past participle." },
+    { "correct": "Ich habe gestern Deutsch gelernt.", "incorrect": "Ich habe Deutsch gestern gelernt.", "explanation": "The past participle must be at the very end of the main clause, after all other elements." },
+    { "correct": "Er hat in Berlin studiert.", "incorrect": "Er hat in Berlin gestudiert.", "explanation": "Verbs ending in -ieren never take ge-: studiert, telefoniert, repariert." },
+    { "correct": "Wir sind zu Hause geblieben.", "incorrect": "Wir haben zu Hause geblieben.", "explanation": "Bleiben takes sein even though there is no movement, because it belongs to the sein/werden/bleiben group." },
+    { "correct": "Sie hat aufgeräumt.", "incorrect": "Sie hat geaufräumt.", "explanation": "For separable verbs, ge- goes between the prefix and the stem: auf-ge-räumt, not ge-auf-räumt." }
+  ],
+  "tips": [
+    "In spoken German, the Perfekt is almost always used instead of the Präteritum, except for sein (war), haben (hatte), and modal verbs (konnte, musste, etc.).",
+    "Memorize the most common strong verb participles in groups based on vowel patterns: trinken-getrunken, finden-gefunden, singen-gesungen (i → u pattern).",
+    "If you are unsure whether a verb takes haben or sein, haben is the safer guess — it covers about 80% of verbs.",
+    "Remember the -ieren rule: verbs ending in -ieren never take ge- (studiert, telefoniert, funktioniert).",
+    "Practice the word order: auxiliary in position 2, everything else in between, participle at the very end."
+  ],
+  "relatedTopics": ["praeteritum", "present-tense", "separable-verbs"],
+  "relatedSentenceIds": []
+}

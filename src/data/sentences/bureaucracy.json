@@ -1,0 +1,2109 @@
+[
+  {
+    "id": "s-bureaucracy-001",
+    "de": "Ich muss mich beim Bürgeramt anmelden.",
+    "en": "I need to register at the citizens' office.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "beim",
+        "role": "preposition"
+      },
+      {
+        "text": "Bürgeramt",
+        "role": "object"
+      },
+      {
+        "text": "anmelden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive at end",
+      "Reflexive 'sich anmelden'",
+      "Contraction 'beim' (bei + dem)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-bureaucracy-003",
+      "v-bureaucracy-031",
+      "v-healthcare-033",
+      "v-housing-037"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, reflexive pronoun after, infinitive at end"
+    ],
+    "alternatives": [
+      "Beim Bürgeramt muss ich mich anmelden."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-002",
+    "de": "Haben Sie Ihren Personalausweis mitgebracht?",
+    "en": "Did you bring your ID card?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "Ihren",
+        "role": "article"
+      },
+      {
+        "text": "Personalausweis",
+        "role": "object"
+      },
+      {
+        "text": "mitgebracht",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with separable prefix verb 'mitbringen'",
+      "Yes/no question with V1 position",
+      "Formal possessive 'Ihren' (accusative)"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050",
+      "v-bureaucracy-005"
+    ],
+    "builderHints": [
+      "In yes/no questions the finite verb comes first, past participle goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-003",
+    "de": "Das Formular muss vollständig ausgefüllt werden.",
+    "en": "The form must be filled out completely.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Formular",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "vollständig",
+        "role": "adverb"
+      },
+      {
+        "text": "ausgefüllt",
+        "role": "verb"
+      },
+      {
+        "text": "werden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive with modal verb: muss + Partizip II + werden",
+      "Adverb 'vollständig' before the participle"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-004",
+      "v-bureaucracy-048",
+      "v-travel-048"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, then adverb, past participle and 'werden' at the end"
+    ],
+    "alternatives": [
+      "Vollständig muss das Formular ausgefüllt werden."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-004",
+    "de": "Ich möchte einen Termin für die Visumverlängerung vereinbaren.",
+    "en": "I would like to make an appointment for the visa extension.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Termin",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Visumverlängerung",
+        "role": "object"
+      },
+      {
+        "text": "vereinbaren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchten' + infinitive at end",
+      "Accusative article 'einen'",
+      "Preposition 'für' + accusative"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-046",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-bureaucracy-015",
+      "v-healthcare-006",
+      "v-phone-018",
+      "v-work-005",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-phone-036",
+      "v-work-033"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, infinitive at the end; 'für' takes accusative"
+    ],
+    "alternatives": [
+      "Einen Termin für die Visumverlängerung möchte ich vereinbaren.",
+      "Für die Visumverlängerung möchte ich einen Termin vereinbaren."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-005",
+    "de": "Bitte bringen Sie alle erforderlichen Unterlagen mit.",
+    "en": "Please bring all required documents with you.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Bitte",
+        "role": "particle"
+      },
+      {
+        "text": "bringen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "alle",
+        "role": "article"
+      },
+      {
+        "text": "erforderlichen",
+        "role": "other"
+      },
+      {
+        "text": "Unterlagen",
+        "role": "object"
+      },
+      {
+        "text": "mit",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with formal 'Sie'",
+      "Separable verb 'mitbringen'",
+      "Adjective declension with 'alle'"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-meetings-050",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-bureaucracy-047",
+      "v-emails-046",
+      "v-shopping-048"
+    ],
+    "builderHints": [
+      "In formal imperative, verb comes before 'Sie'; separable prefix goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-006",
+    "de": "Die Aufenthaltsgenehmigung wurde bereits verlängert.",
+    "en": "The residence permit has already been extended.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Aufenthaltsgenehmigung",
+        "role": "subject"
+      },
+      {
+        "text": "wurde",
+        "role": "verb"
+      },
+      {
+        "text": "bereits",
+        "role": "adverb"
+      },
+      {
+        "text": "verlängert",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive Präteritum: wurde + Partizip II",
+      "Adverb 'bereits' between auxiliary and participle"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'wurde' in position 2, adverb before the past participle at the end"
+    ],
+    "alternatives": [
+      "Bereits wurde die Aufenthaltsgenehmigung verlängert."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-007",
+    "de": "Wo kann ich meine Steuererklärung abgeben?",
+    "en": "Where can I submit my tax return?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wo",
+        "role": "other"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "meine",
+        "role": "article"
+      },
+      {
+        "text": "Steuererklärung",
+        "role": "object"
+      },
+      {
+        "text": "abgeben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with modal verb",
+      "Separable verb 'abgeben'",
+      "Possessive article 'meine' (accusative feminine)"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-039",
+      "v-work-035"
+    ],
+    "builderHints": [
+      "Question word first, modal verb second, infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-008",
+    "de": "Sie müssen sich innerhalb von zwei Wochen ummelden.",
+    "en": "You must re-register within two weeks.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "müssen",
+        "role": "verb"
+      },
+      {
+        "text": "sich",
+        "role": "object"
+      },
+      {
+        "text": "innerhalb",
+        "role": "preposition"
+      },
+      {
+        "text": "von",
+        "role": "preposition"
+      },
+      {
+        "text": "zwei",
+        "role": "other"
+      },
+      {
+        "text": "Wochen",
+        "role": "object"
+      },
+      {
+        "text": "ummelden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Reflexive 'sich ummelden'",
+      "Preposition 'innerhalb von' + dative"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-travel-049",
+      "v-housing-040"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, reflexive pronoun follows, time phrase in the middle, infinitive at end"
+    ],
+    "alternatives": [
+      "Innerhalb von zwei Wochen müssen Sie sich ummelden."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-009",
+    "de": "Ihr Antrag wird gerade bearbeitet.",
+    "en": "Your application is currently being processed.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ihr",
+        "role": "article"
+      },
+      {
+        "text": "Antrag",
+        "role": "subject"
+      },
+      {
+        "text": "wird",
+        "role": "verb"
+      },
+      {
+        "text": "gerade",
+        "role": "adverb"
+      },
+      {
+        "text": "bearbeitet",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive Präsens: wird + Partizip II",
+      "Possessive 'Ihr' (formal)",
+      "Adverb 'gerade' for ongoing action"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-007",
+      "v-bureaucracy-046"
+    ],
+    "builderHints": [
+      "'wird' in position 2, adverb before the past participle at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-010",
+    "de": "Ich benötige eine beglaubigte Kopie meiner Geburtsurkunde.",
+    "en": "I need a certified copy of my birth certificate.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "benötige",
+        "role": "verb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "beglaubigte",
+        "role": "other"
+      },
+      {
+        "text": "Kopie",
+        "role": "object"
+      },
+      {
+        "text": "meiner",
+        "role": "article"
+      },
+      {
+        "text": "Geburtsurkunde",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb 'benötigen' (formal alternative to 'brauchen')",
+      "Adjective declension 'beglaubigte'",
+      "Genitive possessive 'meiner'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-020"
+    ],
+    "builderHints": [
+      "Standard SVO order; genitive possessive 'meiner' before the noun it modifies"
+    ],
+    "alternatives": [
+      "Eine beglaubigte Kopie meiner Geburtsurkunde benötige ich."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-011",
+    "de": "Das Visum kann nur persönlich beantragt werden.",
+    "en": "The visa can only be applied for in person.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Visum",
+        "role": "subject"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "nur",
+        "role": "particle"
+      },
+      {
+        "text": "persönlich",
+        "role": "adverb"
+      },
+      {
+        "text": "beantragt",
+        "role": "verb"
+      },
+      {
+        "text": "werden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive with modal: kann + Partizip II + werden",
+      "Particle 'nur' for restriction",
+      "Adverb 'persönlich'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-011",
+      "v-phone-046",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-phone-045"
+    ],
+    "builderHints": [
+      "Modal verb in position 2; past participle and 'werden' together at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-012",
+    "de": "Wann sind die Öffnungszeiten der Ausländerbehörde?",
+    "en": "When are the opening hours of the immigration office?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wann",
+        "role": "other"
+      },
+      {
+        "text": "sind",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Öffnungszeiten",
+        "role": "subject"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Ausländerbehörde",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question word order",
+      "Genitive 'der Ausländerbehörde'",
+      "Compound noun 'Öffnungszeiten'"
+    ],
+    "vocabIds": [
+      "v-housing-048",
+      "v-travel-046",
+      "v-housing-047",
+      "v-bureaucracy-013"
+    ],
+    "builderHints": [
+      "Question word first, verb second; genitive article 'der' for feminine noun"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-013",
+    "de": "Ich habe meine Meldebescheinigung verloren.",
+    "en": "I have lost my registration certificate.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "meine",
+        "role": "article"
+      },
+      {
+        "text": "Meldebescheinigung",
+        "role": "object"
+      },
+      {
+        "text": "verloren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with 'haben'",
+      "Partizip II of 'verlieren' (irregular)",
+      "Possessive 'meine' (accusative feminine)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-006"
+    ],
+    "builderHints": [
+      "Auxiliary 'habe' in position 2, past participle at the end"
+    ],
+    "alternatives": [
+      "Meine Meldebescheinigung habe ich verloren.",
+      "Leider habe ich meine Meldebescheinigung verloren."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-014",
+    "de": "Sie werden per Post über das Ergebnis informiert.",
+    "en": "You will be informed about the result by mail.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "werden",
+        "role": "verb"
+      },
+      {
+        "text": "per",
+        "role": "preposition"
+      },
+      {
+        "text": "Post",
+        "role": "object"
+      },
+      {
+        "text": "über",
+        "role": "preposition"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Ergebnis",
+        "role": "object"
+      },
+      {
+        "text": "informiert",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive Futur/Präsens: werden + Partizip II",
+      "Preposition 'per' (without article)",
+      "Preposition 'über' + accusative"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-meetings-004"
+    ],
+    "builderHints": [
+      "'werden' in position 2, past participle at the end; 'per' takes no article"
+    ],
+    "alternatives": [
+      "Per Post werden Sie über das Ergebnis informiert.",
+      "Über das Ergebnis werden Sie per Post informiert."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-015",
+    "de": "Können Sie mir bitte das Antragsformular geben?",
+    "en": "Can you please give me the application form?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Antragsformular",
+        "role": "object"
+      },
+      {
+        "text": "geben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb in V1 position for polite question",
+      "Dative 'mir' before accusative object",
+      "Formal 'Sie'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-phone-046",
+      "v-work-046"
+    ],
+    "builderHints": [
+      "Yes/no question: modal verb first, then subject; dative before accusative object"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-016",
+    "de": "Die Gebühr beträgt fünfundzwanzig Euro.",
+    "en": "The fee is twenty-five euros.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Gebühr",
+        "role": "subject"
+      },
+      {
+        "text": "beträgt",
+        "role": "verb"
+      },
+      {
+        "text": "fünfundzwanzig",
+        "role": "other"
+      },
+      {
+        "text": "Euro",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb 'betragen' for stating amounts",
+      "German number word 'fünfundzwanzig'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-016"
+    ],
+    "builderHints": [
+      "Standard SVO word order; 'betragen' is used formally to state fees"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-017",
+    "de": "Ich möchte mich über den Stand meines Antrags erkundigen.",
+    "en": "I would like to inquire about the status of my application.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "über",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Stand",
+        "role": "object"
+      },
+      {
+        "text": "meines",
+        "role": "article"
+      },
+      {
+        "text": "Antrags",
+        "role": "object"
+      },
+      {
+        "text": "erkundigen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive 'sich erkundigen über + Akk'",
+      "Modal 'möchten' + infinitive",
+      "Genitive 'meines Antrags'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-smalltalk-033",
+      "v-travel-039"
+    ],
+    "builderHints": [
+      "Modal verb position 2, reflexive pronoun after; 'über' + accusative; genitive for possession"
+    ],
+    "alternatives": [
+      "Über den Stand meines Antrags möchte ich mich erkundigen."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-018",
+    "de": "Der Reisepass ist seit drei Monaten abgelaufen.",
+    "en": "The passport has been expired for three months.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Reisepass",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "seit",
+        "role": "preposition"
+      },
+      {
+        "text": "drei",
+        "role": "other"
+      },
+      {
+        "text": "Monaten",
+        "role": "object"
+      },
+      {
+        "text": "abgelaufen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with 'sein' (intransitive verb of change)",
+      "Preposition 'seit' + dative",
+      "Dative plural 'Monaten'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-020",
+      "v-travel-007",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "'ist' in position 2, past participle at end; 'seit' always takes dative"
+    ],
+    "alternatives": [
+      "Seit drei Monaten ist der Reisepass abgelaufen."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-019",
+    "de": "Bitte füllen Sie dieses Formular in Druckbuchstaben aus.",
+    "en": "Please fill out this form in block letters.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Bitte",
+        "role": "particle"
+      },
+      {
+        "text": "füllen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "dieses",
+        "role": "article"
+      },
+      {
+        "text": "Formular",
+        "role": "object"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "Druckbuchstaben",
+        "role": "object"
+      },
+      {
+        "text": "aus",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Formal imperative with 'Sie'",
+      "Separable verb 'ausfüllen'",
+      "Preposition 'in' + dative (manner)"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-bureaucracy-004"
+    ],
+    "builderHints": [
+      "Formal imperative: verb before 'Sie'; separable prefix 'aus' goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-020",
+    "de": "Mein Aufenthaltstitel läuft nächsten Monat ab.",
+    "en": "My residence title expires next month.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Mein",
+        "role": "article"
+      },
+      {
+        "text": "Aufenthaltstitel",
+        "role": "subject"
+      },
+      {
+        "text": "läuft",
+        "role": "verb"
+      },
+      {
+        "text": "nächsten",
+        "role": "other"
+      },
+      {
+        "text": "Monat",
+        "role": "adverb"
+      },
+      {
+        "text": "ab",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'ablaufen'",
+      "Accusative time expression 'nächsten Monat'",
+      "Prefix 'ab' at end of clause"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "Conjugated verb in position 2, time expression in middle, separable prefix at the end"
+    ],
+    "alternatives": [
+      "Nächsten Monat läuft mein Aufenthaltstitel ab."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-021",
+    "de": "Welche Dokumente brauche ich für die Anmeldung?",
+    "en": "Which documents do I need for the registration?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Welche",
+        "role": "other"
+      },
+      {
+        "text": "Dokumente",
+        "role": "object"
+      },
+      {
+        "text": "brauche",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Anmeldung",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'welche'",
+      "Verb in position 2 after question phrase",
+      "Preposition 'für' + accusative"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-047",
+      "v-healthcare-050",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-bureaucracy-001"
+    ],
+    "builderHints": [
+      "'Welche Dokumente' is the question phrase; verb comes directly after it"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-022",
+    "de": "Die Urkunde muss von einem vereidigten Übersetzer übersetzt werden.",
+    "en": "The certificate must be translated by a sworn translator.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Urkunde",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "von",
+        "role": "preposition"
+      },
+      {
+        "text": "einem",
+        "role": "article"
+      },
+      {
+        "text": "vereidigten",
+        "role": "other"
+      },
+      {
+        "text": "Übersetzer",
+        "role": "object"
+      },
+      {
+        "text": "übersetzt",
+        "role": "verb"
+      },
+      {
+        "text": "werden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive with modal: muss + Partizip II + werden",
+      "Agent with 'von' + dative",
+      "Adjective declension 'vereidigten'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-014",
+      "v-bureaucracy-048",
+      "v-travel-048"
+    ],
+    "builderHints": [
+      "Modal in position 2; agent phrase with 'von' + dative; participle + 'werden' at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-023",
+    "de": "Ich habe einen Termin um vierzehn Uhr.",
+    "en": "I have an appointment at two o'clock.",
+    "situation": "bureaucracy",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Termin",
+        "role": "object"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "vierzehn",
+        "role": "other"
+      },
+      {
+        "text": "Uhr",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Accusative article 'einen'",
+      "Time with 'um' + accusative",
+      "24-hour time format common in German offices"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-046",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-bureaucracy-015",
+      "v-healthcare-006",
+      "v-phone-018",
+      "v-work-005"
+    ],
+    "builderHints": [
+      "Standard SVO order; 'um' introduces the time"
+    ],
+    "alternatives": [
+      "Um vierzehn Uhr habe ich einen Termin.",
+      "Einen Termin habe ich um vierzehn Uhr."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-024",
+    "de": "Das Finanzamt hat mir einen Steuerbescheid geschickt.",
+    "en": "The tax office sent me a tax assessment notice.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Finanzamt",
+        "role": "subject"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Steuerbescheid",
+        "role": "object"
+      },
+      {
+        "text": "geschickt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with 'haben'",
+      "Dative 'mir' before accusative object",
+      "Compound noun 'Steuerbescheid'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-010",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-travel-050",
+      "v-bureaucracy-046",
+      "v-bureaucracy-049",
+      "v-healthcare-046",
+      "v-phone-049"
+    ],
+    "builderHints": [
+      "Auxiliary 'hat' in position 2; dative recipient before accusative object; participle at end"
+    ],
+    "alternatives": [
+      "Mir hat das Finanzamt einen Steuerbescheid geschickt.",
+      "Einen Steuerbescheid hat mir das Finanzamt geschickt."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-025",
+    "de": "Kann ich die Aufenthaltserlaubnis online verlängern lassen?",
+    "en": "Can I have the residence permit extended online?",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Aufenthaltserlaubnis",
+        "role": "object"
+      },
+      {
+        "text": "online",
+        "role": "adverb"
+      },
+      {
+        "text": "verlängern",
+        "role": "verb"
+      },
+      {
+        "text": "lassen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Causative 'lassen' + infinitive",
+      "Modal verb in V1 for yes/no question",
+      "Double infinitive at clause end"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-002",
+      "v-bureaucracy-029"
+    ],
+    "builderHints": [
+      "Modal verb first for question; two infinitives at the end ('verlängern lassen')"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-026",
+    "de": "Bitte nehmen Sie im Wartebereich Platz.",
+    "en": "Please take a seat in the waiting area.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Bitte",
+        "role": "particle"
+      },
+      {
+        "text": "nehmen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "im",
+        "role": "preposition"
+      },
+      {
+        "text": "Wartebereich",
+        "role": "object"
+      },
+      {
+        "text": "Platz",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Formal imperative with 'Sie'",
+      "Fixed expression 'Platz nehmen'",
+      "Contraction 'im' (in + dem)"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "Formal imperative: verb before 'Sie'; 'Platz nehmen' is a fixed expression"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-027",
+    "de": "Die Bearbeitungszeit beträgt ungefähr sechs bis acht Wochen.",
+    "en": "The processing time is approximately six to eight weeks.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Bearbeitungszeit",
+        "role": "subject"
+      },
+      {
+        "text": "beträgt",
+        "role": "verb"
+      },
+      {
+        "text": "ungefähr",
+        "role": "adverb"
+      },
+      {
+        "text": "sechs",
+        "role": "other"
+      },
+      {
+        "text": "bis",
+        "role": "conjunction"
+      },
+      {
+        "text": "acht",
+        "role": "other"
+      },
+      {
+        "text": "Wochen",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb 'betragen' for durations",
+      "Compound noun 'Bearbeitungszeit'",
+      "Range with 'bis'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "Standard SVO; 'ungefähr' modifies the number range"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-028",
+    "de": "Ich muss meinen Wohnsitz beim Einwohnermeldeamt abmelden.",
+    "en": "I need to deregister my residence at the residents' registration office.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "meinen",
+        "role": "article"
+      },
+      {
+        "text": "Wohnsitz",
+        "role": "object"
+      },
+      {
+        "text": "beim",
+        "role": "preposition"
+      },
+      {
+        "text": "Einwohnermeldeamt",
+        "role": "object"
+      },
+      {
+        "text": "abmelden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Separable verb 'abmelden'",
+      "Contraction 'beim'",
+      "Accusative 'meinen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-021"
+    ],
+    "builderHints": [
+      "Modal verb in position 2, accusative object, location with 'beim', infinitive at end"
+    ],
+    "alternatives": [
+      "Meinen Wohnsitz muss ich beim Einwohnermeldeamt abmelden.",
+      "Beim Einwohnermeldeamt muss ich meinen Wohnsitz abmelden."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-029",
+    "de": "Für den Antrag werden zwei Passfotos benötigt.",
+    "en": "Two passport photos are required for the application.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Für",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Antrag",
+        "role": "object"
+      },
+      {
+        "text": "werden",
+        "role": "verb"
+      },
+      {
+        "text": "zwei",
+        "role": "other"
+      },
+      {
+        "text": "Passfotos",
+        "role": "subject"
+      },
+      {
+        "text": "benötigt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive Präsens: werden + Partizip II",
+      "Prepositional phrase in Vorfeld (position 1)",
+      "Verb in position 2 after fronted phrase"
+    ],
+    "vocabIds": [
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-bureaucracy-007",
+      "v-bureaucracy-046"
+    ],
+    "builderHints": [
+      "Prepositional phrase first, then 'werden' in position 2; subject after verb in passive"
+    ],
+    "alternatives": [
+      "Zwei Passfotos werden für den Antrag benötigt."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-030",
+    "de": "Haben Sie den Mietvertrag als Nachweis dabei?",
+    "en": "Do you have the rental contract as proof with you?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Mietvertrag",
+        "role": "object"
+      },
+      {
+        "text": "als",
+        "role": "preposition"
+      },
+      {
+        "text": "Nachweis",
+        "role": "object"
+      },
+      {
+        "text": "dabei",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with V1 position",
+      "Accusative 'den Mietvertrag'",
+      "Adverb 'dabei' (with you)"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-housing-002",
+      "v-bureaucracy-023"
+    ],
+    "builderHints": [
+      "Verb first for yes/no question; 'dabei' at the end means 'with you'"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-031",
+    "de": "Ich möchte Widerspruch gegen diesen Bescheid einlegen.",
+    "en": "I would like to file an objection against this decision.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "Widerspruch",
+        "role": "object"
+      },
+      {
+        "text": "gegen",
+        "role": "preposition"
+      },
+      {
+        "text": "diesen",
+        "role": "article"
+      },
+      {
+        "text": "Bescheid",
+        "role": "object"
+      },
+      {
+        "text": "einlegen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal 'möchten' + infinitive",
+      "Fixed expression 'Widerspruch einlegen'",
+      "Preposition 'gegen' + accusative"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-046",
+      "v-work-049"
+    ],
+    "builderHints": [
+      "Modal in position 2; 'Widerspruch einlegen' is a fixed expression with separable verb"
+    ],
+    "alternatives": [
+      "Gegen diesen Bescheid möchte ich Widerspruch einlegen."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-032",
+    "de": "Die Unterlagen können am Empfang abgeholt werden.",
+    "en": "The documents can be picked up at the reception.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Unterlagen",
+        "role": "subject"
+      },
+      {
+        "text": "können",
+        "role": "verb"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Empfang",
+        "role": "object"
+      },
+      {
+        "text": "abgeholt",
+        "role": "verb"
+      },
+      {
+        "text": "werden",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive with modal: können + Partizip II + werden",
+      "Contraction 'am' (an + dem)",
+      "Separable verb 'abholen' in passive participle"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-047",
+      "v-phone-007"
+    ],
+    "builderHints": [
+      "Modal verb in position 2; location in middle; participle + 'werden' at the end"
+    ],
+    "alternatives": [
+      "Am Empfang können die Unterlagen abgeholt werden."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-033",
+    "de": "Bitte unterschreiben Sie hier und auf der letzten Seite.",
+    "en": "Please sign here and on the last page.",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Bitte",
+        "role": "particle"
+      },
+      {
+        "text": "unterschreiben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "letzten",
+        "role": "other"
+      },
+      {
+        "text": "Seite",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Formal imperative with 'Sie'",
+      "Coordination with 'und'",
+      "Preposition 'auf' + dative (location)"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-bureaucracy-032",
+      "v-housing-034",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-travel-047",
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050"
+    ],
+    "builderHints": [
+      "Formal imperative: verb before 'Sie'; two locations connected by 'und'"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-bureaucracy-034",
+    "de": "Meine Steueridentifikationsnummer steht auf dem Schreiben vom Finanzamt.",
+    "en": "My tax identification number is on the letter from the tax office.",
+    "situation": "bureaucracy",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Meine",
+        "role": "article"
+      },
+      {
+        "text": "Steueridentifikationsnummer",
+        "role": "subject"
+      },
+      {
+        "text": "steht",
+        "role": "verb"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "dem",
+        "role": "article"
+      },
+      {
+        "text": "Schreiben",
+        "role": "object"
+      },
+      {
+        "text": "vom",
+        "role": "preposition"
+      },
+      {
+        "text": "Finanzamt",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb 'stehen' for location of written information",
+      "Preposition 'auf' + dative",
+      "Contraction 'vom' (von + dem)"
+    ],
+    "vocabIds": [
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050",
+      "v-bureaucracy-010"
+    ],
+    "builderHints": [
+      "'steht' in position 2; 'auf + dem' for location; 'vom' for origin"
+    ],
+    "alternatives": [
+      "Auf dem Schreiben vom Finanzamt steht meine Steueridentifikationsnummer."
+    ]
+  },
+  {
+    "id": "s-bureaucracy-035",
+    "de": "Darf ich eine Kopie dieses Dokuments für meine Unterlagen machen?",
+    "en": "May I make a copy of this document for my records?",
+    "situation": "bureaucracy",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Darf",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Kopie",
+        "role": "object"
+      },
+      {
+        "text": "dieses",
+        "role": "article"
+      },
+      {
+        "text": "Dokuments",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "meine",
+        "role": "article"
+      },
+      {
+        "text": "Unterlagen",
+        "role": "object"
+      },
+      {
+        "text": "machen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'dürfen' in V1 for polite question",
+      "Genitive 'dieses Dokuments'",
+      "Preposition 'für' + accusative"
+    ],
+    "vocabIds": [
+      "v-housing-049",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-020",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-bureaucracy-047"
+    ],
+    "builderHints": [
+      "Modal verb first for yes/no question; genitive for 'of this document'; infinitive at end"
+    ],
+    "alternatives": []
+  }
+]

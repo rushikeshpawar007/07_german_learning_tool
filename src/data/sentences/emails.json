@@ -1,0 +1,852 @@
+[
+  {
+    "id": "s-emails-001",
+    "de": "Sehr geehrte Frau Müller, vielen Dank für Ihre Nachricht.",
+    "en": "Dear Mrs. Müller, thank you for your message.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Sehr", "role": "adverb" },
+      { "text": "geehrte", "role": "other" },
+      { "text": "Frau", "role": "object" },
+      { "text": "Müller,", "role": "object" },
+      { "text": "vielen", "role": "other" },
+      { "text": "Dank", "role": "object" },
+      { "text": "für", "role": "preposition" },
+      { "text": "Ihre", "role": "article" },
+      { "text": "Nachricht", "role": "object" }
+    ],
+    "grammarPoints": ["Formal address 'Sehr geehrte'", "Accusative after 'für'"],
+    "vocabIds": ["v-emails-050", "v-smalltalk-031", "v-smalltalk-046", "v-travel-049", "v-phone-010"],
+    "builderHints": ["Formal emails start with 'Sehr geehrte/r'"],
+    "alternatives": []
+  },
+  {
+    "id": "s-emails-002",
+    "de": "Sehr geehrter Herr Schmidt, ich schreibe Ihnen bezüglich Ihrer Anfrage.",
+    "en": "Dear Mr. Schmidt, I am writing to you regarding your inquiry.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Sehr", "role": "adverb" },
+      { "text": "geehrter", "role": "other" },
+      { "text": "Herr", "role": "object" },
+      { "text": "Schmidt,", "role": "object" },
+      { "text": "ich", "role": "subject" },
+      { "text": "schreibe", "role": "verb" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "bezüglich", "role": "preposition" },
+      { "text": "Ihrer", "role": "article" },
+      { "text": "Anfrage", "role": "object" }
+    ],
+    "grammarPoints": ["Formal address 'Sehr geehrter' (masculine)", "Genitive after 'bezüglich'", "Dative 'Ihnen'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-008"],
+    "builderHints": ["'bezüglich' takes the genitive case"],
+    "alternatives": [
+      "Sehr geehrter Herr Schmidt, bezüglich Ihrer Anfrage schreibe ich Ihnen."
+    ]
+  },
+  {
+    "id": "s-emails-003",
+    "de": "Liebe Kolleginnen und Kollegen, anbei finden Sie das Protokoll.",
+    "en": "Dear colleagues, please find the minutes attached.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Liebe", "role": "other" },
+      { "text": "Kolleginnen", "role": "object" },
+      { "text": "und", "role": "conjunction" },
+      { "text": "Kollegen,", "role": "object" },
+      { "text": "anbei", "role": "adverb" },
+      { "text": "finden", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "das", "role": "article" },
+      { "text": "Protokoll", "role": "object" }
+    ],
+    "grammarPoints": ["Inverted word order after 'anbei'", "Gender-inclusive address 'Kolleginnen und Kollegen'"],
+    "vocabIds": ["v-travel-047", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-meetings-002"],
+    "builderHints": ["'anbei' is a formal way to say 'attached'; it triggers verb-second inversion"],
+    "alternatives": [
+      "Liebe Kolleginnen und Kollegen, das Protokoll finden Sie anbei."
+    ]
+  },
+  {
+    "id": "s-emails-004",
+    "de": "Ich würde mich freuen, von Ihnen zu hören.",
+    "en": "I would be pleased to hear from you.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "würde", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "freuen,", "role": "verb" },
+      { "text": "von", "role": "preposition" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "zu", "role": "particle" },
+      { "text": "hören", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II with 'würde'", "Reflexive verb 'sich freuen'", "Infinitive clause with 'zu'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046"],
+    "builderHints": ["'würde + infinitive' is used for polite Konjunktiv II"],
+    "alternatives": [
+      "Es würde mich freuen, von Ihnen zu hören."
+    ]
+  },
+  {
+    "id": "s-emails-005",
+    "de": "Könnten Sie mir bitte die Unterlagen bis Freitag zusenden?",
+    "en": "Could you please send me the documents by Friday?",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Könnten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "mir", "role": "object" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "die", "role": "article" },
+      { "text": "Unterlagen", "role": "object" },
+      { "text": "bis", "role": "preposition" },
+      { "text": "Freitag", "role": "object" },
+      { "text": "zusenden", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'könnten' for polite request", "Separable verb 'zusenden'", "Dative 'mir'"],
+    "vocabIds": ["v-phone-048", "v-travel-050", "v-emails-048", "v-shopping-047", "v-healthcare-047", "v-shopping-046", "v-phone-046", "v-bureaucracy-047"],
+    "builderHints": ["'Könnten Sie' is the most polite way to make a request in German emails"],
+    "alternatives": [
+      "Könnten Sie mir die Unterlagen bitte bis Freitag zusenden?"
+    ]
+  },
+  {
+    "id": "s-emails-006",
+    "de": "Im Anhang finden Sie die gewünschten Dokumente.",
+    "en": "In the attachment you will find the requested documents.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Im", "role": "preposition" },
+      { "text": "Anhang", "role": "object" },
+      { "text": "finden", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "die", "role": "article" },
+      { "text": "gewünschten", "role": "other" },
+      { "text": "Dokumente", "role": "object" }
+    ],
+    "grammarPoints": ["Inverted word order with prepositional phrase in first position", "Past participle as adjective 'gewünschten'"],
+    "vocabIds": ["v-emails-002", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["'Im Anhang' is the standard phrase for email attachments"],
+    "alternatives": [
+      "Die gewünschten Dokumente finden Sie im Anhang."
+    ]
+  },
+  {
+    "id": "s-emails-007",
+    "de": "Hiermit bestätige ich den Erhalt Ihrer E-Mail.",
+    "en": "I hereby confirm receipt of your email.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Hiermit", "role": "adverb" },
+      { "text": "bestätige", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "den", "role": "article" },
+      { "text": "Erhalt", "role": "object" },
+      { "text": "Ihrer", "role": "article" },
+      { "text": "E-Mail", "role": "object" }
+    ],
+    "grammarPoints": ["Inverted subject-verb after 'hiermit'", "Genitive 'Ihrer'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-meetings-050", "v-travel-050"],
+    "builderHints": ["'Hiermit' is a very formal opener meaning 'hereby'"],
+    "alternatives": [
+      "Ich bestätige hiermit den Erhalt Ihrer E-Mail."
+    ]
+  },
+  {
+    "id": "s-emails-008",
+    "de": "Ich möchte mich für die verspätete Antwort entschuldigen.",
+    "en": "I would like to apologize for the late reply.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "möchte", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "für", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "verspätete", "role": "other" },
+      { "text": "Antwort", "role": "object" },
+      { "text": "entschuldigen", "role": "verb" }
+    ],
+    "grammarPoints": ["Reflexive verb 'sich entschuldigen'", "Accusative after 'für'", "Modal verb 'möchte' + infinitive at end"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046", "v-smalltalk-031"],
+    "builderHints": ["'möchte' is the polite form of 'mögen'; the infinitive goes to the end"],
+    "alternatives": [
+      "Für die verspätete Antwort möchte ich mich entschuldigen."
+    ]
+  },
+  {
+    "id": "s-emails-009",
+    "de": "Bitte teilen Sie mir mit, ob der Termin passt.",
+    "en": "Please let me know whether the appointment works.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Bitte", "role": "particle" },
+      { "text": "teilen", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "mir", "role": "object" },
+      { "text": "mit,", "role": "particle" },
+      { "text": "ob", "role": "conjunction" },
+      { "text": "der", "role": "article" },
+      { "text": "Termin", "role": "subject" },
+      { "text": "passt", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'mitteilen'", "Subordinate clause with 'ob' (verb at end)"],
+    "vocabIds": ["v-phone-046", "v-phone-048", "v-emails-048", "v-shopping-047", "v-travel-050", "v-healthcare-047", "v-shopping-046", "v-emails-046", "v-shopping-048", "v-bureaucracy-015", "v-healthcare-006", "v-healthcare-046", "v-phone-018", "v-work-005"],
+    "builderHints": ["In 'ob' clauses the conjugated verb moves to the end"],
+    "alternatives": [
+      "Teilen Sie mir bitte mit, ob der Termin passt."
+    ]
+  },
+  {
+    "id": "s-emails-010",
+    "de": "Ich bin vom 5. bis zum 12. März nicht im Büro.",
+    "en": "I will be out of the office from March 5th to 12th.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "bin", "role": "verb" },
+      { "text": "vom", "role": "preposition" },
+      { "text": "5.", "role": "other" },
+      { "text": "bis", "role": "preposition" },
+      { "text": "zum", "role": "preposition" },
+      { "text": "12.", "role": "other" },
+      { "text": "März", "role": "object" },
+      { "text": "nicht", "role": "adverb" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Büro", "role": "object" }
+    ],
+    "grammarPoints": ["Contracted prepositions 'vom' (von dem), 'zum' (zu dem)", "Date expressions with ordinal numbers"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-meetings-048", "v-travel-050", "v-work-022"],
+    "builderHints": ["'vom ... bis zum ...' is the standard way to express date ranges"],
+    "alternatives": [
+      "Vom 5. bis zum 12. März bin ich nicht im Büro."
+    ]
+  },
+  {
+    "id": "s-emails-011",
+    "de": "Ihre E-Mail wird schnellstmöglich bearbeitet.",
+    "en": "Your email will be processed as soon as possible.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ihre", "role": "article" },
+      { "text": "E-Mail", "role": "subject" },
+      { "text": "wird", "role": "verb" },
+      { "text": "schnellstmöglich", "role": "adverb" },
+      { "text": "bearbeitet", "role": "verb" }
+    ],
+    "grammarPoints": ["Passive voice with 'werden' + past participle", "Superlative adverb 'schnellstmöglich'"],
+    "vocabIds": [],
+    "builderHints": ["Passive: 'wird + past participle' — common in formal German emails"],
+    "alternatives": []
+  },
+  {
+    "id": "s-emails-012",
+    "de": "Vielen Dank im Voraus für Ihre Bemühungen.",
+    "en": "Thank you in advance for your efforts.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Vielen", "role": "other" },
+      { "text": "Dank", "role": "object" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Voraus", "role": "object" },
+      { "text": "für", "role": "preposition" },
+      { "text": "Ihre", "role": "article" },
+      { "text": "Bemühungen", "role": "object" }
+    ],
+    "grammarPoints": ["Fixed expression 'im Voraus'", "Accusative after 'für'"],
+    "vocabIds": ["v-emails-050", "v-smalltalk-031", "v-smalltalk-046", "v-travel-049"],
+    "builderHints": ["'Vielen Dank im Voraus' is a standard polite email closing phrase"],
+    "alternatives": []
+  },
+  {
+    "id": "s-emails-013",
+    "de": "Mit freundlichen Grüßen",
+    "en": "Kind regards",
+    "situation": "emails",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      { "text": "Mit", "role": "preposition" },
+      { "text": "freundlichen", "role": "other" },
+      { "text": "Grüßen", "role": "object" }
+    ],
+    "grammarPoints": ["Dative plural after 'mit'", "Adjective declension in dative plural"],
+    "vocabIds": ["v-emails-046", "v-shopping-048"],
+    "builderHints": ["The most common formal email sign-off in German"],
+    "alternatives": []
+  },
+  {
+    "id": "s-emails-014",
+    "de": "Ich wäre Ihnen sehr dankbar, wenn Sie mir weiterhelfen könnten.",
+    "en": "I would be very grateful if you could help me further.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "wäre", "role": "verb" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "sehr", "role": "adverb" },
+      { "text": "dankbar,", "role": "other" },
+      { "text": "wenn", "role": "conjunction" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "mir", "role": "object" },
+      { "text": "weiterhelfen", "role": "verb" },
+      { "text": "könnten", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'wäre' and 'könnten'", "Conditional 'wenn' clause with verb at end", "Dative 'Ihnen'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-healthcare-047", "v-shopping-046"],
+    "builderHints": ["In 'wenn' clauses both verbs go to the end: 'weiterhelfen könnten'"],
+    "alternatives": [
+      "Wenn Sie mir weiterhelfen könnten, wäre ich Ihnen sehr dankbar."
+    ]
+  },
+  {
+    "id": "s-emails-015",
+    "de": "Bezug nehmend auf unser Telefonat möchte ich Folgendes bestätigen.",
+    "en": "With reference to our phone call, I would like to confirm the following.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Bezug", "role": "object" },
+      { "text": "nehmend", "role": "other" },
+      { "text": "auf", "role": "preposition" },
+      { "text": "unser", "role": "article" },
+      { "text": "Telefonat", "role": "object" },
+      { "text": "möchte", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "Folgendes", "role": "object" },
+      { "text": "bestätigen", "role": "verb" }
+    ],
+    "grammarPoints": ["Participial phrase 'Bezug nehmend auf'", "Nominalized adjective 'Folgendes'"],
+    "vocabIds": ["v-emails-031", "v-emails-047", "v-meetings-050", "v-housing-050", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-027"],
+    "builderHints": ["'Bezug nehmend auf' is a formal phrase used to reference a previous conversation"],
+    "alternatives": [
+      "Ich möchte Bezug nehmend auf unser Telefonat Folgendes bestätigen."
+    ]
+  },
+  {
+    "id": "s-emails-016",
+    "de": "Ich leite Ihre Anfrage an die zuständige Abteilung weiter.",
+    "en": "I am forwarding your inquiry to the responsible department.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "leite", "role": "verb" },
+      { "text": "Ihre", "role": "article" },
+      { "text": "Anfrage", "role": "object" },
+      { "text": "an", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "zuständige", "role": "other" },
+      { "text": "Abteilung", "role": "object" },
+      { "text": "weiter", "role": "particle" }
+    ],
+    "grammarPoints": ["Separable verb 'weiterleiten'", "Accusative after 'an'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-008", "v-shopping-021", "v-work-004"],
+    "builderHints": ["The prefix 'weiter' separates and goes to the end of the clause"],
+    "alternatives": [
+      "Ihre Anfrage leite ich an die zuständige Abteilung weiter."
+    ]
+  },
+  {
+    "id": "s-emails-017",
+    "de": "Wir würden uns freuen, Sie bei unserem nächsten Meeting begrüßen zu dürfen.",
+    "en": "We would be pleased to welcome you at our next meeting.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "würden", "role": "verb" },
+      { "text": "uns", "role": "object" },
+      { "text": "freuen,", "role": "verb" },
+      { "text": "Sie", "role": "object" },
+      { "text": "bei", "role": "preposition" },
+      { "text": "unserem", "role": "article" },
+      { "text": "nächsten", "role": "other" },
+      { "text": "Meeting", "role": "object" },
+      { "text": "begrüßen", "role": "verb" },
+      { "text": "zu", "role": "particle" },
+      { "text": "dürfen", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'würden'", "Reflexive 'sich freuen'", "Double infinitive with 'zu'"],
+    "vocabIds": ["v-smalltalk-044", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["'würden + sich freuen' is a very polite invitation formula"],
+    "alternatives": [
+      "Es würde uns freuen, Sie bei unserem nächsten Meeting begrüßen zu dürfen."
+    ]
+  },
+  {
+    "id": "s-emails-018",
+    "de": "Bitte entschuldigen Sie die Unannehmlichkeiten.",
+    "en": "Please excuse the inconvenience.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Bitte", "role": "particle" },
+      { "text": "entschuldigen", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "die", "role": "article" },
+      { "text": "Unannehmlichkeiten", "role": "object" }
+    ],
+    "grammarPoints": ["Imperative with 'Sie' (verb first, then 'Sie')", "Plural noun 'Unannehmlichkeiten'"],
+    "vocabIds": ["v-phone-046", "v-phone-048", "v-emails-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["Formal imperative: 'Entschuldigen Sie' keeps the verb before 'Sie'"],
+    "alternatives": [
+      "Wir bitten, die Unannehmlichkeiten zu entschuldigen."
+    ]
+  },
+  {
+    "id": "s-emails-019",
+    "de": "Der Termin wurde auf nächste Woche verschoben.",
+    "en": "The appointment has been postponed to next week.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Der", "role": "article" },
+      { "text": "Termin", "role": "subject" },
+      { "text": "wurde", "role": "verb" },
+      { "text": "auf", "role": "preposition" },
+      { "text": "nächste", "role": "other" },
+      { "text": "Woche", "role": "object" },
+      { "text": "verschoben", "role": "verb" }
+    ],
+    "grammarPoints": ["Passive voice past tense 'wurde + past participle'", "Accusative after 'auf' (temporal)"],
+    "vocabIds": ["v-bureaucracy-015", "v-healthcare-006", "v-healthcare-046", "v-phone-018", "v-work-005", "v-emails-031", "v-emails-047", "v-meetings-050", "v-travel-046"],
+    "builderHints": ["Past passive: 'wurde + verschoben' — the action was done to the subject"],
+    "alternatives": [
+      "Auf nächste Woche wurde der Termin verschoben."
+    ]
+  },
+  {
+    "id": "s-emails-020",
+    "de": "Ich erlaube mir, Sie an die ausstehende Rechnung zu erinnern.",
+    "en": "I take the liberty of reminding you of the outstanding invoice.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "erlaube", "role": "verb" },
+      { "text": "mir,", "role": "object" },
+      { "text": "Sie", "role": "object" },
+      { "text": "an", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "ausstehende", "role": "other" },
+      { "text": "Rechnung", "role": "object" },
+      { "text": "zu", "role": "particle" },
+      { "text": "erinnern", "role": "verb" }
+    ],
+    "grammarPoints": ["Reflexive 'sich erlauben' with dative 'mir'", "Infinitive clause with 'zu'", "Accusative after 'an' (with erinnern)"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-healthcare-047", "v-shopping-046", "v-travel-050", "v-emails-048", "v-phone-048", "v-shopping-047"],
+    "builderHints": ["'Ich erlaube mir' is a polite formula for making a delicate request"],
+    "alternatives": [
+      "Hiermit erlaube ich mir, Sie an die ausstehende Rechnung zu erinnern."
+    ]
+  },
+  {
+    "id": "s-emails-021",
+    "de": "Hallo Frau Weber, ich hoffe, es geht Ihnen gut.",
+    "en": "Hello Mrs. Weber, I hope you are doing well.",
+    "situation": "emails",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      { "text": "Hallo", "role": "other" },
+      { "text": "Frau", "role": "object" },
+      { "text": "Weber,", "role": "object" },
+      { "text": "ich", "role": "subject" },
+      { "text": "hoffe,", "role": "verb" },
+      { "text": "es", "role": "subject" },
+      { "text": "geht", "role": "verb" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "gut", "role": "adverb" }
+    ],
+    "grammarPoints": ["Impersonal 'es geht' + dative", "Formal 'Ihnen' (dative of 'Sie')"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-smalltalk-049"],
+    "builderHints": ["'Hallo' is semi-formal — less stiff than 'Sehr geehrte/r' but still polite"],
+    "alternatives": [
+      "Hallo Frau Weber, ich hoffe, Ihnen geht es gut."
+    ]
+  },
+  {
+    "id": "s-emails-022",
+    "de": "Ich möchte Sie darauf hinweisen, dass die Frist morgen abläuft.",
+    "en": "I would like to point out to you that the deadline expires tomorrow.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "möchte", "role": "verb" },
+      { "text": "Sie", "role": "object" },
+      { "text": "darauf", "role": "adverb" },
+      { "text": "hinweisen,", "role": "verb" },
+      { "text": "dass", "role": "conjunction" },
+      { "text": "die", "role": "article" },
+      { "text": "Frist", "role": "subject" },
+      { "text": "morgen", "role": "adverb" },
+      { "text": "abläuft", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'hinweisen' with 'darauf'", "Subordinate clause with 'dass' (verb at end)", "Separable verb 'abläuft' in subordinate clause"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-bureaucracy-018", "v-emails-014", "v-meetings-017", "v-work-021"],
+    "builderHints": ["In 'dass' clauses the verb goes to the end; separable verbs rejoin"],
+    "alternatives": [
+      "Hiermit möchte ich Sie darauf hinweisen, dass die Frist morgen abläuft."
+    ]
+  },
+  {
+    "id": "s-emails-023",
+    "de": "Wie bereits besprochen, sende ich Ihnen das Angebot.",
+    "en": "As already discussed, I am sending you the offer.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Wie", "role": "conjunction" },
+      { "text": "bereits", "role": "adverb" },
+      { "text": "besprochen,", "role": "verb" },
+      { "text": "sende", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "das", "role": "article" },
+      { "text": "Angebot", "role": "object" }
+    ],
+    "grammarPoints": ["Elliptical clause 'wie bereits besprochen'", "Inverted word order in main clause after introductory clause"],
+    "vocabIds": ["v-bureaucracy-050", "v-smalltalk-043", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-shopping-002"],
+    "builderHints": ["'Wie bereits besprochen' is a common follow-up phrase in emails"],
+    "alternatives": [
+      "Ich sende Ihnen wie bereits besprochen das Angebot."
+    ]
+  },
+  {
+    "id": "s-emails-024",
+    "de": "Für Rückfragen stehe ich Ihnen gerne zur Verfügung.",
+    "en": "I am happy to be available for any questions.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Für", "role": "preposition" },
+      { "text": "Rückfragen", "role": "object" },
+      { "text": "stehe", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "gerne", "role": "adverb" },
+      { "text": "zur", "role": "preposition" },
+      { "text": "Verfügung", "role": "object" }
+    ],
+    "grammarPoints": ["Fixed expression 'zur Verfügung stehen'", "Inverted word order after prepositional phrase"],
+    "vocabIds": ["v-smalltalk-031", "v-smalltalk-046", "v-travel-049", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-emails-040", "v-meetings-046", "v-work-048"],
+    "builderHints": ["'Für Rückfragen stehe ich Ihnen zur Verfügung' is a standard closing line"],
+    "alternatives": [
+      "Ich stehe Ihnen für Rückfragen gerne zur Verfügung."
+    ]
+  },
+  {
+    "id": "s-emails-025",
+    "de": "Ich bitte um eine kurze Bestätigung.",
+    "en": "I kindly ask for a brief confirmation.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "bitte", "role": "verb" },
+      { "text": "um", "role": "preposition" },
+      { "text": "eine", "role": "article" },
+      { "text": "kurze", "role": "other" },
+      { "text": "Bestätigung", "role": "object" }
+    ],
+    "grammarPoints": ["Verb 'bitten um' + accusative", "Adjective declension with indefinite article"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-emails-009"],
+    "builderHints": ["'bitten um' always takes the accusative case"],
+    "alternatives": [
+      "Um eine kurze Bestätigung bitte ich."
+    ]
+  },
+  {
+    "id": "s-emails-026",
+    "de": "Die Angelegenheit wird derzeit von unserer Rechtsabteilung geprüft.",
+    "en": "The matter is currently being reviewed by our legal department.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Angelegenheit", "role": "subject" },
+      { "text": "wird", "role": "verb" },
+      { "text": "derzeit", "role": "adverb" },
+      { "text": "von", "role": "preposition" },
+      { "text": "unserer", "role": "article" },
+      { "text": "Rechtsabteilung", "role": "object" },
+      { "text": "geprüft", "role": "verb" }
+    ],
+    "grammarPoints": ["Passive voice 'wird + geprüft'", "Agent in passive with 'von' + dative"],
+    "vocabIds": [],
+    "builderHints": ["In passive sentences the agent is introduced with 'von' + dative"],
+    "alternatives": [
+      "Derzeit wird die Angelegenheit von unserer Rechtsabteilung geprüft."
+    ]
+  },
+  {
+    "id": "s-emails-027",
+    "de": "Ich komme auf Ihre E-Mail vom 15. Januar zurück.",
+    "en": "I am getting back to your email from January 15th.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "komme", "role": "verb" },
+      { "text": "auf", "role": "preposition" },
+      { "text": "Ihre", "role": "article" },
+      { "text": "E-Mail", "role": "object" },
+      { "text": "vom", "role": "preposition" },
+      { "text": "15.", "role": "other" },
+      { "text": "Januar", "role": "object" },
+      { "text": "zurück", "role": "particle" }
+    ],
+    "grammarPoints": ["Separable verb 'zurückkommen auf'", "Date with 'vom' + ordinal number"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-031", "v-emails-047", "v-meetings-050"],
+    "builderHints": ["'zurückkommen auf' means to get back to / follow up on something"],
+    "alternatives": [
+      "Auf Ihre E-Mail vom 15. Januar komme ich hiermit zurück."
+    ]
+  },
+  {
+    "id": "s-emails-028",
+    "de": "Es wäre nett, wenn wir einen Termin vereinbaren könnten.",
+    "en": "It would be nice if we could arrange an appointment.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Es", "role": "subject" },
+      { "text": "wäre", "role": "verb" },
+      { "text": "nett,", "role": "other" },
+      { "text": "wenn", "role": "conjunction" },
+      { "text": "wir", "role": "subject" },
+      { "text": "einen", "role": "article" },
+      { "text": "Termin", "role": "object" },
+      { "text": "vereinbaren", "role": "verb" },
+      { "text": "könnten", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'wäre' and 'könnten'", "Conditional 'wenn' clause with verb at end"],
+    "vocabIds": ["v-bureaucracy-046", "v-bureaucracy-049", "v-healthcare-046", "v-phone-049", "v-bureaucracy-015", "v-healthcare-006", "v-phone-018", "v-work-005", "v-phone-036", "v-work-033", "v-phone-048", "v-travel-050"],
+    "builderHints": ["In 'wenn' clauses, the modal 'könnten' goes to the very end, after the infinitive"],
+    "alternatives": [
+      "Wenn wir einen Termin vereinbaren könnten, wäre es nett."
+    ]
+  },
+  {
+    "id": "s-emails-029",
+    "de": "Ich werde mich umgehend bei Ihnen melden.",
+    "en": "I will get back to you immediately.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "werde", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "umgehend", "role": "adverb" },
+      { "text": "bei", "role": "preposition" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "melden", "role": "verb" }
+    ],
+    "grammarPoints": ["Future tense with 'werden' + infinitive", "Reflexive 'sich melden bei'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046", "v-phone-038", "v-work-036"],
+    "builderHints": ["'umgehend' is a formal synonym for 'sofort' (immediately)"],
+    "alternatives": [
+      "Umgehend werde ich mich bei Ihnen melden."
+    ]
+  },
+  {
+    "id": "s-emails-030",
+    "de": "Leider muss ich Ihnen mitteilen, dass wir Ihren Antrag ablehnen müssen.",
+    "en": "Unfortunately, I have to inform you that we must reject your application.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Leider", "role": "adverb" },
+      { "text": "muss", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "mitteilen,", "role": "verb" },
+      { "text": "dass", "role": "conjunction" },
+      { "text": "wir", "role": "subject" },
+      { "text": "Ihren", "role": "article" },
+      { "text": "Antrag", "role": "object" },
+      { "text": "ablehnen", "role": "verb" },
+      { "text": "müssen", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'mitteilen'", "Subordinate clause with 'dass'", "Double infinitive avoided: 'ablehnen müssen' at end of dass-clause"],
+    "vocabIds": ["v-phone-050", "v-bureaucracy-048", "v-travel-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-049", "v-emails-032", "v-bureaucracy-007", "v-bureaucracy-046", "v-bureaucracy-038"],
+    "builderHints": ["'Leider muss ich Ihnen mitteilen' is a standard formula for delivering bad news"],
+    "alternatives": [
+      "Ich muss Ihnen leider mitteilen, dass wir Ihren Antrag ablehnen müssen."
+    ]
+  },
+  {
+    "id": "s-emails-031",
+    "de": "Hallo Thomas, kurze Frage: Hast du die Datei schon hochgeladen?",
+    "en": "Hello Thomas, quick question: Have you already uploaded the file?",
+    "situation": "emails",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      { "text": "Hallo", "role": "other" },
+      { "text": "Thomas,", "role": "object" },
+      { "text": "kurze", "role": "other" },
+      { "text": "Frage:", "role": "object" },
+      { "text": "Hast", "role": "verb" },
+      { "text": "du", "role": "subject" },
+      { "text": "die", "role": "article" },
+      { "text": "Datei", "role": "object" },
+      { "text": "schon", "role": "adverb" },
+      { "text": "hochgeladen", "role": "verb" }
+    ],
+    "grammarPoints": ["Informal 'du' address", "Perfekt with 'haben' + past participle", "Separable verb 'hochladen' in Perfekt"],
+    "vocabIds": ["v-work-047"],
+    "builderHints": ["Informal emails use 'du/dein' instead of 'Sie/Ihr'"],
+    "alternatives": [
+      "Hallo Thomas, hast du die Datei schon hochgeladen?"
+    ]
+  },
+  {
+    "id": "s-emails-032",
+    "de": "Ich würde vorschlagen, dass wir die Besprechung auf Donnerstag verschieben.",
+    "en": "I would suggest that we move the meeting to Thursday.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "würde", "role": "verb" },
+      { "text": "vorschlagen,", "role": "verb" },
+      { "text": "dass", "role": "conjunction" },
+      { "text": "wir", "role": "subject" },
+      { "text": "die", "role": "article" },
+      { "text": "Besprechung", "role": "object" },
+      { "text": "auf", "role": "preposition" },
+      { "text": "Donnerstag", "role": "object" },
+      { "text": "verschieben", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'würde + vorschlagen'", "Subordinate clause with 'dass'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-meetings-027", "v-work-001", "v-emails-031", "v-emails-047", "v-meetings-050", "v-meetings-040", "v-phone-039"],
+    "builderHints": ["'Ich würde vorschlagen' is a polite way to make a suggestion"],
+    "alternatives": [
+      "Ich würde vorschlagen, die Besprechung auf Donnerstag zu verschieben."
+    ]
+  },
+  {
+    "id": "s-emails-033",
+    "de": "Bitte beachten Sie, dass sich unsere Adresse geändert hat.",
+    "en": "Please note that our address has changed.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Bitte", "role": "particle" },
+      { "text": "beachten", "role": "verb" },
+      { "text": "Sie,", "role": "subject" },
+      { "text": "dass", "role": "conjunction" },
+      { "text": "sich", "role": "object" },
+      { "text": "unsere", "role": "article" },
+      { "text": "Adresse", "role": "subject" },
+      { "text": "geändert", "role": "verb" },
+      { "text": "hat", "role": "verb" }
+    ],
+    "grammarPoints": ["Formal imperative 'Beachten Sie'", "Reflexive verb 'sich ändern' in Perfekt", "Subordinate clause with 'dass'"],
+    "vocabIds": ["v-phone-046", "v-phone-048", "v-emails-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["In Perfekt within a 'dass' clause, 'hat' goes to the very end"],
+    "alternatives": [
+      "Wir möchten Sie darauf hinweisen, dass sich unsere Adresse geändert hat."
+    ]
+  },
+  {
+    "id": "s-emails-034",
+    "de": "Ich sende Ihnen die korrigierte Version als Anlage.",
+    "en": "I am sending you the corrected version as an attachment.",
+    "situation": "emails",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "sende", "role": "verb" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "die", "role": "article" },
+      { "text": "korrigierte", "role": "other" },
+      { "text": "Version", "role": "object" },
+      { "text": "als", "role": "preposition" },
+      { "text": "Anlage", "role": "object" }
+    ],
+    "grammarPoints": ["Dative 'Ihnen' for indirect object", "Past participle as adjective 'korrigierte'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-010"],
+    "builderHints": ["'als Anlage' and 'im Anhang' both mean 'as an attachment'"],
+    "alternatives": [
+      "Die korrigierte Version sende ich Ihnen als Anlage.",
+      "Als Anlage sende ich Ihnen die korrigierte Version."
+    ]
+  },
+  {
+    "id": "s-emails-035",
+    "de": "Ich freue mich auf Ihre Rückmeldung und verbleibe mit freundlichen Grüßen.",
+    "en": "I look forward to your response and remain with kind regards.",
+    "situation": "emails",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "freue", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "auf", "role": "preposition" },
+      { "text": "Ihre", "role": "article" },
+      { "text": "Rückmeldung", "role": "object" },
+      { "text": "und", "role": "conjunction" },
+      { "text": "verbleibe", "role": "verb" },
+      { "text": "mit", "role": "preposition" },
+      { "text": "freundlichen", "role": "other" },
+      { "text": "Grüßen", "role": "object" }
+    ],
+    "grammarPoints": ["Reflexive 'sich freuen auf' + accusative", "Coordinated main clauses with 'und'", "Dative plural after 'mit'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046", "v-emails-031", "v-emails-047", "v-meetings-050", "v-emails-016", "v-meetings-023", "v-travel-047", "v-emails-046"],
+    "builderHints": ["'sich freuen auf' (look forward to) takes the accusative case"],
+    "alternatives": [
+      "Auf Ihre Rückmeldung freue ich mich und verbleibe mit freundlichen Grüßen."
+    ]
+  }
+]

@@ -1,0 +1,2743 @@
+[
+  {
+    "id": "v-bureaucracy-001",
+    "word": "die Anmeldung",
+    "baseForm": "Anmeldung",
+    "gender": "die",
+    "plural": "Anmeldungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "registration (of residence)",
+    "meaningDe": "Offizielle Registrierung des Wohnsitzes bei der Behörde",
+    "situations": [
+      "bureaucracy",
+      "moving",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss innerhalb von zwei Wochen eine Anmeldung machen.",
+        "en": "I have to register my address within two weeks.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie schon Ihre Anmeldung erledigt?",
+        "en": "Have you already completed your registration?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Ohne Anmeldung können Sie kein Bankkonto eröffnen.",
+        "en": "Without registration you cannot open a bank account.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Anmeldung' (registration) with 'Anmeldung' (sign-up/appointment) — context matters.",
+      "Forgetting that 'Anmeldung' is required by law within 14 days of moving in Germany."
+    ],
+    "usageNotes": [
+      "The opposite is 'Abmeldung' (deregistration), required when leaving Germany or moving out.",
+      "You do the 'Anmeldung' at the 'Bürgeramt' or 'Einwohnermeldeamt'."
+    ],
+    "relatedWords": [
+      "die Abmeldung",
+      "die Ummeldung",
+      "das Bürgeramt",
+      "die Meldebescheinigung"
+    ],
+    "tags": [
+      "essential",
+      "first steps in Germany"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-002",
+    "word": "die Aufenthaltserlaubnis",
+    "baseForm": "Aufenthaltserlaubnis",
+    "gender": "die",
+    "plural": "Aufenthaltserlaubnisse",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "residence permit",
+    "meaningDe": "Offizielle Genehmigung, sich in Deutschland aufzuhalten",
+    "situations": [
+      "bureaucracy",
+      "visa",
+      "immigration"
+    ],
+    "examples": [
+      {
+        "de": "Meine Aufenthaltserlaubnis läuft nächsten Monat ab.",
+        "en": "My residence permit expires next month.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich möchte meine Aufenthaltserlaubnis verlängern.",
+        "en": "I would like to extend my residence permit.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Aufenthaltserlaubnis' with 'Visum' — a visa is for entry, a residence permit is for staying.",
+      "Mispronouncing or misspelling the compound: Aufenthalt + s + Erlaubnis."
+    ],
+    "usageNotes": [
+      "Applied for at the 'Ausländerbehörde' (foreigners' authority).",
+      "There are different types: for work, study, family reunification, etc."
+    ],
+    "relatedWords": [
+      "das Visum",
+      "die Ausländerbehörde",
+      "die Niederlassungserlaubnis",
+      "der Aufenthaltstitel"
+    ],
+    "tags": [
+      "immigration",
+      "essential for non-EU citizens"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-003",
+    "word": "das Bürgeramt",
+    "baseForm": "Bürgeramt",
+    "gender": "das",
+    "plural": "Bürgerämter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "citizens' registration office",
+    "meaningDe": "Behörde, bei der man sich anmelden und Dokumente beantragen kann",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Termin beim Bürgeramt.",
+        "en": "I have an appointment at the citizens' office.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Bürgeramt hat montags geschlossen.",
+        "en": "The citizens' office is closed on Mondays.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Beim Bürgeramt musste ich zwei Stunden warten.",
+        "en": "At the citizens' office I had to wait two hours.",
+        "situation": "bureaucracy",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Writing 'Burgeramt' without the umlaut — it must be 'Bürgeramt' (from 'Bürger' = citizen, not 'Burger').",
+      "Not knowing that names vary by city: 'Einwohnermeldeamt', 'Bürgerbüro', 'KVR' (Munich)."
+    ],
+    "usageNotes": [
+      "Always book a 'Termin' (appointment) online in advance — walk-ins often face very long waits.",
+      "Also called 'Einwohnermeldeamt' or 'Bürgerbüro' depending on the city."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "die Anmeldung",
+      "das Einwohnermeldeamt",
+      "das Bürgerbüro"
+    ],
+    "tags": [
+      "essential",
+      "first steps in Germany"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-004",
+    "word": "das Formular",
+    "baseForm": "Formular",
+    "gender": "das",
+    "plural": "Formulare",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "form, application form",
+    "meaningDe": "Vordruck mit Feldern, die man ausfüllen muss",
+    "situations": [
+      "bureaucracy",
+      "daily life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte füllen Sie dieses Formular aus.",
+        "en": "Please fill out this form.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo bekomme ich das Formular?",
+        "en": "Where can I get the form?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Form' (English loanword) instead of 'Formular' — in German, 'Form' means shape/mold.",
+      "Forgetting the neuter gender: it is 'das Formular', not 'der' or 'die'."
+    ],
+    "usageNotes": [
+      "'Ein Formular ausfüllen' is the standard collocation (to fill out a form).",
+      "Many German forms are now available online as PDF downloads."
+    ],
+    "relatedWords": [
+      "der Antrag",
+      "das Antragsformular",
+      "ausfüllen",
+      "der Vordruck"
+    ],
+    "tags": [
+      "essential",
+      "paperwork"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-005",
+    "word": "der Personalausweis",
+    "baseForm": "Personalausweis",
+    "gender": "der",
+    "plural": "Personalausweise",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "identity card, national ID card",
+    "meaningDe": "Offizielles Dokument zum Nachweis der Identität",
+    "situations": [
+      "bureaucracy",
+      "identification",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir bitte Ihren Personalausweis zeigen?",
+        "en": "Can you please show me your ID card?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Mein Personalausweis ist abgelaufen.",
+        "en": "My ID card has expired.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich brauche einen neün Personalausweis.",
+        "en": "I need a new ID card.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Personalausweis' (ID card) with 'Reisepass' (passport) — they are different documents.",
+      "Non-Germans often say 'mein Ausweis' when they actually mean their passport or residence permit."
+    ],
+    "usageNotes": [
+      "German citizens must carry either a Personalausweis or Reisepass (Ausweispflicht).",
+      "The informal short form is 'Perso'."
+    ],
+    "relatedWords": [
+      "der Reisepass",
+      "der Ausweis",
+      "die Ausweispflicht",
+      "das Ausweisdokument"
+    ],
+    "tags": [
+      "identification",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-006",
+    "word": "die Meldebescheinigung",
+    "baseForm": "Meldebescheinigung",
+    "gender": "die",
+    "plural": "Meldebescheinigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "registration certificate, proof of address registration",
+    "meaningDe": "Bescheinigung über die Anmeldung des Wohnsitzes",
+    "situations": [
+      "bureaucracy",
+      "banking",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Für das Bankkonto brauche ich eine Meldebescheinigung.",
+        "en": "I need a registration certificate for the bank account.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Meldebescheinigung bekommen Sie beim Bürgeramt.",
+        "en": "You can get the registration certificate at the citizens' office.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Meldebescheinigung' with 'Anmeldebestätigung' — they are effectively the same document but the official term is 'Meldebescheinigung'.",
+      "Not realizing it can expire for certain purposes (some institutions require one issüd within the last 3 months)."
+    ],
+    "usageNotes": [
+      "You receive this after completing your Anmeldung.",
+      "Many institutions (banks, universities, employers) require this document."
+    ],
+    "relatedWords": [
+      "die Anmeldung",
+      "die Anmeldebestätigung",
+      "das Bürgeramt",
+      "der Wohnsitz"
+    ],
+    "tags": [
+      "essential",
+      "first steps in Germany"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-007",
+    "word": "der Antrag",
+    "baseForm": "Antrag",
+    "gender": "der",
+    "plural": "Anträge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "application, request (formal)",
+    "meaningDe": "Offizielles Gesuch oder Ersuchen an eine Behörde",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss einen Antrag auf Aufenthaltserlaubnis stellen.",
+        "en": "I have to submit an application for a residence permit.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wo kann ich den Antrag abgeben?",
+        "en": "Where can I submit the application?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Mein Antrag wurde abgelehnt.",
+        "en": "My application was rejected.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Forgetting the umlaut in the plural: 'Anträge', not 'Antrage'.",
+      "Using 'Applikation' (false friend from English) — in German, 'Applikation' means a software app or an embroidery appliqué."
+    ],
+    "usageNotes": [
+      "'Einen Antrag stellen' is the standard verb collocation (to file/submit an application).",
+      "'Einen Antrag auf etwas stellen' — the preposition 'auf' + accusative is required."
+    ],
+    "relatedWords": [
+      "das Antragsformular",
+      "beantragen",
+      "die Genehmigung",
+      "die Bewilligung"
+    ],
+    "tags": [
+      "essential",
+      "paperwork"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-008",
+    "word": "die Beglaubigung",
+    "baseForm": "Beglaubigung",
+    "gender": "die",
+    "plural": "Beglaubigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "certification, notarization, authenticated copy",
+    "meaningDe": "Amtliche Bestätigung der Echtheit eines Dokuments oder einer Kopie",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche eine beglaubigte Kopie meines Zeugnisses.",
+        "en": "I need a certified copy of my certificate.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Beglaubigung kostet fünf Euro pro Seite.",
+        "en": "The certification costs five euros per page.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Beglaubigung' with 'Beurkundung' — 'Beurkundung' is a notarial act by a Notar, while 'Beglaubigung' can be done at the Bürgeramt.",
+      "Not knowing that only certain institutions can issü a Beglaubigung."
+    ],
+    "usageNotes": [
+      "A 'beglaubigte Kopie' (certified copy) is often required for official applications.",
+      "You can get documents certified at the Bürgeramt, a Notar, or sometimes at your church."
+    ],
+    "relatedWords": [
+      "beglaubigen",
+      "die Kopie",
+      "der Notar",
+      "die Urkunde"
+    ],
+    "tags": [
+      "paperwork",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-009",
+    "word": "die Steürnummer",
+    "baseForm": "Steürnummer",
+    "gender": "die",
+    "plural": "Steürnummern",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "tax number, tax identification number",
+    "meaningDe": "Individülle Nummer zur Identifikation beim Finanzamt",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "finances"
+    ],
+    "examples": [
+      {
+        "de": "Mein Arbeitgeber braucht meine Steürnummer.",
+        "en": "My employer needs my tax number.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Steürnummer wird Ihnen automatisch per Post zugeschickt.",
+        "en": "The tax number will be sent to you automatically by mail.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Steürnummer' with 'Steür-ID' (Steüridentifikationsnummer) — the Steür-ID is permanent and assigned at birth or registration, while the Steürnummer is assigned by the local Finanzamt.",
+      "Thinking you need to apply for it — the Steür-ID is sent automatically after Anmeldung."
+    ],
+    "usageNotes": [
+      "The 'Steür-ID' (11-digit number) is the one most employers and banks ask for.",
+      "You receive it by post a few weeks after your Anmeldung."
+    ],
+    "relatedWords": [
+      "die Steueridentifikationsnummer",
+      "das Finanzamt",
+      "die Steuer",
+      "die Lohnsteuer"
+    ],
+    "tags": [
+      "finances",
+      "work",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-010",
+    "word": "das Finanzamt",
+    "baseForm": "Finanzamt",
+    "gender": "das",
+    "plural": "Finanzämter",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "tax office",
+    "meaningDe": "Behörde, die für die Erhebung von Steürn zuständig ist",
+    "situations": [
+      "bureaucracy",
+      "finances",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss meine Steürerklärung beim Finanzamt abgeben.",
+        "en": "I have to submit my tax return to the tax office.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Finanzamt hat mir einen Brief geschickt.",
+        "en": "The tax office sent me a letter.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Forgetting the umlaut in the plural: 'Finanzämter', not 'Finanzamter'.",
+      "Confusing it with a bank — the Finanzamt is a government authority, not a financial institution."
+    ],
+    "usageNotes": [
+      "Each area has its own local Finanzamt responsible for residents in that district.",
+      "Most communication with the Finanzamt now happens through the online portal 'ELSTER'."
+    ],
+    "relatedWords": [
+      "die Steuererklärung",
+      "die Steuernummer",
+      "die Lohnsteuer",
+      "ELSTER"
+    ],
+    "tags": [
+      "finances",
+      "authority"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-011",
+    "word": "das Visum",
+    "baseForm": "Visum",
+    "gender": "das",
+    "plural": "Visa",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "visa",
+    "meaningDe": "Genehmigung zur Einreise in ein Land",
+    "situations": [
+      "bureaucracy",
+      "visa",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Brauche ich ein Visum für Deutschland?",
+        "en": "Do I need a visa for Germany?",
+        "situation": "visa",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Visum ist noch drei Monate gültig.",
+        "en": "My visa is still valid for three months.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss mein Visum bei der Botschaft beantragen.",
+        "en": "I have to apply for my visa at the embassy.",
+        "situation": "visa",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using the English plural 'Visas' — the German plural is 'Visa' (or sometimes 'Visen').",
+      "Confusing 'Visum' with 'Aufenthaltserlaubnis' — the visa allows entry, the Aufenthaltserlaubnis allows you to stay."
+    ],
+    "usageNotes": [
+      "EU citizens do not need a Visum to live in Germany.",
+      "A 'Schengen-Visum' allows short stays (up to 90 days) in the Schengen area."
+    ],
+    "relatedWords": [
+      "die Aufenthaltserlaubnis",
+      "die Botschaft",
+      "das Konsulat",
+      "die Einreise"
+    ],
+    "tags": [
+      "immigration",
+      "travel",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-012",
+    "word": "die Behörde",
+    "baseForm": "Behörde",
+    "gender": "die",
+    "plural": "Behörden",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "authority, government office",
+    "meaningDe": "Staatliche Einrichtung, die Verwaltungsaufgaben erledigt",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Welche Behörde ist dafür zuständig?",
+        "en": "Which authority is responsible for that?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss morgen zur Behörde gehen.",
+        "en": "I have to go to the government office tomorrow.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Mispronouncing the 'ö' sound — it is 'Be-hör-de', not 'Be-hor-de'.",
+      "Using 'Büro' (office) when you mean 'Behörde' (government authority)."
+    ],
+    "usageNotes": [
+      "'Behörde' is a general term — specific ones include Ausländerbehörde, Finanzamt, Bürgeramt, etc.",
+      "The adjective 'behördlich' means 'official' or 'governmental'."
+    ],
+    "relatedWords": [
+      "das Amt",
+      "die Verwaltung",
+      "der Beamte",
+      "behördlich"
+    ],
+    "tags": [
+      "essential",
+      "authority"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-013",
+    "word": "die Ausländerbehörde",
+    "baseForm": "Ausländerbehörde",
+    "gender": "die",
+    "plural": "Ausländerbehörden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "foreigners' registration office, immigration office",
+    "meaningDe": "Behörde, die für aufenthaltsrechtliche Angelegenheiten von Ausländern zuständig ist",
+    "situations": [
+      "bureaucracy",
+      "immigration",
+      "visa"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe nächste Woche einen Termin bei der Ausländerbehörde.",
+        "en": "I have an appointment at the immigration office next week.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Ausländerbehörde hat lange Wartezeiten.",
+        "en": "The immigration office has long waiting times.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Not knowing the newer name: some cities now call it 'Landesamt für Einwanderung' (State Office for Immigration).",
+      "Confusing it with the Bürgeramt — the Ausländerbehörde handles residence permits, not address registration."
+    ],
+    "usageNotes": [
+      "This is where non-EU citizens apply for or renew their Aufenthaltserlaubnis.",
+      "In Berlin it is now called 'Landesamt für Einwanderung' (LEA)."
+    ],
+    "relatedWords": [
+      "die Aufenthaltserlaubnis",
+      "das Visum",
+      "die Niederlassungserlaubnis",
+      "der Aufenthaltstitel"
+    ],
+    "tags": [
+      "immigration",
+      "authority"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-014",
+    "word": "die Urkunde",
+    "baseForm": "Urkunde",
+    "gender": "die",
+    "plural": "Urkunden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "certificate, official document",
+    "meaningDe": "Offizielles Dokument, das einen Sachverhalt bestätigt",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche meine Geburtsurkunde für den Antrag.",
+        "en": "I need my birth certificate for the application.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bringen Sie bitte die Heiratsurkunde mit.",
+        "en": "Please bring the marriage certificate.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Urkunde' with 'Zeugnis' — 'Zeugnis' is typically a school report or work reference, 'Urkunde' is an official certificate.",
+      "Not knowing that foreign Urkunden often need an 'Apostille' or official translation."
+    ],
+    "usageNotes": [
+      "Common compounds: 'Geburtsurkunde' (birth certificate), 'Heiratsurkunde' (marriage certificate), 'Sterbeurkunde' (death certificate).",
+      "Foreign certificates usually need to be translated by a 'vereidigte Übersetzerin' (sworn translator)."
+    ],
+    "relatedWords": [
+      "die Geburtsurkunde",
+      "die Heiratsurkunde",
+      "das Zeugnis",
+      "die Apostille"
+    ],
+    "tags": [
+      "paperwork",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-015",
+    "word": "der Termin",
+    "baseForm": "Termin",
+    "gender": "der",
+    "plural": "Termine",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "appointment",
+    "meaningDe": "Vereinbarter Zeitpunkt für ein Treffen oder einen Besuch bei einer Behörde",
+    "situations": [
+      "bureaucracy",
+      "daily life",
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche einen Termin beim Bürgeramt.",
+        "en": "I need an appointment at the citizens' office.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Kann ich bitte einen Termin vereinbaren?",
+        "en": "Can I please make an appointment?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Leider sind keine Termine mehr frei.",
+        "en": "Unfortunately there are no more appointments available.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Termin' when you mean 'Frist' (deadline) — 'Termin' is an appointment, 'Frist' is a deadline.",
+      "Saying 'einen Termin machen' is informal — 'einen Termin vereinbaren' is more standard."
+    ],
+    "usageNotes": [
+      "'Einen Termin vereinbaren/buchen' (to make an appointment) is essential bureaucracy vocabulary.",
+      "Many German offices require appointments booked weeks in advance online."
+    ],
+    "relatedWords": [
+      "die Frist",
+      "die Wartezeit",
+      "der Terminkalender",
+      "vereinbaren",
+      "v-healthcare-006",
+      "v-phone-018",
+      "v-work-005"
+    ],
+    "tags": [
+      "essential",
+      "daily life"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-016",
+    "word": "die Gebühr",
+    "baseForm": "Gebühr",
+    "gender": "die",
+    "plural": "Gebühren",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "fee, charge (official)",
+    "meaningDe": "Betrag, den man für eine behördliche Leistung bezahlen muss",
+    "situations": [
+      "bureaucracy",
+      "finances"
+    ],
+    "examples": [
+      {
+        "de": "Die Gebühr für den Reisepass beträgt 60 Euro.",
+        "en": "The fee for the passport is 60 euros.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Welche Gebühren fallen an?",
+        "en": "What fees apply?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Gebühr' (official fee) with 'Kosten' (costs) — 'Gebühr' specifically refers to charges set by an authority.",
+      "Forgetting the umlaut: 'Gebühr', not 'Gebur'."
+    ],
+    "usageNotes": [
+      "Most bureaucratic processes in Germany involve a 'Gebühr'.",
+      "'Gebührenfrei' means 'free of charge' in an official context."
+    ],
+    "relatedWords": [
+      "die Kosten",
+      "die Verwaltungsgebühr",
+      "gebührenfrei",
+      "gebührenpflichtig"
+    ],
+    "tags": [
+      "finances",
+      "paperwork"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-017",
+    "word": "die Bescheinigung",
+    "baseForm": "Bescheinigung",
+    "gender": "die",
+    "plural": "Bescheinigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "certificate, confirmation, attestation",
+    "meaningDe": "Schriftlicher Nachweis oder Bestätigung eines Sachverhalts",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich brauche eine Bescheinigung von meinem Arbeitgeber.",
+        "en": "I need a certificate from my employer.",
+        "situation": "work",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie mir eine Bescheinigung ausstellen?",
+        "en": "Can you issue me a certificate?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Bescheinigung' with 'Zeugnis' — a 'Bescheinigung' confirms a fact, a 'Zeugnis' evaluates performance.",
+      "Not knowing which type of Bescheinigung is required — always ask specifically."
+    ],
+    "usageNotes": [
+      "Common compounds: 'Arbeitgeberbescheinigung', 'Meldebescheinigung', 'Immatrikulationsbescheinigung'.",
+      "'Eine Bescheinigung ausstellen' (to issü a certificate) is the standard verb collocation."
+    ],
+    "relatedWords": [
+      "die Meldebescheinigung",
+      "die Bestätigung",
+      "das Attest",
+      "die Urkunde"
+    ],
+    "tags": [
+      "paperwork",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-018",
+    "word": "die Frist",
+    "baseForm": "Frist",
+    "gender": "die",
+    "plural": "Fristen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "deadline, time limit",
+    "meaningDe": "Festgelegter Zeitraum, bis zu dem etwas erledigt sein muss",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Die Frist für die Anmeldung beträgt zwei Wochen.",
+        "en": "The deadline for registration is two weeks.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Achten Sie bitte auf die Frist!",
+        "en": "Please pay attention to the deadline!",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Frist' (deadline/time limit) with 'Termin' (appointment) — they are related but different concepts.",
+      "Missing a 'Frist' can have serious legal conseqünces in German bureaucracy."
+    ],
+    "usageNotes": [
+      "'Die Frist einhalten' means to meet the deadline; 'die Frist versäumen/verpassen' means to miss it.",
+      "'Fristgerecht' means 'within the deadline' or 'in dü time'."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "die Deadline",
+      "fristgerecht",
+      "fristlos",
+      "v-emails-014",
+      "v-meetings-017",
+      "v-work-021"
+    ],
+    "tags": [
+      "essential",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-019",
+    "word": "die Unterlage",
+    "baseForm": "Unterlage",
+    "gender": "die",
+    "plural": "Unterlagen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "document(s), paperwork, records",
+    "meaningDe": "Dokumente und Papiere, die für einen bestimmten Zweck benötigt werden",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte bringen Sie alle notwendigen Unterlagen mit.",
+        "en": "Please bring all the necessary documents.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Welche Unterlagen brauche ich für die Anmeldung?",
+        "en": "What documents do I need for the registration?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Meine Unterlagen sind noch nicht vollständig.",
+        "en": "My documents are not yet complete.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using singular 'Unterlage' when referring to a set of documents — the plural 'Unterlagen' is much more common in bureaucratic contexts.",
+      "Confusing 'Unterlagen' with 'Dokumente' — 'Unterlagen' is broader and includes all supporting paperwork."
+    ],
+    "usageNotes": [
+      "Almost always used in the plural in bureaucratic contexts.",
+      "'Vollständige Unterlagen' (complete documents) is a phrase you will hear constantly at German offices."
+    ],
+    "relatedWords": [
+      "das Dokument",
+      "die Papiere",
+      "die Akte",
+      "vollständig",
+      "v-meetings-024"
+    ],
+    "tags": [
+      "essential",
+      "paperwork"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-020",
+    "word": "der Reisepass",
+    "baseForm": "Reisepass",
+    "gender": "der",
+    "plural": "Reisepässe",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "passport",
+    "meaningDe": "Offizielles Reisedokument zur Identifikation im Ausland",
+    "situations": [
+      "bureaucracy",
+      "travel",
+      "identification"
+    ],
+    "examples": [
+      {
+        "de": "Ist Ihr Reisepass noch gültig?",
+        "en": "Is your passport still valid?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss meinen Reisepass verlängern lassen.",
+        "en": "I need to have my passport renewed.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using just 'Pass' — while understood, 'Reisepass' is the correct full term in formal contexts.",
+      "Forgetting the umlaut in the plural: 'Reisepässe', not 'Reisepasse'."
+    ],
+    "usageNotes": [
+      "Non-EU citizens typically need their Reisepass for all bureaucratic appointments.",
+      "A 'vorläufiger Reisepass' (temporary passport) can be issüd for emergencies."
+    ],
+    "relatedWords": [
+      "der Personalausweis",
+      "das Visum",
+      "der Pass",
+      "die Einreise",
+      "v-travel-007"
+    ],
+    "tags": [
+      "identification",
+      "travel",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-021",
+    "word": "der Wohnsitz",
+    "baseForm": "Wohnsitz",
+    "gender": "der",
+    "plural": "Wohnsitze",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "place of residence, domicile",
+    "meaningDe": "Ort, an dem eine Person daürhaft wohnt",
+    "situations": [
+      "bureaucracy",
+      "moving",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Mein Hauptwohnsitz ist in Berlin.",
+        "en": "My primary residence is in Berlin.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie müssen Ihren Wohnsitz innerhalb von 14 Tagen anmelden.",
+        "en": "You must register your residence within 14 days.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Wohnsitz' (legal residence) with 'Wohnung' (apartment) — 'Wohnsitz' is the legal concept, 'Wohnung' is the physical dwelling.",
+      "Not knowing the difference between 'Hauptwohnsitz' (primary) and 'Nebenwohnsitz' (secondary residence)."
+    ],
+    "usageNotes": [
+      "Germany distinguishes between 'Hauptwohnsitz' and 'Nebenwohnsitz' — your main residence determines which Finanzamt and voting district you belong to.",
+      "'Ohne festen Wohnsitz' means 'without a fixed address' (homeless)."
+    ],
+    "relatedWords": [
+      "die Wohnung",
+      "der Hauptwohnsitz",
+      "der Nebenwohnsitz",
+      "die Anmeldung"
+    ],
+    "tags": [
+      "essential",
+      "moving"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-022",
+    "word": "die Vollmacht",
+    "baseForm": "Vollmacht",
+    "gender": "die",
+    "plural": "Vollmachten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "power of attorney, authorization",
+    "meaningDe": "Schriftliche Berechtigung, im Namen einer anderen Person zu handeln",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Kann jemand anders mit einer Vollmacht für mich kommen?",
+        "en": "Can someone else come with a power of attorney on my behalf?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie brauchen eine schriftliche Vollmacht.",
+        "en": "You need a written power of attorney.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Not knowing that a 'Vollmacht' for bureaucratic errands must usually be written and signed by hand.",
+      "Thinking any informal note is sufficient — some authorities require a specific form."
+    ],
+    "usageNotes": [
+      "Useful when you cannot personally attend an appointment — you can authorize someone with a 'Vollmacht'.",
+      "Some Bürgerämter provide a Vollmacht template on their website."
+    ],
+    "relatedWords": [
+      "die Berechtigung",
+      "bevollmächtigen",
+      "der Vertreter",
+      "die Vertretung"
+    ],
+    "tags": [
+      "legal",
+      "paperwork"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-023",
+    "word": "der Nachweis",
+    "baseForm": "Nachweis",
+    "gender": "der",
+    "plural": "Nachweise",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "proof, evidence, verification",
+    "meaningDe": "Beleg oder Dokument, das etwas bestätigt oder beweist",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie einen Nachweis über Ihre Krankenversicherung?",
+        "en": "Do you have proof of your health insurance?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte bringen Sie einen Einkommensnachweis mit.",
+        "en": "Please bring proof of income.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Beweis' (evidence in a legal/criminal sense) when you mean 'Nachweis' (proof/verification in a bureaucratic sense).",
+      "Not knowing what counts as an acceptable 'Nachweis' — always ask the authority beforehand."
+    ],
+    "usageNotes": [
+      "Common compounds: 'Einkommensnachweis' (proof of income), 'Sprachnachweis' (proof of language skills), 'Wohnungsnachweis' (proof of housing).",
+      "'Etwas nachweisen' is the verb form (to prove/verify something)."
+    ],
+    "relatedWords": [
+      "der Beweis",
+      "die Bescheinigung",
+      "nachweisen",
+      "belegen"
+    ],
+    "tags": [
+      "paperwork",
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-024",
+    "word": "die Genehmigung",
+    "baseForm": "Genehmigung",
+    "gender": "die",
+    "plural": "Genehmigungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "permit, permission, approval",
+    "meaningDe": "Offizielle Erlaubnis, etwas zu tun",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Für diese Tätigkeit brauchen Sie eine Genehmigung.",
+        "en": "You need a permit for this activity.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Genehmigung wurde erteilt.",
+        "en": "The permit has been granted.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'Genehmigung' with 'Erlaubnis' — they are near-synonyms but 'Genehmigung' is more formal/official.",
+      "Not knowing that many activities in Germany require a 'Genehmigung' (e.g., Arbeitserlaubnis for non-EU workers)."
+    ],
+    "usageNotes": [
+      "'Eine Genehmigung erteilen' (to grant a permit) and 'eine Genehmigung beantragen' (to apply for a permit) are key collocations.",
+      "Related to the verb 'genehmigen' (to approve/authorize)."
+    ],
+    "relatedWords": [
+      "die Erlaubnis",
+      "genehmigen",
+      "die Bewilligung",
+      "die Zulassung"
+    ],
+    "tags": [
+      "legal",
+      "authority"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-025",
+    "word": "die Unterschrift",
+    "baseForm": "Unterschrift",
+    "gender": "die",
+    "plural": "Unterschriften",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "signature",
+    "meaningDe": "Handschriftlicher Namenszug zur Bestätigung",
+    "situations": [
+      "bureaucracy",
+      "legal",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte setzen Sie hier Ihre Unterschrift.",
+        "en": "Please put your signature here.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Es fehlt noch Ihre Unterschrift auf dem Formular.",
+        "en": "Your signature is still missing on the form.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Unterschrift muss handschriftlich sein.",
+        "en": "The signature must be handwritten.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'Signatur' (which typically means email signature or digital signature) instead of 'Unterschrift' for a handwritten signature.",
+      "Not signing in the right place — German forms often have multiple signature fields."
+    ],
+    "usageNotes": [
+      "'Unterschreiben' is the corresponding verb (to sign).",
+      "In Germany, a handwritten signature still carries significant legal weight."
+    ],
+    "relatedWords": [
+      "unterschreiben",
+      "die Signatur",
+      "der Namenszug",
+      "unterzeichnen",
+      "v-emails-013"
+    ],
+    "tags": [
+      "essential",
+      "paperwork"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-026",
+    "word": "beantragen",
+    "baseForm": "beantragen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to apply for (officially)",
+    "meaningDe": "Einen Antrag bei einer Behörde oder Institution stellen",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte eine Aufenthaltserlaubnis beantragen.",
+        "en": "I would like to apply for a residence permit.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo kann ich einen neün Reisepass beantragen?",
+        "en": "Where can I apply for a new passport?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Kindergeld muss man bei der Familienkasse beantragen.",
+        "en": "You have to apply for child benefit at the family benefits office.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beantrage",
+        "du": "beantragst",
+        "er_sie_es": "beantragt",
+        "wir": "beantragen",
+        "ihr": "beantragt",
+        "sie_Sie": "beantragen"
+      },
+      "past": {
+        "ich": "beantragte",
+        "du": "beantragtest",
+        "er_sie_es": "beantragte",
+        "wir": "beantragten",
+        "ihr": "beantragtet",
+        "sie_Sie": "beantragten"
+      },
+      "pastParticiple": "beantragt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Using 'applizieren' (false friend from English 'apply') — in German you must say 'beantragen'.",
+      "This is an inseparable verb: 'Ich beantrage', NOT 'Ich trage ... bean'."
+    ],
+    "usageNotes": [
+      "'Beantragen' is used for official applications — for jobs, use 'sich bewerben'.",
+      "The noun form is 'der Antrag'."
+    ],
+    "relatedWords": [
+      "der Antrag",
+      "das Antragsformular",
+      "einreichen",
+      "stellen",
+      "v-work-039"
+    ],
+    "tags": [
+      "essential",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-027",
+    "word": "ausfüllen",
+    "baseForm": "ausfüllen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to fill out (a form)",
+    "meaningDe": "Die leeren Felder in einem Formular mit Informationen versehen",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte füllen Sie das Formular vollständig aus.",
+        "en": "Please fill out the form completely.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich das Formular auch online ausfüllen?",
+        "en": "Can I also fill out the form online?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "fülle aus",
+        "du": "füllst aus",
+        "er_sie_es": "füllt aus",
+        "wir": "füllen aus",
+        "ihr": "füllt aus",
+        "sie_Sie": "füllen aus"
+      },
+      "past": {
+        "ich": "füllte aus",
+        "du": "fülltest aus",
+        "er_sie_es": "füllte aus",
+        "wir": "füllten aus",
+        "ihr": "fülltet aus",
+        "sie_Sie": "füllten aus"
+      },
+      "pastParticiple": "ausgefüllt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Forgetting it is a separable verb: 'Ich fülle das Formular aus', not 'Ich ausfülle das Formular'.",
+      "Confusing 'ausfüllen' (fill out a form) with 'füllen' (fill a container)."
+    ],
+    "usageNotes": [
+      "This is a separable verb (trennbares Verb): the prefix 'aus-' gös to the end of the sentence.",
+      "Past participle: 'aus-ge-füllt' — the 'ge-' gös between the prefix and the verb stem."
+    ],
+    "relatedWords": [
+      "das Formular",
+      "eintragen",
+      "angeben",
+      "unterschreiben"
+    ],
+    "tags": [
+      "essential",
+      "separable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-028",
+    "word": "einreichen",
+    "baseForm": "einreichen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to submit, to hand in (officially)",
+    "meaningDe": "Dokumente oder Anträge offiziell bei einer Behörde abgeben",
+    "situations": [
+      "bureaucracy",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss die Unterlagen bis Freitag einreichen.",
+        "en": "I have to submit the documents by Friday.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie den Antrag schon eingereicht?",
+        "en": "Have you already submitted the application?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "reiche ein",
+        "du": "reichst ein",
+        "er_sie_es": "reicht ein",
+        "wir": "reichen ein",
+        "ihr": "reicht ein",
+        "sie_Sie": "reichen ein"
+      },
+      "past": {
+        "ich": "reichte ein",
+        "du": "reichtest ein",
+        "er_sie_es": "reichte ein",
+        "wir": "reichten ein",
+        "ihr": "reichtet ein",
+        "sie_Sie": "reichten ein"
+      },
+      "pastParticiple": "eingereicht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Confusing 'einreichen' (to submit officially) with 'abgeben' (to hand over) — 'einreichen' is more formal.",
+      "Forgetting the separable prefix: 'Ich reiche den Antrag ein', not 'Ich einreiche den Antrag'."
+    ],
+    "usageNotes": [
+      "Separable verb: 'ein-' gös to the end. Past participle: 'ein-ge-reicht'.",
+      "Often used with 'bei' + dative: 'bei der Behörde einreichen'."
+    ],
+    "relatedWords": [
+      "abgeben",
+      "vorlegen",
+      "der Antrag",
+      "die Unterlagen"
+    ],
+    "tags": [
+      "formal",
+      "separable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-029",
+    "word": "verlängern",
+    "baseForm": "verlängern",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to extend, to renew",
+    "meaningDe": "Die Gültigkeitsdaür eines Dokuments oder einer Erlaubnis erweitern",
+    "situations": [
+      "bureaucracy",
+      "visa",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mein Visum verlängern lassen.",
+        "en": "I need to have my visa extended.",
+        "situation": "visa",
+        "tone": "neutral"
+      },
+      {
+        "de": "Kann ich meinen Aufenthaltstitel verlängern?",
+        "en": "Can I extend my residence title?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Vertrag wurde um ein Jahr verlängert.",
+        "en": "The contract was extended by one year.",
+        "situation": "work",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verlängere",
+        "du": "verlängerst",
+        "er_sie_es": "verlängert",
+        "wir": "verlängern",
+        "ihr": "verlängert",
+        "sie_Sie": "verlängern"
+      },
+      "past": {
+        "ich": "verlängerte",
+        "du": "verlängertest",
+        "er_sie_es": "verlängerte",
+        "wir": "verlängerten",
+        "ihr": "verlängertet",
+        "sie_Sie": "verlängerten"
+      },
+      "pastParticiple": "verlängert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Spelling it without the umlaut: 'verlängern', not 'verlangern'.",
+      "This is an inseparable verb (prefix 'ver-'): 'Ich verlängere', not 'Ich längere ver'."
+    ],
+    "usageNotes": [
+      "Apply for renewal ('Verlängerung') well before the expiry date — usually 6-8 weeks in advance.",
+      "The noun form is 'die Verlängerung'."
+    ],
+    "relatedWords": [
+      "die Verlängerung",
+      "ablaufen",
+      "gültig",
+      "erneuern"
+    ],
+    "tags": [
+      "essential",
+      "inseparable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-030",
+    "word": "beglaubigen",
+    "baseForm": "beglaubigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to certify, to notarize, to authenticate",
+    "meaningDe": "Die Echtheit eines Dokuments oder einer Kopie offiziell bestätigen",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie diese Kopie beglaubigen?",
+        "en": "Can you certify this copy?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Zeugnis muss beglaubigt werden.",
+        "en": "The certificate must be notarized.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beglaubige",
+        "du": "beglaubigst",
+        "er_sie_es": "beglaubigt",
+        "wir": "beglaubigen",
+        "ihr": "beglaubigt",
+        "sie_Sie": "beglaubigen"
+      },
+      "past": {
+        "ich": "beglaubigte",
+        "du": "beglaubigtest",
+        "er_sie_es": "beglaubigte",
+        "wir": "beglaubigten",
+        "ihr": "beglaubigtet",
+        "sie_Sie": "beglaubigten"
+      },
+      "pastParticiple": "beglaubigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Using 'zertifizieren' as a direct translation of 'certify' — in the context of documents, 'beglaubigen' is the correct word.",
+      "Not knowing that inseparable prefix 'be-' means no 'ge-' in the past participle: 'beglaubigt', not 'begeglaubigt'."
+    ],
+    "usageNotes": [
+      "'Beglaubigte Kopie' (certified copy) is a very common phrase in bureaucratic German.",
+      "Inseparable verb — the prefix 'be-' stays attached."
+    ],
+    "relatedWords": [
+      "die Beglaubigung",
+      "der Notar",
+      "die Kopie",
+      "bestätigen"
+    ],
+    "tags": [
+      "formal",
+      "legal",
+      "inseparable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-031",
+    "word": "sich anmelden",
+    "baseForm": "sich anmelden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to register (oneself), to sign up",
+    "meaningDe": "Sich offiziell bei einer Behörde oder Institution registrieren",
+    "situations": [
+      "bureaucracy",
+      "moving",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss mich beim Bürgeramt anmelden.",
+        "en": "I have to register at the citizens' office.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie sich schon angemeldet?",
+        "en": "Have you already registered?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Man muss sich innerhalb von zwei Wochen anmelden.",
+        "en": "You have to register within two weeks.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich an",
+        "du": "meldest dich an",
+        "er_sie_es": "meldet sich an",
+        "wir": "melden uns an",
+        "ihr": "meldet euch an",
+        "sie_Sie": "melden sich an"
+      },
+      "past": {
+        "ich": "meldete mich an",
+        "du": "meldetest dich an",
+        "er_sie_es": "meldete sich an",
+        "wir": "meldeten uns an",
+        "ihr": "meldetet euch an",
+        "sie_Sie": "meldeten sich an"
+      },
+      "pastParticiple": "angemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Forgetting the reflexive pronoun 'sich': 'Ich melde mich an', not 'Ich melde an' (without 'mich' it means to register someone/something else).",
+      "Forgetting the separable prefix: 'Ich melde mich an', not 'Ich anmelde mich'."
+    ],
+    "usageNotes": [
+      "Reflexive + separable: both the reflexive pronoun and the prefix must be placed correctly.",
+      "Without 'sich', 'anmelden' can mean to register something else (e.g., 'ein Auto anmelden')."
+    ],
+    "relatedWords": [
+      "die Anmeldung",
+      "sich abmelden",
+      "sich ummelden",
+      "das Bürgeramt"
+    ],
+    "tags": [
+      "essential",
+      "reflexive verb",
+      "separable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-032",
+    "word": "unterschreiben",
+    "baseForm": "unterschreiben",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to sign (a document)",
+    "meaningDe": "Seinen Namen unter ein Dokument schreiben, um es zu bestätigen",
+    "situations": [
+      "bureaucracy",
+      "legal",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte unterschreiben Sie hier.",
+        "en": "Please sign here.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe den Mietvertrag unterschrieben.",
+        "en": "I signed the rental contract.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "unterschreibe",
+        "du": "unterschreibst",
+        "er_sie_es": "unterschreibt",
+        "wir": "unterschreiben",
+        "ihr": "unterschreibt",
+        "sie_Sie": "unterschreiben"
+      },
+      "past": {
+        "ich": "unterschrieb",
+        "du": "unterschriebst",
+        "er_sie_es": "unterschrieb",
+        "wir": "unterschrieben",
+        "ihr": "unterschriebt",
+        "sie_Sie": "unterschrieben"
+      },
+      "pastParticiple": "unterschrieben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "This is an inseparable verb despite having 'unter-' as prefix: 'Ich unterschreibe', not 'Ich schreibe unter'.",
+      "The past tense is strong (irregular): 'unterschrieb', not 'unterschreibte'."
+    ],
+    "usageNotes": [
+      "Inseparable verb — the stress is on '-schrei-', not on 'unter-'.",
+      "A more formal synonym is 'unterzeichnen'."
+    ],
+    "relatedWords": [
+      "die Unterschrift",
+      "unterzeichnen",
+      "der Vertrag",
+      "das Dokument",
+      "v-housing-034"
+    ],
+    "tags": [
+      "essential",
+      "inseparable verb",
+      "irregular"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-033",
+    "word": "vorlegen",
+    "baseForm": "vorlegen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to present, to produce (a document)",
+    "meaningDe": "Ein Dokument zeigen oder einer Behörde übergeben",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Bitte legen Sie Ihren Ausweis vor.",
+        "en": "Please present your ID.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Welche Dokumente muss ich vorlegen?",
+        "en": "Which documents do I need to present?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "lege vor",
+        "du": "legst vor",
+        "er_sie_es": "legt vor",
+        "wir": "legen vor",
+        "ihr": "legt vor",
+        "sie_Sie": "legen vor"
+      },
+      "past": {
+        "ich": "legte vor",
+        "du": "legtest vor",
+        "er_sie_es": "legte vor",
+        "wir": "legten vor",
+        "ihr": "legtet vor",
+        "sie_Sie": "legten vor"
+      },
+      "pastParticiple": "vorgelegt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Confusing 'vorlegen' (present/produce a document) with 'vorstellen' (to introduce someone).",
+      "Forgetting the separable prefix: 'Legen Sie den Ausweis vor', not 'Vorlegen Sie den Ausweis'."
+    ],
+    "usageNotes": [
+      "Separable verb: 'vor-' gös to the end of the clause.",
+      "Very common in official contexts — you will hear this at almost every bureaucratic appointment."
+    ],
+    "relatedWords": [
+      "zeigen",
+      "einreichen",
+      "abgeben",
+      "der Nachweis"
+    ],
+    "tags": [
+      "formal",
+      "separable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-034",
+    "word": "abholen",
+    "baseForm": "abholen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to pick up, to collect",
+    "meaningDe": "Etwas an einem bestimmten Ort entgegennehmen oder mitnehmen",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Sie können Ihren Reisepass ab Montag abholen.",
+        "en": "You can pick up your passport from Monday.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Wann kann ich meine Meldebescheinigung abholen?",
+        "en": "When can I pick up my registration certificate?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "hole ab",
+        "du": "holst ab",
+        "er_sie_es": "holt ab",
+        "wir": "holen ab",
+        "ihr": "holt ab",
+        "sie_Sie": "holen ab"
+      },
+      "past": {
+        "ich": "holte ab",
+        "du": "holtest ab",
+        "er_sie_es": "holte ab",
+        "wir": "holten ab",
+        "ihr": "holtet ab",
+        "sie_Sie": "holten ab"
+      },
+      "pastParticiple": "abgeholt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Forgetting the separable prefix: 'Ich hole den Pass ab', not 'Ich abhole den Pass'.",
+      "Confusing 'abholen' (to pick up) with 'holen' (to fetch/get) — 'abholen' implies picking up from a specific location."
+    ],
+    "usageNotes": [
+      "Separable verb: 'ab-' gös to the end.",
+      "Often used in bureaucratic letters: 'Ihr Dokument liegt zur Abholung bereit' (Your document is ready for collection)."
+    ],
+    "relatedWords": [
+      "die Abholung",
+      "holen",
+      "mitnehmen",
+      "entgegennehmen"
+    ],
+    "tags": [
+      "essential",
+      "separable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-035",
+    "word": "übersetzen",
+    "baseForm": "übersetzen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to translate",
+    "meaningDe": "Einen Text von einer Sprache in eine andere übertragen",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss meine Geburtsurkunde übersetzen lassen.",
+        "en": "I need to have my birth certificate translated.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Übersetzung muss von einem vereidigten Übersetzer gemacht werden.",
+        "en": "The translation must be done by a sworn translator.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "übersetze",
+        "du": "übersetzt",
+        "er_sie_es": "übersetzt",
+        "wir": "übersetzen",
+        "ihr": "übersetzt",
+        "sie_Sie": "übersetzen"
+      },
+      "past": {
+        "ich": "übersetzte",
+        "du": "übersetztest",
+        "er_sie_es": "übersetzte",
+        "wir": "übersetzten",
+        "ihr": "übersetztet",
+        "sie_Sie": "übersetzten"
+      },
+      "pastParticiple": "übersetzt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "There are two verbs 'übersetzen': inseparable (to translate, stress on '-set-') and separable (to cross over by ferry, stress on 'über-').",
+      "The past participle for 'translate' is 'übersetzt' (no 'ge-'), not 'übergesetzt' (which means 'ferried across')."
+    ],
+    "usageNotes": [
+      "For bureaucratic purposes, translations must be 'beglaubigt' (certified) by a 'vereidigter Übersetzer' (sworn translator).",
+      "'Etwas übersetzen lassen' means 'to have something translated'."
+    ],
+    "relatedWords": [
+      "die Übersetzung",
+      "der Übersetzer",
+      "die Übersetzerin",
+      "vereidigt"
+    ],
+    "tags": [
+      "inseparable verb",
+      "essential for immigrants"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-036",
+    "word": "nachweisen",
+    "baseForm": "nachweisen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to prove, to verify, to provide evidence of",
+    "meaningDe": "Einen Sachverhalt durch Dokumente oder Belege belegen",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Sie müssen Ihre Sprachkenntnisse nachweisen.",
+        "en": "You must prove your language skills.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Können Sie das schriftlich nachweisen?",
+        "en": "Can you prove that in writing?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "weise nach",
+        "du": "weist nach",
+        "er_sie_es": "weist nach",
+        "wir": "weisen nach",
+        "ihr": "weist nach",
+        "sie_Sie": "weisen nach"
+      },
+      "past": {
+        "ich": "wies nach",
+        "du": "wiesest nach",
+        "er_sie_es": "wies nach",
+        "wir": "wiesen nach",
+        "ihr": "wieset nach",
+        "sie_Sie": "wiesen nach"
+      },
+      "pastParticiple": "nachgewiesen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Confusing the strong past tense: 'wies nach', not 'weiste nach'.",
+      "Separable verb: 'Ich weise meine Kenntnisse nach', not 'Ich nachweise meine Kenntnisse'."
+    ],
+    "usageNotes": [
+      "Separable and irregular (strong) verb.",
+      "The noun form 'der Nachweis' (proof) is equally important."
+    ],
+    "relatedWords": [
+      "der Nachweis",
+      "belegen",
+      "beweisen",
+      "bestätigen"
+    ],
+    "tags": [
+      "formal",
+      "separable verb",
+      "irregular"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-037",
+    "word": "genehmigen",
+    "baseForm": "genehmigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to approve, to authorize, to grant permission",
+    "meaningDe": "Offiziell erlauben oder einem Antrag zustimmen",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Der Antrag wurde genehmigt.",
+        "en": "The application was approved.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Mein Visum wurde nicht genehmigt.",
+        "en": "My visa was not approved.",
+        "situation": "visa",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "genehmige",
+        "du": "genehmigst",
+        "er_sie_es": "genehmigt",
+        "wir": "genehmigen",
+        "ihr": "genehmigt",
+        "sie_Sie": "genehmigen"
+      },
+      "past": {
+        "ich": "genehmigte",
+        "du": "genehmigtest",
+        "er_sie_es": "genehmigte",
+        "wir": "genehmigten",
+        "ihr": "genehmigtet",
+        "sie_Sie": "genehmigten"
+      },
+      "pastParticiple": "genehmigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Inseparable verb (no 'ge-' in past participle): 'genehmigt', not 'gegenehmigt'.",
+      "Confusing 'genehmigen' (to approve officially) with 'erlauben' (to allow, more general)."
+    ],
+    "usageNotes": [
+      "Often used in passive voice: 'Der Antrag wurde genehmigt' (The application was approved).",
+      "The opposite is 'ablehnen' (to reject)."
+    ],
+    "relatedWords": [
+      "die Genehmigung",
+      "bewilligen",
+      "ablehnen",
+      "erlauben",
+      "v-meetings-038"
+    ],
+    "tags": [
+      "formal",
+      "inseparable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-038",
+    "word": "ablehnen",
+    "baseForm": "ablehnen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to reject, to decline, to deny",
+    "meaningDe": "Einen Antrag oder ein Gesuch nicht genehmigen",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Mein Antrag auf Aufenthaltserlaubnis wurde abgelehnt.",
+        "en": "My application for a residence permit was rejected.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Warum wurde mein Antrag abgelehnt?",
+        "en": "Why was my application rejected?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "lehne ab",
+        "du": "lehnst ab",
+        "er_sie_es": "lehnt ab",
+        "wir": "lehnen ab",
+        "ihr": "lehnt ab",
+        "sie_Sie": "lehnen ab"
+      },
+      "past": {
+        "ich": "lehnte ab",
+        "du": "lehntest ab",
+        "er_sie_es": "lehnte ab",
+        "wir": "lehnten ab",
+        "ihr": "lehntet ab",
+        "sie_Sie": "lehnten ab"
+      },
+      "pastParticiple": "abgelehnt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Der Antrag wird abgelehnt', not 'Der Antrag wird lehntab'.",
+      "Confusing 'ablehnen' (reject an application) with 'verweigern' (refuse to do something)."
+    ],
+    "usageNotes": [
+      "If your application is 'abgelehnt', you can often file a 'Widerspruch' (objection) or 'Klage' (lawsuit).",
+      "The noun form is 'die Ablehnung' (rejection)."
+    ],
+    "relatedWords": [
+      "die Ablehnung",
+      "genehmigen",
+      "der Widerspruch",
+      "die Klage"
+    ],
+    "tags": [
+      "formal",
+      "separable verb"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-039",
+    "word": "abgeben",
+    "baseForm": "abgeben",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to hand in, to submit, to turn in",
+    "meaningDe": "Etwas an einer bestimmten Stelle übergeben oder einreichen",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Wo kann ich die Unterlagen abgeben?",
+        "en": "Where can I hand in the documents?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte geben Sie das Formular am Schalter ab.",
+        "en": "Please submit the form at the counter.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "gebe ab",
+        "du": "gibst ab",
+        "er_sie_es": "gibt ab",
+        "wir": "geben ab",
+        "ihr": "gebt ab",
+        "sie_Sie": "geben ab"
+      },
+      "past": {
+        "ich": "gab ab",
+        "du": "gabst ab",
+        "er_sie_es": "gab ab",
+        "wir": "gaben ab",
+        "ihr": "gabt ab",
+        "sie_Sie": "gaben ab"
+      },
+      "pastParticiple": "abgegeben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "This is a strong (irregular) verb with vowel change: 'ich gebe ab' but 'du gibst ab', 'er gibt ab'.",
+      "Separable verb: 'Ich gebe das Formular ab', not 'Ich abgebe das Formular'."
+    ],
+    "usageNotes": [
+      "Less formal than 'einreichen' — both can be used for submitting documents.",
+      "Also means 'to give off/emit' in other contexts."
+    ],
+    "relatedWords": [
+      "einreichen",
+      "vorlegen",
+      "der Schalter",
+      "die Abgabe",
+      "v-work-035"
+    ],
+    "tags": [
+      "essential",
+      "separable verb",
+      "irregular"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-040",
+    "word": "ablaufen",
+    "baseForm": "ablaufen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to expire, to run out",
+    "meaningDe": "Ungültig werden, weil die Gültigkeitsdaür zu Ende ist",
+    "situations": [
+      "bureaucracy",
+      "visa",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Mein Visum läuft nächsten Monat ab.",
+        "en": "My visa expires next month.",
+        "situation": "visa",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Personalausweis ist abgelaufen.",
+        "en": "The ID card has expired.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wann läuft Ihre Aufenthaltserlaubnis ab?",
+        "en": "When does your residence permit expire?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "laufe ab",
+        "du": "läufst ab",
+        "er_sie_es": "läuft ab",
+        "wir": "laufen ab",
+        "ihr": "lauft ab",
+        "sie_Sie": "laufen ab"
+      },
+      "past": {
+        "ich": "lief ab",
+        "du": "liefst ab",
+        "er_sie_es": "lief ab",
+        "wir": "liefen ab",
+        "ihr": "lieft ab",
+        "sie_Sie": "liefen ab"
+      },
+      "pastParticiple": "abgelaufen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Using 'haben' as auxiliary — 'ablaufen' (expire) uses 'sein': 'Das Visum ist abgelaufen', not 'hat abgelaufen'.",
+      "Forgetting the vowel change: 'du läufst ab', 'er läuft ab' (umlaut in 2nd/3rd person singular)."
+    ],
+    "usageNotes": [
+      "Strong verb with vowel change (au → äu in present, au → ie in past).",
+      "The adjective 'abgelaufen' (expired) is very commonly used."
+    ],
+    "relatedWords": [
+      "gültig",
+      "ungültig",
+      "verlängern",
+      "die Gültigkeit"
+    ],
+    "tags": [
+      "essential",
+      "separable verb",
+      "irregular",
+      "uses sein"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-041",
+    "word": "zuständig",
+    "baseForm": "zuständig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "responsible, in charge, competent (in a legal sense)",
+    "meaningDe": "Für eine bestimmte Aufgabe oder einen bestimmten Bereich verantwortlich",
+    "situations": [
+      "bureaucracy",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Welche Behörde ist dafür zuständig?",
+        "en": "Which authority is responsible for that?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Dafür bin ich nicht zuständig.",
+        "en": "I am not responsible for that.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das zuständige Amt ist das Bürgeramt in Ihrem Bezirk.",
+        "en": "The responsible office is the citizens' office in your district.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'verantwortlich' (responsible in a general sense) when 'zuständig' (officially in charge) is more appropriate in bureaucratic contexts.",
+      "Forgetting the preposition: 'zuständig für' + accusative."
+    ],
+    "usageNotes": [
+      "'Zuständig für' + accusative is the standard pattern.",
+      "You will hear 'Dafür bin ich nicht zuständig' (That's not my responsibility) very often at German offices."
+    ],
+    "relatedWords": [
+      "die Zuständigkeit",
+      "verantwortlich",
+      "die Behörde",
+      "das Amt",
+      "v-emails-044",
+      "v-meetings-045",
+      "v-phone-044",
+      "v-work-041"
+    ],
+    "tags": [
+      "essential",
+      "bureaucratic German"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-042",
+    "word": "gültig",
+    "baseForm": "gültig",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "valid",
+    "meaningDe": "Noch rechtlich anerkannt und wirksam",
+    "situations": [
+      "bureaucracy",
+      "travel",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ist Ihr Reisepass noch gültig?",
+        "en": "Is your passport still valid?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Visum ist drei Monate gültig.",
+        "en": "The visa is valid for three months.",
+        "situation": "visa",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'valid' (English loanword) — the correct German word is 'gültig'.",
+      "Confusing 'gültig' (valid) with 'richtig' (correct) — they are different concepts."
+    ],
+    "usageNotes": [
+      "The opposite is 'ungültig' (invalid/expired).",
+      "The noun form is 'die Gültigkeit' (validity)."
+    ],
+    "relatedWords": [
+      "ungültig",
+      "die Gültigkeit",
+      "ablaufen",
+      "verlängern"
+    ],
+    "tags": [
+      "essential"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-043",
+    "word": "amtlich",
+    "baseForm": "amtlich",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "official (issued by an authority)",
+    "meaningDe": "Von einer Behörde ausgestellt oder anerkannt",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie einen amtlichen Lichtbildausweis?",
+        "en": "Do you have an official photo ID?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Das ist ein amtliches Dokument.",
+        "en": "That is an official document.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'amtlich' (issüd by an authority) with 'offiziell' (official in a general sense) — 'amtlich' specifically refers to government authorities.",
+      "Not declining the adjective correctly: 'ein amtliches Dokument' (neuter), 'ein amtlicher Ausweis' (masculine)."
+    ],
+    "usageNotes": [
+      "Comes from 'das Amt' (office/authority).",
+      "'Amtlich beglaubigt' means 'officially certified'."
+    ],
+    "relatedWords": [
+      "das Amt",
+      "offiziell",
+      "behördlich",
+      "staatlich"
+    ],
+    "tags": [
+      "formal",
+      "bureaucratic German"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-044",
+    "word": "erforderlich",
+    "baseForm": "erforderlich",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "required, necessary",
+    "meaningDe": "Notwendig, um etwas zu erreichen oder zu erfüllen",
+    "situations": [
+      "bureaucracy",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Welche Unterlagen sind erforderlich?",
+        "en": "Which documents are required?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Ein gültiger Reisepass ist erforderlich.",
+        "en": "A valid passport is required.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Using 'gebraucht' (needed, informal) in formal writing when 'erforderlich' (required, formal) is more appropriate.",
+      "Confusing with 'notwendig' (necessary) — 'erforderlich' is more formal and implies a specific requirement."
+    ],
+    "usageNotes": [
+      "Very common in official letters and forms.",
+      "Synonyms range from informal to formal: 'nötig' < 'notwendig' < 'erforderlich'."
+    ],
+    "relatedWords": [
+      "notwendig",
+      "nötig",
+      "erfordern",
+      "die Voraussetzung"
+    ],
+    "tags": [
+      "formal",
+      "bureaucratic German"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-045",
+    "word": "vorläufig",
+    "baseForm": "vorläufig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "temporary, provisional, preliminary",
+    "meaningDe": "Nur für eine begrenzte Zeit gültig, bis eine endgültige Lösung gefunden wird",
+    "situations": [
+      "bureaucracy",
+      "legal"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen vorläufigen Aufenthaltstitel.",
+        "en": "I have a temporary residence title.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der vorläufige Reisepass ist nur ein Jahr gültig.",
+        "en": "The temporary passport is only valid for one year.",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Confusing 'vorläufig' (temporary/provisional) with 'vorherig' (previous) — they sound similar but mean different things.",
+      "Using 'temporär' (a less common loanword) instead of the native German 'vorläufig'."
+    ],
+    "usageNotes": [
+      "Commonly used with documents: 'vorläufiger Reisepass', 'vorläufiger Personalausweis'.",
+      "The opposite is 'endgültig' (final/permanent)."
+    ],
+    "relatedWords": [
+      "endgültig",
+      "befristet",
+      "temporär",
+      "der Übergangszeitraum"
+    ],
+    "tags": [
+      "formal",
+      "bureaucratic German"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-046",
+    "word": "einen Antrag stellen",
+    "baseForm": "einen Antrag stellen",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "to file an application, to submit a request",
+    "meaningDe": "Ein offizielles Gesuch bei einer Behörde einreichen",
+    "situations": [
+      "bureaucracy",
+      "work",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte einen Antrag auf Kindergeld stellen.",
+        "en": "I would like to file an application for child benefit.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo kann ich einen Antrag auf Aufenthaltserlaubnis stellen?",
+        "en": "Where can I file an application for a residence permit?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Den Antrag müssen Sie persönlich stellen.",
+        "en": "You must file the application in person.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Saying 'einen Antrag machen' instead of 'einen Antrag stellen' — 'stellen' is the correct verb collocation.",
+      "Forgetting the preposition 'auf' + accusative: 'einen Antrag auf etwas stellen'."
+    ],
+    "usageNotes": [
+      "This is one of the most important collocations in bureaucratic German.",
+      "'Einen Antrag stellen auf' + accusative is the full pattern."
+    ],
+    "relatedWords": [
+      "der Antrag",
+      "beantragen",
+      "einreichen",
+      "das Antragsformular"
+    ],
+    "tags": [
+      "essential",
+      "collocation"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-047",
+    "word": "Welche Unterlagen brauche ich?",
+    "baseForm": "Welche Unterlagen brauche ich?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "What documents do I need?",
+    "meaningDe": "Frage nach den benötigten Dokumenten für einen Behördengang",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Welche Unterlagen brauche ich für die Anmeldung?",
+        "en": "What documents do I need for the registration?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Welche Unterlagen brauche ich, um ein Bankkonto zu eröffnen?",
+        "en": "What documents do I need to open a bank account?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Saying 'Was für Papiere brauche ich?' is understood but sounds less natural than 'Welche Unterlagen brauche ich?'.",
+      "Using 'Dokumente' instead of 'Unterlagen' — both work, but 'Unterlagen' is more idiomatic in this context."
+    ],
+    "usageNotes": [
+      "An essential qüstion to ask before any bureaucratic appointment.",
+      "Always check the required 'Unterlagen' list on the authority's website before going."
+    ],
+    "relatedWords": [
+      "die Unterlage",
+      "das Dokument",
+      "erforderlich",
+      "mitbringen"
+    ],
+    "tags": [
+      "essential",
+      "useful phrase"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-048",
+    "word": "Wo muss ich mich anmelden?",
+    "baseForm": "Wo muss ich mich anmelden?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Where do I have to register?",
+    "meaningDe": "Frage nach dem Ort, an dem man seine Anmeldung durchführen muss",
+    "situations": [
+      "bureaucracy",
+      "moving"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin gerade nach München gezogen. Wo muss ich mich anmelden?",
+        "en": "I just moved to Munich. Where do I have to register?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wo muss ich mich anmelden, wenn ich eine neü Wohnung habe?",
+        "en": "Where do I have to register when I have a new apartment?",
+        "situation": "moving",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Forgetting the reflexive pronoun 'mich': 'Wo muss ich mich anmelden?', not 'Wo muss ich anmelden?'.",
+      "Not knowing the answer: at the 'Bürgeramt' (or 'Einwohnermeldeamt') of your district."
+    ],
+    "usageNotes": [
+      "One of the first qüstions every newcomer to Germany needs to ask.",
+      "The answer is always: at the Bürgeramt/Einwohnermeldeamt of your district, within 14 days of moving in."
+    ],
+    "relatedWords": [
+      "sich anmelden",
+      "die Anmeldung",
+      "das Bürgeramt",
+      "der Wohnsitz"
+    ],
+    "tags": [
+      "essential",
+      "useful phrase",
+      "first steps in Germany"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-049",
+    "word": "Ich hätte gern einen Termin.",
+    "baseForm": "Ich hätte gern einen Termin.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I would like an appointment.",
+    "meaningDe": "Höfliche Bitte um einen Termin bei einer Behörde",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Guten Tag, ich hätte gern einen Termin für die Anmeldung.",
+        "en": "Good day, I would like an appointment for the registration.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich hätte gern einen Termin, möglichst nächste Woche.",
+        "en": "I would like an appointment, preferably next week.",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Saying 'Ich will einen Termin' (I want an appointment) — this is too blunt; 'Ich hätte gern' is polite.",
+      "Using 'möchte' is also fine, but 'hätte gern' is slightly more polite in formal settings."
+    ],
+    "usageNotes": [
+      "The Konjunktiv II form 'hätte gern' is the standard polite reqüst form in German.",
+      "In practice, most appointments are now booked online, but this phrase is useful for phone calls."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "vereinbaren",
+      "buchen",
+      "die Wartezeit"
+    ],
+    "tags": [
+      "essential",
+      "polite request",
+      "useful phrase"
+    ]
+  },
+  {
+    "id": "v-bureaucracy-050",
+    "word": "Wie lange daürt die Bearbeitung?",
+    "baseForm": "Wie lange daürt die Bearbeitung?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "How long does the processing take?",
+    "meaningDe": "Frage nach der Daür der Bearbeitung eines Antrags oder Vorgangs",
+    "situations": [
+      "bureaucracy",
+      "daily life"
+    ],
+    "examples": [
+      {
+        "de": "Wie lange daürt die Bearbeitung meines Antrags?",
+        "en": "How long does the processing of my application take?",
+        "situation": "bureaucracy",
+        "tone": "formal"
+      },
+      {
+        "de": "Wie lange daürt die Bearbeitung normalerweise?",
+        "en": "How long does the processing usually take?",
+        "situation": "bureaucracy",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Saying 'Wie lang' instead of 'Wie lange' — 'Wie lange' (with -e) is correct for time duration.",
+      "Expecting a fast answer — processing times (Bearbeitungszeiten) in Germany can range from days to months."
+    ],
+    "usageNotes": [
+      "Always ask this qüstion when submitting an application so you know when to follow up.",
+      "'Die Bearbeitungszeit' (processing time) is the noun you will see on official websites."
+    ],
+    "relatedWords": [
+      "die Bearbeitungszeit",
+      "dauern",
+      "bearbeiten",
+      "der Bescheid"
+    ],
+    "tags": [
+      "essential",
+      "useful phrase"
+    ]
+  }
+]

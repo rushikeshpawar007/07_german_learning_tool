@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "s-travel-001",
+    "de": "Von welchem Gleis fährt der Zug nach München ab?",
+    "en": "From which platform does the train to Munich depart?",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Von",
+        "role": "preposition"
+      },
+      {
+        "text": "welchem",
+        "role": "article"
+      },
+      {
+        "text": "Gleis",
+        "role": "object"
+      },
+      {
+        "text": "fährt",
+        "role": "verb"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Zug",
+        "role": "subject"
+      },
+      {
+        "text": "nach",
+        "role": "preposition"
+      },
+      {
+        "text": "München",
+        "role": "object"
+      },
+      {
+        "text": "ab",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with preposition first",
+      "Separable verb 'abfahren'"
+    ],
+    "vocabIds": [
+      "v-travel-001",
+      "v-travel-046"
+    ],
+    "builderHints": [
+      "In W-questions, the preposition comes before the question word"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-002",
+    "de": "Ich möchte eine Fahrkarte nach Berlin kaufen.",
+    "en": "I would like to buy a ticket to Berlin.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Fahrkarte",
+        "role": "object"
+      },
+      {
+        "text": "nach",
+        "role": "preposition"
+      },
+      {
+        "text": "Berlin",
+        "role": "object"
+      },
+      {
+        "text": "kaufen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchten' + infinitive at end",
+      "Accusative feminine article 'eine'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-travel-003"
+    ],
+    "builderHints": [
+      "'möchte' is in position 2, the infinitive 'kaufen' goes to the end"
+    ],
+    "alternatives": [
+      "Eine Fahrkarte nach Berlin möchte ich kaufen."
+    ]
+  },
+  {
+    "id": "s-travel-003",
+    "de": "Wann kommt der nächste Zug an?",
+    "en": "When does the next train arrive?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wann",
+        "role": "other"
+      },
+      {
+        "text": "kommt",
+        "role": "verb"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "nächste",
+        "role": "other"
+      },
+      {
+        "text": "Zug",
+        "role": "subject"
+      },
+      {
+        "text": "an",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "W-question word order",
+      "Separable verb 'ankommen'"
+    ],
+    "vocabIds": [
+      "v-housing-048",
+      "v-travel-046"
+    ],
+    "builderHints": [
+      "The prefix 'an' separates and goes to the end of the sentence"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-004",
+    "de": "Können Sie mir sagen, wo der Ausgang ist?",
+    "en": "Can you tell me where the exit is?",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "sagen",
+        "role": "verb"
+      },
+      {
+        "text": "wo",
+        "role": "other"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Ausgang",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Indirect question with 'wo'",
+      "Verb-last in subordinate clause",
+      "Formal 'Sie'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-housing-048"
+    ],
+    "builderHints": [
+      "In the subordinate clause after 'wo', the verb goes to the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-005",
+    "de": "Ich habe ein Zimmer für zwei Nächte reserviert.",
+    "en": "I have reserved a room for two nights.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Zimmer",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "zwei",
+        "role": "other"
+      },
+      {
+        "text": "Nächte",
+        "role": "object"
+      },
+      {
+        "text": "reserviert",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense with 'haben'",
+      "Past participle at end"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-smalltalk-031",
+      "v-smalltalk-046"
+    ],
+    "builderHints": [
+      "In Perfekt, the auxiliary 'habe' is in position 2 and the participle goes to the end"
+    ],
+    "alternatives": [
+      "Ein Zimmer für zwei Nächte habe ich reserviert.",
+      "Für zwei Nächte habe ich ein Zimmer reserviert."
+    ]
+  },
+  {
+    "id": "s-travel-006",
+    "de": "Der Flug hat leider zwei Stunden Verspätung.",
+    "en": "The flight is unfortunately delayed by two hours.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Flug",
+        "role": "subject"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "zwei",
+        "role": "other"
+      },
+      {
+        "text": "Stunden",
+        "role": "object"
+      },
+      {
+        "text": "Verspätung",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Expression 'Verspätung haben'",
+      "Adverb placement after verb"
+    ],
+    "vocabIds": [
+      "v-phone-050",
+      "v-travel-049",
+      "v-travel-005"
+    ],
+    "builderHints": [
+      "'Verspätung haben' is a fixed expression for delays"
+    ],
+    "alternatives": [
+      "Leider hat der Flug zwei Stunden Verspätung."
+    ]
+  },
+  {
+    "id": "s-travel-007",
+    "de": "Wie komme ich am besten zum Hauptbahnhof?",
+    "en": "What is the best way to get to the main station?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wie",
+        "role": "other"
+      },
+      {
+        "text": "komme",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "besten",
+        "role": "adverb"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "Hauptbahnhof",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'wie'",
+      "Superlative 'am besten'",
+      "Contraction 'zum' = zu + dem"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-smalltalk-043",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-048",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'zum' is a contraction of 'zu' + 'dem' (dative masculine)"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-008",
+    "de": "Wir müssen am Gate B12 umsteigen.",
+    "en": "We have to transfer at gate B12.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "müssen",
+        "role": "verb"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Gate",
+        "role": "object"
+      },
+      {
+        "text": "B12",
+        "role": "other"
+      },
+      {
+        "text": "umsteigen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Separable verb 'umsteigen'"
+    ],
+    "vocabIds": [
+      "v-travel-026"
+    ],
+    "builderHints": [
+      "With a modal verb, the separable verb stays together as an infinitive at the end"
+    ],
+    "alternatives": [
+      "Am Gate B12 müssen wir umsteigen."
+    ]
+  },
+  {
+    "id": "s-travel-009",
+    "de": "Entschuldigung, ist dieser Platz noch frei?",
+    "en": "Excuse me, is this seat still available?",
+    "situation": "travel",
+    "level": "A1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Entschuldigung",
+        "role": "other"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "dieser",
+        "role": "article"
+      },
+      {
+        "text": "Platz",
+        "role": "subject"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "frei",
+        "role": "other"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb in position 1",
+      "Demonstrative article 'dieser'"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "In yes/no questions, the verb comes first"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-010",
+    "de": "Ich checke heute Nachmittag ein.",
+    "en": "I am checking in this afternoon.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "checke",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "Nachmittag",
+        "role": "adverb"
+      },
+      {
+        "text": "ein",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'einchecken'",
+      "Time expression 'heute Nachmittag'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "The prefix 'ein' separates and goes to the end"
+    ],
+    "alternatives": [
+      "Heute Nachmittag checke ich ein."
+    ]
+  },
+  {
+    "id": "s-travel-011",
+    "de": "Gibt es hier in der Nähe eine Bushaltestelle?",
+    "en": "Is there a bus stop nearby?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Gibt",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Nähe",
+        "role": "object"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Bushaltestelle",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Impersonal 'es gibt' + accusative",
+      "Dative after 'in'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'Es gibt' always takes accusative; 'in der Nähe' is a fixed dative expression"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-012",
+    "de": "Könnten Sie mir bitte den Weg zum Museum zeigen?",
+    "en": "Could you please show me the way to the museum?",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Könnten",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Weg",
+        "role": "object"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "Museum",
+        "role": "object"
+      },
+      {
+        "text": "zeigen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II for polite requests",
+      "Dative 'mir' + accusative 'den Weg'"
+    ],
+    "vocabIds": [
+      "v-phone-048",
+      "v-travel-050",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-phone-046",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-meetings-048"
+    ],
+    "builderHints": [
+      "'Könnten' is the polite subjunctive form of 'können'"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-013",
+    "de": "Der Zug nach Hamburg fällt heute leider aus.",
+    "en": "The train to Hamburg is unfortunately cancelled today.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "Zug",
+        "role": "subject"
+      },
+      {
+        "text": "nach",
+        "role": "preposition"
+      },
+      {
+        "text": "Hamburg",
+        "role": "object"
+      },
+      {
+        "text": "fällt",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "aus",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'ausfallen'",
+      "Vowel change 'a' to 'ä' in 3rd person"
+    ],
+    "vocabIds": [
+      "v-phone-050"
+    ],
+    "builderHints": [
+      "'ausfallen' separates: 'fällt...aus' — note the umlaut in the stem"
+    ],
+    "alternatives": [
+      "Heute fällt der Zug nach Hamburg leider aus.",
+      "Leider fällt der Zug nach Hamburg heute aus."
+    ]
+  },
+  {
+    "id": "s-travel-014",
+    "de": "Wo kann ich meinen Koffer abstellen?",
+    "en": "Where can I put down my suitcase?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wo",
+        "role": "other"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "meinen",
+        "role": "article"
+      },
+      {
+        "text": "Koffer",
+        "role": "object"
+      },
+      {
+        "text": "abstellen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with modal verb",
+      "Separable verb 'abstellen' stays together with modal"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-travel-020"
+    ],
+    "builderHints": [
+      "After a modal verb, the separable verb remains as one infinitive at the end"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-015",
+    "de": "Biegen Sie an der nächsten Kreuzung rechts ab.",
+    "en": "Turn right at the next intersection.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Biegen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "nächsten",
+        "role": "other"
+      },
+      {
+        "text": "Kreuzung",
+        "role": "object"
+      },
+      {
+        "text": "rechts",
+        "role": "adverb"
+      },
+      {
+        "text": "ab",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with formal 'Sie'",
+      "Separable verb 'abbiegen'",
+      "Dative after 'an'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "Formal imperatives keep the verb first and 'Sie' directly after"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-016",
+    "de": "Hast du schon die Bordkarte ausgedruckt?",
+    "en": "Have you already printed the boarding pass?",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Hast",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "schon",
+        "role": "adverb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Bordkarte",
+        "role": "object"
+      },
+      {
+        "text": "ausgedruckt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt of separable verb 'ausdrucken'",
+      "Yes/no question in Perfekt"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "Separable verbs in Perfekt: 'ge' goes between prefix and stem — 'aus-ge-druckt'"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-017",
+    "de": "Das Hotel liegt direkt am Marktplatz.",
+    "en": "The hotel is located right at the market square.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Hotel",
+        "role": "subject"
+      },
+      {
+        "text": "liegt",
+        "role": "verb"
+      },
+      {
+        "text": "direkt",
+        "role": "adverb"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Marktplatz",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb 'liegen' for location",
+      "Contraction 'am' = an + dem"
+    ],
+    "vocabIds": [
+      "v-travel-042"
+    ],
+    "builderHints": [
+      "Use 'liegen' (not 'sein') to describe where a building is located"
+    ],
+    "alternatives": [
+      "Direkt am Marktplatz liegt das Hotel."
+    ]
+  },
+  {
+    "id": "s-travel-018",
+    "de": "Wir sollten früher zum Flughafen fahren.",
+    "en": "We should go to the airport earlier.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "sollten",
+        "role": "verb"
+      },
+      {
+        "text": "früher",
+        "role": "adverb"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "Flughafen",
+        "role": "object"
+      },
+      {
+        "text": "fahren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'sollten' (Konjunktiv II)",
+      "Comparative 'früher'"
+    ],
+    "vocabIds": [
+      "v-meetings-048",
+      "v-travel-050",
+      "v-travel-015"
+    ],
+    "builderHints": [
+      "'sollten' is the subjunctive form of 'sollen', used for suggestions"
+    ],
+    "alternatives": [
+      "Früher sollten wir zum Flughafen fahren.",
+      "Zum Flughafen sollten wir früher fahren."
+    ]
+  },
+  {
+    "id": "s-travel-019",
+    "de": "Gehen Sie geradeaus und dann die zweite Straße links.",
+    "en": "Go straight ahead and then take the second street on the left.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Gehen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "geradeaus",
+        "role": "adverb"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "dann",
+        "role": "adverb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "zweite",
+        "role": "other"
+      },
+      {
+        "text": "Straße",
+        "role": "object"
+      },
+      {
+        "text": "links",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with formal 'Sie'",
+      "Ordinal number 'zweite'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-travel-047"
+    ],
+    "builderHints": [
+      "Directions often use imperative + adverbs of direction"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-020",
+    "de": "Ich brauche ein Einzelzimmer mit Frühstück.",
+    "en": "I need a single room with breakfast.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "brauche",
+        "role": "verb"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Einzelzimmer",
+        "role": "object"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "Frühstück",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Accusative neuter 'ein'",
+      "Dative after 'mit'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-047",
+      "v-travel-018",
+      "v-emails-046"
+    ],
+    "builderHints": [
+      "'mit' always takes the dative case"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-021",
+    "de": "Um wie viel Uhr muss ich auschecken?",
+    "en": "What time do I have to check out?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Um",
+        "role": "preposition"
+      },
+      {
+        "text": "wie",
+        "role": "other"
+      },
+      {
+        "text": "viel",
+        "role": "other"
+      },
+      {
+        "text": "Uhr",
+        "role": "object"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "auschecken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'um wie viel Uhr'",
+      "Modal verb + infinitive"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-smalltalk-043",
+      "v-bureaucracy-048",
+      "v-travel-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-049",
+      "v-travel-032"
+    ],
+    "builderHints": [
+      "'Um wie viel Uhr' is a fixed phrase for asking about time"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-022",
+    "de": "Die Passkontrolle ist im ersten Stock.",
+    "en": "Passport control is on the first floor.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Die",
+        "role": "article"
+      },
+      {
+        "text": "Passkontrolle",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "im",
+        "role": "preposition"
+      },
+      {
+        "text": "ersten",
+        "role": "other"
+      },
+      {
+        "text": "Stock",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Contraction 'im' = in + dem",
+      "Ordinal number with dative ending"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "'im' is a contraction of 'in' + 'dem'; ordinals take adjective endings"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-023",
+    "de": "Darf ich Ihren Reisepass sehen?",
+    "en": "May I see your passport?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Darf",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "Ihren",
+        "role": "article"
+      },
+      {
+        "text": "Reisepass",
+        "role": "object"
+      },
+      {
+        "text": "sehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'dürfen' in question",
+      "Formal possessive 'Ihren' (accusative)"
+    ],
+    "vocabIds": [
+      "v-housing-049",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-020",
+      "v-travel-007"
+    ],
+    "builderHints": [
+      "'Darf' in position 1 forms a polite question; 'Ihren' is accusative masculine"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-024",
+    "de": "Wir steigen an der nächsten Haltestelle aus.",
+    "en": "We are getting off at the next stop.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "steigen",
+        "role": "verb"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "nächsten",
+        "role": "other"
+      },
+      {
+        "text": "Haltestelle",
+        "role": "object"
+      },
+      {
+        "text": "aus",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'aussteigen'",
+      "Dative after 'an' (location)"
+    ],
+    "vocabIds": [
+      "v-travel-023"
+    ],
+    "builderHints": [
+      "'aussteigen' separates: the prefix 'aus' goes to the end"
+    ],
+    "alternatives": [
+      "An der nächsten Haltestelle steigen wir aus."
+    ]
+  },
+  {
+    "id": "s-travel-025",
+    "de": "Haben Sie noch ein Doppelzimmer frei?",
+    "en": "Do you still have a double room available?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Haben",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Doppelzimmer",
+        "role": "object"
+      },
+      {
+        "text": "frei",
+        "role": "other"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb first",
+      "Predicate adjective 'frei'"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-emails-048",
+      "v-phone-048",
+      "v-travel-050",
+      "v-travel-019"
+    ],
+    "builderHints": [
+      "'noch' means 'still' and comes after the subject in questions"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-026",
+    "de": "Ich muss meinen Anschlussflug um 15 Uhr erreichen.",
+    "en": "I have to catch my connecting flight at 3 PM.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "muss",
+        "role": "verb"
+      },
+      {
+        "text": "meinen",
+        "role": "article"
+      },
+      {
+        "text": "Anschlussflug",
+        "role": "object"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "15",
+        "role": "other"
+      },
+      {
+        "text": "Uhr",
+        "role": "other"
+      },
+      {
+        "text": "erreichen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Accusative masculine 'meinen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-032"
+    ],
+    "builderHints": [
+      "'meinen' is accusative masculine — the possessive takes the same endings as 'ein'"
+    ],
+    "alternatives": [
+      "Meinen Anschlussflug muss ich um 15 Uhr erreichen.",
+      "Um 15 Uhr muss ich meinen Anschlussflug erreichen."
+    ]
+  },
+  {
+    "id": "s-travel-027",
+    "de": "Kannst du mir bitte den Stadtplan geben?",
+    "en": "Can you please give me the city map?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Kannst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Stadtplan",
+        "role": "object"
+      },
+      {
+        "text": "geben",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb in yes/no question",
+      "Dative 'mir' + accusative 'den Stadtplan'"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-shopping-046",
+      "v-travel-050",
+      "v-phone-046",
+      "v-phone-048",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-work-046"
+    ],
+    "builderHints": [
+      "'geben' takes dative (to whom) + accusative (what)"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-028",
+    "de": "Das Gepäckband ist in der Ankunftshalle.",
+    "en": "The baggage carousel is in the arrivals hall.",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Gepäckband",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Ankunftshalle",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Dative after 'in' (location, no movement)",
+      "Compound nouns"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "'in' + dative describes location; 'der' is dative feminine here"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-029",
+    "de": "Wir sind mit dem Taxi zum Hotel gefahren.",
+    "en": "We took a taxi to the hotel.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "sind",
+        "role": "verb"
+      },
+      {
+        "text": "mit",
+        "role": "preposition"
+      },
+      {
+        "text": "dem",
+        "role": "article"
+      },
+      {
+        "text": "Taxi",
+        "role": "object"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "Hotel",
+        "role": "object"
+      },
+      {
+        "text": "gefahren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with 'sein' (movement verb)",
+      "Dative after 'mit'"
+    ],
+    "vocabIds": [
+      "v-housing-047",
+      "v-emails-046",
+      "v-shopping-048",
+      "v-meetings-048",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'fahren' uses 'sein' in Perfekt because it expresses movement"
+    ],
+    "alternatives": [
+      "Mit dem Taxi sind wir zum Hotel gefahren.",
+      "Zum Hotel sind wir mit dem Taxi gefahren."
+    ]
+  },
+  {
+    "id": "s-travel-030",
+    "de": "Ich möchte meine Reservierung stornieren.",
+    "en": "I would like to cancel my reservation.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "meine",
+        "role": "article"
+      },
+      {
+        "text": "Reservierung",
+        "role": "object"
+      },
+      {
+        "text": "stornieren",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchten' + infinitive",
+      "Accusative feminine 'meine'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-travel-017",
+      "v-travel-034"
+    ],
+    "builderHints": [
+      "'möchte' in position 2, infinitive 'stornieren' at the end"
+    ],
+    "alternatives": [
+      "Meine Reservierung möchte ich stornieren."
+    ]
+  },
+  {
+    "id": "s-travel-031",
+    "de": "Wo finde ich die Gepäckaufgabe?",
+    "en": "Where do I find the luggage drop-off?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wo",
+        "role": "other"
+      },
+      {
+        "text": "finde",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Gepäckaufgabe",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'wo'",
+      "Accusative feminine article 'die'"
+    ],
+    "vocabIds": [
+      "v-shopping-050",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "In W-questions, the verb comes in position 2 right after the question word"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-032",
+    "de": "Der ICE hält nicht an jeder Station.",
+    "en": "The ICE does not stop at every station.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "ICE",
+        "role": "subject"
+      },
+      {
+        "text": "hält",
+        "role": "verb"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "jeder",
+        "role": "article"
+      },
+      {
+        "text": "Station",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Negation with 'nicht'",
+      "Vowel change 'a' to 'ä' in 'halten'",
+      "Dative after 'an'"
+    ],
+    "vocabIds": [
+      "v-phone-050"
+    ],
+    "builderHints": [
+      "'halten' changes to 'hält' in 3rd person; 'nicht' negates the verb"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-033",
+    "de": "Soll ich dir ein Taxi rufen?",
+    "en": "Should I call you a taxi?",
+    "situation": "travel",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Soll",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "dir",
+        "role": "object"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Taxi",
+        "role": "object"
+      },
+      {
+        "text": "rufen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'sollen' in yes/no question",
+      "Dative 'dir' + accusative 'ein Taxi'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'Soll ich...?' is used to offer help; dative comes before accusative"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-travel-034",
+    "de": "Wir kommen voraussichtlich gegen 18 Uhr an.",
+    "en": "We are expected to arrive around 6 PM.",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "kommen",
+        "role": "verb"
+      },
+      {
+        "text": "voraussichtlich",
+        "role": "adverb"
+      },
+      {
+        "text": "gegen",
+        "role": "preposition"
+      },
+      {
+        "text": "18",
+        "role": "other"
+      },
+      {
+        "text": "Uhr",
+        "role": "other"
+      },
+      {
+        "text": "an",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'ankommen'",
+      "'gegen' + time for approximate times"
+    ],
+    "vocabIds": [
+      "v-meetings-048",
+      "v-work-047",
+      "v-healthcare-049"
+    ],
+    "builderHints": [
+      "'gegen' + accusative means 'around' when used with time expressions"
+    ],
+    "alternatives": [
+      "Voraussichtlich kommen wir gegen 18 Uhr an.",
+      "Gegen 18 Uhr kommen wir voraussichtlich an."
+    ]
+  },
+  {
+    "id": "s-travel-035",
+    "de": "Ich habe mich leider verfahren, können Sie mir helfen?",
+    "en": "I unfortunately took a wrong turn, can you help me?",
+    "situation": "travel",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "verfahren",
+        "role": "verb"
+      },
+      {
+        "text": "können",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mir",
+        "role": "object"
+      },
+      {
+        "text": "helfen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich verfahren' in Perfekt",
+      "Two main clauses joined by comma",
+      "Inseparable prefix 'ver-'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-healthcare-047",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "'sich verfahren' is reflexive: 'mich' is the reflexive pronoun; 'ver-' does not separate"
+    ],
+    "alternatives": [
+      "Leider habe ich mich verfahren, können Sie mir helfen?"
+    ]
+  }
+]

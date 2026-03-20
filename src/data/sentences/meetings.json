@@ -1,0 +1,2165 @@
+[
+  {
+    "id": "s-meetings-001",
+    "de": "Können wir bitte zum nächsten Punkt kommen?",
+    "en": "Can we please move on to the next point?",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "nächsten",
+        "role": "other"
+      },
+      {
+        "text": "Punkt",
+        "role": "object"
+      },
+      {
+        "text": "kommen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'können' + infinitive at end",
+      "Contraction 'zum' = zu + dem"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-phone-048",
+      "v-meetings-048",
+      "v-travel-050",
+      "v-meetings-050",
+      "v-work-047"
+    ],
+    "builderHints": [
+      "Modal verb in position 1 for questions, main verb at the end"
+    ],
+    "alternatives": [
+      "Könnten wir bitte zum nächsten Punkt kommen?"
+    ]
+  },
+  {
+    "id": "s-meetings-002",
+    "de": "Ich würde gerne einen Vorschlag machen.",
+    "en": "I would like to make a suggestion.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "würde",
+        "role": "verb"
+      },
+      {
+        "text": "gerne",
+        "role": "adverb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Vorschlag",
+        "role": "object"
+      },
+      {
+        "text": "machen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'würde' + infinitive for polite requests",
+      "Accusative masculine article 'einen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-046",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-meetings-005",
+      "v-smalltalk-019"
+    ],
+    "builderHints": [
+      "'würde' in position 2, infinitive 'machen' at the end"
+    ],
+    "alternatives": [
+      "Gerne würde ich einen Vorschlag machen."
+    ]
+  },
+  {
+    "id": "s-meetings-003",
+    "de": "Lassen Sie uns die Tagesordnung durchgehen.",
+    "en": "Let us go through the agenda.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Lassen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "uns",
+        "role": "object"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Tagesordnung",
+        "role": "object"
+      },
+      {
+        "text": "durchgehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with 'lassen' + formal 'Sie'",
+      "Separable verb 'durchgehen'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-smalltalk-044",
+      "v-meetings-001"
+    ],
+    "builderHints": [
+      "'Lassen' starts the sentence in imperative form, infinitive at the end"
+    ],
+    "alternatives": [
+      "Die Tagesordnung sollten wir jetzt durchgehen."
+    ]
+  },
+  {
+    "id": "s-meetings-004",
+    "de": "Ich bin der Meinung, dass wir mehr Zeit brauchen.",
+    "en": "I am of the opinion that we need more time.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Meinung",
+        "role": "object"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "mehr",
+        "role": "other"
+      },
+      {
+        "text": "Zeit",
+        "role": "object"
+      },
+      {
+        "text": "brauchen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "dass-clause sends verb to the end",
+      "Genitive expression 'der Meinung sein'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "In the dass-clause, the conjugated verb 'brauchen' goes to the very end"
+    ],
+    "alternatives": [
+      "Meiner Meinung nach brauchen wir mehr Zeit."
+    ]
+  },
+  {
+    "id": "s-meetings-005",
+    "de": "Da stimme ich Ihnen vollkommen zu.",
+    "en": "I completely agree with you on that.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Da",
+        "role": "adverb"
+      },
+      {
+        "text": "stimme",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "Ihnen",
+        "role": "object"
+      },
+      {
+        "text": "vollkommen",
+        "role": "adverb"
+      },
+      {
+        "text": "zu",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'zustimmen' — prefix at the end",
+      "Dative pronoun 'Ihnen' (formal)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'Da' in position 1 pushes the verb to position 2, separable prefix 'zu' at the end"
+    ],
+    "alternatives": [
+      "Ich stimme Ihnen da vollkommen zu."
+    ]
+  },
+  {
+    "id": "s-meetings-006",
+    "de": "Könnten Sie das bitte etwas genauer erklären?",
+    "en": "Could you please explain that in a bit more detail?",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Könnten",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "object"
+      },
+      {
+        "text": "bitte",
+        "role": "particle"
+      },
+      {
+        "text": "etwas",
+        "role": "adverb"
+      },
+      {
+        "text": "genauer",
+        "role": "adverb"
+      },
+      {
+        "text": "erklären",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'könnten' for polite request",
+      "Comparative adverb 'genauer'"
+    ],
+    "vocabIds": [
+      "v-phone-048",
+      "v-travel-050",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-phone-046",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "Konjunktiv II modal in position 1 for a polite question, infinitive at the end"
+    ],
+    "alternatives": [
+      "Könnten Sie das bitte genauer erklären?"
+    ]
+  },
+  {
+    "id": "s-meetings-007",
+    "de": "Wir sollten darüber abstimmen.",
+    "en": "We should vote on that.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "sollten",
+        "role": "verb"
+      },
+      {
+        "text": "darüber",
+        "role": "adverb"
+      },
+      {
+        "text": "abstimmen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'sollten' (Konjunktiv II) + infinitive",
+      "Pronominal adverb 'darüber'"
+    ],
+    "vocabIds": [
+      "v-meetings-026"
+    ],
+    "builderHints": [
+      "'sollten' in position 2, infinitive 'abstimmen' at the end"
+    ],
+    "alternatives": [
+      "Darüber sollten wir abstimmen."
+    ]
+  },
+  {
+    "id": "s-meetings-008",
+    "de": "Ich sehe das etwas anders.",
+    "en": "I see that a bit differently.",
+    "situation": "meetings",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "sehe",
+        "role": "verb"
+      },
+      {
+        "text": "das",
+        "role": "object"
+      },
+      {
+        "text": "etwas",
+        "role": "adverb"
+      },
+      {
+        "text": "anders",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Simple present tense",
+      "'etwas' as softening adverb"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "Standard subject-verb-object order, adverbs follow the object"
+    ],
+    "alternatives": [
+      "Das sehe ich etwas anders."
+    ]
+  },
+  {
+    "id": "s-meetings-009",
+    "de": "Darf ich kurz etwas dazu sagen?",
+    "en": "May I briefly say something about that?",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Darf",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "kurz",
+        "role": "adverb"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "dazu",
+        "role": "adverb"
+      },
+      {
+        "text": "sagen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'dürfen' in V1 position for question",
+      "Pronominal adverb 'dazu'"
+    ],
+    "vocabIds": [
+      "v-housing-049",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "Modal verb first in a yes/no question, infinitive at the end"
+    ],
+    "alternatives": [
+      "Darf ich dazu kurz etwas sagen?"
+    ]
+  },
+  {
+    "id": "s-meetings-010",
+    "de": "Zusammenfassend können wir sagen, dass das Projekt gut läuft.",
+    "en": "In summary, we can say that the project is going well.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Zusammenfassend",
+        "role": "adverb"
+      },
+      {
+        "text": "können",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "sagen",
+        "role": "verb"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Projekt",
+        "role": "subject"
+      },
+      {
+        "text": "gut",
+        "role": "adverb"
+      },
+      {
+        "text": "läuft",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "dass-clause with verb at the end",
+      "Adverb in position 1 triggers inversion"
+    ],
+    "vocabIds": [
+      "v-smalltalk-049"
+    ],
+    "builderHints": [
+      "'Zusammenfassend' in position 1 pushes 'können' to position 2; in the dass-clause, 'läuft' goes to the end"
+    ],
+    "alternatives": [
+      "Wir können zusammenfassend sagen, dass das Projekt gut läuft."
+    ]
+  },
+  {
+    "id": "s-meetings-011",
+    "de": "Wann sollen wir das nächste Treffen ansetzen?",
+    "en": "When should we schedule the next meeting?",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wann",
+        "role": "other"
+      },
+      {
+        "text": "sollen",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "nächste",
+        "role": "other"
+      },
+      {
+        "text": "Treffen",
+        "role": "object"
+      },
+      {
+        "text": "ansetzen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with modal verb in position 2",
+      "Infinitive at the end"
+    ],
+    "vocabIds": [
+      "v-housing-048",
+      "v-travel-046"
+    ],
+    "builderHints": [
+      "Question word first, then modal verb, then subject — infinitive at the end"
+    ],
+    "alternatives": [
+      "Wann sollten wir das nächste Treffen ansetzen?"
+    ]
+  },
+  {
+    "id": "s-meetings-012",
+    "de": "Ich möchte noch einen wichtigen Punkt ansprechen.",
+    "en": "I would like to raise one more important point.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "möchte",
+        "role": "verb"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "wichtigen",
+        "role": "other"
+      },
+      {
+        "text": "Punkt",
+        "role": "object"
+      },
+      {
+        "text": "ansprechen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'möchten' + infinitive at end",
+      "Accusative adjective ending '-en' with 'einen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-046",
+      "v-healthcare-046",
+      "v-phone-049",
+      "v-meetings-048",
+      "v-meetings-050"
+    ],
+    "builderHints": [
+      "'möchte' in position 2, infinitive 'ansprechen' at the very end"
+    ],
+    "alternatives": [
+      "Einen wichtigen Punkt möchte ich noch ansprechen."
+    ]
+  },
+  {
+    "id": "s-meetings-013",
+    "de": "Hat jemand noch Fragen zu diesem Thema?",
+    "en": "Does anyone have any more questions on this topic?",
+    "situation": "meetings",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Hat",
+        "role": "verb"
+      },
+      {
+        "text": "jemand",
+        "role": "subject"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "Fragen",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "preposition"
+      },
+      {
+        "text": "diesem",
+        "role": "article"
+      },
+      {
+        "text": "Thema",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb in position 1",
+      "Dative demonstrative 'diesem'"
+    ],
+    "vocabIds": [
+      "v-smalltalk-020"
+    ],
+    "builderHints": [
+      "Verb first for a yes/no question, prepositional phrase at the end"
+    ],
+    "alternatives": [
+      "Gibt es noch Fragen zu diesem Thema?"
+    ]
+  },
+  {
+    "id": "s-meetings-014",
+    "de": "Wir müssen eine Entscheidung treffen, bevor wir weitermachen.",
+    "en": "We need to make a decision before we continue.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "müssen",
+        "role": "verb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Entscheidung",
+        "role": "object"
+      },
+      {
+        "text": "treffen",
+        "role": "verb"
+      },
+      {
+        "text": "bevor",
+        "role": "conjunction"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "weitermachen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'müssen' + infinitive",
+      "Subordinate clause with 'bevor' sends verb to end"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "Main clause: modal in position 2, infinitive at end. In the bevor-clause, verb goes to the end"
+    ],
+    "alternatives": [
+      "Bevor wir weitermachen, müssen wir eine Entscheidung treffen."
+    ]
+  },
+  {
+    "id": "s-meetings-015",
+    "de": "Ich schlage vor, dass wir nächste Woche wieder darüber sprechen.",
+    "en": "I suggest that we talk about it again next week.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "schlage",
+        "role": "verb"
+      },
+      {
+        "text": "vor",
+        "role": "particle"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "nächste",
+        "role": "other"
+      },
+      {
+        "text": "Woche",
+        "role": "other"
+      },
+      {
+        "text": "wieder",
+        "role": "adverb"
+      },
+      {
+        "text": "darüber",
+        "role": "adverb"
+      },
+      {
+        "text": "sprechen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'vorschlagen'",
+      "dass-clause with verb at end"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-travel-046"
+    ],
+    "builderHints": [
+      "Separable prefix 'vor' goes after the object; in the dass-clause, 'sprechen' goes to the end"
+    ],
+    "alternatives": [
+      "Ich schlage vor, nächste Woche wieder darüber zu sprechen."
+    ]
+  },
+  {
+    "id": "s-meetings-016",
+    "de": "Das Protokoll wird nach der Sitzung verschickt.",
+    "en": "The minutes will be sent out after the meeting.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Protokoll",
+        "role": "subject"
+      },
+      {
+        "text": "wird",
+        "role": "verb"
+      },
+      {
+        "text": "nach",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Sitzung",
+        "role": "object"
+      },
+      {
+        "text": "verschickt",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Passive voice with 'werden' + past participle",
+      "Dative preposition 'nach'"
+    ],
+    "vocabIds": [
+      "v-meetings-002",
+      "v-meetings-009"
+    ],
+    "builderHints": [
+      "'wird' in position 2, past participle 'verschickt' at the end for passive"
+    ],
+    "alternatives": [
+      "Nach der Sitzung wird das Protokoll verschickt."
+    ]
+  },
+  {
+    "id": "s-meetings-017",
+    "de": "Wer ist für diesen Vorschlag?",
+    "en": "Who is in favor of this proposal?",
+    "situation": "meetings",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wer",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "diesen",
+        "role": "article"
+      },
+      {
+        "text": "Vorschlag",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'wer'",
+      "Accusative demonstrative 'diesen'"
+    ],
+    "vocabIds": [
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-meetings-005",
+      "v-smalltalk-019"
+    ],
+    "builderHints": [
+      "Question word in position 1, verb in position 2"
+    ],
+    "alternatives": [
+      "Wer ist dafür?"
+    ]
+  },
+  {
+    "id": "s-meetings-018",
+    "de": "Ich hätte da eine Frage zum Budget.",
+    "en": "I would have a question about the budget.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "hätte",
+        "role": "verb"
+      },
+      {
+        "text": "da",
+        "role": "adverb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "Frage",
+        "role": "object"
+      },
+      {
+        "text": "zum",
+        "role": "preposition"
+      },
+      {
+        "text": "Budget",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'hätte' for polite expression",
+      "Contraction 'zum' = zu + dem"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-work-047",
+      "v-meetings-048",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'hätte' is the polite Konjunktiv II form of 'haben' — use it instead of 'habe' for politeness"
+    ],
+    "alternatives": [
+      "Zum Budget hätte ich da eine Frage."
+    ]
+  },
+  {
+    "id": "s-meetings-019",
+    "de": "Gibt es Einwände gegen den Vorschlag?",
+    "en": "Are there any objections to the proposal?",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Gibt",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "Einwände",
+        "role": "object"
+      },
+      {
+        "text": "gegen",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Vorschlag",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'es gibt' construction in question form",
+      "Accusative preposition 'gegen'"
+    ],
+    "vocabIds": [
+      "v-meetings-047",
+      "v-healthcare-049",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-meetings-005",
+      "v-smalltalk-019"
+    ],
+    "builderHints": [
+      "'Gibt' in position 1 for yes/no question, 'es' follows immediately"
+    ],
+    "alternatives": [
+      "Hat jemand Einwände gegen den Vorschlag?"
+    ]
+  },
+  {
+    "id": "s-meetings-020",
+    "de": "Wir sind uns alle einig, dass das die beste Lösung ist.",
+    "en": "We all agree that this is the best solution.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "sind",
+        "role": "verb"
+      },
+      {
+        "text": "uns",
+        "role": "object"
+      },
+      {
+        "text": "alle",
+        "role": "other"
+      },
+      {
+        "text": "einig",
+        "role": "other"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "das",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "beste",
+        "role": "other"
+      },
+      {
+        "text": "Lösung",
+        "role": "object"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive expression 'sich einig sein'",
+      "dass-clause with verb at end",
+      "Superlative 'beste'"
+    ],
+    "vocabIds": [
+      "v-housing-047",
+      "v-smalltalk-044",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "In the dass-clause, the verb 'ist' must go to the very end"
+    ],
+    "alternatives": [
+      "Dass das die beste Lösung ist, da sind wir uns alle einig."
+    ]
+  },
+  {
+    "id": "s-meetings-021",
+    "de": "Entschuldigung, dürfte ich Sie kurz unterbrechen?",
+    "en": "Excuse me, may I briefly interrupt you?",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Entschuldigung",
+        "role": "other"
+      },
+      {
+        "text": "dürfte",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "Sie",
+        "role": "object"
+      },
+      {
+        "text": "kurz",
+        "role": "adverb"
+      },
+      {
+        "text": "unterbrechen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'dürfte' for very polite request",
+      "Modal verb + infinitive"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'dürfte' is the polite Konjunktiv II of 'dürfen'; infinitive at the end"
+    ],
+    "alternatives": [
+      "Entschuldigung, dürfte ich kurz unterbrechen?"
+    ]
+  },
+  {
+    "id": "s-meetings-022",
+    "de": "Der erste Punkt auf der Tagesordnung ist der Quartalsbericht.",
+    "en": "The first item on the agenda is the quarterly report.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Der",
+        "role": "article"
+      },
+      {
+        "text": "erste",
+        "role": "other"
+      },
+      {
+        "text": "Punkt",
+        "role": "subject"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Tagesordnung",
+        "role": "object"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Quartalsbericht",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Ordinal number 'erste'",
+      "Dative preposition 'auf' (location)"
+    ],
+    "vocabIds": [
+      "v-meetings-048",
+      "v-meetings-050",
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-001",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "Verb 'ist' in position 2 after the long subject phrase"
+    ],
+    "alternatives": [
+      "Auf der Tagesordnung ist der erste Punkt der Quartalsbericht."
+    ]
+  },
+  {
+    "id": "s-meetings-023",
+    "de": "Ich finde, wir sollten das Thema vertagen.",
+    "en": "I think we should postpone the topic.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "finde",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "sollten",
+        "role": "verb"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Thema",
+        "role": "object"
+      },
+      {
+        "text": "vertagen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Verb-second clause after 'ich finde' (no 'dass')",
+      "Konjunktiv II 'sollten'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-050",
+      "v-smalltalk-020",
+      "v-meetings-032"
+    ],
+    "builderHints": [
+      "After 'ich finde', the second clause keeps normal word order (no dass)"
+    ],
+    "alternatives": [
+      "Ich finde, das Thema sollten wir vertagen."
+    ]
+  },
+  {
+    "id": "s-meetings-024",
+    "de": "Vielen Dank für Ihre Präsentation, Frau Müller.",
+    "en": "Thank you very much for your presentation, Ms. Müller.",
+    "situation": "meetings",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Vielen",
+        "role": "other"
+      },
+      {
+        "text": "Dank",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "Ihre",
+        "role": "article"
+      },
+      {
+        "text": "Präsentation",
+        "role": "object"
+      },
+      {
+        "text": "Frau",
+        "role": "other"
+      },
+      {
+        "text": "Müller",
+        "role": "other"
+      }
+    ],
+    "grammarPoints": [
+      "Fixed expression 'vielen Dank'",
+      "Accusative preposition 'für'",
+      "Formal possessive 'Ihre'"
+    ],
+    "vocabIds": [
+      "v-emails-050",
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-meetings-015"
+    ],
+    "builderHints": [
+      "'Vielen Dank' is a fixed phrase, followed by 'für' + accusative"
+    ],
+    "alternatives": [
+      "Herzlichen Dank für Ihre Präsentation, Frau Müller."
+    ]
+  },
+  {
+    "id": "s-meetings-025",
+    "de": "Wir haben leider nicht genug Zeit, um alles zu besprechen.",
+    "en": "Unfortunately, we don't have enough time to discuss everything.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "haben",
+        "role": "verb"
+      },
+      {
+        "text": "leider",
+        "role": "adverb"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      },
+      {
+        "text": "genug",
+        "role": "other"
+      },
+      {
+        "text": "Zeit",
+        "role": "object"
+      },
+      {
+        "text": "um",
+        "role": "conjunction"
+      },
+      {
+        "text": "alles",
+        "role": "object"
+      },
+      {
+        "text": "zu",
+        "role": "particle"
+      },
+      {
+        "text": "besprechen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "um...zu + infinitive clause",
+      "Negation with 'nicht'"
+    ],
+    "vocabIds": [
+      "v-shopping-047",
+      "v-phone-050",
+      "v-smalltalk-045",
+      "v-work-026"
+    ],
+    "builderHints": [
+      "'um...zu' introduces a purpose clause; 'zu' attaches directly before the infinitive"
+    ],
+    "alternatives": [
+      "Leider haben wir nicht genug Zeit, um alles zu besprechen."
+    ]
+  },
+  {
+    "id": "s-meetings-026",
+    "de": "Wer übernimmt die Verantwortung für diese Aufgabe?",
+    "en": "Who will take responsibility for this task?",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Wer",
+        "role": "subject"
+      },
+      {
+        "text": "übernimmt",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Verantwortung",
+        "role": "object"
+      },
+      {
+        "text": "für",
+        "role": "preposition"
+      },
+      {
+        "text": "diese",
+        "role": "article"
+      },
+      {
+        "text": "Aufgabe",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'wer'",
+      "Accusative preposition 'für'"
+    ],
+    "vocabIds": [
+      "v-smalltalk-031",
+      "v-smalltalk-046",
+      "v-travel-049",
+      "v-work-002"
+    ],
+    "builderHints": [
+      "Question word first, verb second, then the rest of the sentence"
+    ],
+    "alternatives": [
+      "Die Verantwortung für diese Aufgabe — wer übernimmt die?"
+    ]
+  },
+  {
+    "id": "s-meetings-027",
+    "de": "Es wäre gut, wenn wir einen konkreten Plan hätten.",
+    "en": "It would be good if we had a concrete plan.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Es",
+        "role": "subject"
+      },
+      {
+        "text": "wäre",
+        "role": "verb"
+      },
+      {
+        "text": "gut",
+        "role": "other"
+      },
+      {
+        "text": "wenn",
+        "role": "conjunction"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "konkreten",
+        "role": "other"
+      },
+      {
+        "text": "Plan",
+        "role": "object"
+      },
+      {
+        "text": "hätten",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'wäre' and 'hätten'",
+      "wenn-clause sends verb to the end"
+    ],
+    "vocabIds": [
+      "v-smalltalk-049",
+      "v-bureaucracy-046",
+      "v-bureaucracy-049",
+      "v-healthcare-046",
+      "v-phone-049"
+    ],
+    "builderHints": [
+      "Both 'wäre' and 'hätten' are Konjunktiv II; in the wenn-clause, 'hätten' goes to the end"
+    ],
+    "alternatives": [
+      "Wenn wir einen konkreten Plan hätten, wäre es gut."
+    ]
+  },
+  {
+    "id": "s-meetings-028",
+    "de": "Können wir die Ergebnisse kurz zusammenfassen?",
+    "en": "Can we briefly summarize the results?",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Können",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Ergebnisse",
+        "role": "object"
+      },
+      {
+        "text": "kurz",
+        "role": "adverb"
+      },
+      {
+        "text": "zusammenfassen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'können' in V1 for question",
+      "Inseparable verb 'zusammenfassen' as infinitive"
+    ],
+    "vocabIds": [
+      "v-meetings-028"
+    ],
+    "builderHints": [
+      "Modal verb first for a question, infinitive at the end"
+    ],
+    "alternatives": [
+      "Die Ergebnisse können wir kurz zusammenfassen."
+    ]
+  },
+  {
+    "id": "s-meetings-029",
+    "de": "Meiner Meinung nach sollten wir das anders machen.",
+    "en": "In my opinion, we should do that differently.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Meiner",
+        "role": "other"
+      },
+      {
+        "text": "Meinung",
+        "role": "other"
+      },
+      {
+        "text": "nach",
+        "role": "preposition"
+      },
+      {
+        "text": "sollten",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "das",
+        "role": "object"
+      },
+      {
+        "text": "anders",
+        "role": "adverb"
+      },
+      {
+        "text": "machen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Fixed expression 'meiner Meinung nach' (dative)",
+      "Konjunktiv II 'sollten'",
+      "Inversion after position 1 phrase"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'Meiner Meinung nach' fills position 1, so 'sollten' must come in position 2"
+    ],
+    "alternatives": [
+      "Wir sollten das meiner Meinung nach anders machen."
+    ]
+  },
+  {
+    "id": "s-meetings-030",
+    "de": "Ich bin dagegen, weil die Kosten zu hoch sind.",
+    "en": "I am against it because the costs are too high.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "dagegen",
+        "role": "adverb"
+      },
+      {
+        "text": "weil",
+        "role": "conjunction"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Kosten",
+        "role": "subject"
+      },
+      {
+        "text": "zu",
+        "role": "adverb"
+      },
+      {
+        "text": "hoch",
+        "role": "other"
+      },
+      {
+        "text": "sind",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "weil-clause sends verb to the end",
+      "Pronominal adverb 'dagegen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-031",
+      "v-housing-047"
+    ],
+    "builderHints": [
+      "In the weil-clause, the conjugated verb 'sind' goes to the very end"
+    ],
+    "alternatives": [
+      "Dagegen bin ich, weil die Kosten zu hoch sind."
+    ]
+  },
+  {
+    "id": "s-meetings-031",
+    "de": "Lassen Sie mich die wichtigsten Punkte noch einmal zusammenfassen.",
+    "en": "Let me summarize the most important points once more.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Lassen",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "subject"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "wichtigsten",
+        "role": "other"
+      },
+      {
+        "text": "Punkte",
+        "role": "object"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "einmal",
+        "role": "adverb"
+      },
+      {
+        "text": "zusammenfassen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative with 'lassen Sie'",
+      "Superlative adjective 'wichtigsten'"
+    ],
+    "vocabIds": [
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-bureaucracy-048",
+      "v-emails-049",
+      "v-shopping-049",
+      "v-smalltalk-046",
+      "v-travel-047",
+      "v-meetings-028"
+    ],
+    "builderHints": [
+      "'Lassen' in position 1 for imperative; infinitive 'zusammenfassen' at the end"
+    ],
+    "alternatives": [
+      "Die wichtigsten Punkte lassen Sie mich noch einmal zusammenfassen."
+    ]
+  },
+  {
+    "id": "s-meetings-032",
+    "de": "Das nächste Meeting findet am Montag um zehn Uhr statt.",
+    "en": "The next meeting takes place on Monday at ten o'clock.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "nächste",
+        "role": "other"
+      },
+      {
+        "text": "Meeting",
+        "role": "subject"
+      },
+      {
+        "text": "findet",
+        "role": "verb"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Montag",
+        "role": "other"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "zehn",
+        "role": "other"
+      },
+      {
+        "text": "Uhr",
+        "role": "other"
+      },
+      {
+        "text": "statt",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Separable verb 'stattfinden'",
+      "Time expressions with 'am' and 'um'"
+    ],
+    "vocabIds": [
+      "v-travel-046"
+    ],
+    "builderHints": [
+      "'findet' in position 2, separable prefix 'statt' at the very end"
+    ],
+    "alternatives": [
+      "Am Montag um zehn Uhr findet das nächste Meeting statt."
+    ]
+  },
+  {
+    "id": "s-meetings-033",
+    "de": "Ich würde vorschlagen, dass wir die Aufgaben verteilen.",
+    "en": "I would suggest that we distribute the tasks.",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "würde",
+        "role": "verb"
+      },
+      {
+        "text": "vorschlagen",
+        "role": "verb"
+      },
+      {
+        "text": "dass",
+        "role": "conjunction"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Aufgaben",
+        "role": "object"
+      },
+      {
+        "text": "verteilen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'würde' + infinitive",
+      "dass-clause with verb at end"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-meetings-027"
+    ],
+    "builderHints": [
+      "'würde' in position 2, 'vorschlagen' at end of main clause; 'verteilen' at end of dass-clause"
+    ],
+    "alternatives": [
+      "Ich würde vorschlagen, die Aufgaben zu verteilen."
+    ]
+  },
+  {
+    "id": "s-meetings-034",
+    "de": "Gibt es noch weitere Punkte, die wir besprechen müssen?",
+    "en": "Are there any further points that we need to discuss?",
+    "situation": "meetings",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      {
+        "text": "Gibt",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "noch",
+        "role": "adverb"
+      },
+      {
+        "text": "weitere",
+        "role": "other"
+      },
+      {
+        "text": "Punkte",
+        "role": "object"
+      },
+      {
+        "text": "die",
+        "role": "other"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "besprechen",
+        "role": "verb"
+      },
+      {
+        "text": "müssen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Relative clause with 'die'",
+      "Modal verb in subordinate clause goes to the very end"
+    ],
+    "vocabIds": [
+      "v-work-026"
+    ],
+    "builderHints": [
+      "In the relative clause, 'müssen' goes after the infinitive 'besprechen' at the end"
+    ],
+    "alternatives": [
+      "Müssen wir noch weitere Punkte besprechen?"
+    ]
+  },
+  {
+    "id": "s-meetings-035",
+    "de": "Dann bedanke ich mich bei allen und schließe die Sitzung.",
+    "en": "Then I thank everyone and close the meeting.",
+    "situation": "meetings",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Dann",
+        "role": "adverb"
+      },
+      {
+        "text": "bedanke",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "bei",
+        "role": "preposition"
+      },
+      {
+        "text": "allen",
+        "role": "object"
+      },
+      {
+        "text": "und",
+        "role": "conjunction"
+      },
+      {
+        "text": "schließe",
+        "role": "verb"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Sitzung",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich bedanken'",
+      "Inversion after 'dann'",
+      "Coordinated clauses with 'und'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-travel-047",
+      "v-meetings-009"
+    ],
+    "builderHints": [
+      "'Dann' in position 1 triggers inversion (verb before subject); 'und' connects two main clauses"
+    ],
+    "alternatives": [
+      "Ich bedanke mich dann bei allen und schließe die Sitzung."
+    ]
+  }
+]

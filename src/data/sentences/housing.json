@@ -1,0 +1,823 @@
+[
+  {
+    "id": "s-housing-001",
+    "de": "Ich suche eine Zweizimmerwohnung in der Nähe vom Stadtzentrum.",
+    "en": "I'm looking for a two-room apartment near the city center.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "suche", "role": "verb" },
+      { "text": "eine", "role": "article" },
+      { "text": "Zweizimmerwohnung", "role": "object" },
+      { "text": "in", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "Nähe", "role": "object" },
+      { "text": "vom", "role": "preposition" },
+      { "text": "Stadtzentrum", "role": "object" }
+    ],
+    "grammarPoints": ["Compound noun 'Zweizimmerwohnung'", "Dative after 'in der Nähe von'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["'in der Nähe von' takes dative"],
+    "alternatives": [
+      "In der Nähe vom Stadtzentrum suche ich eine Zweizimmerwohnung."
+    ]
+  },
+  {
+    "id": "s-housing-002",
+    "de": "Wie hoch ist die Kaltmiete für diese Wohnung?",
+    "en": "How much is the base rent for this apartment?",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Wie", "role": "adverb" },
+      { "text": "hoch", "role": "adverb" },
+      { "text": "ist", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Kaltmiete", "role": "subject" },
+      { "text": "für", "role": "preposition" },
+      { "text": "diese", "role": "article" },
+      { "text": "Wohnung", "role": "object" }
+    ],
+    "grammarPoints": ["W-question with 'wie hoch'", "Compound noun 'Kaltmiete'", "Accusative after 'für'"],
+    "vocabIds": ["v-bureaucracy-050", "v-smalltalk-043", "v-healthcare-047", "v-housing-048", "v-shopping-046", "v-housing-015", "v-smalltalk-031", "v-smalltalk-046", "v-travel-049", "v-housing-001"],
+    "builderHints": ["'wie hoch' is used to ask about prices and amounts"],
+    "alternatives": [
+      "Was ist die Kaltmiete für diese Wohnung?"
+    ]
+  },
+  {
+    "id": "s-housing-003",
+    "de": "Die Nebenkosten sind in der Warmmiete enthalten.",
+    "en": "The utility costs are included in the warm rent.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Nebenkosten", "role": "subject" },
+      { "text": "sind", "role": "verb" },
+      { "text": "in", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "Warmmiete", "role": "object" },
+      { "text": "enthalten", "role": "verb" }
+    ],
+    "grammarPoints": ["Compound nouns 'Nebenkosten' and 'Warmmiete'", "Passive-like construction with 'enthalten sein'", "Dative after 'in'"],
+    "vocabIds": ["v-housing-004", "v-housing-047", "v-housing-016"],
+    "builderHints": ["'enthalten sein' works like a Zustandspassiv — past participle at the end"],
+    "alternatives": [
+      "In der Warmmiete sind die Nebenkosten enthalten."
+    ]
+  },
+  {
+    "id": "s-housing-004",
+    "de": "Wir ziehen nächsten Monat in die neue Wohnung ein.",
+    "en": "We're moving into the new apartment next month.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "ziehen", "role": "verb" },
+      { "text": "nächsten", "role": "other" },
+      { "text": "Monat", "role": "adverb" },
+      { "text": "in", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "neue", "role": "other" },
+      { "text": "Wohnung", "role": "object" },
+      { "text": "ein", "role": "particle" }
+    ],
+    "grammarPoints": ["Separable verb 'einziehen' — prefix goes to end", "Accusative after 'in' (direction)", "Temporal expression 'nächsten Monat'"],
+    "vocabIds": ["v-housing-001", "v-housing-048"],
+    "builderHints": ["'einziehen' splits: 'ziehen' in position 2, 'ein' at the end"],
+    "alternatives": [
+      "Nächsten Monat ziehen wir in die neue Wohnung ein."
+    ]
+  },
+  {
+    "id": "s-housing-005",
+    "de": "Der Vermieter hat die Kaution noch nicht zurückgezahlt.",
+    "en": "The landlord hasn't returned the deposit yet.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Der", "role": "article" },
+      { "text": "Vermieter", "role": "subject" },
+      { "text": "hat", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Kaution", "role": "object" },
+      { "text": "noch", "role": "adverb" },
+      { "text": "nicht", "role": "adverb" },
+      { "text": "zurückgezahlt", "role": "verb" }
+    ],
+    "grammarPoints": ["Perfekt with 'haben'", "Separable verb 'zurückzahlen' in Perfekt", "Negation with 'noch nicht'"],
+    "vocabIds": ["v-housing-005", "v-housing-003", "v-phone-050"],
+    "builderHints": ["In Perfekt, the separable prefix merges back: 'zurück' + 'ge' + 'zahlt'"],
+    "alternatives": [
+      "Die Kaution hat der Vermieter noch nicht zurückgezahlt."
+    ]
+  },
+  {
+    "id": "s-housing-006",
+    "de": "Könnte ich die Wohnung am Samstag besichtigen?",
+    "en": "Could I view the apartment on Saturday?",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Könnte", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "die", "role": "article" },
+      { "text": "Wohnung", "role": "object" },
+      { "text": "am", "role": "preposition" },
+      { "text": "Samstag", "role": "adverb" },
+      { "text": "besichtigen", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II of 'können' for polite requests", "Yes/no question with V1 position", "Infinitive at the end"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-housing-001", "v-housing-048", "v-housing-031"],
+    "builderHints": ["'könnte' in position 1 makes it a polite question; infinitive goes to the end"],
+    "alternatives": [
+      "Wäre es möglich, die Wohnung am Samstag zu besichtigen?"
+    ]
+  },
+  {
+    "id": "s-housing-007",
+    "de": "Die Wohnung hat einen Balkon und eine Einbauküche.",
+    "en": "The apartment has a balcony and a fitted kitchen.",
+    "situation": "housing",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Wohnung", "role": "subject" },
+      { "text": "hat", "role": "verb" },
+      { "text": "einen", "role": "article" },
+      { "text": "Balkon", "role": "object" },
+      { "text": "und", "role": "conjunction" },
+      { "text": "eine", "role": "article" },
+      { "text": "Einbauküche", "role": "object" }
+    ],
+    "grammarPoints": ["Accusative masculine 'einen'", "Accusative feminine 'eine'", "Compound noun 'Einbauküche'"],
+    "vocabIds": ["v-housing-001", "v-housing-048", "v-bureaucracy-046", "v-bureaucracy-049", "v-healthcare-046", "v-phone-049", "v-travel-047", "v-housing-020"],
+    "builderHints": ["'haben' takes accusative objects — 'einen Balkon' (m), 'eine Einbauküche' (f)"],
+    "alternatives": [
+      "Einen Balkon und eine Einbauküche hat die Wohnung."
+    ]
+  },
+  {
+    "id": "s-housing-008",
+    "de": "Ich muss den Mietvertrag bis Ende der Woche unterschreiben.",
+    "en": "I have to sign the rental contract by the end of the week.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "muss", "role": "verb" },
+      { "text": "den", "role": "article" },
+      { "text": "Mietvertrag", "role": "object" },
+      { "text": "bis", "role": "preposition" },
+      { "text": "Ende", "role": "object" },
+      { "text": "der", "role": "article" },
+      { "text": "Woche", "role": "object" },
+      { "text": "unterschreiben", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal verb 'müssen' + infinitive at end", "Compound noun 'Mietvertrag'", "Genitive 'der Woche'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-meetings-050", "v-travel-050", "v-housing-002", "v-bureaucracy-032", "v-housing-034"],
+    "builderHints": ["'müssen' in position 2, infinitive 'unterschreiben' at the end"],
+    "alternatives": [
+      "Den Mietvertrag muss ich bis Ende der Woche unterschreiben.",
+      "Bis Ende der Woche muss ich den Mietvertrag unterschreiben."
+    ]
+  },
+  {
+    "id": "s-housing-009",
+    "de": "Mein Mitbewohner zieht nächste Woche aus.",
+    "en": "My roommate is moving out next week.",
+    "situation": "housing",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Mein", "role": "article" },
+      { "text": "Mitbewohner", "role": "subject" },
+      { "text": "zieht", "role": "verb" },
+      { "text": "nächste", "role": "other" },
+      { "text": "Woche", "role": "adverb" },
+      { "text": "aus", "role": "particle" }
+    ],
+    "grammarPoints": ["Separable verb 'ausziehen' — prefix at end", "Compound noun 'Mitbewohner'"],
+    "vocabIds": ["v-housing-024", "v-travel-046"],
+    "builderHints": ["'ausziehen' splits: 'zieht' in position 2, 'aus' at the end"],
+    "alternatives": [
+      "Nächste Woche zieht mein Mitbewohner aus."
+    ]
+  },
+  {
+    "id": "s-housing-010",
+    "de": "Darf man in dieser Wohnung Haustiere halten?",
+    "en": "Are pets allowed in this apartment?",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Darf", "role": "verb" },
+      { "text": "man", "role": "subject" },
+      { "text": "in", "role": "preposition" },
+      { "text": "dieser", "role": "article" },
+      { "text": "Wohnung", "role": "object" },
+      { "text": "Haustiere", "role": "object" },
+      { "text": "halten", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal verb 'dürfen' in V1 question", "Impersonal 'man'", "Dative after 'in' (location)", "Compound noun 'Haustiere'"],
+    "vocabIds": ["v-housing-049", "v-housing-001", "v-housing-048"],
+    "builderHints": ["'darf' in position 1 for yes/no question; infinitive at the end"],
+    "alternatives": [
+      "Sind in dieser Wohnung Haustiere erlaubt?"
+    ]
+  },
+  {
+    "id": "s-housing-011",
+    "de": "Wir haben die Wohnungsanzeige im Internet gefunden.",
+    "en": "We found the apartment listing on the internet.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "haben", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Wohnungsanzeige", "role": "object" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Internet", "role": "object" },
+      { "text": "gefunden", "role": "verb" }
+    ],
+    "grammarPoints": ["Perfekt with 'haben'", "Compound noun 'Wohnungsanzeige'", "Contraction 'im' = 'in dem'"],
+    "vocabIds": ["v-shopping-047", "v-housing-022"],
+    "builderHints": ["Perfekt: 'haben' in position 2, past participle 'gefunden' at end"],
+    "alternatives": [
+      "Im Internet haben wir die Wohnungsanzeige gefunden.",
+      "Die Wohnungsanzeige haben wir im Internet gefunden."
+    ]
+  },
+  {
+    "id": "s-housing-012",
+    "de": "Die Kündigungsfrist beträgt drei Monate.",
+    "en": "The notice period is three months.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Kündigungsfrist", "role": "subject" },
+      { "text": "beträgt", "role": "verb" },
+      { "text": "drei", "role": "other" },
+      { "text": "Monate", "role": "object" }
+    ],
+    "grammarPoints": ["Compound noun 'Kündigungsfrist'", "Verb 'betragen' for stating amounts"],
+    "vocabIds": ["v-housing-017"],
+    "builderHints": ["'betragen' is a formal way to state an amount — common in contracts"],
+    "alternatives": []
+  },
+  {
+    "id": "s-housing-013",
+    "de": "Ich hätte gern einen Besichtigungstermin vereinbart.",
+    "en": "I would like to arrange a viewing appointment.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "hätte", "role": "verb" },
+      { "text": "gern", "role": "adverb" },
+      { "text": "einen", "role": "article" },
+      { "text": "Besichtigungstermin", "role": "object" },
+      { "text": "vereinbart", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'hätte' for polite requests", "Compound noun 'Besichtigungstermin'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-bureaucracy-046", "v-healthcare-046", "v-phone-049"],
+    "builderHints": ["'hätte gern + Partizip II' is a very polite way to express a wish"],
+    "alternatives": [
+      "Gern hätte ich einen Besichtigungstermin vereinbart."
+    ]
+  },
+  {
+    "id": "s-housing-014",
+    "de": "Die Heizung funktioniert seit zwei Wochen nicht mehr.",
+    "en": "The heating hasn't been working for two weeks.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Heizung", "role": "subject" },
+      { "text": "funktioniert", "role": "verb" },
+      { "text": "seit", "role": "preposition" },
+      { "text": "zwei", "role": "other" },
+      { "text": "Wochen", "role": "object" },
+      { "text": "nicht", "role": "adverb" },
+      { "text": "mehr", "role": "adverb" }
+    ],
+    "grammarPoints": ["'seit' + dative for duration", "Negation with 'nicht mehr'"],
+    "vocabIds": ["v-travel-049", "v-phone-050"],
+    "builderHints": ["'seit' takes dative and uses present tense in German for ongoing situations"],
+    "alternatives": [
+      "Seit zwei Wochen funktioniert die Heizung nicht mehr."
+    ]
+  },
+  {
+    "id": "s-housing-015",
+    "de": "Der Vermieter muss die Reparatur bezahlen.",
+    "en": "The landlord has to pay for the repair.",
+    "situation": "housing",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Der", "role": "article" },
+      { "text": "Vermieter", "role": "subject" },
+      { "text": "muss", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Reparatur", "role": "object" },
+      { "text": "bezahlen", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal verb 'müssen' + infinitive", "Accusative feminine 'die Reparatur'"],
+    "vocabIds": ["v-housing-005", "v-bureaucracy-048", "v-travel-048", "v-shopping-028"],
+    "builderHints": ["'muss' in position 2, infinitive 'bezahlen' at the end"],
+    "alternatives": [
+      "Die Reparatur muss der Vermieter bezahlen."
+    ]
+  },
+  {
+    "id": "s-housing-016",
+    "de": "Wir teilen uns die Miete und die Nebenkosten.",
+    "en": "We split the rent and the utility costs.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "casual",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "teilen", "role": "verb" },
+      { "text": "uns", "role": "object" },
+      { "text": "die", "role": "article" },
+      { "text": "Miete", "role": "object" },
+      { "text": "und", "role": "conjunction" },
+      { "text": "die", "role": "article" },
+      { "text": "Nebenkosten", "role": "object" }
+    ],
+    "grammarPoints": ["Reflexive verb 'sich teilen'", "Accusative after reflexive 'sich teilen'"],
+    "vocabIds": ["v-smalltalk-044", "v-housing-014", "v-travel-047", "v-housing-004", "v-housing-047"],
+    "builderHints": ["'sich teilen' is reflexive — 'uns' is the reflexive pronoun for 'wir'"],
+    "alternatives": [
+      "Die Miete und die Nebenkosten teilen wir uns."
+    ]
+  },
+  {
+    "id": "s-housing-017",
+    "de": "Das Zimmer in der WG ist ab sofort frei.",
+    "en": "The room in the shared flat is available immediately.",
+    "situation": "housing",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Das", "role": "article" },
+      { "text": "Zimmer", "role": "subject" },
+      { "text": "in", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "WG", "role": "object" },
+      { "text": "ist", "role": "verb" },
+      { "text": "ab", "role": "preposition" },
+      { "text": "sofort", "role": "adverb" },
+      { "text": "frei", "role": "other" }
+    ],
+    "grammarPoints": ["Abbreviation 'WG' = Wohngemeinschaft", "'ab sofort' = from now on", "Predicate adjective 'frei'"],
+    "vocabIds": ["v-travel-049", "v-healthcare-047", "v-housing-048", "v-shopping-046"],
+    "builderHints": ["'WG' is dative feminine after 'in' (location) — 'in der WG'"],
+    "alternatives": [
+      "Ab sofort ist das Zimmer in der WG frei."
+    ]
+  },
+  {
+    "id": "s-housing-018",
+    "de": "Ich möchte die Wände im Wohnzimmer streichen.",
+    "en": "I'd like to paint the walls in the living room.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "möchte", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Wände", "role": "object" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Wohnzimmer", "role": "object" },
+      { "text": "streichen", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal verb 'möchten' + infinitive", "Compound noun 'Wohnzimmer'", "Contraction 'im' = 'in dem'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-housing-036"],
+    "builderHints": ["'möchte' in position 2, infinitive 'streichen' at the end"],
+    "alternatives": [
+      "Die Wände im Wohnzimmer möchte ich streichen.",
+      "Im Wohnzimmer möchte ich die Wände streichen."
+    ]
+  },
+  {
+    "id": "s-housing-019",
+    "de": "Die Kaution beträgt drei Monatsmieten.",
+    "en": "The deposit is three months' rent.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Kaution", "role": "subject" },
+      { "text": "beträgt", "role": "verb" },
+      { "text": "drei", "role": "other" },
+      { "text": "Monatsmieten", "role": "object" }
+    ],
+    "grammarPoints": ["Compound noun 'Monatsmieten' (plural)", "Formal verb 'betragen'"],
+    "vocabIds": ["v-housing-003"],
+    "builderHints": ["'Monatsmieten' is plural of the compound noun 'Monatsmiete'"],
+    "alternatives": []
+  },
+  {
+    "id": "s-housing-020",
+    "de": "Könnten Sie mir den Grundriss der Wohnung schicken?",
+    "en": "Could you send me the floor plan of the apartment?",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Könnten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "mir", "role": "object" },
+      { "text": "den", "role": "article" },
+      { "text": "Grundriss", "role": "object" },
+      { "text": "der", "role": "article" },
+      { "text": "Wohnung", "role": "object" },
+      { "text": "schicken", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'könnten' for polite request", "Dative 'mir' + accusative 'den Grundriss'", "Genitive 'der Wohnung'"],
+    "vocabIds": ["v-phone-048", "v-travel-050", "v-emails-048", "v-shopping-047", "v-healthcare-047", "v-shopping-046", "v-housing-050", "v-meetings-050", "v-housing-001", "v-housing-048"],
+    "builderHints": ["Double object: dative 'mir' before accusative 'den Grundriss'"],
+    "alternatives": [
+      "Den Grundriss der Wohnung könnten Sie mir bitte schicken?"
+    ]
+  },
+  {
+    "id": "s-housing-021",
+    "de": "Wir müssen vor dem Auszug die Wohnung renovieren.",
+    "en": "We have to renovate the apartment before moving out.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "müssen", "role": "verb" },
+      { "text": "vor", "role": "preposition" },
+      { "text": "dem", "role": "article" },
+      { "text": "Auszug", "role": "object" },
+      { "text": "die", "role": "article" },
+      { "text": "Wohnung", "role": "object" },
+      { "text": "renovieren", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal 'müssen' + infinitive", "Dative after 'vor' (temporal)", "Nominalized verb 'Auszug'"],
+    "vocabIds": ["v-housing-001", "v-housing-048", "v-housing-030"],
+    "builderHints": ["'vor dem Auszug' — 'vor' takes dative for temporal meaning"],
+    "alternatives": [
+      "Vor dem Auszug müssen wir die Wohnung renovieren.",
+      "Die Wohnung müssen wir vor dem Auszug renovieren."
+    ]
+  },
+  {
+    "id": "s-housing-022",
+    "de": "Die Nachbarn beschweren sich über den Lärm.",
+    "en": "The neighbors are complaining about the noise.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Nachbarn", "role": "subject" },
+      { "text": "beschweren", "role": "verb" },
+      { "text": "sich", "role": "object" },
+      { "text": "über", "role": "preposition" },
+      { "text": "den", "role": "article" },
+      { "text": "Lärm", "role": "object" }
+    ],
+    "grammarPoints": ["Reflexive verb 'sich beschweren über'", "Accusative after 'über'"],
+    "vocabIds": ["v-housing-038", "v-housing-050", "v-meetings-050", "v-travel-050"],
+    "builderHints": ["'sich beschweren über + Akk' — 'über' takes accusative here"],
+    "alternatives": [
+      "Über den Lärm beschweren sich die Nachbarn."
+    ]
+  },
+  {
+    "id": "s-housing-023",
+    "de": "Ab wann ist die Wohnung verfügbar?",
+    "en": "From when is the apartment available?",
+    "situation": "housing",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ab", "role": "preposition" },
+      { "text": "wann", "role": "adverb" },
+      { "text": "ist", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Wohnung", "role": "subject" },
+      { "text": "verfügbar", "role": "other" }
+    ],
+    "grammarPoints": ["W-question with 'ab wann'", "Predicate adjective 'verfügbar'"],
+    "vocabIds": ["v-housing-048", "v-travel-046", "v-healthcare-047", "v-shopping-046", "v-housing-001"],
+    "builderHints": ["'ab wann' asks about a starting point in time — verb follows in position 2"],
+    "alternatives": [
+      "Wann ist die Wohnung verfügbar?"
+    ]
+  },
+  {
+    "id": "s-housing-024",
+    "de": "Ich habe mich auf die Wohnungsanzeige beworben.",
+    "en": "I applied for the apartment listing.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "habe", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "auf", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "Wohnungsanzeige", "role": "object" },
+      { "text": "beworben", "role": "verb" }
+    ],
+    "grammarPoints": ["Reflexive 'sich bewerben auf + Akk'", "Perfekt of 'bewerben'", "Compound noun 'Wohnungsanzeige'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046", "v-emails-031", "v-emails-047", "v-meetings-050", "v-housing-022"],
+    "builderHints": ["Perfekt: 'habe' in position 2, past participle 'beworben' at the end"],
+    "alternatives": [
+      "Auf die Wohnungsanzeige habe ich mich beworben."
+    ]
+  },
+  {
+    "id": "s-housing-025",
+    "de": "Der Putzplan hängt in der Küche am Kühlschrank.",
+    "en": "The cleaning schedule is hanging in the kitchen on the fridge.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "casual",
+    "words": [
+      { "text": "Der", "role": "article" },
+      { "text": "Putzplan", "role": "subject" },
+      { "text": "hängt", "role": "verb" },
+      { "text": "in", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "Küche", "role": "object" },
+      { "text": "am", "role": "preposition" },
+      { "text": "Kühlschrank", "role": "object" }
+    ],
+    "grammarPoints": ["Compound noun 'Putzplan'", "Dative after 'in' (location)", "Contraction 'am' = 'an dem'"],
+    "vocabIds": [],
+    "builderHints": ["'in der Küche' (dative, location) — 'hängen' indicates a static position"],
+    "alternatives": [
+      "In der Küche am Kühlschrank hängt der Putzplan."
+    ]
+  },
+  {
+    "id": "s-housing-026",
+    "de": "Wenn ich mehr Geld hätte, würde ich eine größere Wohnung mieten.",
+    "en": "If I had more money, I would rent a bigger apartment.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wenn", "role": "conjunction" },
+      { "text": "ich", "role": "subject" },
+      { "text": "mehr", "role": "other" },
+      { "text": "Geld", "role": "object" },
+      { "text": "hätte", "role": "verb" },
+      { "text": "würde", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "eine", "role": "article" },
+      { "text": "größere", "role": "other" },
+      { "text": "Wohnung", "role": "object" },
+      { "text": "mieten", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'hätte' and 'würde + infinitive'", "'wenn'-clause with verb at end", "Comparative adjective 'größere'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-housing-001", "v-housing-048", "v-housing-026"],
+    "builderHints": ["In the 'wenn'-clause, the verb goes to the end; in the main clause, 'würde' is in position 1 (inversion)"],
+    "alternatives": [
+      "Ich würde eine größere Wohnung mieten, wenn ich mehr Geld hätte."
+    ]
+  },
+  {
+    "id": "s-housing-027",
+    "de": "Die Hausverwaltung kümmert sich um die Treppenhausreinigung.",
+    "en": "The property management takes care of the stairwell cleaning.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Hausverwaltung", "role": "subject" },
+      { "text": "kümmert", "role": "verb" },
+      { "text": "sich", "role": "object" },
+      { "text": "um", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "Treppenhausreinigung", "role": "object" }
+    ],
+    "grammarPoints": ["Reflexive 'sich kümmern um + Akk'", "Compound nouns 'Hausverwaltung' and 'Treppenhausreinigung'"],
+    "vocabIds": [],
+    "builderHints": ["'sich kümmern um' takes accusative — 'die Treppenhausreinigung'"],
+    "alternatives": [
+      "Um die Treppenhausreinigung kümmert sich die Hausverwaltung."
+    ]
+  },
+  {
+    "id": "s-housing-028",
+    "de": "Wir brauchen noch einen Nachmieter für unsere Wohnung.",
+    "en": "We still need a subsequent tenant for our apartment.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "brauchen", "role": "verb" },
+      { "text": "noch", "role": "adverb" },
+      { "text": "einen", "role": "article" },
+      { "text": "Nachmieter", "role": "object" },
+      { "text": "für", "role": "preposition" },
+      { "text": "unsere", "role": "article" },
+      { "text": "Wohnung", "role": "object" }
+    ],
+    "grammarPoints": ["Accusative masculine 'einen Nachmieter'", "Compound noun 'Nachmieter'", "'für' + accusative"],
+    "vocabIds": ["v-bureaucracy-046", "v-bureaucracy-049", "v-healthcare-046", "v-phone-049", "v-housing-008", "v-smalltalk-031", "v-smalltalk-046", "v-travel-049", "v-housing-001", "v-housing-048"],
+    "builderHints": ["'brauchen' works like a normal verb here — accusative object follows"],
+    "alternatives": [
+      "Für unsere Wohnung brauchen wir noch einen Nachmieter."
+    ]
+  },
+  {
+    "id": "s-housing-029",
+    "de": "Ist die Wohnung möbliert oder unmöbliert?",
+    "en": "Is the apartment furnished or unfurnished?",
+    "situation": "housing",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ist", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Wohnung", "role": "subject" },
+      { "text": "möbliert", "role": "other" },
+      { "text": "oder", "role": "conjunction" },
+      { "text": "unmöbliert", "role": "other" }
+    ],
+    "grammarPoints": ["Yes/no question with V1 position", "Participle as adjective 'möbliert'", "Prefix 'un-' for negation"],
+    "vocabIds": ["v-healthcare-047", "v-housing-048", "v-shopping-046", "v-housing-001", "v-housing-041", "v-housing-042"],
+    "builderHints": ["Yes/no question: verb 'ist' in position 1"],
+    "alternatives": [
+      "Wird die Wohnung möbliert oder unmöbliert vermietet?"
+    ]
+  },
+  {
+    "id": "s-housing-030",
+    "de": "Ich melde mich bei Ihnen wegen der Mieterhöhung.",
+    "en": "I'm contacting you regarding the rent increase.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "melde", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "bei", "role": "preposition" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "wegen", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "Mieterhöhung", "role": "object" }
+    ],
+    "grammarPoints": ["Reflexive 'sich melden bei + Dat'", "'wegen' + genitive", "Compound noun 'Mieterhöhung'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046"],
+    "builderHints": ["'wegen' formally takes genitive — 'der Mieterhöhung' (feminine genitive)"],
+    "alternatives": [
+      "Wegen der Mieterhöhung melde ich mich bei Ihnen."
+    ]
+  },
+  {
+    "id": "s-housing-031",
+    "de": "Wir sollten den Schlüssel beim Hausmeister abgeben.",
+    "en": "We should hand in the key to the caretaker.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "sollten", "role": "verb" },
+      { "text": "den", "role": "article" },
+      { "text": "Schlüssel", "role": "object" },
+      { "text": "beim", "role": "preposition" },
+      { "text": "Hausmeister", "role": "object" },
+      { "text": "abgeben", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'sollten' for suggestion", "Separable verb 'abgeben' in infinitive form", "Contraction 'beim' = 'bei dem'"],
+    "vocabIds": ["v-housing-050", "v-meetings-050", "v-travel-050", "v-bureaucracy-039", "v-work-035"],
+    "builderHints": ["'sollten' in position 2, infinitive 'abgeben' at the end (prefix stays attached)"],
+    "alternatives": [
+      "Den Schlüssel sollten wir beim Hausmeister abgeben.",
+      "Beim Hausmeister sollten wir den Schlüssel abgeben."
+    ]
+  },
+  {
+    "id": "s-housing-032",
+    "de": "Die Wohnfläche beträgt ungefähr fünfzig Quadratmeter.",
+    "en": "The living space is approximately fifty square meters.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Wohnfläche", "role": "subject" },
+      { "text": "beträgt", "role": "verb" },
+      { "text": "ungefähr", "role": "adverb" },
+      { "text": "fünfzig", "role": "other" },
+      { "text": "Quadratmeter", "role": "object" }
+    ],
+    "grammarPoints": ["Compound nouns 'Wohnfläche' and 'Quadratmeter'", "Formal verb 'betragen'"],
+    "vocabIds": ["v-housing-011"],
+    "builderHints": ["'Quadratmeter' does not change in plural"],
+    "alternatives": [
+      "Ungefähr fünfzig Quadratmeter beträgt die Wohnfläche."
+    ]
+  },
+  {
+    "id": "s-housing-033",
+    "de": "Ich habe den Wasserhahn im Bad reparieren lassen.",
+    "en": "I had the faucet in the bathroom repaired.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "habe", "role": "verb" },
+      { "text": "den", "role": "article" },
+      { "text": "Wasserhahn", "role": "object" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Bad", "role": "object" },
+      { "text": "reparieren", "role": "verb" },
+      { "text": "lassen", "role": "verb" }
+    ],
+    "grammarPoints": ["Causative 'lassen' + infinitive", "Perfekt with double infinitive (Ersatzinfinitiv)", "Compound noun 'Wasserhahn'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-meetings-050", "v-travel-050"],
+    "builderHints": ["With 'lassen' in Perfekt: 'habe ... reparieren lassen' (double infinitive instead of past participle)"],
+    "alternatives": [
+      "Den Wasserhahn im Bad habe ich reparieren lassen."
+    ]
+  },
+  {
+    "id": "s-housing-034",
+    "de": "Strom und Internet müssen wir selbst anmelden.",
+    "en": "We have to register electricity and internet ourselves.",
+    "situation": "housing",
+    "level": "B1",
+    "tone": "neutral",
+    "words": [
+      { "text": "Strom", "role": "object" },
+      { "text": "und", "role": "conjunction" },
+      { "text": "Internet", "role": "object" },
+      { "text": "müssen", "role": "verb" },
+      { "text": "wir", "role": "subject" },
+      { "text": "selbst", "role": "adverb" },
+      { "text": "anmelden", "role": "verb" }
+    ],
+    "grammarPoints": ["Object in Vorfeld (topic position)", "Modal 'müssen' + infinitive", "Separable verb 'anmelden' stays together in infinitive"],
+    "vocabIds": ["v-travel-047", "v-bureaucracy-031", "v-healthcare-033", "v-housing-037"],
+    "builderHints": ["Object first for emphasis — causes subject-verb inversion: 'Strom und Internet müssen wir...'"],
+    "alternatives": [
+      "Wir müssen Strom und Internet selbst anmelden."
+    ]
+  },
+  {
+    "id": "s-housing-035",
+    "de": "Wir haben uns für die Dreizimmerwohnung im Erdgeschoss entschieden.",
+    "en": "We decided on the three-room apartment on the ground floor.",
+    "situation": "housing",
+    "level": "B2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "haben", "role": "verb" },
+      { "text": "uns", "role": "object" },
+      { "text": "für", "role": "preposition" },
+      { "text": "die", "role": "article" },
+      { "text": "Dreizimmerwohnung", "role": "object" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Erdgeschoss", "role": "object" },
+      { "text": "entschieden", "role": "verb" }
+    ],
+    "grammarPoints": ["Reflexive 'sich entscheiden für + Akk'", "Perfekt with past participle at end", "Compound nouns 'Dreizimmerwohnung' and 'Erdgeschoss'"],
+    "vocabIds": ["v-shopping-047", "v-smalltalk-044", "v-smalltalk-031", "v-smalltalk-046", "v-travel-049"],
+    "builderHints": ["'sich entscheiden für' takes accusative — Perfekt: 'haben uns ... entschieden'"],
+    "alternatives": [
+      "Für die Dreizimmerwohnung im Erdgeschoss haben wir uns entschieden."
+    ]
+  }
+]

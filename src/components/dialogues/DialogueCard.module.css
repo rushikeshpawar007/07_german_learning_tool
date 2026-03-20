@@ -1,0 +1,67 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding: var(--space-5) var(--space-6);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-sand);
+  border-radius: var(--radius-lg);
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--transition-fast);
+}
+
+.card:hover {
+  border-color: var(--color-terracotta-light);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.situation {
+  font-size: var(--text-xs);
+  font-weight: var(--weight-medium);
+  color: var(--color-warm-gray);
+  text-transform: capitalize;
+}
+
+.title {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: var(--weight-semibold);
+  color: var(--color-warm-brown);
+}
+
+.titleEn {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+  font-style: italic;
+}
+
+.description {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+}
+
+.speakers {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-xs);
+  color: var(--color-warm-brown-light);
+  margin-top: var(--space-1);
+}
+
+.vs {
+  color: var(--color-warm-gray-light);
+}
+
+.lines {
+  font-size: var(--text-xs);
+  color: var(--color-warm-gray-light);
+}

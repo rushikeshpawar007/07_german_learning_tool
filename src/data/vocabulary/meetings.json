@@ -1,0 +1,2976 @@
+[
+  {
+    "id": "v-meetings-001",
+    "word": "die Tagesordnung",
+    "baseForm": "Tagesordnung",
+    "gender": "die",
+    "plural": "Tagesordnungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "agenda",
+    "meaningDe": "eine Liste der Themen, die in einer Sitzung besprochen werden sollen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der erste Punkt auf der Tagesordnung ist das Budget.",
+        "en": "The first item on the agenda is the budget.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Können wir noch einen Punkt zur Tagesordnung hinzufügen?",
+        "en": "Can we add another item to the agenda?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Tagesordnung wurde vorab per E-Mail verschickt.",
+        "en": "The agenda was sent out by email in advance.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Agenda' - im Deutschen wird 'Tagesordnung' in formellen Kontexten bevorzugt.",
+      "Der Plural 'Tagesordnungen' wird selten benutzt, da man meist nur eine pro Sitzung hat."
+    ],
+    "usageNotes": [
+      "Abkürzung: 'TOP' steht für 'Tagesordnungspunkt'.",
+      "Oft in der Kombination 'auf der Tagesordnung stehen' verwendet."
+    ],
+    "relatedWords": [
+      "der Tagesordnungspunkt",
+      "die Sitzung",
+      "die Besprechung"
+    ],
+    "tags": [
+      "formal",
+      "planning",
+      "structure"
+    ]
+  },
+  {
+    "id": "v-meetings-002",
+    "word": "das Protokoll",
+    "baseForm": "Protokoll",
+    "gender": "das",
+    "plural": "Protokolle",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "minutes, protocol",
+    "meaningDe": "eine schriftliche Zusammenfassung dessen, was in einer Sitzung besprochen und beschlossen wurde",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wer führt heute das Protokoll?",
+        "en": "Who is taking the minutes today?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Protokoll der letzten Sitzung muss noch genehmigt werden.",
+        "en": "The minutes of the last meeting still need to be approved.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich schicke das Protokoll morgen an alle Teilnehmer.",
+        "en": "I will send the minutes to all participants tomorrow.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'Protokoll führen', nicht 'Protokoll schreiben' (obwohl Letzteres umgangssprachlich vorkommt).",
+      "'Protokoll' hat im Deutschen auch die Bedeutung 'Verfahrensregeln' - der Kontext entscheidet."
+    ],
+    "usageNotes": [
+      "Es gibt verschiedene Arten: 'Ergebnisprotokoll' (nur Ergebnisse), 'Verlaufsprotokoll' (kompletter Ablauf).",
+      "Die Wendung 'zu Protokoll geben' bedeutet, etwas offiziell festhalten zu lassen."
+    ],
+    "relatedWords": [
+      "protokollieren",
+      "der Protokollfuehrer",
+      "die Mitschrift"
+    ],
+    "tags": [
+      "documentation",
+      "formal",
+      "writing"
+    ]
+  },
+  {
+    "id": "v-meetings-003",
+    "word": "die Abstimmung",
+    "baseForm": "Abstimmung",
+    "gender": "die",
+    "plural": "Abstimmungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "vote, voting, coordination",
+    "meaningDe": "ein Verfahren, bei dem die Teilnehmer ihre Meinung durch Wahl ausdrücken",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir kommen jetzt zur Abstimmung über den Vorschlag.",
+        "en": "We will now proceed to the vote on the proposal.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Abstimmung ergab eine klare Mehrheit.",
+        "en": "The vote resulted in a clear majority.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Bevor wir entscheiden, brauchen wir eine kurze Abstimmung im Team.",
+        "en": "Before we decide, we need a brief coordination within the team.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Abstimmung' kann sowohl 'vote' als auch 'coordination' bedeuten - der Kontext ist wichtig.",
+      "Nicht verwechseln mit 'Zustimmung' (= approval, agreement)."
+    ],
+    "usageNotes": [
+      "In Meetings häufig: 'zur Abstimmung bringen' oder 'eine Abstimmung durchführen'.",
+      "Im Sinne von 'Koordination' sagt man auch 'in Abstimmung mit' (= in coordination with)."
+    ],
+    "relatedWords": [
+      "abstimmen",
+      "die Wahl",
+      "die Mehrheit",
+      "die Zustimmung"
+    ],
+    "tags": [
+      "decision-making",
+      "formal",
+      "democracy"
+    ]
+  },
+  {
+    "id": "v-meetings-004",
+    "word": "das Ergebnis",
+    "baseForm": "Ergebnis",
+    "gender": "das",
+    "plural": "Ergebnisse",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "result, outcome",
+    "meaningDe": "das, was am Ende einer Diskussion, Berechnung oder Handlung herauskommt",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Das Ergebnis der Diskussion war eindeutig.",
+        "en": "The result of the discussion was clear.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir müssen die Ergebnisse zusammenfassen.",
+        "en": "We need to summarize the results.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie die Ergebnisse der Umfrage präsentieren?",
+        "en": "Can you present the results of the survey?",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist 'Ergebnisse' (nicht 'Ergebnissen' im Nominativ).",
+      "Nicht verwechseln mit 'Resultat' - beide sind Synonyme, aber 'Ergebnis' ist häufiger."
+    ],
+    "usageNotes": [
+      "'Ergebnis' wird in vielen Kontexten verwendet: Besprechungen, Sport, Mathematik.",
+      "Häufige Kombination: 'zu einem Ergebnis kommen' (= to reach a result)."
+    ],
+    "relatedWords": [
+      "ergeben",
+      "das Resultat",
+      "die Folge",
+      "das Fazit"
+    ],
+    "tags": [
+      "outcome",
+      "summary",
+      "analysis"
+    ]
+  },
+  {
+    "id": "v-meetings-005",
+    "word": "der Vorschlag",
+    "baseForm": "Vorschlag",
+    "gender": "der",
+    "plural": "Vorschläge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "proposal, suggestion",
+    "meaningDe": "eine Idee oder ein Plan, den man anderen zur Entscheidung vorlegt",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich hätte einen Vorschlag zum Thema Marketing.",
+        "en": "I would have a suggestion regarding marketing.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Sein Vorschlag wurde einstimmig angenommen.",
+        "en": "His proposal was accepted unanimously.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Hat jemand einen besseren Vorschlag?",
+        "en": "Does anyone have a better suggestion?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Umlaut im Plural: 'Vorschläge' (nicht 'Vorschlage').",
+      "Man sagt 'einen Vorschlag machen' oder 'unterbreiten', nicht 'geben'."
+    ],
+    "usageNotes": [
+      "'Vorschlag unterbreiten' ist formeller als 'Vorschlag machen'.",
+      "Häufig mit 'annehmen' (accept), 'ablehnen' (reject) oder 'überarbeiten' (revise) kombiniert."
+    ],
+    "relatedWords": [
+      "vorschlagen",
+      "der Gegenvorschlag",
+      "die Idee",
+      "der Antrag",
+      "v-smalltalk-019"
+    ],
+    "tags": [
+      "ideas",
+      "decision-making",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-meetings-006",
+    "word": "der Teilnehmer",
+    "baseForm": "Teilnehmer",
+    "gender": "der",
+    "plural": "Teilnehmer",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "participant, attendee",
+    "meaningDe": "eine Person, die an einer Veranstaltung oder Sitzung teilnimmt",
+    "situations": [
+      "meetings",
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Alle Teilnehmer sind anwesend.",
+        "en": "All participants are present.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir erwarten zehn Teilnehmer bei der heutigen Sitzung.",
+        "en": "We expect ten participants at today's meeting.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Teilnehmer wurden vorab informiert.",
+        "en": "The participants were informed in advance.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist identisch mit dem Singular: 'der Teilnehmer' - 'die Teilnehmer'.",
+      "Die weibliche Form ist 'die Teilnehmerin' (Plural: 'Teilnehmerinnen')."
+    ],
+    "usageNotes": [
+      "In formellen Texten oft gegendert: 'Teilnehmerinnen und Teilnehmer' oder 'Teilnehmende'.",
+      "'Teilnehmerliste' ist die Anwesenheitsliste für Meetings."
+    ],
+    "relatedWords": [
+      "teilnehmen",
+      "die Teilnehmerin",
+      "die Teilnahme",
+      "die Teilnehmerliste",
+      "v-phone-015"
+    ],
+    "tags": [
+      "people",
+      "formal",
+      "events"
+    ]
+  },
+  {
+    "id": "v-meetings-007",
+    "word": "der Einwand",
+    "baseForm": "Einwand",
+    "gender": "der",
+    "plural": "Einwände",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "objection",
+    "meaningDe": "ein Gegenargument oder ein Bedenken gegen etwas",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Hat jemand Einwände gegen den Vorschlag?",
+        "en": "Does anyone have objections to the proposal?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Ihr Einwand ist berechtigt.",
+        "en": "Your objection is justified.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wenn es keine Einwände gibt, können wir fortfahren.",
+        "en": "If there are no objections, we can proceed.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Umlaut im Plural: 'Einwände' (nicht 'Einwande').",
+      "Nicht verwechseln mit 'Einwurf' (= interjection, insertion)."
+    ],
+    "usageNotes": [
+      "'Einwände erheben' oder 'Einwände vorbringen' sind typische formelle Wendungen.",
+      "Im Meeting-Kontext: 'Gibt es Einwände?' ist eine Standardfrage vor einer Entscheidung."
+    ],
+    "relatedWords": [
+      "einwenden",
+      "der Widerspruch",
+      "das Bedenken",
+      "die Kritik"
+    ],
+    "tags": [
+      "disagreement",
+      "formal",
+      "argumentation"
+    ]
+  },
+  {
+    "id": "v-meetings-008",
+    "word": "die Zusammenfassung",
+    "baseForm": "Zusammenfassung",
+    "gender": "die",
+    "plural": "Zusammenfassungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "summary",
+    "meaningDe": "eine kurze Darstellung der wichtigsten Punkte",
+    "situations": [
+      "meetings",
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Zum Schluss möchte ich eine kurze Zusammenfassung geben.",
+        "en": "In closing, I would like to give a brief summary.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Zusammenfassung der Ergebnisse finden Sie im Protokoll.",
+        "en": "You can find the summary of the results in the minutes.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Kannst du eine Zusammenfassung der Diskussion schreiben?",
+        "en": "Can you write a summary of the discussion?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Zusammensetzung' (= composition, makeup).",
+      "Das Wort ist lang, aber es lässt sich nicht abkürzen - man muss es ganz aussprechen."
+    ],
+    "usageNotes": [
+      "In Meetings oft am Ende: 'Lassen Sie mich zusammenfassen...'",
+      "Synonyme: 'Überblick', 'Fazit', 'Resümee' - wobei 'Fazit' eher ein Schlussurteil ist."
+    ],
+    "relatedWords": [
+      "zusammenfassen",
+      "das Fazit",
+      "der Ueberblick",
+      "das Resümee"
+    ],
+    "tags": [
+      "summary",
+      "structure",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-meetings-009",
+    "word": "die Sitzung",
+    "baseForm": "Sitzung",
+    "gender": "die",
+    "plural": "Sitzungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "session, meeting",
+    "meaningDe": "ein formelles Treffen, bei dem Themen besprochen und Entscheidungen getroffen werden",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Sitzung beginnt pünktlich um 14 Uhr.",
+        "en": "The meeting starts punctually at 2 PM.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "In der heutigen Sitzung besprechen wir drei Themen.",
+        "en": "In today's meeting we will discuss three topics.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Sitzung wurde auf nächste Woche verschoben.",
+        "en": "The meeting was postponed to next week.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Sitzung' ist formeller als 'Meeting' oder 'Besprechung'.",
+      "Nicht verwechseln mit 'Sitzplatz' (= seat) - obwohl beide von 'sitzen' kommen."
+    ],
+    "usageNotes": [
+      "'Sitzung' wird oft für regelmässige, offizielle Treffen verwendet (z.B. Vorstandssitzung).",
+      "Zusammensetzungen: 'Sitzungssaal', 'Sitzungsprotokoll', 'Vorstandssitzung'."
+    ],
+    "relatedWords": [
+      "die Besprechung",
+      "das Meeting",
+      "die Konferenz",
+      "der Sitzungssaal"
+    ],
+    "tags": [
+      "formal",
+      "organization",
+      "time-management"
+    ]
+  },
+  {
+    "id": "v-meetings-010",
+    "word": "der Tagesordnungspunkt",
+    "baseForm": "Tagesordnungspunkt",
+    "gender": "der",
+    "plural": "Tagesordnungspunkte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "agenda item",
+    "meaningDe": "ein einzelnes Thema auf der Tagesordnung einer Sitzung",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir kommen nun zum nächsten Tagesordnungspunkt.",
+        "en": "We now move on to the next agenda item.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Der letzte Tagesordnungspunkt ist 'Verschiedenes'.",
+        "en": "The last agenda item is 'Any other business'.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Dieses Thema steht nicht als Tagesordnungspunkt auf der Liste.",
+        "en": "This topic is not listed as an agenda item.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Das Wort ist sehr lang - die Abkürzung 'TOP' ist im Alltag üblich.",
+      "Man sagt 'zum nächsten TOP übergehen', nicht 'zum nächsten TOP wechseln'."
+    ],
+    "usageNotes": [
+      "Die Abkürzung 'TOP' (z.B. 'TOP 3') ist in deutschen Meetings Standard.",
+      "Der letzte TOP heisst oft 'Verschiedenes' oder 'Sonstiges' (= any other business)."
+    ],
+    "relatedWords": [
+      "die Tagesordnung",
+      "das Thema",
+      "die Sitzung"
+    ],
+    "tags": [
+      "formal",
+      "structure",
+      "planning"
+    ]
+  },
+  {
+    "id": "v-meetings-011",
+    "word": "die Mehrheit",
+    "baseForm": "Mehrheit",
+    "gender": "die",
+    "plural": "Mehrheiten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "majority",
+    "meaningDe": "der grössere Teil einer Gruppe oder die meisten Stimmen bei einer Abstimmung",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Vorschlag wurde mit grosser Mehrheit angenommen.",
+        "en": "The proposal was accepted by a large majority.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Mehrheit der Teilnehmer war dafür.",
+        "en": "The majority of participants were in favor.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Für diesen Beschluss brauchen wir eine Zweidrittelmehrheit.",
+        "en": "For this resolution we need a two-thirds majority.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Mehrheit' verlangt oft Singular im Verb: 'Die Mehrheit war dafür' (nicht 'waren').",
+      "Nicht verwechseln mit 'Mehrzahl' (= plural, in grammar)."
+    ],
+    "usageNotes": [
+      "Zusammensetzungen: 'einfache Mehrheit', 'absolute Mehrheit', 'Zweidrittelmehrheit'.",
+      "Gegenteil: 'die Minderheit' (= minority)."
+    ],
+    "relatedWords": [
+      "die Minderheit",
+      "die Abstimmung",
+      "die Stimme",
+      "der Beschluss"
+    ],
+    "tags": [
+      "decision-making",
+      "democracy",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-meetings-012",
+    "word": "der Beschluss",
+    "baseForm": "Beschluss",
+    "gender": "der",
+    "plural": "Beschlüsse",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "decision, resolution",
+    "meaningDe": "eine offizielle Entscheidung, die in einer Sitzung getroffen wird",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Beschluss wurde einstimmig gefasst.",
+        "en": "The decision was made unanimously.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir müssen noch einen Beschluss zum Budget fassen.",
+        "en": "We still need to make a decision on the budget.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Beschlüsse der letzten Sitzung sind im Protokoll festgehalten.",
+        "en": "The resolutions from the last meeting are documented in the minutes.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'einen Beschluss fassen', nicht 'einen Beschluss machen'.",
+      "Umlaut im Plural: 'Beschlüsse' (nicht 'Beschlusse')."
+    ],
+    "usageNotes": [
+      "'Beschluss' ist formeller als 'Entscheidung' und wird vor allem in offiziellen Kontexten benutzt.",
+      "'Beschlussfähig' bedeutet, dass genug Mitglieder anwesend sind, um gültige Entscheidungen zu treffen."
+    ],
+    "relatedWords": [
+      "beschliessen",
+      "die Entscheidung",
+      "beschlussfaehig",
+      "der Entschluss"
+    ],
+    "tags": [
+      "formal",
+      "decision-making",
+      "official"
+    ]
+  },
+  {
+    "id": "v-meetings-013",
+    "word": "die Diskussion",
+    "baseForm": "Diskussion",
+    "gender": "die",
+    "plural": "Diskussionen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "discussion",
+    "meaningDe": "ein Gespräch, in dem verschiedene Meinungen ausgetauscht werden",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Diskussion war sehr produktiv.",
+        "en": "The discussion was very productive.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich möchte die Diskussion an dieser Stelle beenden.",
+        "en": "I would like to end the discussion at this point.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Es gab eine lange Diskussion über das neü Konzept.",
+        "en": "There was a long discussion about the new concept.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Doppel-s in 'Diskussion' - ein häufiger Rechtschreibfehler.",
+      "Man sagt 'eine Diskussion führen', nicht 'eine Diskussion haben' (obwohl Letzteres umgangssprachlich vorkommt)."
+    ],
+    "usageNotes": [
+      "Typische Verben: 'eine Diskussion führen', 'eröffnen', 'beenden', 'abbrechen'.",
+      "'Zur Diskussion stehen' bedeutet, dass etwas gerade besprochen wird."
+    ],
+    "relatedWords": [
+      "diskutieren",
+      "die Debatte",
+      "das Gespraech",
+      "der Meinungsaustausch"
+    ],
+    "tags": [
+      "communication",
+      "opinions",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "v-meetings-014",
+    "word": "der Moderator",
+    "baseForm": "Moderator",
+    "gender": "der",
+    "plural": "Moderatoren",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "moderator, facilitator",
+    "meaningDe": "die Person, die eine Diskussion oder Sitzung leitet",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Moderator bat um Ruhe.",
+        "en": "The moderator asked for silence.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Als Moderator muss man neutral bleiben.",
+        "en": "As a moderator one must remain neutral.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer übernimmt heute die Rolle des Moderators?",
+        "en": "Who will take on the role of moderator today?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Die weibliche Form ist 'die Moderatorin' (Plural: 'Moderatorinnen').",
+      "In Meetings sagt man auch 'Sitzungsleiter' als Alternative."
+    ],
+    "usageNotes": [
+      "Im Meeting-Kontext ist 'Moderator' oder 'Sitzungsleiter' üblich.",
+      "Das zugehörige Verb ist 'moderieren'."
+    ],
+    "relatedWords": [
+      "moderieren",
+      "die Moderatorin",
+      "der Sitzungsleiter",
+      "die Moderation"
+    ],
+    "tags": [
+      "people",
+      "leadership",
+      "facilitation"
+    ]
+  },
+  {
+    "id": "v-meetings-015",
+    "word": "die Präsentation",
+    "baseForm": "Präsentation",
+    "gender": "die",
+    "plural": "Präsentationen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "presentation",
+    "meaningDe": "ein Vortrag, bei dem Informationen visüll und mündlich dargestellt werden",
+    "situations": [
+      "meetings",
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Die Präsentation daürt etwa 20 Minuten.",
+        "en": "The presentation will take about 20 minutes.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Könnten Sie Ihre Präsentation bitte an die Leinwand projizieren?",
+        "en": "Could you please project your presentation onto the screen?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Nach der Präsentation gibt es Zeit für Fragen.",
+        "en": "After the presentation there will be time for questions.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Im Deutschen schreibt man 'Präsentation' mit -tion, nicht mit -sion.",
+      "Nicht verwechseln mit 'Vortrag' - 'Präsentation' impliziert oft visülle Hilfsmittel."
+    ],
+    "usageNotes": [
+      "'Eine Präsentation halten' ist die übliche Wendung.",
+      "Kurzform: 'Präsi' wird umgangssprachlich manchmal verwendet."
+    ],
+    "relatedWords": [
+      "praesentieren",
+      "der Vortrag",
+      "die Folie",
+      "der Beamer"
+    ],
+    "tags": [
+      "communication",
+      "visual",
+      "public-speaking"
+    ]
+  },
+  {
+    "id": "v-meetings-016",
+    "word": "der Beitrag",
+    "baseForm": "Beitrag",
+    "gender": "der",
+    "plural": "Beiträge",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "contribution, input",
+    "meaningDe": "ein mündlicher oder schriftlicher Kommentar, der zu einer Diskussion beigetragen wird",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Vielen Dank für Ihren wertvollen Beitrag.",
+        "en": "Thank you very much for your valuable contribution.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Jeder Teilnehmer sollte einen Beitrag zur Diskussion leisten.",
+        "en": "Every participant should make a contribution to the discussion.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sein Beitrag hat die Diskussion in eine neü Richtung gelenkt.",
+        "en": "His contribution steered the discussion in a new direction.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Beitrag' hat mehrere Bedeutungen: Diskussionsbeitrag, Mitgliedsbeitrag (fee), Medienbeitrag (article/report).",
+      "Umlaut im Plural: 'Beiträge' (nicht 'Beitrage')."
+    ],
+    "usageNotes": [
+      "In Meetings: 'einen Beitrag leisten' (= to make a contribution).",
+      "Höfliche Aufforderung: 'Möchten Sie etwas beitragen?' (= Would you like to contribute?)"
+    ],
+    "relatedWords": [
+      "beitragen",
+      "der Diskussionsbeitrag",
+      "die Beteiligung"
+    ],
+    "tags": [
+      "communication",
+      "participation",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "v-meetings-017",
+    "word": "die Frist",
+    "baseForm": "Frist",
+    "gender": "die",
+    "plural": "Fristen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "deadline, time limit",
+    "meaningDe": "ein festgelegter Zeitpunkt, bis zu dem etwas erledigt werden muss",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Frist für die Einreichung ist nächsten Freitag.",
+        "en": "The deadline for submission is next Friday.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Können wir die Frist um eine Woche verlängern?",
+        "en": "Can we extend the deadline by one week?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Frist läuft morgen ab.",
+        "en": "The deadline expires tomorrow.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Deadline' - 'Frist' ist das deutsche Standardwort.",
+      "Man sagt 'die Frist einhalten' (meet the deadline), nicht 'die Frist treffen'."
+    ],
+    "usageNotes": [
+      "Wichtige Verbindungen: 'Frist einhalten', 'Frist verlängern', 'Frist versäumen', 'Frist setzen'.",
+      "'Fristgerecht' bedeutet 'innerhalb der gesetzten Frist' (= on time/within the deadline)."
+    ],
+    "relatedWords": [
+      "fristgerecht",
+      "die Deadline",
+      "der Termin",
+      "der Stichtag",
+      "v-bureaucracy-018",
+      "v-emails-014",
+      "v-work-021"
+    ],
+    "tags": [
+      "time-management",
+      "planning",
+      "deadlines"
+    ]
+  },
+  {
+    "id": "v-meetings-018",
+    "word": "der Kompromiss",
+    "baseForm": "Kompromiss",
+    "gender": "der",
+    "plural": "Kompromisse",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "compromise",
+    "meaningDe": "eine Lösung, bei der alle Seiten Zugeständnisse machen",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen einen Kompromiss finden.",
+        "en": "We need to find a compromise.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Nach langer Diskussion haben wir uns auf einen Kompromiss geeinigt.",
+        "en": "After a long discussion we agreed on a compromise.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Sind Sie bereit, einen Kompromiss einzugehen?",
+        "en": "Are you willing to make a compromise?",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Rechtschreibung: 'Kompromiss' mit Doppel-s (seit der Rechtschreibreform, früher 'Kompromiß').",
+      "Man sagt 'einen Kompromiss eingehen/finden/schliessen', nicht 'einen Kompromiss machen'."
+    ],
+    "usageNotes": [
+      "'Kompromissbereit' (= willing to compromise) ist ein wichtiges Adjektiv in Verhandlungen.",
+      "'Kompromisslos' (= uncompromising) beschreibt jemanden, der keine Zugeständnisse macht."
+    ],
+    "relatedWords": [
+      "kompromissbereit",
+      "kompromisslos",
+      "die Einigung",
+      "das Zugestaendnis"
+    ],
+    "tags": [
+      "negotiation",
+      "problem-solving",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "v-meetings-019",
+    "word": "die Anwesenheit",
+    "baseForm": "Anwesenheit",
+    "gender": "die",
+    "plural": "Anwesenheiten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "attendance, presence",
+    "meaningDe": "das Dabeisein oder Anwesendsein bei einer Veranstaltung",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ihre Anwesenheit bei der Sitzung ist erforderlich.",
+        "en": "Your attendance at the meeting is required.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Anwesenheit wird zu Beginn der Sitzung geprüft.",
+        "en": "Attendance is checked at the beginning of the meeting.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte bestätigen Sie Ihre Anwesenheit bis Freitag.",
+        "en": "Please confirm your attendance by Friday.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Abwesenheit' (= absence) - das Gegenteil.",
+      "Man sagt 'in Anwesenheit von' (= in the presence of), nicht 'bei Anwesenheit von'."
+    ],
+    "usageNotes": [
+      "'Anwesenheitsliste' ist die Teilnehmerliste, die zu Beginn einer Sitzung unterschrieben wird.",
+      "'Anwesend' (= present) und 'abwesend' (= absent) sind die zugehörigen Adjektive."
+    ],
+    "relatedWords": [
+      "anwesend",
+      "die Abwesenheit",
+      "die Anwesenheitsliste",
+      "teilnehmen"
+    ],
+    "tags": [
+      "formal",
+      "administration",
+      "attendance"
+    ]
+  },
+  {
+    "id": "v-meetings-020",
+    "word": "der Vorsitzende",
+    "baseForm": "Vorsitzende",
+    "gender": "der",
+    "plural": "Vorsitzenden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "chairperson, chair",
+    "meaningDe": "die Person, die eine Sitzung oder Organisation leitet",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Vorsitzende eröffnete die Sitzung.",
+        "en": "The chairperson opened the meeting.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Als Vorsitzende hat sie das letzte Wort.",
+        "en": "As chairperson she has the final say.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Vorsitzende bat um Abstimmung.",
+        "en": "The chair called for a vote.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Vorsitzende' wird wie ein Adjektiv dekliniert: 'der Vorsitzende', 'ein Vorsitzender', 'dem Vorsitzenden'.",
+      "Die weibliche Form ist 'die Vorsitzende' - gleiche Form, anderer Artikel."
+    ],
+    "usageNotes": [
+      "Abkürzung in Texten: 'Vors.' ist üblich.",
+      "Synonyme: 'der Sitzungsleiter', 'der Versammlungsleiter' (weniger formell)."
+    ],
+    "relatedWords": [
+      "die Vorsitzende",
+      "der Sitzungsleiter",
+      "vorsitzen",
+      "der Vorsitz"
+    ],
+    "tags": [
+      "leadership",
+      "formal",
+      "hierarchy"
+    ]
+  },
+  {
+    "id": "v-meetings-021",
+    "word": "die Massnahme",
+    "baseForm": "Massnahme",
+    "gender": "die",
+    "plural": "Massnahmen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "measure, action",
+    "meaningDe": "eine geplante Handlung, um ein bestimmtes Ziel zu erreichen oder ein Problem zu lösen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Welche Massnahmen schlagen Sie vor?",
+        "en": "What measures do you propose?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die beschlossenen Massnahmen müssen bis Ende des Monats umgesetzt werden.",
+        "en": "The agreed measures must be implemented by the end of the month.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir müssen geeignete Massnahmen ergreifen.",
+        "en": "We need to take appropriate measures.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'Massnahmen ergreifen' oder 'treffen', nicht 'Massnahmen nehmen'.",
+      "Nicht mit 'Mass' (= measurement/dimension) verwechseln."
+    ],
+    "usageNotes": [
+      "'Massnahmen ergreifen' und 'Massnahmen treffen' sind synonyme Standardwendungen.",
+      "Im Meeting-Kontext oft mit konkreten Fristen und Verantwortlichen verbunden."
+    ],
+    "relatedWords": [
+      "die Handlung",
+      "die Umsetzung",
+      "der Massnahmenkatalog",
+      "umsetzen"
+    ],
+    "tags": [
+      "action",
+      "planning",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "v-meetings-022",
+    "word": "die Zuständigkeit",
+    "baseForm": "Zuständigkeit",
+    "gender": "die",
+    "plural": "Zuständigkeiten",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "responsibility, jurisdiction",
+    "meaningDe": "der Bereich, für den jemand verantwortlich ist",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Das fällt nicht in meine Zuständigkeit.",
+        "en": "That does not fall within my area of responsibility.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir müssen die Zuständigkeiten klar verteilen.",
+        "en": "We need to clearly assign responsibilities.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer hat die Zuständigkeit für dieses Projekt?",
+        "en": "Who is responsible for this project?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Verantwortung' - 'Zuständigkeit' bezieht sich auf den formellen Aufgabenbereich.",
+      "Das Adjektiv ist 'zuständig' (für + Akkusativ): 'Ich bin zuständig für...'."
+    ],
+    "usageNotes": [
+      "In Meetings werden oft 'Zuständigkeiten verteilt' oder 'geklärt'.",
+      "'Wer ist dafür zuständig?' ist eine häufige Frage in Besprechungen."
+    ],
+    "relatedWords": [
+      "zustaendig",
+      "die Verantwortung",
+      "der Aufgabenbereich",
+      "verantwortlich"
+    ],
+    "tags": [
+      "organization",
+      "roles",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "v-meetings-023",
+    "word": "die Rückmeldung",
+    "baseForm": "Rückmeldung",
+    "gender": "die",
+    "plural": "Rückmeldungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "feedback, response",
+    "meaningDe": "eine Antwort oder Reaktion auf eine Anfrage oder Leistung",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich würde gerne Ihre Rückmeldung dazu hören.",
+        "en": "I would like to hear your feedback on this.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte geben Sie uns bis Freitag eine Rückmeldung.",
+        "en": "Please give us feedback by Friday.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Rückmeldungen der Kunden waren überwiegend positiv.",
+        "en": "The feedback from customers was predominantly positive.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Man kann auch 'Feedback' sagen, aber 'Rückmeldung' ist die deutsche Alternative.",
+      "'Rückmeldung geben' (nicht 'machen') ist die korrekte Verbindung."
+    ],
+    "usageNotes": [
+      "In formellen Kontexten wird 'Rückmeldung' gegenüber dem Anglizismus 'Feedback' bevorzugt.",
+      "'Um Rückmeldung bitten' ist eine höfliche Standardformulierung."
+    ],
+    "relatedWords": [
+      "das Feedback",
+      "die Reaktion",
+      "die Antwort",
+      "zurueckmelden",
+      "v-emails-016"
+    ],
+    "tags": [
+      "communication",
+      "feedback",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "v-meetings-024",
+    "word": "die Unterlage",
+    "baseForm": "Unterlage",
+    "gender": "die",
+    "plural": "Unterlagen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "document, handout, material",
+    "meaningDe": "schriftliche Dokumente, die als Grundlage für eine Besprechung dienen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Unterlagen für die Sitzung wurden vorab verteilt.",
+        "en": "The documents for the meeting were distributed in advance.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte bringen Sie alle relevanten Unterlagen mit.",
+        "en": "Please bring all relevant documents with you.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie die Unterlagen schon durchgelesen?",
+        "en": "Have you already read through the documents?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Unterlagen' wird fast immer im Plural verwendet; der Singular 'Unterlage' ist selten.",
+      "Nicht verwechseln mit 'Unterlage' im Sinne von 'Matte/Pad' (z.B. Schreibtischunterlage)."
+    ],
+    "usageNotes": [
+      "Im Meeting-Kontext meint 'Unterlagen' immer Dokumente, Berichte oder Handouts.",
+      "Häufig in der Kombination 'Sitzungsunterlagen' oder 'Besprechungsunterlagen'."
+    ],
+    "relatedWords": [
+      "das Dokument",
+      "die Sitzungsunterlagen",
+      "das Handout",
+      "die Akte",
+      "v-bureaucracy-019"
+    ],
+    "tags": [
+      "documentation",
+      "preparation",
+      "materials"
+    ]
+  },
+  {
+    "id": "v-meetings-025",
+    "word": "der Standpunkt",
+    "baseForm": "Standpunkt",
+    "gender": "der",
+    "plural": "Standpunkte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "point of view, standpoint",
+    "meaningDe": "die persönliche Meinung oder Position zu einem Thema",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich verstehe Ihren Standpunkt.",
+        "en": "I understand your point of view.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Von meinem Standpunkt aus ist das keine gute Idee.",
+        "en": "From my point of view, that is not a good idea.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Könnten Sie Ihren Standpunkt näher erläutern?",
+        "en": "Could you explain your standpoint in more detail?",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Standort' (= location/position physically).",
+      "Man sagt 'einen Standpunkt vertreten' (to represent a viewpoint), nicht 'einen Standpunkt haben'."
+    ],
+    "usageNotes": [
+      "Formelle Alternative zu 'Meinung': 'Standpunkt' klingt sachlicher und professioneller.",
+      "'Den eigenen Standpunkt vertreten/darlegen/klar machen' sind typische Verbindungen."
+    ],
+    "relatedWords": [
+      "die Meinung",
+      "die Position",
+      "die Sichtweise",
+      "der Gesichtspunkt"
+    ],
+    "tags": [
+      "opinions",
+      "argumentation",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-meetings-026",
+    "word": "abstimmen",
+    "baseForm": "abstimmen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to vote, to coordinate",
+    "meaningDe": "durch Wahl eine gemeinsame Entscheidung treffen; oder: etwas aufeinander abpassen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Lassen Sie uns darüber abstimmen.",
+        "en": "Let us vote on it.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir müssen die Termine miteinander abstimmen.",
+        "en": "We need to coordinate the dates with each other.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Teilnehmer stimmen per Handzeichen ab.",
+        "en": "The participants vote by a show of hands.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "stimme ab",
+        "du": "stimmst ab",
+        "er_sie_es": "stimmt ab",
+        "wir": "stimmen ab",
+        "ihr": "stimmt ab",
+        "sie_Sie": "stimmen ab"
+      },
+      "past": {
+        "ich": "stimmte ab",
+        "du": "stimmtest ab",
+        "er_sie_es": "stimmte ab",
+        "wir": "stimmten ab",
+        "ihr": "stimmtet ab",
+        "sie_Sie": "stimmten ab"
+      },
+      "pastParticiple": "abgestimmt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbares Verb: 'Wir stimmen ab' (nicht 'Wir abstimmen').",
+      "'Abstimmen über' (vote on) vs. 'abstimmen mit' (coordinate with) - die Präposition ändert die Bedeutung."
+    ],
+    "usageNotes": [
+      "Als trennbares Verb wird 'ab-' im Hauptsatz ans Ende gestellt.",
+      "Zwei Bedeutungen: 'über etwas abstimmen' (vote) und 'etwas aufeinander abstimmen' (coordinate)."
+    ],
+    "relatedWords": [
+      "die Abstimmung",
+      "die Stimme",
+      "zustimmen"
+    ],
+    "tags": [
+      "decision-making",
+      "trennbar",
+      "dual-meaning"
+    ]
+  },
+  {
+    "id": "v-meetings-027",
+    "word": "vorschlagen",
+    "baseForm": "vorschlagen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to suggest, to propose",
+    "meaningDe": "eine Idee oder einen Plan äussern, damit andere darüber nachdenken oder entscheiden können",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich schlage vor, dass wir eine Pause machen.",
+        "en": "I suggest that we take a break.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Darf ich einen alternativen Ansatz vorschlagen?",
+        "en": "May I suggest an alternative approach?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie hat vorgeschlagen, den Termin zu verschieben.",
+        "en": "She suggested postponing the appointment.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "schlage vor",
+        "du": "schlägst vor",
+        "er_sie_es": "schlägt vor",
+        "wir": "schlagen vor",
+        "ihr": "schlagt vor",
+        "sie_Sie": "schlagen vor"
+      },
+      "past": {
+        "ich": "schlug vor",
+        "du": "schlugst vor",
+        "er_sie_es": "schlug vor",
+        "wir": "schlugen vor",
+        "ihr": "schlugt vor",
+        "sie_Sie": "schlugen vor"
+      },
+      "pastParticiple": "vorgeschlagen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Starkes Verb mit Vokalwechsel: a -> ä -> u (schlagen, schlägt, schlug).",
+      "Trennbar: 'Ich schlage vor' (nicht 'Ich vorschlage')."
+    ],
+    "usageNotes": [
+      "Häufig mit Nebensatz: 'Ich schlage vor, dass...' oder mit Infinitiv: 'Ich schlage vor, ... zu ...'.",
+      "Höflicher als 'Ich will/möchte': 'Darf ich vorschlagen, dass...?'"
+    ],
+    "relatedWords": [
+      "der Vorschlag",
+      "empfehlen",
+      "anregen",
+      "der Gegenvorschlag"
+    ],
+    "tags": [
+      "trennbar",
+      "strong-verb",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-meetings-028",
+    "word": "zusammenfassen",
+    "baseForm": "zusammenfassen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to summarize",
+    "meaningDe": "die wichtigsten Punkte kurz und knapp wiedergeben",
+    "situations": [
+      "meetings",
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Lassen Sie mich die Ergebnisse kurz zusammenfassen.",
+        "en": "Let me briefly summarize the results.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie bitte die Diskussion zusammenfassen?",
+        "en": "Could you please summarize the discussion?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Zusammenfassend lässt sich sagen, dass alle Ziele erreicht wurden.",
+        "en": "In summary, it can be said that all goals were achieved.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "fasse zusammen",
+        "du": "fasst zusammen",
+        "er_sie_es": "fasst zusammen",
+        "wir": "fassen zusammen",
+        "ihr": "fasst zusammen",
+        "sie_Sie": "fassen zusammen"
+      },
+      "past": {
+        "ich": "fasste zusammen",
+        "du": "fasstest zusammen",
+        "er_sie_es": "fasste zusammen",
+        "wir": "fassten zusammen",
+        "ihr": "fasstet zusammen",
+        "sie_Sie": "fassten zusammen"
+      },
+      "pastParticiple": "zusammengefasst",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich fasse zusammen' (nicht 'Ich zusammenfasse').",
+      "Nicht verwechseln mit 'zusammensetzen' (= to put together/compose)."
+    ],
+    "usageNotes": [
+      "'Zusammenfassend' als Adverb ist nützlich am Ende von Präsentationen.",
+      "In Meetings oft am Schluss: 'Lassen Sie mich die wichtigsten Punkte zusammenfassen.'"
+    ],
+    "relatedWords": [
+      "die Zusammenfassung",
+      "das Fazit",
+      "der Ueberblick",
+      "zusammenfassend"
+    ],
+    "tags": [
+      "trennbar",
+      "communication",
+      "structure"
+    ]
+  },
+  {
+    "id": "v-meetings-029",
+    "word": "widersprechen",
+    "baseForm": "widersprechen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to contradict, to disagree",
+    "meaningDe": "eine andere Meinung äussern, gegen etwas Einwand erheben",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss Ihnen in diesem Punkt leider widersprechen.",
+        "en": "I'm afraid I have to disagree with you on this point.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Niemand hat dem Vorschlag widersprochen.",
+        "en": "No one contradicted the proposal.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Zahlen widersprechen seiner Darstellung.",
+        "en": "The numbers contradict his account.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "widerspreche",
+        "du": "widersprichst",
+        "er_sie_es": "widerspricht",
+        "wir": "widersprechen",
+        "ihr": "widersprecht",
+        "sie_Sie": "widersprechen"
+      },
+      "past": {
+        "ich": "widersprach",
+        "du": "widersprachst",
+        "er_sie_es": "widersprach",
+        "wir": "widersprachen",
+        "ihr": "widerspracht",
+        "sie_Sie": "widersprachen"
+      },
+      "pastParticiple": "widersprochen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar! 'Ich widerspreche' (nicht 'Ich spreche wider').",
+      "'Widersprechen' verlangt den Dativ: 'Ich widerspreche Ihnen' (nicht 'Sie')."
+    ],
+    "usageNotes": [
+      "Höfliche Variante: 'Ich muss Ihnen leider widersprechen' oder 'Erlauben Sie mir, zu widersprechen'.",
+      "'Sich widersprechen' bedeutet, dass man sich selbst in Widersprüche verwickelt."
+    ],
+    "relatedWords": [
+      "der Widerspruch",
+      "widersprüchlich",
+      "einwenden",
+      "entgegnen"
+    ],
+    "tags": [
+      "disagreement",
+      "strong-verb",
+      "dative"
+    ]
+  },
+  {
+    "id": "v-meetings-030",
+    "word": "zustimmen",
+    "baseForm": "zustimmen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to agree, to approve",
+    "meaningDe": "seine Zustimmung geben, einer Meinung oder einem Vorschlag beipflichten",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich stimme dem Vorschlag voll und ganz zu.",
+        "en": "I fully agree with the proposal.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Alle Teilnehmer haben dem Plan zugestimmt.",
+        "en": "All participants agreed to the plan.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Stimmen Sie dem zu?",
+        "en": "Do you agree with that?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "stimme zu",
+        "du": "stimmst zu",
+        "er_sie_es": "stimmt zu",
+        "wir": "stimmen zu",
+        "ihr": "stimmt zu",
+        "sie_Sie": "stimmen zu"
+      },
+      "past": {
+        "ich": "stimmte zu",
+        "du": "stimmtest zu",
+        "er_sie_es": "stimmte zu",
+        "wir": "stimmten zu",
+        "ihr": "stimmtet zu",
+        "sie_Sie": "stimmten zu"
+      },
+      "pastParticiple": "zugestimmt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich stimme zu' (nicht 'Ich zustimme').",
+      "'Zustimmen' verlangt den Dativ: 'Ich stimme Ihnen zu' (nicht 'Sie')."
+    ],
+    "usageNotes": [
+      "Man kann einer Person oder einer Sache zustimmen: 'Ich stimme Ihnen zu' / 'Ich stimme dem Plan zu'.",
+      "'Zustimmung' ist das Substantiv, 'zustimmend' das Adjektiv/Adverb."
+    ],
+    "relatedWords": [
+      "die Zustimmung",
+      "einverstanden",
+      "bejahen",
+      "befuerworten"
+    ],
+    "tags": [
+      "trennbar",
+      "agreement",
+      "dative"
+    ]
+  },
+  {
+    "id": "v-meetings-031",
+    "word": "moderieren",
+    "baseForm": "moderieren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to moderate, to facilitate",
+    "meaningDe": "eine Diskussion oder Sitzung leiten und den Ablauf steürn",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wer moderiert die heutige Sitzung?",
+        "en": "Who is moderating today's meeting?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie hat die Diskussion sehr professionell moderiert.",
+        "en": "She moderated the discussion very professionally.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Können Sie das Meeting nächste Woche moderieren?",
+        "en": "Can you facilitate the meeting next week?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "moderiere",
+        "du": "moderierst",
+        "er_sie_es": "moderiert",
+        "wir": "moderieren",
+        "ihr": "moderiert",
+        "sie_Sie": "moderieren"
+      },
+      "past": {
+        "ich": "moderierte",
+        "du": "moderiertest",
+        "er_sie_es": "moderierte",
+        "wir": "moderierten",
+        "ihr": "moderiertet",
+        "sie_Sie": "moderierten"
+      },
+      "pastParticiple": "moderiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar - 'moderieren' bleibt immer zusammen.",
+      "Nicht verwechseln mit 'mässigen' (= to moderate in the sense of reducing)."
+    ],
+    "usageNotes": [
+      "'Moderieren' bezieht sich auf das Leiten einer Diskussion, nicht auf inhaltliches Eingreifen.",
+      "Ein guter Moderator bleibt neutral und sorgt dafür, dass alle zu Wort kommen."
+    ],
+    "relatedWords": [
+      "der Moderator",
+      "die Moderation",
+      "leiten",
+      "fuehren"
+    ],
+    "tags": [
+      "leadership",
+      "facilitation",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-meetings-032",
+    "word": "vertagen",
+    "baseForm": "vertagen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to postpone, to adjourn",
+    "meaningDe": "eine Sitzung oder Diskussion auf einen späteren Zeitpunkt verschieben",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich schlage vor, diesen Punkt auf die nächste Sitzung zu vertagen.",
+        "en": "I suggest postponing this item to the next meeting.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Sitzung wurde auf nächsten Montag vertagt.",
+        "en": "The meeting was adjourned until next Monday.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Können wir die Entscheidung vertagen?",
+        "en": "Can we postpone the decision?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "vertage",
+        "du": "vertagst",
+        "er_sie_es": "vertagt",
+        "wir": "vertagen",
+        "ihr": "vertagt",
+        "sie_Sie": "vertagen"
+      },
+      "past": {
+        "ich": "vertagte",
+        "du": "vertagtest",
+        "er_sie_es": "vertagte",
+        "wir": "vertagten",
+        "ihr": "vertagtet",
+        "sie_Sie": "vertagten"
+      },
+      "pastParticiple": "vertagt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Vorsilbe 'ver-').",
+      "'Vertagen' wird hauptsächlich im formellen Kontext verwendet - im Alltag sagt man eher 'verschieben'."
+    ],
+    "usageNotes": [
+      "'Vertagen' klingt formeller als 'verschieben' und wird vor allem in Sitzungskontexten benutzt.",
+      "'Sich vertagen' bedeutet, dass die Gruppe beschliesst, das Treffen zu unterbrechen."
+    ],
+    "relatedWords": [
+      "verschieben",
+      "die Vertagung",
+      "unterbrechen",
+      "fortsetzen"
+    ],
+    "tags": [
+      "formal",
+      "scheduling",
+      "meetings"
+    ]
+  },
+  {
+    "id": "v-meetings-033",
+    "word": "beschliessen",
+    "baseForm": "beschliessen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to decide, to resolve",
+    "meaningDe": "eine offizielle Entscheidung treffen, etwas formell festlegen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir haben beschlossen, das Projekt fortzusetzen.",
+        "en": "We have decided to continue the project.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Vorstand beschliesst eine Budgeterhöhung.",
+        "en": "The board resolves to increase the budget.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Was wurde in der letzten Sitzung beschlossen?",
+        "en": "What was decided in the last meeting?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beschliesse",
+        "du": "beschliesst",
+        "er_sie_es": "beschliesst",
+        "wir": "beschliessen",
+        "ihr": "beschliesst",
+        "sie_Sie": "beschliessen"
+      },
+      "past": {
+        "ich": "beschloss",
+        "du": "beschlossest",
+        "er_sie_es": "beschloss",
+        "wir": "beschlossen",
+        "ihr": "beschlosst",
+        "sie_Sie": "beschlossen"
+      },
+      "pastParticiple": "beschlossen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Vorsilbe 'be-').",
+      "Nicht verwechseln mit 'schliessen' (= to close). 'Beschliessen' = to decide."
+    ],
+    "usageNotes": [
+      "'Beschliessen' ist formeller als 'entscheiden' und impliziert eine offizielle Abstimmung.",
+      "Partizip II: 'Es wurde beschlossen, dass...' ist eine typische Protokollformulierung."
+    ],
+    "relatedWords": [
+      "der Beschluss",
+      "entscheiden",
+      "die Entscheidung",
+      "festlegen"
+    ],
+    "tags": [
+      "strong-verb",
+      "formal",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "v-meetings-034",
+    "word": "festlegen",
+    "baseForm": "festlegen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to determine, to set, to establish",
+    "meaningDe": "etwas verbindlich bestimmen oder vereinbaren",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen einen Termin für die nächste Sitzung festlegen.",
+        "en": "We need to set a date for the next meeting.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Ziele wurden in der Sitzung festgelegt.",
+        "en": "The goals were established in the meeting.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wer legt die Tagesordnung fest?",
+        "en": "Who determines the agenda?",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "lege fest",
+        "du": "legst fest",
+        "er_sie_es": "legt fest",
+        "wir": "legen fest",
+        "ihr": "legt fest",
+        "sie_Sie": "legen fest"
+      },
+      "past": {
+        "ich": "legte fest",
+        "du": "legtest fest",
+        "er_sie_es": "legte fest",
+        "wir": "legten fest",
+        "ihr": "legtet fest",
+        "sie_Sie": "legten fest"
+      },
+      "pastParticiple": "festgelegt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Wir legen fest' (nicht 'Wir festlegen').",
+      "'Sich festlegen' (reflexiv) bedeutet, sich auf etwas Bestimmtes festzulegen: 'Ich möchte mich noch nicht festlegen.'"
+    ],
+    "usageNotes": [
+      "In Meetings: 'Legen wir die nächsten Schritte fest' ist eine typische Formulierung.",
+      "'Festlegen' impliziert Verbindlichkeit - was festgelegt wurde, gilt."
+    ],
+    "relatedWords": [
+      "die Festlegung",
+      "bestimmen",
+      "vereinbaren",
+      "definieren"
+    ],
+    "tags": [
+      "trennbar",
+      "planning",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "v-meetings-035",
+    "word": "einbringen",
+    "baseForm": "einbringen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to bring in, to contribute, to introduce",
+    "meaningDe": "einen Vorschlag, eine Idee oder einen Gedanken in eine Diskussion einführen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Möchte jemand noch einen Vorschlag einbringen?",
+        "en": "Would anyone like to bring in another suggestion?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie hat eine interessante Idee in die Diskussion eingebracht.",
+        "en": "She introduced an interesting idea into the discussion.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Jeder sollte seine Erfahrung einbringen.",
+        "en": "Everyone should contribute their experience.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bringe ein",
+        "du": "bringst ein",
+        "er_sie_es": "bringt ein",
+        "wir": "bringen ein",
+        "ihr": "bringt ein",
+        "sie_Sie": "bringen ein"
+      },
+      "past": {
+        "ich": "brachte ein",
+        "du": "brachtest ein",
+        "er_sie_es": "brachte ein",
+        "wir": "brachten ein",
+        "ihr": "brachtet ein",
+        "sie_Sie": "brachten ein"
+      },
+      "pastParticiple": "eingebracht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich bringe einen Vorschlag ein' (nicht 'Ich einbringe').",
+      "Starkes Verb: bringen - brachte - gebracht (mit Vokalwechsel)."
+    ],
+    "usageNotes": [
+      "'Sich einbringen' (reflexiv) bedeutet, aktiv an einer Diskussion teilzunehmen.",
+      "In Meetings: 'einen Antrag einbringen', 'eine Idee einbringen' sind Standardformulierungen."
+    ],
+    "relatedWords": [
+      "beitragen",
+      "der Beitrag",
+      "vorstellen",
+      "praesentieren"
+    ],
+    "tags": [
+      "trennbar",
+      "strong-verb",
+      "participation"
+    ]
+  },
+  {
+    "id": "v-meetings-036",
+    "word": "festhalten",
+    "baseForm": "festhalten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to record, to note down; to hold on to",
+    "meaningDe": "etwas schriftlich dokumentieren; an etwas nicht loslassen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte halten Sie das im Protokoll fest.",
+        "en": "Please record that in the minutes.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir halten fest, dass alle dem Vorschlag zugestimmt haben.",
+        "en": "We note that everyone agreed to the proposal.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Ergebnisse werden schriftlich festgehalten.",
+        "en": "The results will be documented in writing.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "halte fest",
+        "du": "hältst fest",
+        "er_sie_es": "hält fest",
+        "wir": "halten fest",
+        "ihr": "haltet fest",
+        "sie_Sie": "halten fest"
+      },
+      "past": {
+        "ich": "hielt fest",
+        "du": "hieltst fest",
+        "er_sie_es": "hielt fest",
+        "wir": "hielten fest",
+        "ihr": "hieltet fest",
+        "sie_Sie": "hielten fest"
+      },
+      "pastParticiple": "festgehalten",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Wir halten fest' (nicht 'Wir festhalten').",
+      "Doppelbedeutung: 'festhalten' kann 'notieren' oder 'physisch greifen' bedeuten - Kontext beachten."
+    ],
+    "usageNotes": [
+      "Im Meeting-Kontext bedeutet 'festhalten' immer 'dokumentieren' oder 'notieren'.",
+      "'Halten wir fest:...' ist eine typische Überleitung im Meeting, um Ergebnisse zu sichern."
+    ],
+    "relatedWords": [
+      "notieren",
+      "dokumentieren",
+      "protokollieren",
+      "aufschreiben"
+    ],
+    "tags": [
+      "trennbar",
+      "strong-verb",
+      "documentation"
+    ]
+  },
+  {
+    "id": "v-meetings-037",
+    "word": "überprüfen",
+    "baseForm": "überprüfen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to review, to check, to verify",
+    "meaningDe": "etwas genau kontrollieren oder nochmals prüfen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir sollten die Zahlen noch einmal überprüfen.",
+        "en": "We should review the numbers once more.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie den Bericht bis morgen überprüfen?",
+        "en": "Can you review the report by tomorrow?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Ergebnisse müssen von der Abteilungsleitung überprüft werden.",
+        "en": "The results must be reviewed by the department head.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "überprüfe",
+        "du": "überprüfst",
+        "er_sie_es": "überprüft",
+        "wir": "überprüfen",
+        "ihr": "überprüft",
+        "sie_Sie": "überprüfen"
+      },
+      "past": {
+        "ich": "überprüfte",
+        "du": "überprüftest",
+        "er_sie_es": "überprüfte",
+        "wir": "überprüften",
+        "ihr": "überprüftet",
+        "sie_Sie": "überprüften"
+      },
+      "pastParticiple": "überprüft",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Vorsilbe 'über-' in der Bedeutung 'nochmals').",
+      "Nicht verwechseln mit 'prüfen' (= to test/examine) - 'überprüfen' betont das nochmalige Kontrollieren."
+    ],
+    "usageNotes": [
+      "'Überprüfen' impliziert eine sorgfältige Kontrolle, nicht nur ein fluchtiges Durchsehen.",
+      "Häufig in Meetings: 'Wir müssen das überprüfen und nächste Woche berichten.'"
+    ],
+    "relatedWords": [
+      "die Ueberpruefung",
+      "pruefen",
+      "kontrollieren",
+      "nachpruefen",
+      "v-emails-037"
+    ],
+    "tags": [
+      "quality",
+      "verification",
+      "review"
+    ]
+  },
+  {
+    "id": "v-meetings-038",
+    "word": "genehmigen",
+    "baseForm": "genehmigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to approve, to authorize",
+    "meaningDe": "offiziell die Erlaubnis für etwas erteilen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Das Budget wurde in der Sitzung genehmigt.",
+        "en": "The budget was approved in the meeting.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wer muss den Antrag genehmigen?",
+        "en": "Who needs to approve the application?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Vorstand hat das neü Konzept genehmigt.",
+        "en": "The board has approved the new concept.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "genehmige",
+        "du": "genehmigst",
+        "er_sie_es": "genehmigt",
+        "wir": "genehmigen",
+        "ihr": "genehmigt",
+        "sie_Sie": "genehmigen"
+      },
+      "past": {
+        "ich": "genehmigte",
+        "du": "genehmigtest",
+        "er_sie_es": "genehmigte",
+        "wir": "genehmigten",
+        "ihr": "genehmigtet",
+        "sie_Sie": "genehmigten"
+      },
+      "pastParticiple": "genehmigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Vorsilbe 'ge-' gehört zum Stamm, nicht zur Vorsilbe).",
+      "Umgangssprachlich: 'sich einen genehmigen' bedeutet 'ein alkoholisches Getränk trinken' - ganz andere Bedeutung!"
+    ],
+    "usageNotes": [
+      "'Genehmigen' impliziert eine hierarchische Struktur - jemand mit Autorität genehmigt.",
+      "Nomen: 'die Genehmigung' (= approval, permit)."
+    ],
+    "relatedWords": [
+      "die Genehmigung",
+      "bewilligen",
+      "erlauben",
+      "ablehnen",
+      "v-bureaucracy-037"
+    ],
+    "tags": [
+      "formal",
+      "authority",
+      "approval"
+    ]
+  },
+  {
+    "id": "v-meetings-039",
+    "word": "erläutern",
+    "baseForm": "erläutern",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to explain, to elaborate",
+    "meaningDe": "etwas ausführlich und verständlich erklären",
+    "situations": [
+      "meetings",
+      "work",
+      "education"
+    ],
+    "examples": [
+      {
+        "de": "Könnten Sie Ihren Standpunkt näher erläutern?",
+        "en": "Could you elaborate on your point of view?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich möchte kurz den Hintergrund erläutern.",
+        "en": "I would like to briefly explain the background.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Er erläuterte die Gründe für seine Entscheidung.",
+        "en": "He explained the reasons for his decision.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erläutere",
+        "du": "erläuterst",
+        "er_sie_es": "erläutert",
+        "wir": "erläutern",
+        "ihr": "erläutert",
+        "sie_Sie": "erläutern"
+      },
+      "past": {
+        "ich": "erläuterte",
+        "du": "erläutertest",
+        "er_sie_es": "erläuterte",
+        "wir": "erläuterten",
+        "ihr": "erläutertet",
+        "sie_Sie": "erläuterten"
+      },
+      "pastParticiple": "erläutert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Vorsilbe 'er-').",
+      "'Erläutern' ist formeller als 'erklären' - in Meetings angemessen, im Alltag eher 'erklären' benutzen."
+    ],
+    "usageNotes": [
+      "'Erläutern' betont das ausführliche Erklären, während 'erklären' allgemeiner ist.",
+      "Höfliche Bitte: 'Könnten Sie das bitte näher erläutern?'"
+    ],
+    "relatedWords": [
+      "die Erlaeuterung",
+      "erklaeren",
+      "darlegen",
+      "ausfuehren"
+    ],
+    "tags": [
+      "formal",
+      "communication",
+      "explanation"
+    ]
+  },
+  {
+    "id": "v-meetings-040",
+    "word": "verschieben",
+    "baseForm": "verschieben",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to postpone, to reschedule",
+    "meaningDe": "etwas auf einen späteren Zeitpunkt verlegen",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Können wir das Meeting auf nächste Woche verschieben?",
+        "en": "Can we postpone the meeting to next week?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Termin wurde um zwei Stunden verschoben.",
+        "en": "The appointment was rescheduled by two hours.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir sollten die Entscheidung nicht länger verschieben.",
+        "en": "We should not postpone the decision any longer.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verschiebe",
+        "du": "verschiebst",
+        "er_sie_es": "verschiebt",
+        "wir": "verschieben",
+        "ihr": "verschiebt",
+        "sie_Sie": "verschieben"
+      },
+      "past": {
+        "ich": "verschob",
+        "du": "verschobst",
+        "er_sie_es": "verschob",
+        "wir": "verschoben",
+        "ihr": "verschobt",
+        "sie_Sie": "verschoben"
+      },
+      "pastParticiple": "verschoben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar (Vorsilbe 'ver-').",
+      "'Verschieben' kann auch physisch 'etwas an einen anderen Ort bewegen' bedeuten."
+    ],
+    "usageNotes": [
+      "'Verschieben' ist alltagssprachlicher als 'vertagen' - beide bedeuten 'postpone'.",
+      "Häufig: 'auf unbestimmte Zeit verschieben' (= to postpone indefinitely)."
+    ],
+    "relatedWords": [
+      "vertagen",
+      "die Verschiebung",
+      "verlegen",
+      "absagen",
+      "v-phone-039"
+    ],
+    "tags": [
+      "strong-verb",
+      "scheduling",
+      "time-management"
+    ]
+  },
+  {
+    "id": "v-meetings-041",
+    "word": "einverstanden",
+    "baseForm": "einverstanden",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "agreed, in agreement",
+    "meaningDe": "mit etwas übereinstimmend, etwas akzeptierend",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Sind alle einverstanden?",
+        "en": "Does everyone agree?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich bin mit dem Vorschlag einverstanden.",
+        "en": "I agree with the proposal.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wenn alle einverstanden sind, können wir fortfahren.",
+        "en": "If everyone agrees, we can proceed.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'einverstanden sein mit' (Dativ), nicht 'einverstanden sein zu'.",
+      "Nicht als attributives Adjektiv verwenden: Man sagt nicht 'der einverstandene Kollege'."
+    ],
+    "usageNotes": [
+      "'Einverstanden!' als alleinstehende Antwort bedeutet 'Agreed!' oder 'OK!'.",
+      "Formeller als einfach 'OK' oder 'Ja' - geeignet für Meetings."
+    ],
+    "relatedWords": [
+      "das Einverstaendnis",
+      "zustimmen",
+      "die Zustimmung",
+      "akzeptieren"
+    ],
+    "tags": [
+      "agreement",
+      "response",
+      "common-expression"
+    ]
+  },
+  {
+    "id": "v-meetings-042",
+    "word": "sachlich",
+    "baseForm": "sachlich",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "factual, objective, matter-of-fact",
+    "meaningDe": "auf Fakten bezogen, ohne persönliche Emotionen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte bleiben Sie sachlich.",
+        "en": "Please remain objective.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Diskussion war sehr sachlich und produktiv.",
+        "en": "The discussion was very factual and productive.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir sollten sachlich über das Problem sprechen.",
+        "en": "We should discuss the problem objectively.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'sächlich' (= neuter, in grammar).",
+      "'Sachlich' und 'objektiv' sind ähnlich, aber 'sachlich' betont die Faktenorientierung, 'objektiv' die Unparteilichkeit."
+    ],
+    "usageNotes": [
+      "'Sachlich bleiben' ist eine wichtige Aufforderung in hitzigen Diskussionen.",
+      "Gegenteil: 'unsachlich' (= not objective, emotional) oder 'persönlich' (= personal)."
+    ],
+    "relatedWords": [
+      "die Sachlichkeit",
+      "objektiv",
+      "neutral",
+      "unsachlich"
+    ],
+    "tags": [
+      "professionalism",
+      "communication-style",
+      "objectivity"
+    ]
+  },
+  {
+    "id": "v-meetings-043",
+    "word": "konstruktiv",
+    "baseForm": "konstruktiv",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "constructive",
+    "meaningDe": "aufbaünd, förderlich, auf Verbesserung ausgerichtet",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Vielen Dank für die konstruktive Kritik.",
+        "en": "Thank you for the constructive criticism.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Lassen Sie uns konstruktiv zusammenarbeiten.",
+        "en": "Let us work together constructively.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Vorschlag war sehr konstruktiv.",
+        "en": "The suggestion was very constructive.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Gegenteil: 'destruktiv' (= destructive) - nicht 'unkonstruktiv' (auch wenn das manchmal verwendet wird).",
+      "Aussprache: Betonung auf der letzten Silbe: kon-struk-TIV."
+    ],
+    "usageNotes": [
+      "'Konstruktive Kritik' ist eine der häufigsten Kombinationen in der Arbeitswelt.",
+      "'Konstruktiv' wird oft als Lob verwendet: 'Das war ein sehr konstruktives Gespräch.'"
+    ],
+    "relatedWords": [
+      "destruktiv",
+      "aufbauend",
+      "produktiv",
+      "foerderlich"
+    ],
+    "tags": [
+      "positive",
+      "collaboration",
+      "feedback"
+    ]
+  },
+  {
+    "id": "v-meetings-044",
+    "word": "einstimmig",
+    "baseForm": "einstimmig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "unanimous",
+    "meaningDe": "mit Zustimmung aller Beteiligten, ohne Gegenstimme",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Beschluss wurde einstimmig gefasst.",
+        "en": "The decision was made unanimously.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir waren uns einstimmig einig.",
+        "en": "We were unanimously in agreement.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Wahl war einstimmig.",
+        "en": "The vote was unanimous.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'einstimmig' im musikalischen Sinne (= in unison, monophonic).",
+      "'Einstimmig' bedeutet 100% Zustimmung - bei einer Gegenstimme ist es nicht mehr einstimmig."
+    ],
+    "usageNotes": [
+      "In Protokollen: 'einstimmig angenommen' oder 'einstimmig beschlossen' sind Standardformulierungen.",
+      "Gegensatz: 'mehrheitlich' (by majority) oder 'mit Gegenstimmen' (with dissenting votes)."
+    ],
+    "relatedWords": [
+      "die Einstimmigkeit",
+      "mehrheitlich",
+      "die Abstimmung",
+      "die Stimme"
+    ],
+    "tags": [
+      "voting",
+      "agreement",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-meetings-045",
+    "word": "zuständig",
+    "baseForm": "zuständig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "responsible, in charge",
+    "meaningDe": "für einen bestimmten Aufgabenbereich verantwortlich",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wer ist für dieses Thema zuständig?",
+        "en": "Who is responsible for this topic?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Frau Müller ist für das Marketing zuständig.",
+        "en": "Ms. Mueller is in charge of marketing.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Dafür bin ich nicht zuständig.",
+        "en": "I am not responsible for that.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Zuständig für' (+ Akkusativ) ist die korrekte Präposition.",
+      "Nicht verwechseln mit 'verantwortlich' - 'zuständig' betont den formellen Aufgabenbereich, 'verantwortlich' die moralische Pflicht."
+    ],
+    "usageNotes": [
+      "In Meetings wichtig, um Aufgaben zuzuweisen: 'Wer ist zuständig?'",
+      "'Die zuständige Abteilung', 'der zuständige Mitarbeiter' sind häufige Kombinationen."
+    ],
+    "relatedWords": [
+      "die Zustaendigkeit",
+      "verantwortlich",
+      "beauftragt",
+      "der Zustaendigkeitsbereich",
+      "v-bureaucracy-041",
+      "v-emails-044",
+      "v-phone-044",
+      "v-work-041"
+    ],
+    "tags": [
+      "roles",
+      "responsibility",
+      "organization"
+    ]
+  },
+  {
+    "id": "v-meetings-046",
+    "word": "zur Diskussion stellen",
+    "baseForm": "zur Diskussion stellen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to put up for discussion, to open for debate",
+    "meaningDe": "ein Thema zur Besprechung und Meinungsaustausch vorlegen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte diesen Punkt zur Diskussion stellen.",
+        "en": "I would like to put this point up for discussion.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Vorsitzende stellte den Vorschlag zur Diskussion.",
+        "en": "The chairperson opened the proposal for debate.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Dieses Thema muss in der nächsten Sitzung zur Diskussion gestellt werden.",
+        "en": "This topic must be put up for discussion in the next meeting.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Die Reihenfolge ist fest: 'zur Diskussion stellen' (nicht 'stellen zur Diskussion').",
+      "Nicht verwechseln mit 'zur Debatte stehen' (= to be up for debate) - das ist eine andere Wendung."
+    ],
+    "usageNotes": [
+      "Formelle Wendung, die oft vom Moderator oder Vorsitzenden verwendet wird.",
+      "Variante: 'zur Abstimmung stellen' (= to put to a vote)."
+    ],
+    "relatedWords": [
+      "diskutieren",
+      "die Diskussion",
+      "zur Abstimmung stellen",
+      "eroertern"
+    ],
+    "tags": [
+      "formal-phrase",
+      "moderation",
+      "discussion"
+    ]
+  },
+  {
+    "id": "v-meetings-047",
+    "word": "Einwände erheben",
+    "baseForm": "Einwände erheben",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to raise objections",
+    "meaningDe": "Gegenargumente oder Bedenken formell vorbringen",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Möchte jemand Einwände erheben?",
+        "en": "Would anyone like to raise objections?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Finanzabteilung hat Einwände gegen den Plan erhoben.",
+        "en": "The finance department raised objections to the plan.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wenn keine Einwände erhoben werden, gilt der Vorschlag als angenommen.",
+        "en": "If no objections are raised, the proposal is considered accepted.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'Einwände erheben' oder 'Einwände vorbringen', nicht 'Einwände machen'.",
+      "'Erheben' ist hier im übertragenen Sinne (= to raise), nicht physisch."
+    ],
+    "usageNotes": [
+      "Sehr formelle Wendung - in informellen Meetings sagt man eher 'Hat jemand etwas dagegen?'.",
+      "Standardfrage vor einer Entscheidung: 'Gibt es Einwände?'"
+    ],
+    "relatedWords": [
+      "der Einwand",
+      "widersprechen",
+      "einwenden",
+      "Bedenken aeussern"
+    ],
+    "tags": [
+      "formal-phrase",
+      "objection",
+      "procedure"
+    ]
+  },
+  {
+    "id": "v-meetings-048",
+    "word": "zum Punkt kommen",
+    "baseForm": "zum Punkt kommen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to get to the point",
+    "meaningDe": "direkt über das Wesentliche sprechen, ohne Umschweife",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Können wir bitte zum Punkt kommen?",
+        "en": "Can we please get to the point?",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich würde gerne zum Punkt kommen: Wir brauchen mehr Budget.",
+        "en": "I would like to get to the point: We need more budget.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte kommen Sie zum Punkt, wir haben nicht viel Zeit.",
+        "en": "Please get to the point, we don't have much time.",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'auf den Punkt bringen' (= to put it in a nutshell) - ähnlich, aber unterschiedlich.",
+      "Kann unhöfllich klingen, wenn man es direkt sagt - besser: 'Darf ich kurz zum Punkt kommen?'"
+    ],
+    "usageNotes": [
+      "Nützlich, wenn eine Diskussion sich im Kreis dreht oder zu lange daürt.",
+      "Höflicher: 'Lassen Sie mich zum Punkt kommen' oder 'Um es kurz zu machen...'"
+    ],
+    "relatedWords": [
+      "auf den Punkt bringen",
+      "sich kurz fassen",
+      "zusammenfassen"
+    ],
+    "tags": [
+      "directness",
+      "time-management",
+      "common-phrase"
+    ]
+  },
+  {
+    "id": "v-meetings-049",
+    "word": "das Wort ergreifen",
+    "baseForm": "das Wort ergreifen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to take the floor, to speak up",
+    "meaningDe": "in einer Sitzung anfangen zu sprechen, sich zu Wort melden",
+    "situations": [
+      "meetings",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Darf ich das Wort ergreifen?",
+        "en": "May I take the floor?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Herr Schmidt ergriff das Wort und präsentierte die Zahlen.",
+        "en": "Mr. Schmidt took the floor and presented the figures.",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Wer möchte als Nächstes das Wort ergreifen?",
+        "en": "Who would like to speak next?",
+        "situation": "meetings",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Ergreifen' ist ein starkes Verb: ergreifen - ergriff - ergriffen.",
+      "Nicht verwechseln mit 'das Wort haben' (= to have the floor, already speaking)."
+    ],
+    "usageNotes": [
+      "Sehr formelle Wendung, typisch für offizielle Sitzungen und Versammlungen.",
+      "Weniger formelle Alternative: 'sich zu Wort melden' oder einfach 'etwas sagen wollen'."
+    ],
+    "relatedWords": [
+      "sich zu Wort melden",
+      "das Wort haben",
+      "das Rederecht",
+      "die Wortmeldung"
+    ],
+    "tags": [
+      "formal-phrase",
+      "parliamentary",
+      "speaking"
+    ]
+  },
+  {
+    "id": "v-meetings-050",
+    "word": "auf den Punkt bringen",
+    "baseForm": "auf den Punkt bringen",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "to put it in a nutshell, to sum up precisely",
+    "meaningDe": "etwas kurz und präzise formulieren, das Wesentliche sagen",
+    "situations": [
+      "meetings",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie das bitte auf den Punkt bringen?",
+        "en": "Can you please put that in a nutshell?",
+        "situation": "meetings",
+        "tone": "formal"
+      },
+      {
+        "de": "Um es auf den Punkt zu bringen: Wir haben kein Budget mehr.",
+        "en": "To put it in a nutshell: We have no more budget.",
+        "situation": "meetings",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sie hat das Problem perfekt auf den Punkt gebracht.",
+        "en": "She summed up the problem perfectly.",
+        "situation": "meetings",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'zum Punkt kommen' (= to get to the point) - ähnlich, aber 'auf den Punkt bringen' betont die präzise Formulierung.",
+      "Das Partizip ist 'auf den Punkt gebracht' (nicht 'auf den Punkt gebrungen')."
+    ],
+    "usageNotes": [
+      "Sehr nützliche Wendung in Meetings, um Ergebnisse knapp zusammenzufassen.",
+      "'Auf den Punkt gebracht:...' kann auch als Einleitung für eine Zusammenfassung dienen."
+    ],
+    "relatedWords": [
+      "zusammenfassen",
+      "kurz gefasst",
+      "zum Punkt kommen",
+      "praezisieren"
+    ],
+    "tags": [
+      "precision",
+      "communication",
+      "common-phrase"
+    ]
+  }
+]

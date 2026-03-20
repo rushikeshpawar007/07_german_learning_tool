@@ -1,0 +1,221 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.progress {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+  font-weight: var(--weight-medium);
+}
+
+.card {
+  width: 100%;
+  min-height: 350px;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-sand);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color var(--transition-normal);
+}
+
+.card.flipped {
+  border-color: var(--color-terracotta-light);
+}
+
+.front,
+.back {
+  width: 100%;
+  padding: var(--space-8);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.wordText {
+  font-family: var(--font-heading);
+  font-size: var(--text-3xl);
+  font-weight: var(--weight-bold);
+  color: var(--color-warm-brown);
+  text-align: center;
+}
+
+.meaning {
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-medium);
+  color: var(--color-terracotta);
+  text-align: center;
+}
+
+.meaningDe {
+  font-size: var(--text-base);
+  color: var(--color-warm-gray);
+  font-style: italic;
+  text-align: center;
+}
+
+.metaRow {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hints {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.hint {
+  font-size: var(--text-sm);
+  color: var(--color-warm-brown);
+  padding: var(--space-2) var(--space-3);
+  background-color: var(--color-info-light);
+  border-radius: var(--radius-md);
+  border-left: 3px solid var(--color-info);
+}
+
+.hintNumber {
+  font-weight: var(--weight-semibold);
+  color: var(--color-info);
+}
+
+.frontActions {
+  display: flex;
+  gap: var(--space-3);
+  margin-top: var(--space-2);
+}
+
+.hintBtn {
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  color: var(--color-info);
+  background: none;
+  border: 1px solid var(--color-info);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.hintBtn:hover {
+  background-color: var(--color-info);
+  color: var(--color-white);
+}
+
+.flipBtn {
+  padding: var(--space-2) var(--space-5);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-white);
+  background-color: var(--color-terracotta);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.flipBtn:hover {
+  background-color: var(--color-terracotta-dark);
+}
+
+.example {
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  background-color: var(--color-cream);
+  border-radius: var(--radius-md);
+}
+
+.exampleDe {
+  font-weight: var(--weight-medium);
+  color: var(--color-warm-brown);
+  margin-bottom: var(--space-1);
+}
+
+.exampleEn {
+  font-size: var(--text-sm);
+  color: var(--color-warm-gray);
+}
+
+.assessButtons {
+  display: flex;
+  gap: var(--space-3);
+  width: 100%;
+  margin-top: var(--space-2);
+}
+
+.knowBtn,
+.dontKnowBtn {
+  flex: 1;
+  padding: var(--space-3);
+  font-size: var(--text-base);
+  font-weight: var(--weight-semibold);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.knowBtn {
+  background-color: var(--color-success);
+  color: var(--color-white);
+}
+
+.knowBtn:hover {
+  background-color: var(--color-sage-dark);
+}
+
+.dontKnowBtn {
+  background-color: var(--color-error);
+  color: var(--color-white);
+}
+
+.dontKnowBtn:hover {
+  background-color: var(--color-terracotta-dark);
+}
+
+@media (max-width: 768px) {
+  .card {
+    min-height: 280px;
+  }
+
+  .front,
+  .back {
+    padding: var(--space-5);
+  }
+
+  .wordText {
+    font-size: var(--text-2xl);
+  }
+
+  .meaning {
+    font-size: var(--text-xl);
+  }
+
+  .knowBtn,
+  .dontKnowBtn {
+    min-height: 48px;
+    font-size: var(--text-base);
+  }
+
+  .hintBtn,
+  .flipBtn {
+    min-height: var(--touch-min);
+    padding: var(--space-3) var(--space-4);
+  }
+
+  .frontActions {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "work-project",
+  "title": "Das Projektmeeting",
+  "titleEn": "The Project Meeting",
+  "situation": "work",
+  "level": "B1",
+  "description": "Two colleagues discuss a project deadline.",
+  "speakers": {
+    "a": { "name": "Anna", "role": "Kollegin" },
+    "b": { "name": "Herr Müller", "role": "Teamleiter" }
+  },
+  "lines": [
+    { "speaker": "a", "de": "Guten Morgen, Herr Müller. Haben Sie kurz Zeit?", "en": "Good morning, Mr. Müller. Do you have a moment?" },
+    { "speaker": "b", "de": "Ja, natürlich. Worum geht es denn?", "en": "Yes, of course. What is it about?" },
+    { "speaker": "a", "de": "Also, es geht um das Kundenprojekt. Die Deadline ist ja nächsten Freitag, und ich glaube, wir schaffen das so nicht.", "en": "Well, it's about the client project. The deadline is next Friday, and I don't think we'll make it." },
+    { "speaker": "b", "de": "Hmm, das ist natürlich nicht ideal. Was genau fehlt denn noch?", "en": "Hmm, that's obviously not ideal. What exactly is still missing?" },
+    { "speaker": "a", "de": "Eigentlich sind wir mit der Analyse fertig, aber die Präsentation und der Abschlussbericht brauchen noch viel Arbeit.", "en": "Actually, we're done with the analysis, but the presentation and the final report still need a lot of work." },
+    { "speaker": "b", "de": "Verstehe. Haben Sie schon mit Markus gesprochen? Er könnte vielleicht bei der Präsentation helfen.", "en": "I see. Have you already talked to Markus? He could perhaps help with the presentation." },
+    { "speaker": "a", "de": "Das ist eine gute Idee! Ich frage ihn gleich nachher. Aber der Bericht — den muss ich eigentlich alleine schreiben, oder?", "en": "That's a good idea! I'll ask him right after. But the report — I actually have to write that alone, right?" },
+    { "speaker": "b", "de": "Na ja, nicht unbedingt. Ich kann Ihnen die Zahlen vom letzten Quartal zusammenstellen, das spart Ihnen bestimmt ein paar Stunden.", "en": "Well, not necessarily. I can compile the figures from last quarter for you — that will surely save you a few hours." },
+    { "speaker": "a", "de": "Das wäre wirklich super, vielen Dank! Dann könnte ich mich voll auf den Text konzentrieren.", "en": "That would be really great, thank you so much! Then I could fully focus on the text." },
+    { "speaker": "b", "de": "Gut. Und übrigens — wenn es wirklich eng wird, können wir die Deadline vielleicht um zwei Tage verschieben. Ich spreche mal mit dem Kunden.", "en": "Good. And by the way — if it really gets tight, we could perhaps push the deadline by two days. I'll talk to the client." },
+    { "speaker": "a", "de": "Das würde mir sehr helfen. Sollen wir uns am Mittwoch nochmal zusammensetzen und schauen, wo wir stehen?", "en": "That would help me a lot. Should we sit down again on Wednesday and see where we stand?" },
+    { "speaker": "b", "de": "Ja, guter Plan. Sagen wir Mittwoch um zehn? Dann haben wir noch genug Puffer.", "en": "Yes, good plan. Let's say Wednesday at ten? Then we still have enough buffer." },
+    { "speaker": "a", "de": "Perfekt, das passt. Ich schicke Ihnen gleich eine Einladung.", "en": "Perfect, that works. I'll send you an invitation right away." },
+    { "speaker": "b", "de": "Alles klar. Und keine Sorge, Anna — das kriegen wir schon hin.", "en": "All right. And don't worry, Anna — we'll manage this." }
+  ]
+}

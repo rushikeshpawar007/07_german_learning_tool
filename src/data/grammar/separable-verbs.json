@@ -1,0 +1,106 @@
+{
+  "id": "separable-verbs",
+  "title": "Separable Verbs (Trennbare Verben)",
+  "category": "verbs",
+  "level": "B1",
+  "description": "Separable verbs (trennbare Verben) are verbs with a prefix that detaches and moves to the end of the clause in main sentences. These prefixes change the meaning of the base verb, often dramatically. Understanding when the prefix separates and when it stays attached is key to correct German word order.",
+  "whenToUse": [
+    "Anytime you use a verb with a separable prefix in a main clause: Ich stehe jeden Tag um 7 Uhr auf.",
+    "In the Perfekt with the ge- inserted between prefix and stem: Ich bin um 7 Uhr aufgestanden.",
+    "In subordinate clauses where the prefix stays attached: ..., weil ich jeden Tag um 7 Uhr aufstehe.",
+    "With modal verbs where the infinitive stays together: Ich muss um 7 Uhr aufstehen."
+  ],
+  "rules": [
+    {
+      "title": "Prefix Goes to the End in Main Clauses",
+      "explanation": "In a present tense main clause, the conjugated verb stays in position 2 and the separable prefix moves to the very end of the sentence.",
+      "examples": [
+        { "correct": "Ich rufe dich morgen an.", "incorrect": "Ich anrufe dich morgen.", "explanation": "Anrufen separates: the conjugated verb (rufe) is in position 2, and the prefix (an) goes to the end." },
+        { "correct": "Er macht das Fenster auf.", "explanation": "Aufmachen separates: macht is in position 2, auf goes to the end." },
+        { "correct": "Wir fangen um 9 Uhr an.", "explanation": "Anfangen separates: fangen is in position 2, an goes to the end." }
+      ]
+    },
+    {
+      "title": "Prefix Stays Attached in Subordinate Clauses (Nebensatz)",
+      "explanation": "In a subordinate clause (introduced by weil, dass, wenn, ob, etc.), the verb goes to the end and the prefix stays attached to it.",
+      "examples": [
+        { "correct": "Ich bin müde, weil ich früh aufstehe.", "incorrect": "Ich bin müde, weil ich früh stehe auf.", "explanation": "In the Nebensatz with weil, the verb goes to the end and the prefix stays attached: aufstehe." },
+        { "correct": "Er sagt, dass er morgen ankommt.", "explanation": "After dass, the verb stays together at the end: ankommt, not kommt...an." },
+        { "correct": "Wenn du mitkommst, freue ich mich.", "explanation": "After wenn, the separable verb stays together: mitkommst." }
+      ]
+    },
+    {
+      "title": "Perfekt: ge- Goes Between Prefix and Stem",
+      "explanation": "In the Partizip II, the ge- is inserted between the separable prefix and the verb stem: an + ge + fangen = angefangen.",
+      "examples": [
+        { "correct": "Ich habe dich gestern angerufen.", "incorrect": "Ich habe dich gestern geanrufen.", "explanation": "The ge- goes between prefix and stem: an-ge-rufen, not ge-anrufen." },
+        { "correct": "Er hat das Licht ausgemacht.", "explanation": "Ausmachen → aus-ge-macht. The prefix aus- comes first, then ge-, then the stem -macht." },
+        { "correct": "Wir sind gestern angekommen.", "explanation": "Ankommen → an-ge-kommen. Movement verb, so it takes sein." }
+      ]
+    },
+    {
+      "title": "With Modal Verbs: Infinitive Stays Together",
+      "explanation": "When a separable verb is used with a modal verb, the separable verb stays in its infinitive form (prefix attached) at the end of the clause.",
+      "examples": [
+        { "correct": "Ich muss morgen früh aufstehen.", "incorrect": "Ich muss morgen früh stehen auf.", "explanation": "With a modal verb, the infinitive stays together at the end: aufstehen, not stehen...auf." },
+        { "correct": "Kannst du bitte das Fenster zumachen?", "explanation": "The modal (kannst) is in position 2, and the full infinitive (zumachen) stays together at the end." }
+      ]
+    },
+    {
+      "title": "How to Identify Separable vs. Inseparable Prefixes",
+      "explanation": "Separable prefixes are usually prepositions or adverbs and are stressed in pronunciation: ANrufen, AUFstehen. Inseparable prefixes (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-) are never stressed: beSTELLen, verSTEHen. Some prefixes (um-, über-, unter-, durch-, wieder-) can be either, depending on the verb.",
+      "examples": [
+        { "correct": "Ich stehe morgen früh auf. (aufstehen — separable)", "explanation": "Auf- is a separable prefix. The stress is on AUF: AUFstehen." },
+        { "correct": "Ich verstehe die Frage. (verstehen — inseparable)", "explanation": "Ver- is an inseparable prefix. The stress is on STEH: verSTEHen. The prefix never separates." },
+        { "correct": "Er kommt morgen um. (umkommen — separable) vs. Er umarmt sie. (umarmen — inseparable)", "explanation": "Um- can be separable (UMkommen = to perish) or inseparable (umARMen = to hug). Stress determines which." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Common Separable Prefixes and Their Meanings",
+      "headers": ["Prefix", "General Meaning", "Example Verbs"],
+      "rows": [
+        ["an-", "on, at, beginning", "anfangen, anrufen, ankommen, anmachen"],
+        ["auf-", "up, open", "aufstehen, aufmachen, aufhören, aufräumen"],
+        ["aus-", "out, off", "ausgehen, ausmachen, aussteigen, aussehen"],
+        ["ein-", "in, into", "einkaufen, einladen, einschlafen, einsteigen"],
+        ["mit-", "with, along", "mitkommen, mitbringen, mitmachen, mitnehmen"],
+        ["vor-", "before, forward", "vorstellen, vorhaben, vorbereiten, vorschlagen"],
+        ["zu-", "to, closed", "zumachen, zuhören, zusehen, zunehmen"],
+        ["ab-", "off, away, down", "abfahren, abholen, abnehmen, absagen"],
+        ["um-", "around, over", "umziehen, umsteigen, umtauschen"]
+      ]
+    },
+    {
+      "title": "Inseparable Prefixes (Never Separate)",
+      "headers": ["Prefix", "Example Verbs"],
+      "rows": [
+        ["be-", "besuchen, bestellen, bezahlen, bekommen"],
+        ["emp-", "empfehlen, empfangen"],
+        ["ent-", "entscheiden, entschuldigen, entdecken"],
+        ["er-", "erzählen, erklären, erinnern"],
+        ["ge-", "gehören, gefallen, gebrauchen"],
+        ["miss-", "missverstehen, missbrauchen"],
+        ["ver-", "verstehen, vergessen, verkaufen, verlieren"],
+        ["zer-", "zerstören, zerbrechen"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Ich rufe dich morgen an.", "incorrect": "Ich anrufe dich morgen.", "explanation": "The prefix must separate in main clauses. The conjugated stem goes to position 2, the prefix to the end." },
+    { "correct": "..., weil ich morgen anrufe.", "incorrect": "..., weil ich morgen rufe an.", "explanation": "In subordinate clauses, the prefix stays attached to the verb at the end." },
+    { "correct": "Ich habe angerufen.", "incorrect": "Ich habe geanrufen.", "explanation": "In the Partizip II, ge- goes between the prefix and stem: an-ge-rufen." },
+    { "correct": "Ich muss früh aufstehen.", "incorrect": "Ich muss früh stehen auf.", "explanation": "With modal verbs, the separable verb stays as one word in the infinitive at the end." },
+    { "correct": "Er hat das Buch bestellt.", "incorrect": "Er hat das Buch gebestellt.", "explanation": "Bestellen has the inseparable prefix be-. Don't add ge-: bestellt, not gebestellt." }
+  ],
+  "tips": [
+    "Listen for the stress: if the prefix is stressed (ANfangen), it is separable. If the verb stem is stressed (verSTEHen), it is inseparable.",
+    "The most common separable prefixes (an, auf, aus, ein, mit, vor, zu, ab) are also common prepositions — this can help you remember them.",
+    "When looking up a separable verb in the dictionary, look under the full form (aufstehen, not stehen).",
+    "In spoken German, a pause or emphasis on the prefix at the end confirms it is separable: 'Ich stehe morgen früh AUF.'",
+    "If you forget whether a prefix separates, try saying the verb aloud with stress on the prefix — if it sounds natural, it is likely separable."
+  ],
+  "relatedTopics": ["present-tense", "perfekt", "modal-verbs"],
+  "relatedSentenceIds": []
+}

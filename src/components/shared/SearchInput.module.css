@@ -1,0 +1,69 @@
+.wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  min-height: var(--touch-min);
+}
+
+.icon {
+  position: absolute;
+  left: var(--space-3);
+  font-size: var(--text-sm);
+  opacity: 0.5;
+}
+
+.input {
+  width: 100%;
+  padding: var(--space-2) var(--space-4);
+  padding-left: var(--space-10);
+  font-size: 16px; /* prevents iOS zoom on focus */
+  border: 2px solid var(--color-sand-dark);
+  border-radius: var(--radius-md);
+  background-color: var(--color-white);
+  color: var(--color-warm-brown);
+  transition: border-color var(--transition-fast);
+}
+
+.input::placeholder {
+  color: var(--color-warm-gray-light);
+}
+
+.input:focus {
+  outline: none;
+  border-color: var(--color-terracotta);
+  box-shadow: var(--shadow-focus);
+}
+
+.clear {
+  position: absolute;
+  right: var(--space-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  font-size: var(--text-xs);
+  color: var(--color-warm-gray);
+  background: none;
+  border: none;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+}
+
+.clear:hover {
+  background-color: var(--color-sand);
+  color: var(--color-warm-brown);
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    max-width: 100%;
+  }
+
+  .clear {
+    width: 36px;
+    height: 36px;
+  }
+}

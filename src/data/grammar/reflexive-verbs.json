@@ -1,0 +1,96 @@
+{
+  "id": "reflexive-verbs",
+  "title": "Reflexive Verbs (Reflexive Verben)",
+  "category": "verbs",
+  "level": "B1",
+  "description": "Reflexive verbs use a reflexive pronoun (sich) to indicate that the subject and object of the action are the same person. Many verbs that are not reflexive in English are reflexive in German (sich freuen, sich erinnern). The reflexive pronoun can be in the accusative or dative case depending on the verb.",
+  "whenToUse": [
+    "When the subject performs an action on itself: Ich wasche mich. (I wash myself.)",
+    "With verbs that are inherently reflexive in German: Ich freue mich. (I am happy/glad.)",
+    "When expressing feelings and states: Ich fühle mich krank.",
+    "With dative reflexive to indicate doing something to a body part or possession: Ich putze mir die Zähne."
+  ],
+  "rules": [
+    {
+      "title": "Accusative Reflexive Pronouns",
+      "explanation": "Most reflexive verbs take an accusative reflexive pronoun. Use accusative when the reflexive pronoun is the only object in the sentence. The pronouns are: mich, dich, sich, uns, euch, sich.",
+      "examples": [
+        { "correct": "Ich freue mich auf den Urlaub.", "incorrect": "Ich freue mir auf den Urlaub.", "explanation": "Sich freuen takes an accusative reflexive pronoun: mich (not mir)." },
+        { "correct": "Er fühlt sich nicht wohl.", "explanation": "Sich fühlen takes accusative: er fühlt sich." },
+        { "correct": "Wir treffen uns um 8 Uhr.", "explanation": "Sich treffen takes accusative: wir treffen uns." }
+      ]
+    },
+    {
+      "title": "Dative Reflexive Pronouns",
+      "explanation": "Use dative reflexive pronouns when there is already a direct (accusative) object in the sentence. The dative pronouns are: mir, dir, sich, uns, euch, sich. Note: only the ich and du forms differ from accusative (mich→mir, dich→dir).",
+      "examples": [
+        { "correct": "Ich putze mir die Zähne.", "incorrect": "Ich putze mich die Zähne.", "explanation": "Die Zähne is the accusative object, so the reflexive pronoun must be dative: mir." },
+        { "correct": "Ich stelle mir das vor.", "incorrect": "Ich stelle mich das vor.", "explanation": "Das is the accusative object, so the reflexive pronoun is dative: mir. Sich vorstellen (to imagine) takes dative." },
+        { "correct": "Kannst du dir das leisten?", "explanation": "Sich leisten (to afford) takes dative + accusative object: dir + das." }
+      ]
+    },
+    {
+      "title": "Position of the Reflexive Pronoun",
+      "explanation": "In a main clause, the reflexive pronoun comes directly after the conjugated verb (or after the subject if the subject is not in position 1). In a subordinate clause, it comes after the subject.",
+      "examples": [
+        { "correct": "Ich erinnere mich an den Tag.", "explanation": "Subject in position 1: reflexive pronoun comes right after the verb." },
+        { "correct": "Gestern hat er sich beschwert.", "incorrect": "Gestern hat sich er beschwert.", "explanation": "When a noun subject is after the verb, the reflexive pronoun comes after the subject: hat er sich (not hat sich er)." },
+        { "correct": "..., weil ich mich darauf freue.", "explanation": "In a Nebensatz, the reflexive pronoun follows the subject: weil ich mich." }
+      ]
+    },
+    {
+      "title": "Common Reflexive Verbs to Memorize",
+      "explanation": "Many German reflexive verbs are not reflexive in English. These must simply be learned with their reflexive pronoun and the preposition they require.",
+      "examples": [
+        { "correct": "Ich erinnere mich an meinen ersten Schultag.", "explanation": "Sich erinnern an + accusative = to remember. Not reflexive in English." },
+        { "correct": "Sie beschwert sich über den Lärm.", "explanation": "Sich beschweren über + accusative = to complain about. Not reflexive in English." },
+        { "correct": "Ich interessiere mich für Kunst.", "explanation": "Sich interessieren für + accusative = to be interested in. Not reflexive in English." }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Reflexive Pronouns: Accusative and Dative",
+      "headers": ["Pronoun", "Accusative Reflexive", "Dative Reflexive"],
+      "rows": [
+        ["ich", "mich", "mir"],
+        ["du", "dich", "dir"],
+        ["er/sie/es", "sich", "sich"],
+        ["wir", "uns", "uns"],
+        ["ihr", "euch", "euch"],
+        ["sie/Sie", "sich", "sich"]
+      ]
+    },
+    {
+      "title": "Common Reflexive Verbs with Prepositions",
+      "headers": ["Verb", "Meaning", "Preposition", "Case"],
+      "rows": [
+        ["sich freuen", "to be happy about / look forward to", "über (+ Akk) / auf (+ Akk)", "Accusative reflexive"],
+        ["sich erinnern", "to remember", "an (+ Akk)", "Accusative reflexive"],
+        ["sich beschweren", "to complain", "über (+ Akk)", "Accusative reflexive"],
+        ["sich interessieren", "to be interested", "für (+ Akk)", "Accusative reflexive"],
+        ["sich vorstellen", "to imagine", "— (+ Akk object)", "Dative reflexive"],
+        ["sich fühlen", "to feel", "—", "Accusative reflexive"],
+        ["sich anmelden", "to register", "für / bei", "Accusative reflexive"],
+        ["sich entschuldigen", "to apologize", "bei / für", "Accusative reflexive"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    { "correct": "Ich freue mich.", "incorrect": "Ich freue.", "explanation": "Sich freuen is reflexive — you cannot drop the reflexive pronoun. Without mich, the sentence is incomplete." },
+    { "correct": "Ich putze mir die Zähne.", "incorrect": "Ich putze mich die Zähne.", "explanation": "When there is already an accusative object (die Zähne), the reflexive pronoun must be dative (mir, not mich)." },
+    { "correct": "Er fühlt sich krank.", "incorrect": "Er fühlt ihm krank.", "explanation": "The third person reflexive is always sich — for both accusative and dative, singular and plural." },
+    { "correct": "Wir freuen uns auf die Ferien.", "incorrect": "Wir freuen sich auf die Ferien.", "explanation": "Use the reflexive pronoun matching the subject: wir → uns, not sich (which is for er/sie/es/sie)." },
+    { "correct": "Gestern hat er sich rasiert.", "incorrect": "Gestern hat sich er rasiert.", "explanation": "When the subject is a noun or stressed pronoun after the verb, the reflexive pronoun comes after the subject: hat er sich." },
+    { "correct": "Ich erinnere mich an dich.", "incorrect": "Ich erinnere mich auf dich.", "explanation": "Sich erinnern takes the preposition an, not auf. Each reflexive verb has its own fixed preposition." }
+  ],
+  "tips": [
+    "Only the ich and du forms differ between accusative and dative reflexive pronouns (mich/mir, dich/dir). All other forms are identical.",
+    "If you are unsure whether to use accusative or dative, check: is there another accusative object? If yes, the reflexive pronoun is dative.",
+    "Learn reflexive verbs together with their preposition as a unit: sich freuen AUF, sich erinnern AN, sich beschweren ÜBER.",
+    "In English, many of these verbs are not reflexive at all ('I remember' vs. 'Ich erinnere mich'). Don't translate literally.",
+    "The reflexive pronoun sich is the same for er, sie, es, and the plural sie/Sie — you never need to worry about gender here."
+  ],
+  "relatedTopics": ["present-tense", "perfekt", "separable-verbs"],
+  "relatedSentenceIds": []
+}

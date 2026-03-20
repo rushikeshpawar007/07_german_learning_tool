@@ -1,0 +1,30 @@
+{
+  "id": "bureaucracy-anmeldung",
+  "title": "Anmeldung beim Bürgeramt",
+  "titleEn": "Registration at the Citizens' Office",
+  "situation": "bureaucracy",
+  "level": "B1",
+  "description": "Raj registers his new address at the Bürgeramt and learns what documents are required.",
+  "speakers": {
+    "a": { "name": "Raj", "role": "Bewohner" },
+    "b": { "name": "Frau Klein", "role": "Sachbearbeiterin" }
+  },
+  "lines": [
+    { "speaker": "a", "de": "Entschuldigung, ich möchte mich anmelden. Wo muss ich eine Nummer ziehen?", "en": "Excuse me, I'd like to register. Where do I take a number?" },
+    { "speaker": "b", "de": "Der Nummernspender steht gleich links am Eingang. Sie werden dann aufgerufen.", "en": "The number dispenser is right on the left at the entrance. You'll be called up then." },
+    { "speaker": "a", "de": "Danke. Ich habe die Nummer 47.", "en": "Thanks. I have number 47." },
+    { "speaker": "b", "de": "Nummer 47, bitte zum Schalter 3. Guten Tag, was kann ich für Sie tun?", "en": "Number 47, please come to counter 3. Good day, what can I do for you?" },
+    { "speaker": "a", "de": "Guten Tag, Frau Klein. Ich bin vor zwei Wochen umgezogen und muss meine neue Adresse anmelden.", "en": "Good day, Frau Klein. I moved two weeks ago and need to register my new address." },
+    { "speaker": "b", "de": "Gut, dass Sie rechtzeitig kommen. Sie haben dafür 14 Tage nach dem Einzug Zeit. Haben Sie das Anmeldeformular schon ausgefüllt?", "en": "Good that you're coming on time. You have 14 days after moving in for that. Have you already filled out the registration form?" },
+    { "speaker": "a", "de": "Nein, leider noch nicht. Kann ich das hier machen?", "en": "No, unfortunately not yet. Can I do that here?" },
+    { "speaker": "b", "de": "Ja, hier ist das Formular. Ich brauche außerdem Ihren Reisepass oder Personalausweis und die Wohnungsgeberbestätigung.", "en": "Yes, here is the form. I also need your passport or ID card and the landlord's confirmation of residence." },
+    { "speaker": "a", "de": "Ich habe meinen Reisepass dabei. Und hier ist die Wohnungsgeberbestätigung von meinem Vermieter. Brauchen Sie auch den Mietvertrag?", "en": "I have my passport with me. And here is the landlord's confirmation from my landlord. Do you also need the rental agreement?" },
+    { "speaker": "b", "de": "Nein, der Mietvertrag ist nicht notwendig. Die Wohnungsgeberbestätigung reicht aus. Bitte füllen Sie noch das Formular aus.", "en": "No, the rental agreement is not necessary. The landlord's confirmation is sufficient. Please fill out the form." },
+    { "speaker": "a", "de": "So, ich bin fertig. Hier ist alles ausgefüllt.", "en": "There, I'm done. Everything is filled out here." },
+    { "speaker": "b", "de": "Danke. Lassen Sie mich die Daten kurz überprüfen. Ihre neue Adresse ist Schillerstraße 12, 10625 Berlin, stimmt das?", "en": "Thank you. Let me quickly check the data. Your new address is Schillerstraße 12, 10625 Berlin, is that correct?" },
+    { "speaker": "a", "de": "Ja, das ist richtig.", "en": "Yes, that's correct." },
+    { "speaker": "b", "de": "Alles in Ordnung. Hier ist Ihre Meldebescheinigung. Bewahren Sie sie gut auf, Sie werden sie noch öfter brauchen.", "en": "Everything is in order. Here is your registration certificate. Keep it safe, you'll need it again several times." },
+    { "speaker": "a", "de": "Vielen Dank. Muss ich mich auch noch irgendwo anders anmelden? Zum Beispiel beim Finanzamt?", "en": "Thank you very much. Do I also need to register somewhere else? For example at the tax office?" },
+    { "speaker": "b", "de": "Das Finanzamt wird automatisch informiert. Vergessen Sie aber nicht, Ihre neue Adresse auch bei Ihrer Krankenkasse und Ihrer Bank zu ändern.", "en": "The tax office will be informed automatically. But don't forget to also change your new address with your health insurance and your bank." }
+  ]
+}

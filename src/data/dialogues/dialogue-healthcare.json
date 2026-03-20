@@ -1,0 +1,30 @@
+{
+  "id": "healthcare-doctor",
+  "title": "Beim Hausarzt",
+  "titleEn": "At the Family Doctor",
+  "situation": "healthcare",
+  "level": "B1",
+  "description": "A patient visits the family doctor with cold symptoms.",
+  "speakers": {
+    "a": { "name": "Herr Weber", "role": "Patient" },
+    "b": { "name": "Dr. Schneider", "role": "Ärztin" }
+  },
+  "lines": [
+    { "speaker": "b", "de": "Guten Tag, Herr Weber. Nehmen Sie bitte Platz. Was führt Sie heute zu mir?", "en": "Good day, Mr. Weber. Please have a seat. What brings you to me today?" },
+    { "speaker": "a", "de": "Guten Tag, Frau Doktor. Also, ich fühle mich seit ein paar Tagen gar nicht gut. Ich habe starke Kopfschmerzen und bin ständig müde.", "en": "Good day, Doctor. Well, I haven't been feeling well at all for a few days. I have bad headaches and I'm constantly tired." },
+    { "speaker": "b", "de": "Verstehe. Seit wann genau haben Sie die Beschwerden?", "en": "I see. Since when exactly have you had these symptoms?" },
+    { "speaker": "a", "de": "Eigentlich seit Montag. Und seit gestern tut mir auch der Hals weh — besonders beim Schlucken.", "en": "Actually since Monday. And since yesterday my throat hurts too — especially when swallowing." },
+    { "speaker": "b", "de": "Haben Sie auch Fieber gemessen?", "en": "Have you also taken your temperature?" },
+    { "speaker": "a", "de": "Ja, heute Morgen hatte ich 37,8 Grad. Also leicht erhöht.", "en": "Yes, this morning I had 37.8 degrees. So slightly elevated." },
+    { "speaker": "b", "de": "Gut, dann schaue ich mir mal Ihren Hals an. Machen Sie bitte den Mund auf und sagen Sie \"Aah\".", "en": "Good, then let me take a look at your throat. Please open your mouth and say 'aah'." },
+    { "speaker": "a", "de": "Aah.", "en": "Aah." },
+    { "speaker": "b", "de": "Ja, der Hals ist deutlich gerötet. Ich höre auch noch mal Ihre Lunge ab. Atmen Sie bitte tief ein und aus.", "en": "Yes, your throat is clearly reddened. I'll also listen to your lungs. Please breathe in and out deeply." },
+    { "speaker": "a", "de": "Ist es etwas Schlimmes?", "en": "Is it something serious?" },
+    { "speaker": "b", "de": "Nein, keine Sorge. Die Lunge klingt frei. Es sieht nach einer ganz normalen Erkältung aus — nichts Ernstes.", "en": "No, don't worry. Your lungs sound clear. It looks like a perfectly normal cold — nothing serious." },
+    { "speaker": "a", "de": "Na ja, das beruhigt mich. Und was soll ich jetzt machen?", "en": "Well, that's a relief. And what should I do now?" },
+    { "speaker": "b", "de": "Ich verschreibe Ihnen etwas gegen die Halsschmerzen und ein leichtes Schmerzmittel für die Kopfschmerzen. Außerdem sollten Sie viel trinken — Tee oder Wasser.", "en": "I'll prescribe you something for the sore throat and a mild painkiller for the headaches. Also, you should drink a lot — tea or water." },
+    { "speaker": "a", "de": "Muss ich zu Hause bleiben, oder kann ich arbeiten gehen?", "en": "Do I need to stay home, or can I go to work?" },
+    { "speaker": "b", "de": "Ich schreibe Sie bis einschließlich Freitag krank. Ruhen Sie sich aus, das ist jetzt das Wichtigste. Und wenn das Fieber über 39 Grad steigt, kommen Sie bitte sofort wieder.", "en": "I'll write you a sick note through Friday. Rest up, that's the most important thing right now. And if the fever goes above 39 degrees, please come back immediately." },
+    { "speaker": "a", "de": "Alles klar, vielen Dank, Frau Doktor. Dann gehe ich mit dem Rezept gleich zur Apotheke.", "en": "All right, thank you very much, Doctor. Then I'll go to the pharmacy right away with the prescription." }
+  ]
+}

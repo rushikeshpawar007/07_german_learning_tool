@@ -1,0 +1,840 @@
+[
+  {
+    "id": "s-phone-001",
+    "de": "Guten Tag, könnte ich bitte mit Herrn Schmidt sprechen?",
+    "en": "Good day, could I please speak with Mr. Schmidt?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Guten", "role": "other" },
+      { "text": "Tag,", "role": "other" },
+      { "text": "könnte", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "mit", "role": "preposition" },
+      { "text": "Herrn", "role": "object" },
+      { "text": "Schmidt", "role": "object" },
+      { "text": "sprechen?", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'könnte' for polite requests", "Dative after 'mit'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-emails-046"],
+    "builderHints": ["Polite requests use Konjunktiv II (könnte, würde)"],
+    "alternatives": [
+      "Guten Tag, könnte ich bitte Herrn Schmidt sprechen?"
+    ]
+  },
+  {
+    "id": "s-phone-002",
+    "de": "Firma Müller, mein Name ist Weber, was kann ich für Sie tun?",
+    "en": "Müller company, my name is Weber, what can I do for you?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Firma", "role": "other" },
+      { "text": "Müller,", "role": "other" },
+      { "text": "mein", "role": "article" },
+      { "text": "Name", "role": "subject" },
+      { "text": "ist", "role": "verb" },
+      { "text": "Weber,", "role": "other" },
+      { "text": "was", "role": "other" },
+      { "text": "kann", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "für", "role": "preposition" },
+      { "text": "Sie", "role": "object" },
+      { "text": "tun?", "role": "verb" }
+    ],
+    "grammarPoints": ["Standard German business phone greeting", "W-question with 'was'"],
+    "vocabIds": ["v-healthcare-047", "v-housing-048", "v-shopping-046", "v-smalltalk-041", "v-phone-046", "v-shopping-048", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-smalltalk-031", "v-smalltalk-046", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["German business greetings state the company name first, then the speaker's name"],
+    "alternatives": [
+      "Firma Müller, Weber am Apparat, was kann ich für Sie tun?"
+    ]
+  },
+  {
+    "id": "s-phone-003",
+    "de": "Ich rufe wegen eines Termins an.",
+    "en": "I am calling about an appointment.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "rufe", "role": "verb" },
+      { "text": "wegen", "role": "preposition" },
+      { "text": "eines", "role": "article" },
+      { "text": "Termins", "role": "object" },
+      { "text": "an.", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'anrufen' (rufe...an)", "Genitive after 'wegen'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["The prefix 'an' of 'anrufen' goes to the end of the clause"],
+    "alternatives": [
+      "Wegen eines Termins rufe ich an."
+    ]
+  },
+  {
+    "id": "s-phone-004",
+    "de": "Könnten Sie mich bitte mit der Buchhaltung verbinden?",
+    "en": "Could you please connect me with the accounting department?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Könnten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "mich", "role": "object" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "mit", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "Buchhaltung", "role": "object" },
+      { "text": "verbinden?", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'könnten' for polite requests", "Dative after 'mit'", "Formal 'Sie'"],
+    "vocabIds": ["v-phone-048", "v-travel-050", "v-emails-048", "v-shopping-047", "v-bureaucracy-048", "v-emails-049", "v-shopping-049", "v-smalltalk-046", "v-phone-046", "v-emails-046", "v-shopping-048", "v-phone-031"],
+    "builderHints": ["'Könnten Sie' is more polite than 'Können Sie'"],
+    "alternatives": [
+      "Könnten Sie mich bitte zur Buchhaltung durchstellen?"
+    ]
+  },
+  {
+    "id": "s-phone-005",
+    "de": "Einen Moment bitte, ich stelle Sie durch.",
+    "en": "One moment please, I will put you through.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Einen", "role": "article" },
+      { "text": "Moment", "role": "object" },
+      { "text": "bitte,", "role": "particle" },
+      { "text": "ich", "role": "subject" },
+      { "text": "stelle", "role": "verb" },
+      { "text": "Sie", "role": "object" },
+      { "text": "durch.", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'durchstellen' (stelle...durch)", "Accusative 'einen Moment'"],
+    "vocabIds": ["v-bureaucracy-046", "v-bureaucracy-049", "v-healthcare-046", "v-phone-049", "v-phone-046", "v-phone-048", "v-bureaucracy-048", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-work-016", "v-emails-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["'durchstellen' is a separable verb: the prefix 'durch' goes to the end"],
+    "alternatives": [
+      "Einen Moment bitte, ich verbinde Sie."
+    ]
+  },
+  {
+    "id": "s-phone-006",
+    "de": "Tut mir leid, Frau Meier ist gerade nicht erreichbar.",
+    "en": "I'm sorry, Mrs. Meier is not reachable right now.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Tut", "role": "verb" },
+      { "text": "mir", "role": "object" },
+      { "text": "leid,", "role": "other" },
+      { "text": "Frau", "role": "other" },
+      { "text": "Meier", "role": "subject" },
+      { "text": "ist", "role": "verb" },
+      { "text": "gerade", "role": "adverb" },
+      { "text": "nicht", "role": "adverb" },
+      { "text": "erreichbar.", "role": "other" }
+    ],
+    "grammarPoints": ["Fixed expression 'Tut mir leid'", "Negation with 'nicht'"],
+    "vocabIds": ["v-healthcare-047", "v-shopping-046", "v-travel-050", "v-housing-048", "v-phone-050", "v-phone-041"],
+    "builderHints": ["'Tut mir leid' is a fixed phrase meaning 'I'm sorry'"],
+    "alternatives": [
+      "Frau Meier ist leider gerade nicht erreichbar."
+    ]
+  },
+  {
+    "id": "s-phone-007",
+    "de": "Kann ich eine Nachricht hinterlassen?",
+    "en": "Can I leave a message?",
+    "situation": "phone",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      { "text": "Kann", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "eine", "role": "article" },
+      { "text": "Nachricht", "role": "object" },
+      { "text": "hinterlassen?", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal verb 'kann' + infinitive at end", "Accusative 'eine Nachricht'"],
+    "vocabIds": ["v-phone-046", "v-shopping-048", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-010", "v-phone-030"],
+    "builderHints": ["In yes/no questions, the modal verb comes first"],
+    "alternatives": [
+      "Könnte ich eine Nachricht hinterlassen?"
+    ]
+  },
+  {
+    "id": "s-phone-008",
+    "de": "Würden Sie ihn bitten, mich zurückzurufen?",
+    "en": "Would you ask him to call me back?",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Würden", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "ihn", "role": "object" },
+      { "text": "bitten,", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "zurückzurufen?", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'würden' for polite requests", "Separable verb 'zurückrufen' with 'zu' infinitive"],
+    "vocabIds": ["v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-emails-033", "v-bureaucracy-048", "v-emails-049", "v-shopping-049", "v-smalltalk-046"],
+    "builderHints": ["'zurückzurufen' inserts 'zu' between prefix and verb stem"],
+    "alternatives": [
+      "Könnten Sie ihn bitten, mich zurückzurufen?"
+    ]
+  },
+  {
+    "id": "s-phone-009",
+    "de": "Ich bin leider in einer Besprechung, kann ich Sie später zurückrufen?",
+    "en": "I'm unfortunately in a meeting, can I call you back later?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "bin", "role": "verb" },
+      { "text": "leider", "role": "adverb" },
+      { "text": "in", "role": "preposition" },
+      { "text": "einer", "role": "article" },
+      { "text": "Besprechung,", "role": "object" },
+      { "text": "kann", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "Sie", "role": "object" },
+      { "text": "später", "role": "adverb" },
+      { "text": "zurückrufen?", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'zurückrufen'", "Dative after 'in' (location)"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-shopping-047", "v-work-001", "v-emails-048", "v-phone-048", "v-travel-050", "v-phone-029"],
+    "builderHints": ["'leider' (unfortunately) softens the refusal in formal contexts"],
+    "alternatives": [
+      "Leider bin ich in einer Besprechung, kann ich Sie später zurückrufen?"
+    ]
+  },
+  {
+    "id": "s-phone-010",
+    "de": "Unter welcher Nummer kann ich Sie erreichen?",
+    "en": "At which number can I reach you?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Unter", "role": "preposition" },
+      { "text": "welcher", "role": "other" },
+      { "text": "Nummer", "role": "object" },
+      { "text": "kann", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "Sie", "role": "object" },
+      { "text": "erreichen?", "role": "verb" }
+    ],
+    "grammarPoints": ["W-question with 'welcher'", "Dative after 'unter'"],
+    "vocabIds": ["v-phone-046", "v-shopping-048", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-phone-032"],
+    "builderHints": ["'Unter welcher Nummer' is a fixed phone expression meaning 'at which number'"],
+    "alternatives": [
+      "Wo kann ich Sie erreichen?"
+    ]
+  },
+  {
+    "id": "s-phone-011",
+    "de": "Könnten Sie das bitte buchstabieren?",
+    "en": "Could you please spell that?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Könnten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "das", "role": "object" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "buchstabieren?", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'könnten' for polite requests", "Formal 'Sie'"],
+    "vocabIds": ["v-phone-048", "v-travel-050", "v-emails-048", "v-shopping-047", "v-phone-046", "v-phone-035"],
+    "builderHints": ["'buchstabieren' means to spell out letter by letter"],
+    "alternatives": [
+      "Können Sie das bitte buchstabieren?"
+    ]
+  },
+  {
+    "id": "s-phone-012",
+    "de": "Ich buchstabiere meinen Namen: B wie Berlin, E wie Emil.",
+    "en": "I'll spell my name: B as in Berlin, E as in Emil.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "buchstabiere", "role": "verb" },
+      { "text": "meinen", "role": "article" },
+      { "text": "Namen:", "role": "object" },
+      { "text": "B", "role": "other" },
+      { "text": "wie", "role": "conjunction" },
+      { "text": "Berlin,", "role": "other" },
+      { "text": "E", "role": "other" },
+      { "text": "wie", "role": "conjunction" },
+      { "text": "Emil.", "role": "other" }
+    ],
+    "grammarPoints": ["German spelling alphabet uses city/name references", "Accusative 'meinen Namen'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-bureaucracy-050", "v-smalltalk-043"],
+    "builderHints": ["Germans spell using 'wie' (as in): A wie Anton, B wie Berlin, etc."],
+    "alternatives": [
+      "Meinen Namen buchstabiere ich: B wie Berlin, E wie Emil."
+    ]
+  },
+  {
+    "id": "s-phone-013",
+    "de": "Die Leitung ist leider besetzt, möchten Sie warten?",
+    "en": "The line is unfortunately busy, would you like to wait?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Die", "role": "article" },
+      { "text": "Leitung", "role": "subject" },
+      { "text": "ist", "role": "verb" },
+      { "text": "leider", "role": "adverb" },
+      { "text": "besetzt,", "role": "other" },
+      { "text": "möchten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "warten?", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'möchten' for polite offers", "Adjective 'besetzt' as predicate"],
+    "vocabIds": ["v-phone-002", "v-healthcare-047", "v-housing-048", "v-shopping-046", "v-phone-050", "v-phone-042", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["'Die Leitung ist besetzt' is the standard phrase for 'the line is busy'"],
+    "alternatives": [
+      "Leider ist die Leitung besetzt, möchten Sie warten?"
+    ]
+  },
+  {
+    "id": "s-phone-014",
+    "de": "Ich versuche es später noch einmal.",
+    "en": "I'll try again later.",
+    "situation": "phone",
+    "level": "A2",
+    "tone": "neutral",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "versuche", "role": "verb" },
+      { "text": "es", "role": "object" },
+      { "text": "später", "role": "adverb" },
+      { "text": "noch", "role": "adverb" },
+      { "text": "einmal.", "role": "adverb" }
+    ],
+    "grammarPoints": ["'noch einmal' means 'once more / again'", "Pronoun 'es' as placeholder"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-travel-047"],
+    "builderHints": ["'noch einmal' is a common adverbial phrase meaning 'once more'"],
+    "alternatives": [
+      "Später versuche ich es noch einmal."
+    ]
+  },
+  {
+    "id": "s-phone-015",
+    "de": "Worum geht es denn?",
+    "en": "What is it about?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Worum", "role": "other" },
+      { "text": "geht", "role": "verb" },
+      { "text": "es", "role": "subject" },
+      { "text": "denn?", "role": "particle" }
+    ],
+    "grammarPoints": ["Prepositional adverb 'worum' (wo + um)", "Modal particle 'denn' in questions"],
+    "vocabIds": [],
+    "builderHints": ["'denn' softens the question and makes it sound more natural"],
+    "alternatives": []
+  },
+  {
+    "id": "s-phone-016",
+    "de": "Ich möchte gerne einen Termin vereinbaren.",
+    "en": "I would like to make an appointment.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "möchte", "role": "verb" },
+      { "text": "gerne", "role": "adverb" },
+      { "text": "einen", "role": "article" },
+      { "text": "Termin", "role": "object" },
+      { "text": "vereinbaren.", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'möchte' for polite wishes", "Accusative 'einen Termin'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-bureaucracy-046", "v-healthcare-046", "v-phone-049", "v-bureaucracy-015", "v-healthcare-006", "v-phone-018", "v-work-005", "v-phone-036", "v-work-033"],
+    "builderHints": ["'möchte gerne' is a very polite way to express a wish"],
+    "alternatives": [
+      "Gerne möchte ich einen Termin vereinbaren."
+    ]
+  },
+  {
+    "id": "s-phone-017",
+    "de": "Hätten Sie am Donnerstag um zehn Uhr Zeit?",
+    "en": "Would you have time on Thursday at ten o'clock?",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Hätten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "am", "role": "preposition" },
+      { "text": "Donnerstag", "role": "other" },
+      { "text": "um", "role": "preposition" },
+      { "text": "zehn", "role": "other" },
+      { "text": "Uhr", "role": "other" },
+      { "text": "Zeit?", "role": "object" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'hätten' for polite questions", "'am' (an + dem) for days", "'um' for clock times"],
+    "vocabIds": ["v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["'Hätten Sie Zeit?' is more polite than 'Haben Sie Zeit?'"],
+    "alternatives": [
+      "Am Donnerstag um zehn Uhr, hätten Sie da Zeit?"
+    ]
+  },
+  {
+    "id": "s-phone-018",
+    "de": "Können Sie bitte etwas lauter sprechen? Ich kann Sie schlecht hören.",
+    "en": "Can you please speak a bit louder? I can barely hear you.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Können", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "etwas", "role": "adverb" },
+      { "text": "lauter", "role": "adverb" },
+      { "text": "sprechen?", "role": "verb" },
+      { "text": "Ich", "role": "subject" },
+      { "text": "kann", "role": "verb" },
+      { "text": "Sie", "role": "object" },
+      { "text": "schlecht", "role": "adverb" },
+      { "text": "hören.", "role": "verb" }
+    ],
+    "grammarPoints": ["Comparative 'lauter'", "Modal verb 'können' + infinitive"],
+    "vocabIds": ["v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-phone-046", "v-work-050", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["'etwas lauter' means 'a bit louder' — 'etwas' softens the request"],
+    "alternatives": [
+      "Könnten Sie bitte etwas lauter sprechen? Ich kann Sie schlecht hören."
+    ]
+  },
+  {
+    "id": "s-phone-019",
+    "de": "Ich habe Ihre Nummer von einem Kollegen bekommen.",
+    "en": "I got your number from a colleague.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "habe", "role": "verb" },
+      { "text": "Ihre", "role": "article" },
+      { "text": "Nummer", "role": "object" },
+      { "text": "von", "role": "preposition" },
+      { "text": "einem", "role": "article" },
+      { "text": "Kollegen", "role": "object" },
+      { "text": "bekommen.", "role": "verb" }
+    ],
+    "grammarPoints": ["Perfekt tense with 'haben'", "Dative after 'von'", "N-declension 'Kollegen'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["'Kollege' is an n-declension noun: 'einem Kollegen' in dative"],
+    "alternatives": [
+      "Ihre Nummer habe ich von einem Kollegen bekommen.",
+      "Von einem Kollegen habe ich Ihre Nummer bekommen."
+    ]
+  },
+  {
+    "id": "s-phone-020",
+    "de": "Bitte richten Sie ihr aus, dass ich angerufen habe.",
+    "en": "Please tell her that I called.",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Bitte", "role": "particle" },
+      { "text": "richten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "ihr", "role": "object" },
+      { "text": "aus,", "role": "verb" },
+      { "text": "dass", "role": "conjunction" },
+      { "text": "ich", "role": "subject" },
+      { "text": "angerufen", "role": "verb" },
+      { "text": "habe.", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'ausrichten'", "Subordinate clause with 'dass' (verb at end)", "Perfekt of 'anrufen'"],
+    "vocabIds": ["v-phone-046", "v-phone-048", "v-emails-048", "v-shopping-047", "v-travel-050", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["In 'dass' clauses, the conjugated verb goes to the end"],
+    "alternatives": [
+      "Richten Sie ihr bitte aus, dass ich angerufen habe."
+    ]
+  },
+  {
+    "id": "s-phone-021",
+    "de": "Sie sprechen mit der Anmeldung der Praxis Dr. Klein.",
+    "en": "You are speaking with the reception of Dr. Klein's practice.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Sie", "role": "subject" },
+      { "text": "sprechen", "role": "verb" },
+      { "text": "mit", "role": "preposition" },
+      { "text": "der", "role": "article" },
+      { "text": "Anmeldung", "role": "object" },
+      { "text": "der", "role": "article" },
+      { "text": "Praxis", "role": "object" },
+      { "text": "Dr.", "role": "other" },
+      { "text": "Klein.", "role": "other" }
+    ],
+    "grammarPoints": ["Dative after 'mit'", "Genitive chain 'der Praxis Dr. Klein'"],
+    "vocabIds": ["v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-emails-046", "v-shopping-048", "v-bureaucracy-001"],
+    "builderHints": ["'Sie sprechen mit...' is a standard greeting when answering the phone"],
+    "alternatives": [
+      "Praxis Dr. Klein, Anmeldung, Sie sprechen mit uns."
+    ]
+  },
+  {
+    "id": "s-phone-022",
+    "de": "Bleiben Sie bitte dran, ich verbinde Sie.",
+    "en": "Please stay on the line, I'll connect you.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Bleiben", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "dran,", "role": "adverb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "verbinde", "role": "verb" },
+      { "text": "Sie.", "role": "object" }
+    ],
+    "grammarPoints": ["Imperative with 'Sie'", "'dranbleiben' — colloquial separable verb"],
+    "vocabIds": ["v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-phone-046", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["'Bleiben Sie dran' is the standard phone expression for 'hold the line'"],
+    "alternatives": [
+      "Einen Moment bitte, ich verbinde Sie."
+    ]
+  },
+  {
+    "id": "s-phone-023",
+    "de": "Leider ist niemand im Büro, Sie erreichen den Anrufbeantworter.",
+    "en": "Unfortunately no one is in the office, you have reached the answering machine.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Leider", "role": "adverb" },
+      { "text": "ist", "role": "verb" },
+      { "text": "niemand", "role": "subject" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Büro,", "role": "object" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "erreichen", "role": "verb" },
+      { "text": "den", "role": "article" },
+      { "text": "Anrufbeantworter.", "role": "object" }
+    ],
+    "grammarPoints": ["Inversion after 'leider'", "'im' (in + dem) dative contraction"],
+    "vocabIds": ["v-phone-050", "v-healthcare-047", "v-housing-048", "v-shopping-046", "v-work-022", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-phone-032", "v-housing-050", "v-meetings-050", "v-phone-016"],
+    "builderHints": ["When an adverb starts the sentence, the verb comes second and the subject follows"],
+    "alternatives": [
+      "Im Büro ist leider niemand, Sie erreichen den Anrufbeantworter."
+    ]
+  },
+  {
+    "id": "s-phone-024",
+    "de": "Bitte hinterlassen Sie eine Nachricht nach dem Signalton.",
+    "en": "Please leave a message after the tone.",
+    "situation": "phone",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      { "text": "Bitte", "role": "particle" },
+      { "text": "hinterlassen", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "eine", "role": "article" },
+      { "text": "Nachricht", "role": "object" },
+      { "text": "nach", "role": "preposition" },
+      { "text": "dem", "role": "article" },
+      { "text": "Signalton.", "role": "object" }
+    ],
+    "grammarPoints": ["Imperative with 'Sie'", "Dative after 'nach'"],
+    "vocabIds": ["v-phone-046", "v-phone-048", "v-phone-030", "v-emails-048", "v-shopping-047", "v-travel-050", "v-phone-010"],
+    "builderHints": ["Standard voicemail message phrase"],
+    "alternatives": [
+      "Hinterlassen Sie bitte eine Nachricht nach dem Signalton."
+    ]
+  },
+  {
+    "id": "s-phone-025",
+    "de": "Wann wäre es Ihnen denn recht?",
+    "en": "When would be convenient for you?",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Wann", "role": "other" },
+      { "text": "wäre", "role": "verb" },
+      { "text": "es", "role": "subject" },
+      { "text": "Ihnen", "role": "object" },
+      { "text": "denn", "role": "particle" },
+      { "text": "recht?", "role": "other" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'wäre'", "Dative 'Ihnen'", "Modal particle 'denn'"],
+    "vocabIds": ["v-housing-048", "v-travel-046"],
+    "builderHints": ["'wäre...recht' is a polite way to ask about someone's preference"],
+    "alternatives": [
+      "Wann wäre es Ihnen recht?",
+      "Wann passt es Ihnen denn?"
+    ]
+  },
+  {
+    "id": "s-phone-026",
+    "de": "Ich habe leider die falsche Nummer gewählt, entschuldigen Sie bitte.",
+    "en": "I'm afraid I dialed the wrong number, please excuse me.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "habe", "role": "verb" },
+      { "text": "leider", "role": "adverb" },
+      { "text": "die", "role": "article" },
+      { "text": "falsche", "role": "other" },
+      { "text": "Nummer", "role": "object" },
+      { "text": "gewählt,", "role": "verb" },
+      { "text": "entschuldigen", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "bitte.", "role": "particle" }
+    ],
+    "grammarPoints": ["Perfekt tense 'habe...gewählt'", "Imperative 'entschuldigen Sie'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["'die falsche Nummer wählen' means 'to dial the wrong number'"],
+    "alternatives": [
+      "Entschuldigung, ich habe leider die falsche Nummer gewählt."
+    ]
+  },
+  {
+    "id": "s-phone-027",
+    "de": "Er ist gerade außer Haus, soll er Sie zurückrufen?",
+    "en": "He is out of the office right now, should he call you back?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Er", "role": "subject" },
+      { "text": "ist", "role": "verb" },
+      { "text": "gerade", "role": "adverb" },
+      { "text": "außer", "role": "preposition" },
+      { "text": "Haus,", "role": "object" },
+      { "text": "soll", "role": "verb" },
+      { "text": "er", "role": "subject" },
+      { "text": "Sie", "role": "object" },
+      { "text": "zurückrufen?", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'zurückrufen'", "Modal verb 'soll' for suggestion", "'außer Haus' fixed expression"],
+    "vocabIds": ["v-healthcare-047", "v-housing-048", "v-shopping-046", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-phone-029"],
+    "builderHints": ["'außer Haus' is a fixed expression meaning 'out of the office'"],
+    "alternatives": [
+      "Leider ist er gerade außer Haus, soll er Sie zurückrufen?"
+    ]
+  },
+  {
+    "id": "s-phone-028",
+    "de": "Ich wollte mich nach dem Stand meiner Bewerbung erkundigen.",
+    "en": "I wanted to inquire about the status of my application.",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "wollte", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "nach", "role": "preposition" },
+      { "text": "dem", "role": "article" },
+      { "text": "Stand", "role": "object" },
+      { "text": "meiner", "role": "article" },
+      { "text": "Bewerbung", "role": "object" },
+      { "text": "erkundigen.", "role": "verb" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'wollte' for polite distancing", "Reflexive verb 'sich erkundigen nach + Dativ'"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-phone-048", "v-smalltalk-046", "v-work-006", "v-smalltalk-033", "v-travel-039"],
+    "builderHints": ["'wollte' (past tense of 'wollen') is used for polite, indirect requests"],
+    "alternatives": [
+      "Nach dem Stand meiner Bewerbung wollte ich mich erkundigen."
+    ]
+  },
+  {
+    "id": "s-phone-029",
+    "de": "Darf ich fragen, wer am Apparat ist?",
+    "en": "May I ask who is on the line?",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Darf", "role": "verb" },
+      { "text": "ich", "role": "subject" },
+      { "text": "fragen,", "role": "verb" },
+      { "text": "wer", "role": "other" },
+      { "text": "am", "role": "preposition" },
+      { "text": "Apparat", "role": "object" },
+      { "text": "ist?", "role": "verb" }
+    ],
+    "grammarPoints": ["Modal verb 'darf' for permission", "Indirect question with 'wer' (verb at end)"],
+    "vocabIds": ["v-housing-049", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-healthcare-047", "v-housing-048", "v-shopping-046"],
+    "builderHints": ["'Wer ist am Apparat?' is a formal way to ask 'Who is speaking?'"],
+    "alternatives": [
+      "Mit wem spreche ich bitte?"
+    ]
+  },
+  {
+    "id": "s-phone-030",
+    "de": "Meine Durchwahl ist die 342.",
+    "en": "My direct extension is 342.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Meine", "role": "article" },
+      { "text": "Durchwahl", "role": "subject" },
+      { "text": "ist", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "342.", "role": "other" }
+    ],
+    "grammarPoints": ["Possessive article 'meine'", "'Durchwahl' = direct dial extension"],
+    "vocabIds": ["v-phone-003", "v-healthcare-047", "v-housing-048", "v-shopping-046"],
+    "builderHints": ["'Durchwahl' refers to a direct phone extension in an office"],
+    "alternatives": [
+      "Sie erreichen mich unter der Durchwahl 342."
+    ]
+  },
+  {
+    "id": "s-phone-031",
+    "de": "Ich rufe im Auftrag von Frau Berger an.",
+    "en": "I am calling on behalf of Mrs. Berger.",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "rufe", "role": "verb" },
+      { "text": "im", "role": "preposition" },
+      { "text": "Auftrag", "role": "object" },
+      { "text": "von", "role": "preposition" },
+      { "text": "Frau", "role": "other" },
+      { "text": "Berger", "role": "other" },
+      { "text": "an.", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'anrufen' (rufe...an)", "'im Auftrag von' fixed expression"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049"],
+    "builderHints": ["'im Auftrag von' means 'on behalf of' — used in formal business calls"],
+    "alternatives": [
+      "Im Auftrag von Frau Berger rufe ich an."
+    ]
+  },
+  {
+    "id": "s-phone-032",
+    "de": "Wir rufen Sie an, sobald wir weitere Informationen haben.",
+    "en": "We will call you as soon as we have further information.",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Wir", "role": "subject" },
+      { "text": "rufen", "role": "verb" },
+      { "text": "Sie", "role": "object" },
+      { "text": "an,", "role": "verb" },
+      { "text": "sobald", "role": "conjunction" },
+      { "text": "wir", "role": "subject" },
+      { "text": "weitere", "role": "other" },
+      { "text": "Informationen", "role": "object" },
+      { "text": "haben.", "role": "verb" }
+    ],
+    "grammarPoints": ["Separable verb 'anrufen'", "Subordinate clause with 'sobald' (verb at end)"],
+    "vocabIds": ["v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050"],
+    "builderHints": ["In 'sobald' clauses, the conjugated verb goes to the end"],
+    "alternatives": [
+      "Sobald wir weitere Informationen haben, rufen wir Sie an."
+    ]
+  },
+  {
+    "id": "s-phone-033",
+    "de": "Könnten Sie das bitte wiederholen? Die Verbindung ist schlecht.",
+    "en": "Could you please repeat that? The connection is bad.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Könnten", "role": "verb" },
+      { "text": "Sie", "role": "subject" },
+      { "text": "das", "role": "object" },
+      { "text": "bitte", "role": "particle" },
+      { "text": "wiederholen?", "role": "verb" },
+      { "text": "Die", "role": "article" },
+      { "text": "Verbindung", "role": "subject" },
+      { "text": "ist", "role": "verb" },
+      { "text": "schlecht.", "role": "other" }
+    ],
+    "grammarPoints": ["Konjunktiv II 'könnten'", "Predicate adjective 'schlecht'"],
+    "vocabIds": ["v-phone-048", "v-travel-050", "v-emails-048", "v-shopping-047", "v-phone-046", "v-phone-006", "v-travel-021", "v-healthcare-047", "v-housing-048", "v-shopping-046"],
+    "builderHints": ["'Die Verbindung ist schlecht' is how you say 'the connection is bad'"],
+    "alternatives": [
+      "Die Verbindung ist schlecht, könnten Sie das bitte wiederholen?"
+    ]
+  },
+  {
+    "id": "s-phone-034",
+    "de": "Vielen Dank für Ihren Anruf, ich kümmere mich darum.",
+    "en": "Thank you very much for your call, I will take care of it.",
+    "situation": "phone",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      { "text": "Vielen", "role": "other" },
+      { "text": "Dank", "role": "other" },
+      { "text": "für", "role": "preposition" },
+      { "text": "Ihren", "role": "article" },
+      { "text": "Anruf,", "role": "object" },
+      { "text": "ich", "role": "subject" },
+      { "text": "kümmere", "role": "verb" },
+      { "text": "mich", "role": "object" },
+      { "text": "darum.", "role": "adverb" }
+    ],
+    "grammarPoints": ["Reflexive verb 'sich kümmern um'", "Prepositional adverb 'darum' (da + um)"],
+    "vocabIds": ["v-emails-050", "v-smalltalk-031", "v-smalltalk-046", "v-travel-049", "v-phone-001", "v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-phone-048"],
+    "builderHints": ["'sich kümmern um' means 'to take care of' — 'darum' replaces 'um + es'"],
+    "alternatives": [
+      "Ich kümmere mich darum, vielen Dank für Ihren Anruf."
+    ]
+  },
+  {
+    "id": "s-phone-035",
+    "de": "Ich werde die Unterlagen per E-Mail an Sie weiterleiten.",
+    "en": "I will forward the documents to you by email.",
+    "situation": "phone",
+    "level": "B2",
+    "tone": "formal",
+    "words": [
+      { "text": "Ich", "role": "subject" },
+      { "text": "werde", "role": "verb" },
+      { "text": "die", "role": "article" },
+      { "text": "Unterlagen", "role": "object" },
+      { "text": "per", "role": "preposition" },
+      { "text": "E-Mail", "role": "object" },
+      { "text": "an", "role": "preposition" },
+      { "text": "Sie", "role": "object" },
+      { "text": "weiterleiten.", "role": "verb" }
+    ],
+    "grammarPoints": ["Futur I with 'werde' + infinitive", "Separable verb 'weiterleiten'", "'per' + noun without article"],
+    "vocabIds": ["v-bureaucracy-048", "v-bureaucracy-049", "v-emails-049", "v-healthcare-048", "v-healthcare-049", "v-healthcare-050", "v-housing-046", "v-housing-049", "v-housing-050", "v-phone-046", "v-phone-047", "v-phone-050", "v-shopping-048", "v-shopping-049", "v-smalltalk-047", "v-travel-048", "v-travel-049", "v-bureaucracy-047", "v-emails-048", "v-phone-048", "v-shopping-047", "v-travel-050", "v-emails-026", "v-phone-034"],
+    "builderHints": ["'per E-Mail' uses no article — 'per' behaves like a preposition without article in formal German"],
+    "alternatives": [
+      "Die Unterlagen werde ich per E-Mail an Sie weiterleiten."
+    ]
+  }
+]

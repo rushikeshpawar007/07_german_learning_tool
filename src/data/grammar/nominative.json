@@ -1,0 +1,157 @@
+{
+  "id": "nominative",
+  "title": "The Nominative Case (Nominativ)",
+  "category": "cases",
+  "level": "A2",
+  "description": "The nominative case is the base form of nouns and pronouns in German. It is used for the subject of a sentence — the person or thing performing the action — and after the verbs sein, werden, and bleiben.",
+  "whenToUse": [
+    "For the subject of a sentence (the person or thing doing the action)",
+    "After the verbs sein (to be), werden (to become), and bleiben (to remain)",
+    "When asking questions with wer (who) or was (what)",
+    "In dictionary entries — nouns are always listed in the nominative"
+  ],
+  "rules": [
+    {
+      "title": "The subject of a sentence is always in the nominative",
+      "explanation": "The subject is the person or thing performing the action of the verb. To find the subject, ask \"Wer?\" (who?) or \"Was?\" (what?) before the verb.",
+      "examples": [
+        {
+          "correct": "Der Hund schläft auf dem Sofa.",
+          "explanation": "\"Der Hund\" is the subject — it is performing the action of sleeping."
+        },
+        {
+          "correct": "Die Kinder spielen im Garten.",
+          "explanation": "\"Die Kinder\" is the subject — they are performing the action of playing."
+        },
+        {
+          "correct": "Das Buch liegt auf dem Tisch.",
+          "explanation": "\"Das Buch\" is the subject — it is performing the action of lying on the table."
+        }
+      ]
+    },
+    {
+      "title": "After sein, werden, and bleiben the nominative is used",
+      "explanation": "Unlike most verbs, sein (to be), werden (to become), and bleiben (to remain) link two nominative elements. The noun or adjective after these verbs refers back to the subject and stays in the nominative.",
+      "examples": [
+        {
+          "correct": "Er ist ein guter Lehrer.",
+          "incorrect": "Er ist einen guten Lehrer.",
+          "explanation": "After \"ist\" (sein), \"ein guter Lehrer\" stays in the nominative, not the accusative."
+        },
+        {
+          "correct": "Sie wird eine berühmte Ärztin.",
+          "incorrect": "Sie wird eine berühmte Ärztin. (accusative would be wrong here)",
+          "explanation": "After \"wird\" (werden), the predicate noun remains in the nominative."
+        },
+        {
+          "correct": "Er bleibt mein bester Freund.",
+          "explanation": "After \"bleibt\" (bleiben), the predicate noun stays in the nominative."
+        }
+      ]
+    },
+    {
+      "title": "Definite articles in the nominative",
+      "explanation": "Each grammatical gender has its own definite article in the nominative: der (masculine), die (feminine), das (neuter), and die (plural).",
+      "examples": [
+        {
+          "correct": "Der Mann liest eine Zeitung.",
+          "explanation": "\"Der\" is the masculine nominative article for \"Mann\"."
+        },
+        {
+          "correct": "Die Frau trinkt Kaffee.",
+          "explanation": "\"Die\" is the feminine nominative article for \"Frau\"."
+        },
+        {
+          "correct": "Das Kind spielt draußen.",
+          "explanation": "\"Das\" is the neuter nominative article for \"Kind\"."
+        }
+      ]
+    },
+    {
+      "title": "Indefinite articles in the nominative",
+      "explanation": "The indefinite articles in the nominative are: ein (masculine), eine (feminine), ein (neuter). There is no plural indefinite article; the noun stands alone or uses kein/keine.",
+      "examples": [
+        {
+          "correct": "Ein Vogel sitzt auf dem Baum.",
+          "explanation": "\"Ein\" is the masculine nominative indefinite article."
+        },
+        {
+          "correct": "Eine Katze schläft im Bett.",
+          "explanation": "\"Eine\" is the feminine nominative indefinite article."
+        }
+      ]
+    },
+    {
+      "title": "Using wer and was to identify the nominative",
+      "explanation": "The question words \"wer\" (who) and \"was\" (what) are themselves in the nominative. The answer to a wer/was question is always the subject in the nominative.",
+      "examples": [
+        {
+          "correct": "Wer hat das gemacht? — Der Schüler hat das gemacht.",
+          "explanation": "\"Wer\" asks for the subject; the answer \"der Schüler\" is in the nominative."
+        },
+        {
+          "correct": "Was liegt auf dem Tisch? — Das Buch liegt auf dem Tisch.",
+          "explanation": "\"Was\" asks for the subject; the answer \"das Buch\" is in the nominative."
+        }
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "Definite Articles in the Nominative",
+      "headers": ["Gender", "Article", "Example"],
+      "rows": [
+        ["Masculine", "der", "der Mann"],
+        ["Feminine", "die", "die Frau"],
+        ["Neuter", "das", "das Kind"],
+        ["Plural", "die", "die Leute"]
+      ]
+    },
+    {
+      "title": "Indefinite Articles in the Nominative",
+      "headers": ["Gender", "Article", "Example"],
+      "rows": [
+        ["Masculine", "ein", "ein Mann"],
+        ["Feminine", "eine", "eine Frau"],
+        ["Neuter", "ein", "ein Kind"],
+        ["Plural", "— (keine)", "keine Leute"]
+      ]
+    }
+  ],
+  "commonMistakes": [
+    {
+      "correct": "Er ist ein guter Lehrer.",
+      "incorrect": "Er ist einen guten Lehrer.",
+      "explanation": "After \"sein\", use the nominative, not the accusative. The predicate noun matches the subject's case."
+    },
+    {
+      "correct": "Der Hund ist groß.",
+      "incorrect": "Den Hund ist groß.",
+      "explanation": "The subject must be in the nominative. \"Den\" is accusative and cannot be used for the subject."
+    },
+    {
+      "correct": "Das ist ein Problem.",
+      "incorrect": "Das ist ein Probleme.",
+      "explanation": "\"Problem\" is singular, so no plural ending is needed. Article and noun must agree in number."
+    },
+    {
+      "correct": "Die Lehrerin ist nett.",
+      "incorrect": "Der Lehrerin ist nett.",
+      "explanation": "\"Lehrerin\" is feminine, so it requires the feminine article \"die\", not the masculine \"der\"."
+    },
+    {
+      "correct": "Sie wird Ärztin.",
+      "incorrect": "Sie wird Ärztin. (using accusative article)",
+      "explanation": "After \"werden\", no article change is needed — the noun stays in the nominative."
+    }
+  ],
+  "tips": [
+    "Always ask \"Wer oder was + verb?\" to find the subject — the answer is in the nominative.",
+    "Remember: sein, werden, and bleiben never take an accusative object — both sides of these verbs are nominative.",
+    "The nominative is the form you find in dictionaries, so it is the best case to learn first.",
+    "In German, the subject does not always come first in the sentence, but it is still in the nominative regardless of position.",
+    "Learn the gender of each noun together with its nominative article (der/die/das) from the very beginning."
+  ],
+  "relatedTopics": ["accusative", "dative", "genitive"],
+  "relatedSentenceIds": []
+}

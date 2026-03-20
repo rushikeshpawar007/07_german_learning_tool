@@ -1,0 +1,2906 @@
+[
+  {
+    "id": "v-emails-001",
+    "word": "der Betreff",
+    "baseForm": "Betreff",
+    "gender": "der",
+    "plural": "Betreffe",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "subject (of an email)",
+    "meaningDe": "die Betreffzeile einer E-Mail, die das Thema zusammenfasst",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte ändern Sie den Betreff der E-Mail.",
+        "en": "Please change the subject of the email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Betreff sollte kurz und präzise sein.",
+        "en": "The subject should be short and precise.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe den Betreff vergessen.",
+        "en": "I forgot the subject line.",
+        "situation": "emails",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Betrug' (fraud) - ähnlich klingende Wörter mit ganz unterschiedlicher Bedeutung.",
+      "Im Plural selten benutzt; meistens im Singular: 'der Betreff'."
+    ],
+    "usageNotes": [
+      "In geschäftlichen E-Mails ist ein klarer Betreff sehr wichtig.",
+      "Oft abgekürzt als 'Betr.:' am Anfang einer Betreffzeile."
+    ],
+    "relatedWords": [
+      "betreffen",
+      "die Betreffzeile",
+      "das Thema"
+    ],
+    "tags": [
+      "email-structure",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-002",
+    "word": "der Anhang",
+    "baseForm": "Anhang",
+    "gender": "der",
+    "plural": "Anhänge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "attachment",
+    "meaningDe": "eine Datei, die einer E-Mail beigefügt wird",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Im Anhang finden Sie die gewünschten Unterlagen.",
+        "en": "In the attachment you will find the requested documents.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe den Anhang leider vergessen.",
+        "en": "Unfortunately, I forgot the attachment.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Könnten Sie den Anhang nochmal schicken?",
+        "en": "Could you send the attachment again?",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Verwechslung mit 'Anfang' (beginning) - ähnlich klingende Wörter.",
+      "Der Plural ist 'Anhänge', nicht 'Anhangs'."
+    ],
+    "usageNotes": [
+      "Typische Formulierung: 'Im Anhang finden Sie...' oder 'Anbei sende ich Ihnen...'.",
+      "'Anhang' wird auch ausserhalb von E-Mails verwendet, z.B. 'der Anhang eines Buches' (appendix)."
+    ],
+    "relatedWords": [
+      "anhaengen",
+      "beifuegen",
+      "die Anlage",
+      "die Datei"
+    ],
+    "tags": [
+      "email-structure",
+      "documents"
+    ]
+  },
+  {
+    "id": "v-emails-003",
+    "word": "der Empfänger",
+    "baseForm": "Empfänger",
+    "gender": "der",
+    "plural": "Empfänger",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "recipient, receiver",
+    "meaningDe": "die Person, die eine E-Mail oder Nachricht erhält",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte überprüfen Sie den Empfänger, bevor Sie die E-Mail senden.",
+        "en": "Please check the recipient before sending the email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die E-Mail hat den falschen Empfänger erreicht.",
+        "en": "The email reached the wrong recipient.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer ist der Empfänger dieser Nachricht?",
+        "en": "Who is the recipient of this message?",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Die weibliche Form ist 'die Empfängerin' - im geschäftlichen Kontext wichtig.",
+      "Nicht verwechseln mit 'Absender' (sender) - das genaü Gegenteil."
+    ],
+    "usageNotes": [
+      "In E-Mail-Programmen steht 'An:' für den Empfänger.",
+      "Bei mehreren Empfängern: 'CC' (Kopie) und 'BCC' (Blindkopie)."
+    ],
+    "relatedWords": [
+      "empfangen",
+      "der Absender",
+      "der Adressat",
+      "erhalten"
+    ],
+    "tags": [
+      "email-structure",
+      "people"
+    ]
+  },
+  {
+    "id": "v-emails-004",
+    "word": "der Absender",
+    "baseForm": "Absender",
+    "gender": "der",
+    "plural": "Absender",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "sender",
+    "meaningDe": "die Person, die eine E-Mail oder Nachricht verschickt",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Absender dieser E-Mail ist mir unbekannt.",
+        "en": "The sender of this email is unknown to me.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte geben Sie den Absender an.",
+        "en": "Please indicate the sender.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich kann den Absender nicht erkennen.",
+        "en": "I cannot identify the sender.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Empfänger' (recipient) - das Gegenteil.",
+      "Die weibliche Form ist 'die Absenderin'."
+    ],
+    "usageNotes": [
+      "In E-Mails automatisch als 'Von:' angezeigt.",
+      "Bei offiziellen Briefen steht der Absender oben links."
+    ],
+    "relatedWords": [
+      "absenden",
+      "der Empfaenger",
+      "versenden",
+      "schicken"
+    ],
+    "tags": [
+      "email-structure",
+      "people"
+    ]
+  },
+  {
+    "id": "v-emails-005",
+    "word": "die Anrede",
+    "baseForm": "Anrede",
+    "gender": "die",
+    "plural": "Anreden",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "salutation, form of address",
+    "meaningDe": "die Begrüssung am Anfang eines Briefes oder einer E-Mail",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Anrede in einer geschäftlichen E-Mail sollte formell sein.",
+        "en": "The salutation in a business email should be formal.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Welche Anrede ist in diesem Fall angemessen?",
+        "en": "Which form of address is appropriate in this case?",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "'Sehr geehrte Damen und Herren' ist die förmlichste Anrede.",
+        "en": "'Dear Ladies and Gentlemen' is the most formal salutation.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nach der Anrede steht im Deutschen ein Komma, dann wird klein weitergeschrieben: 'Sehr geehrter Herr Müller, ich schreibe Ihnen...'.",
+      "Nicht verwechseln mit 'Antwort' (answer) - komplett unterschiedliche Bedeutungen."
+    ],
+    "usageNotes": [
+      "Formell: 'Sehr geehrte/r...', halbformell: 'Liebe/r...', informell: 'Hallo...'.",
+      "Wenn der Name unbekannt ist: 'Sehr geehrte Damen und Herren'."
+    ],
+    "relatedWords": [
+      "anreden",
+      "die Begruessung",
+      "der Gruss",
+      "die Ansprache"
+    ],
+    "tags": [
+      "email-structure",
+      "etiquette",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-006",
+    "word": "der Gruss",
+    "baseForm": "Gruss",
+    "gender": "der",
+    "plural": "Grüsse",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "greeting, regards",
+    "meaningDe": "die Verabschiedung am Ende einer E-Mail oder eines Briefes",
+    "situations": [
+      "emails",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Mit freundlichen Grüssen ist der übliche Gruss in geschäftlichen E-Mails.",
+        "en": "'Kind regards' is the usual closing in business emails.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Vergiss nicht den Gruss am Ende der E-Mail.",
+        "en": "Don't forget the greeting at the end of the email.",
+        "situation": "emails",
+        "tone": "informal"
+      },
+      {
+        "de": "Welcher Gruss passt am besten?",
+        "en": "Which closing fits best?",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Grüsse' (mit sz/Doppel-s) ist der Plural, nicht 'Grüssen' (das ist der Dativ Plural).",
+      "Nach dem Gruss steht im Deutschen KEIN Komma, anders als im Englischen."
+    ],
+    "usageNotes": [
+      "Formell: 'Mit freundlichen Grüssen', halbformell: 'Viele Grüsse', informell: 'Liebe Grüsse'.",
+      "In süddeutschen Regionen auch: 'Mit freundlichem Gruss' (Singular)."
+    ],
+    "relatedWords": [
+      "gruessen",
+      "die Verabschiedung",
+      "die Grusskformel",
+      "freundlich"
+    ],
+    "tags": [
+      "email-structure",
+      "etiquette"
+    ]
+  },
+  {
+    "id": "v-emails-007",
+    "word": "die Weiterleitung",
+    "baseForm": "Weiterleitung",
+    "gender": "die",
+    "plural": "Weiterleitungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "forwarding",
+    "meaningDe": "das Senden einer empfangenen E-Mail an eine andere Person",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Weiterleitung dieser E-Mail ist nicht erlaubt.",
+        "en": "Forwarding this email is not permitted.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bitte um Weiterleitung an die zuständige Abteilung.",
+        "en": "I request forwarding to the responsible department.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du die Weiterleitung bekommen?",
+        "en": "Did you get the forwarded email?",
+        "situation": "emails",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Das Verb ist trennbar: 'Ich leite die E-Mail weiter', nicht 'Ich weiterleite die E-Mail'.",
+      "Nicht verwechseln mit 'Umleitung' (detour/redirect)."
+    ],
+    "usageNotes": [
+      "Im E-Mail-Programm oft als 'Fwd:' oder 'WG:' (Weiterleitung/Weitergeleitet) angezeigt.",
+      "Vertrauliche E-Mails sollten nicht ohne Erlaubnis weitergeleitet werden."
+    ],
+    "relatedWords": [
+      "weiterleiten",
+      "forwarden",
+      "senden",
+      "die Kopie"
+    ],
+    "tags": [
+      "email-actions",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-008",
+    "word": "die Anfrage",
+    "baseForm": "Anfrage",
+    "gender": "die",
+    "plural": "Anfragen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "inquiry, request",
+    "meaningDe": "eine höfliche Bitte um Information oder eine Dienstleistung",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Vielen Dank für Ihre Anfrage.",
+        "en": "Thank you very much for your inquiry.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir haben Ihre Anfrage erhalten und werden sie schnellstmöglich bearbeiten.",
+        "en": "We have received your inquiry and will process it as soon as possible.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bezüglich Ihrer Anfrage vom 15. März möchte ich Ihnen Folgendes mitteilen.",
+        "en": "Regarding your inquiry from March 15th, I would like to inform you of the following.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Nachfrage' (follow-up qüstion/demand) - 'Anfrage' ist die erste Kontaktaufnahme.",
+      "'Eine Anfrage stellen', nicht 'eine Anfrage machen'."
+    ],
+    "usageNotes": [
+      "Typisch in geschäftlichen E-Mails: 'Bezüglich Ihrer Anfrage...'.",
+      "'Anfrage' ist formeller als 'Frage' und wird oft im geschäftlichen Kontext verwendet."
+    ],
+    "relatedWords": [
+      "anfragen",
+      "die Bitte",
+      "das Anliegen",
+      "die Nachfrage"
+    ],
+    "tags": [
+      "business",
+      "formal",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-009",
+    "word": "die Bestätigung",
+    "baseForm": "Bestätigung",
+    "gender": "die",
+    "plural": "Bestätigungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "confirmation",
+    "meaningDe": "eine Mitteilung, dass etwas richtig, wahr oder vereinbart ist",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich bitte um eine kurze Bestätigung.",
+        "en": "I kindly request a brief confirmation.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Bestätigung Ihrer Buchung finden Sie im Anhang.",
+        "en": "You will find the confirmation of your booking in the attachment.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie eine Bestätigung per E-Mail erhalten?",
+        "en": "Did you receive a confirmation by email?",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Das Verb ist 'bestätigen', nicht 'bestätigung' als Verb verwenden.",
+      "Verwechslung mit 'Bescheinigung' (certificate) - beide sind Dokumente, aber unterschiedlich."
+    ],
+    "usageNotes": [
+      "Oft in Kombination: 'Terminbestätigung', 'Auftragsbestätigung', 'Buchungsbestätigung'.",
+      "Häufige Bitte: 'Könnten Sie mir eine Bestätigung senden?'"
+    ],
+    "relatedWords": [
+      "bestaetigen",
+      "die Zusage",
+      "die Bescheinigung",
+      "die Quittung"
+    ],
+    "tags": [
+      "business",
+      "documents"
+    ]
+  },
+  {
+    "id": "v-emails-010",
+    "word": "die Anlage",
+    "baseForm": "Anlage",
+    "gender": "die",
+    "plural": "Anlagen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "enclosure, attachment (formal)",
+    "meaningDe": "ein beigefügtes Dokument (formeller als 'Anhang')",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Anbei sende ich Ihnen die gewünschten Anlagen.",
+        "en": "Hereby I send you the requested attachments.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Anlagen zu dieser E-Mail enthalten den Vertragsentwurf.",
+        "en": "The attachments to this email contain the draft contract.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte beachten Sie die Anlagen.",
+        "en": "Please note the attachments.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Anlage' hat mehrere Bedeutungen: Anhang, Fabrikanlage, Geldanlage - Kontext entscheidet.",
+      "In E-Mails ist 'Anlage' formeller als 'Anhang'."
+    ],
+    "usageNotes": [
+      "In sehr formellen Briefen steht 'Anlage(n)' am Ende, um auf beigefügte Dokumente hinzuweisen.",
+      "'Anbei' und 'in der Anlage' sind typische Begleitwörter."
+    ],
+    "relatedWords": [
+      "der Anhang",
+      "beifuegen",
+      "anbei",
+      "beiliegend"
+    ],
+    "tags": [
+      "email-structure",
+      "formal",
+      "documents"
+    ]
+  },
+  {
+    "id": "v-emails-011",
+    "word": "die Kenntnisnahme",
+    "baseForm": "Kenntnisnahme",
+    "gender": "die",
+    "plural": "Kenntnisnahmen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "acknowledgment, taking note",
+    "meaningDe": "die formelle Wahrnehmung oder Beachtung einer Information",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Diese E-Mail dient zu Ihrer Kenntnisnahme.",
+        "en": "This email is for your information.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir bitten um Kenntnisnahme der neün Richtlinien.",
+        "en": "We ask you to take note of the new guidelines.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nur in sehr formellem Kontext verwenden - im Alltag sagt man einfach 'zur Information'.",
+      "Nicht verwechseln mit 'Kenntnis' (knowledge) - 'Kenntnisnahme' ist spezifisch das Zur-Kenntnis-Nehmen."
+    ],
+    "usageNotes": [
+      "Sehr formell und bürokratisch - eher in offiziellen Schreiben als in normalen E-Mails.",
+      "Alternativ kann man 'zur Information' oder 'FYI' verwenden."
+    ],
+    "relatedWords": [
+      "die Kenntnis",
+      "zur Kenntnis nehmen",
+      "die Information"
+    ],
+    "tags": [
+      "formal",
+      "bureaucratic"
+    ]
+  },
+  {
+    "id": "v-emails-012",
+    "word": "der Verteiler",
+    "baseForm": "Verteiler",
+    "gender": "der",
+    "plural": "Verteiler",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "distribution list, mailing list",
+    "meaningDe": "eine Liste von Personen, die eine E-Mail erhalten sollen",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte nehmen Sie mich in den Verteiler auf.",
+        "en": "Please add me to the distribution list.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wer steht alles auf dem Verteiler?",
+        "en": "Who is all on the distribution list?",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Könnten Sie mich aus dem Verteiler entfernen?",
+        "en": "Could you remove me from the mailing list?",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Verteiler' im E-Mail-Kontext ist die Empfängerliste, nicht ein physischer Verteiler (distributor).",
+      "Präpositionen: 'auf dem Verteiler stehen', 'in den Verteiler aufnehmen'."
+    ],
+    "usageNotes": [
+      "Typisch für interne Unternehmenskommunikation.",
+      "CC-Feld wird oft als erweiterter Verteiler genutzt."
+    ],
+    "relatedWords": [
+      "verteilen",
+      "die Mailingliste",
+      "der Empfaengerkreis"
+    ],
+    "tags": [
+      "email-structure",
+      "office"
+    ]
+  },
+  {
+    "id": "v-emails-013",
+    "word": "die Unterschrift",
+    "baseForm": "Unterschrift",
+    "gender": "die",
+    "plural": "Unterschriften",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "signature",
+    "meaningDe": "der Name und die Kontaktdaten am Ende einer E-Mail",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte fügen Sie Ihre Unterschrift in die E-Mail ein.",
+        "en": "Please add your signature to the email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die E-Mail-Unterschrift enthält meine Telefonnummer.",
+        "en": "The email signature contains my phone number.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Unterschrift fehlt unter der E-Mail.",
+        "en": "The signature is missing at the bottom of the email.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Im E-Mail-Kontext meint 'Unterschrift' die Signatur, nicht eine handschriftliche Unterschrift.",
+      "Im Deutschen sagt man auch 'die Signatur' für die E-Mail-Signatur."
+    ],
+    "usageNotes": [
+      "Geschäftliche E-Mail-Signaturen enthalten oft: Name, Position, Firma, Telefon, Adresse.",
+      "In Deutschland gibt es gesetzliche Pflichtangaben für geschäftliche E-Mail-Signaturen."
+    ],
+    "relatedWords": [
+      "unterschreiben",
+      "die Signatur",
+      "unterzeichnen",
+      "v-bureaucracy-025"
+    ],
+    "tags": [
+      "email-structure",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-014",
+    "word": "die Frist",
+    "baseForm": "Frist",
+    "gender": "die",
+    "plural": "Fristen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "deadline, time limit",
+    "meaningDe": "ein festgelegter Zeitpunkt, bis zu dem etwas erledigt werden muss",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Frist für die Rückmeldung ist der 30. März.",
+        "en": "The deadline for the response is March 30th.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte beachten Sie die Frist.",
+        "en": "Please note the deadline.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Können wir die Frist verlängern?",
+        "en": "Can we extend the deadline?",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Die Frist einhalten' (meet the deadline), nicht 'die Frist treffen' (Anglizismus).",
+      "Verwechslung mit 'Termin' - 'Frist' ist der Zeitraum, 'Termin' ist der konkrete Zeitpunkt."
+    ],
+    "usageNotes": [
+      "Häufige Kombinationen: 'eine Frist setzen', 'die Frist einhalten', 'die Frist versäumen'.",
+      "In geschäftlichen E-Mails oft: 'Ich bitte um Rückmeldung bis zum...'."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "die Deadline",
+      "fristgerecht",
+      "fristgemaess",
+      "v-bureaucracy-018",
+      "v-meetings-017",
+      "v-work-021"
+    ],
+    "tags": [
+      "time",
+      "business",
+      "deadlines"
+    ]
+  },
+  {
+    "id": "v-emails-015",
+    "word": "der Entwurf",
+    "baseForm": "Entwurf",
+    "gender": "der",
+    "plural": "Entwürfe",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "draft",
+    "meaningDe": "eine vorläufige Version eines Textes oder Dokuments",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich sende Ihnen den Entwurf zur Prüfung.",
+        "en": "I am sending you the draft for review.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Entwurf muss noch überarbeitet werden.",
+        "en": "The draft still needs to be revised.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die E-Mail ist noch im Entwurf gespeichert.",
+        "en": "The email is still saved as a draft.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist 'Entwürfe', nicht 'Entwurfe'.",
+      "Nicht verwechseln mit 'Wurf' (throw) - trotz ähnlichem Stamm."
+    ],
+    "usageNotes": [
+      "In E-Mail-Programmen: der Ordner 'Entwürfe' (Drafts).",
+      "Oft verwendet mit: 'einen Entwurf erstellen', 'den Entwurf überarbeiten'."
+    ],
+    "relatedWords": [
+      "entwerfen",
+      "der Vorentwurf",
+      "die Vorlage",
+      "ueberarbeiten"
+    ],
+    "tags": [
+      "documents",
+      "writing"
+    ]
+  },
+  {
+    "id": "v-emails-016",
+    "word": "die Rückmeldung",
+    "baseForm": "Rückmeldung",
+    "gender": "die",
+    "plural": "Rückmeldungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "feedback, response",
+    "meaningDe": "eine Antwort oder Reaktion auf eine Anfrage oder Mitteilung",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich bitte um Ihre Rückmeldung bis Freitag.",
+        "en": "I kindly ask for your response by Friday.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Vielen Dank für Ihre schnelle Rückmeldung.",
+        "en": "Thank you very much for your quick response.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir warten noch auf eine Rückmeldung.",
+        "en": "We are still waiting for a response.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Rückmeldung' ist formeller als 'Antwort' - in geschäftlichen E-Mails bevorzugt.",
+      "Nicht verwechseln mit 'Feedback' - 'Rückmeldung' ist allgemeiner."
+    ],
+    "usageNotes": [
+      "Typische Formulierung: 'Ich würde mich über eine baldige Rückmeldung freün.'",
+      "Kann sowohl 'Feedback' als auch einfach 'Antwort' bedeuten."
+    ],
+    "relatedWords": [
+      "sich zurueckmelden",
+      "die Antwort",
+      "das Feedback",
+      "die Reaktion",
+      "v-meetings-023"
+    ],
+    "tags": [
+      "communication",
+      "business"
+    ]
+  },
+  {
+    "id": "v-emails-017",
+    "word": "das Anliegen",
+    "baseForm": "Anliegen",
+    "gender": "das",
+    "plural": "Anliegen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "concern, matter, request",
+    "meaningDe": "ein Wunsch oder eine Bitte, die man an jemanden richtet",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich schreibe Ihnen bezüglich folgendem Anliegen.",
+        "en": "I am writing to you regarding the following matter.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Was ist Ihr Anliegen?",
+        "en": "What is your concern?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Für weitere Anliegen stehe ich Ihnen gerne zur Verfügung.",
+        "en": "For further matters, I am gladly at your disposal.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist gleich dem Singular: 'das Anliegen' - 'die Anliegen'.",
+      "'Bezüglich Ihres Anliegens' (Genitiv), nicht 'bezüglich Ihrem Anliegen'."
+    ],
+    "usageNotes": [
+      "Sehr höflich und formell - typisch für geschäftliche Korrespondenz.",
+      "Alternative Formulierung: 'Ich wende mich mit folgendem Anliegen an Sie.'"
+    ],
+    "relatedWords": [
+      "die Bitte",
+      "die Anfrage",
+      "der Wunsch",
+      "das Gesuch"
+    ],
+    "tags": [
+      "formal",
+      "business",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-018",
+    "word": "die Mitteilung",
+    "baseForm": "Mitteilung",
+    "gender": "die",
+    "plural": "Mitteilungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "notification, message",
+    "meaningDe": "eine formelle Information oder Nachricht an jemanden",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Diese Mitteilung ist vertraulich.",
+        "en": "This notification is confidential.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir möchten Ihnen folgende Mitteilung machen.",
+        "en": "We would like to make the following announcement to you.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie meine Mitteilung erhalten?",
+        "en": "Have you received my message?",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Eine Mitteilung machen', nicht 'eine Mitteilung geben'.",
+      "Formeller als 'Nachricht' - für offizielle Kommunikation besser geeignet."
+    ],
+    "usageNotes": [
+      "Oft in Kombination: 'eine Mitteilung versenden', 'zur Mitteilung bringen'.",
+      "Typisch in Behörden- und Unternehmenssprache."
+    ],
+    "relatedWords": [
+      "mitteilen",
+      "die Nachricht",
+      "die Benachrichtigung",
+      "die Information"
+    ],
+    "tags": [
+      "formal",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-019",
+    "word": "der Posteingang",
+    "baseForm": "Posteingang",
+    "gender": "der",
+    "plural": "Posteingänge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "inbox",
+    "meaningDe": "der Ordner, in dem eingehende E-Mails angezeigt werden",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe die E-Mail in meinem Posteingang nicht gefunden.",
+        "en": "I did not find the email in my inbox.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Posteingang ist voller ungelesener Nachrichten.",
+        "en": "My inbox is full of unread messages.",
+        "situation": "emails",
+        "tone": "informal"
+      },
+      {
+        "de": "Bitte überprüfen Sie Ihren Posteingang.",
+        "en": "Please check your inbox.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'im Posteingang', nicht 'in dem Posteingang' im Alltag.",
+      "Das Gegenteil ist 'der Postausgang' (outbox)."
+    ],
+    "usageNotes": [
+      "Auch einfach 'Inbox' wird im Deutschen häufig verwendet.",
+      "Zusammengesetztes Wort: Post + Eingang."
+    ],
+    "relatedWords": [
+      "der Postausgang",
+      "die Inbox",
+      "die E-Mail",
+      "der Ordner"
+    ],
+    "tags": [
+      "email-structure",
+      "technology"
+    ]
+  },
+  {
+    "id": "v-emails-020",
+    "word": "die Kopie",
+    "baseForm": "Kopie",
+    "gender": "die",
+    "plural": "Kopien",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "copy (CC)",
+    "meaningDe": "eine Durchschrift oder ein Duplikat einer E-Mail an weitere Empfänger",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte setzen Sie meinen Vorgesetzten in Kopie.",
+        "en": "Please put my supervisor in copy.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe die E-Mail in Kopie an alle Teammitglieder gesendet.",
+        "en": "I sent the email in copy to all team members.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wer steht in der Kopie?",
+        "en": "Who is in the CC?",
+        "situation": "emails",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Jemanden in Kopie setzen' oder 'in CC setzen' - beides ist gebreauchlich.",
+      "'Blindkopie' (BCC) ist nicht dasselbe wie 'Kopie' (CC)."
+    ],
+    "usageNotes": [
+      "CC steht für 'Carbon Copy' - im Deutschen sagt man oft einfach 'CC'.",
+      "BCC = Blindkopie (der Empfänger sieht die anderen BCC-Empfänger nicht)."
+    ],
+    "relatedWords": [
+      "kopieren",
+      "die Blindkopie",
+      "der CC",
+      "der BCC"
+    ],
+    "tags": [
+      "email-structure",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-021",
+    "word": "die Abwesenheitsnotiz",
+    "baseForm": "Abwesenheitsnotiz",
+    "gender": "die",
+    "plural": "Abwesenheitsnotizen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "out-of-office message",
+    "meaningDe": "eine automatische Antwort, wenn man nicht im Büro ist",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Vergessen Sie nicht, Ihre Abwesenheitsnotiz einzurichten.",
+        "en": "Don't forget to set up your out-of-office message.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Abwesenheitsnotiz sollte einen Vertreter nennen.",
+        "en": "The out-of-office message should name a substitute.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Langes Wort - korrekt zusammengeschrieben: 'Abwesenheitsnotiz', nicht 'Abwesenheits-Notiz'.",
+      "Auch 'Abwesenheitsnachricht' oder 'automatische Antwort' sind korrekt."
+    ],
+    "usageNotes": [
+      "Sollte enthalten: Abwesenheitszeitraum, Vertretung, Kontaktperson.",
+      "In deutschen Unternehmen ist die Abwesenheitsnotiz bei Urlaub obligatorisch."
+    ],
+    "relatedWords": [
+      "abwesend",
+      "die Vertretung",
+      "der Urlaub",
+      "automatisch"
+    ],
+    "tags": [
+      "email-structure",
+      "office",
+      "vacation"
+    ]
+  },
+  {
+    "id": "v-emails-022",
+    "word": "die Zustellung",
+    "baseForm": "Zustellung",
+    "gender": "die",
+    "plural": "Zustellungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "delivery (of email/mail)",
+    "meaningDe": "das erfolgreiche Senden und Ankommen einer E-Mail",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Zustellung der E-Mail ist fehlgeschlagen.",
+        "en": "The delivery of the email failed.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich bitte um eine Lesebestätigung zur Zustellung.",
+        "en": "I request a read receipt for delivery.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Lieferung' - 'Zustellung' ist formeller und für Post/E-Mail spezifisch.",
+      "'Die Zustellung' betrifft den Zugang, nicht den Versand."
+    ],
+    "usageNotes": [
+      "Technisch: 'Zustellbestätigung' (delivery confirmation) und 'Lesebestätigung' (read receipt) sind unterschiedlich.",
+      "Bei rechtlich relevanten E-Mails ist der Nachweis der Zustellung wichtig."
+    ],
+    "relatedWords": [
+      "zustellen",
+      "die Lesebestaetigung",
+      "die Zustellbestaetigung"
+    ],
+    "tags": [
+      "email-technical",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-023",
+    "word": "der Spam",
+    "baseForm": "Spam",
+    "gender": "der",
+    "plural": "Spams",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "spam",
+    "meaningDe": "unerwünschte Werbe-E-Mails oder Massen-E-Mails",
+    "situations": [
+      "emails",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Diese E-Mail ist im Spam-Ordner gelandet.",
+        "en": "This email ended up in the spam folder.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte überprüfen Sie Ihren Spam-Ordner.",
+        "en": "Please check your spam folder.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bekomme zu viel Spam.",
+        "en": "I receive too much spam.",
+        "situation": "emails",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Im Deutschen auch mit Artikel: 'der Spam', nicht nur 'Spam'.",
+      "'Spam-Ordner' mit Bindestrich, da es ein zusammengesetztes Wort mit Fremdwort ist."
+    ],
+    "usageNotes": [
+      "Auch 'Junk-Mail' oder 'unerwünschte E-Mail' sind gebräuchliche Ausdrücke.",
+      "Viele Deutsche verwenden das englische Wort 'Spam' direkt."
+    ],
+    "relatedWords": [
+      "der Spam-Ordner",
+      "der Junk",
+      "unerwuenscht",
+      "blockieren"
+    ],
+    "tags": [
+      "email-technical",
+      "technology"
+    ]
+  },
+  {
+    "id": "v-emails-024",
+    "word": "der Betreffwechsel",
+    "baseForm": "Betreffwechsel",
+    "gender": "der",
+    "plural": "Betreffwechsel",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "subject change",
+    "meaningDe": "die Änderung des Betreffs in einem E-Mail-Verlauf",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bei einem neün Thema empfiehlt sich ein Betreffwechsel.",
+        "en": "For a new topic, a subject change is recommended.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ein Betreffwechsel hilft bei der Übersichtlichkeit.",
+        "en": "A subject change helps with clarity.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Zusammengeschrieben: 'Betreffwechsel', nicht 'Betreff Wechsel'.",
+      "Oft vergessen - die meisten Leute antworten einfach ohne den Betreff zu ändern."
+    ],
+    "usageNotes": [
+      "Guter E-Mail-Stil: Bei neüm Thema neün Betreff setzen, nicht auf alte E-Mails antworten.",
+      "In Unternehmen oft als Best Practice empfohlen."
+    ],
+    "relatedWords": [
+      "der Betreff",
+      "das Thema",
+      "der E-Mail-Verlauf"
+    ],
+    "tags": [
+      "email-structure",
+      "best-practices"
+    ]
+  },
+  {
+    "id": "v-emails-025",
+    "word": "die Grussformel",
+    "baseForm": "Grussformel",
+    "gender": "die",
+    "plural": "Grussformeln",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "closing formula, complimentary close",
+    "meaningDe": "die feststehende Formel am Ende eines Briefes oder einer E-Mail",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Die Grussformel sollte zum Ton der E-Mail passen.",
+        "en": "The closing formula should match the tone of the email.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Welche Grussformel ist in einer Bewerbung angemessen?",
+        "en": "Which closing formula is appropriate in a job application?",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "'Mit freundlichen Grüssen' ist die gängigste Grussformel.",
+        "en": "'Kind regards' is the most common closing formula.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nach der Grussformel steht im Deutschen KEIN Komma und KEIN Punkt.",
+      "Verwechslung der Formalitätsstufen: 'MfG' ist sehr informell und nur intern akzeptabel."
+    ],
+    "usageNotes": [
+      "Abstufungen: 'Hochachtungsvoll' > 'Mit freundlichen Grüssen' > 'Viele Grüsse' > 'Liebe Grüsse'.",
+      "'Mit freundlichen Grüssen' ist der Standard für geschäftliche Korrespondenz."
+    ],
+    "relatedWords": [
+      "der Gruss",
+      "die Anrede",
+      "die Schlussformel",
+      "die Verabschiedung"
+    ],
+    "tags": [
+      "email-structure",
+      "etiquette",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-026",
+    "word": "weiterleiten",
+    "baseForm": "weiterleiten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to forward (an email)",
+    "meaningDe": "eine empfangene E-Mail an eine andere Person senden",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Könnten Sie diese E-Mail bitte an Herrn Schmidt weiterleiten?",
+        "en": "Could you please forward this email to Mr. Schmidt?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich leite Ihnen die Informationen weiter.",
+        "en": "I will forward the information to you.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du die E-Mail schon weitergeleitet?",
+        "en": "Have you already forwarded the email?",
+        "situation": "emails",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "leite weiter",
+        "du": "leitest weiter",
+        "er_sie_es": "leitet weiter",
+        "wir": "leiten weiter",
+        "ihr": "leitet weiter",
+        "sie_Sie": "leiten weiter"
+      },
+      "past": {
+        "ich": "leitete weiter",
+        "du": "leitetest weiter",
+        "er_sie_es": "leitete weiter",
+        "wir": "leiteten weiter",
+        "ihr": "leitetet weiter",
+        "sie_Sie": "leiteten weiter"
+      },
+      "pastParticiple": "weitergeleitet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbares Verb: 'Ich leite die E-Mail weiter', NICHT 'Ich weiterleite die E-Mail'.",
+      "Partizip: 'weitergeleitet', nicht 'geweiterleitet'."
+    ],
+    "usageNotes": [
+      "Trennbar im Hauptsatz: 'Ich leite die Nachricht weiter.'",
+      "Nicht trennbar im Nebensatz: '...dass ich die Nachricht weiterleite.'"
+    ],
+    "relatedWords": [
+      "die Weiterleitung",
+      "senden",
+      "forwarden",
+      "uebermitteln",
+      "v-phone-034"
+    ],
+    "tags": [
+      "email-actions",
+      "trennbar"
+    ]
+  },
+  {
+    "id": "v-emails-027",
+    "word": "bestätigen",
+    "baseForm": "bestätigen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to confirm",
+    "meaningDe": "eine Information oder Vereinbarung für richtig erklären",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Könnten Sie bitte den Termin bestätigen?",
+        "en": "Could you please confirm the appointment?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Hiermit bestätige ich den Empfang Ihrer E-Mail.",
+        "en": "I hereby confirm the receipt of your email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bestätige Ihnen die Teilnahme an der Konferenz.",
+        "en": "I confirm to you the participation in the conference.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bestätige",
+        "du": "bestätigst",
+        "er_sie_es": "bestätigt",
+        "wir": "bestätigen",
+        "ihr": "bestätigt",
+        "sie_Sie": "bestätigen"
+      },
+      "past": {
+        "ich": "bestätigte",
+        "du": "bestätigtest",
+        "er_sie_es": "bestätigte",
+        "wir": "bestätigten",
+        "ihr": "bestätigtet",
+        "sie_Sie": "bestätigten"
+      },
+      "pastParticiple": "bestätigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich bestätige' (korrekt), nicht 'Ich stätige be' (unsinnig).",
+      "Reflexiv: 'sich bestätigen' = to prove trü/to be confirmed."
+    ],
+    "usageNotes": [
+      "'Hiermit bestätige ich...' ist eine typische formelle Einleitung.",
+      "Oft in der Wendung: 'den Empfang bestätigen', 'einen Termin bestätigen'."
+    ],
+    "relatedWords": [
+      "die Bestaetigung",
+      "die Zusage",
+      "bekraeftigen",
+      "versichern"
+    ],
+    "tags": [
+      "email-actions",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-028",
+    "word": "anfragen",
+    "baseForm": "anfragen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to inquire, to request",
+    "meaningDe": "höflich um Information oder etwas bitten",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte höflich anfragen, ob der Termin noch gilt.",
+        "en": "I would like to politely inquire whether the appointment still stands.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Darf ich anfragen, wann die Unterlagen fertig sind?",
+        "en": "May I inquire when the documents will be ready?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Er hat bei der Firma angefragt.",
+        "en": "He inquired at the company.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "frage an",
+        "du": "fragst an",
+        "er_sie_es": "fragt an",
+        "wir": "fragen an",
+        "ihr": "fragt an",
+        "sie_Sie": "fragen an"
+      },
+      "past": {
+        "ich": "fragte an",
+        "du": "fragtest an",
+        "er_sie_es": "fragte an",
+        "wir": "fragten an",
+        "ihr": "fragtet an",
+        "sie_Sie": "fragten an"
+      },
+      "pastParticiple": "angefragt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbares Verb: 'Ich frage an', nicht 'Ich anfrage'.",
+      "Verwechslung mit 'nachfragen' (to follow up) - 'anfragen' ist die erste Kontaktaufnahme."
+    ],
+    "usageNotes": [
+      "'Anfragen' ist formeller als einfach 'fragen'.",
+      "Oft verwendet: 'bei jemandem anfragen' oder 'wegen etwas anfragen'."
+    ],
+    "relatedWords": [
+      "die Anfrage",
+      "nachfragen",
+      "erkundigen",
+      "bitten"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "trennbar"
+    ]
+  },
+  {
+    "id": "v-emails-029",
+    "word": "beifügen",
+    "baseForm": "beifügen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to attach, to enclose",
+    "meaningDe": "ein Dokument oder eine Datei an eine E-Mail anhängen",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich füge den Bericht als Anhang bei.",
+        "en": "I am attaching the report as an attachment.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie bitte die Rechnung beifügen?",
+        "en": "Could you please attach the invoice?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Beigefügt finden Sie die angeforderten Dokumente.",
+        "en": "Enclosed you will find the requested documents.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "füge bei",
+        "du": "fügst bei",
+        "er_sie_es": "fügt bei",
+        "wir": "fügen bei",
+        "ihr": "fügt bei",
+        "sie_Sie": "fügen bei"
+      },
+      "past": {
+        "ich": "fügte bei",
+        "du": "fügtest bei",
+        "er_sie_es": "fügte bei",
+        "wir": "fügten bei",
+        "ihr": "fügtet bei",
+        "sie_Sie": "fügten bei"
+      },
+      "pastParticiple": "beigefügt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbares Verb: 'Ich füge die Datei bei', nicht 'Ich beifüge die Datei'.",
+      "'Beigefügt' als Partizip am Satzanfang: 'Beigefügt finden Sie...' (sehr formell)."
+    ],
+    "usageNotes": [
+      "Formeller als 'anhängen' - wird in geschäftlichen E-Mails bevorzugt.",
+      "Alternative: 'Anbei sende ich Ihnen...' oder 'In der Anlage finden Sie...'."
+    ],
+    "relatedWords": [
+      "die Anlage",
+      "der Anhang",
+      "anhaengen",
+      "anbei"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "trennbar"
+    ]
+  },
+  {
+    "id": "v-emails-030",
+    "word": "antworten",
+    "baseForm": "antworten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to reply, to answer",
+    "meaningDe": "auf eine E-Mail oder Nachricht reagieren",
+    "situations": [
+      "emails",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich antworte Ihnen so schnell wie möglich.",
+        "en": "I will reply to you as soon as possible.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte antworten Sie auf diese E-Mail bis Freitag.",
+        "en": "Please reply to this email by Friday.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Er hat noch nicht auf meine E-Mail geantwortet.",
+        "en": "He has not yet replied to my email.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "antworte",
+        "du": "antwortest",
+        "er_sie_es": "antwortet",
+        "wir": "antworten",
+        "ihr": "antwortet",
+        "sie_Sie": "antworten"
+      },
+      "past": {
+        "ich": "antwortete",
+        "du": "antwortetest",
+        "er_sie_es": "antwortete",
+        "wir": "antworteten",
+        "ihr": "antwortetet",
+        "sie_Sie": "antworteten"
+      },
+      "pastParticiple": "geantwortet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Antworten auf' + Akkusativ: 'auf die E-Mail antworten', nicht 'die E-Mail antworten'.",
+      "Nicht verwechseln mit 'beantworten' (transitiv): 'die Frage beantworten' vs. 'auf die Frage antworten'."
+    ],
+    "usageNotes": [
+      "'Antworten' erfordert die Präp. 'auf' + Akkusativ; 'beantworten' ist transitiv ohne Präp.",
+      "'Allen antworten' (Reply All) ist eine wichtige E-Mail-Funktion."
+    ],
+    "relatedWords": [
+      "die Antwort",
+      "beantworten",
+      "erwidern",
+      "reagieren"
+    ],
+    "tags": [
+      "email-actions",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-031",
+    "word": "sich beziehen auf",
+    "baseForm": "sich beziehen auf",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to refer to",
+    "meaningDe": "auf etwas zuvor Gesagtes oder Geschriebenes Bezug nehmen",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich beziehe mich auf Ihre E-Mail vom 10. März.",
+        "en": "I am referring to your email of March 10th.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bezugnehmend auf unser Telefonat möchte ich Folgendes mitteilen.",
+        "en": "Referring to our phone call, I would like to communicate the following.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Auf welches Angebot beziehen Sie sich?",
+        "en": "Which offer are you referring to?",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "beziehe mich auf",
+        "du": "beziehst dich auf",
+        "er_sie_es": "bezieht sich auf",
+        "wir": "beziehen uns auf",
+        "ihr": "bezieht euch auf",
+        "sie_Sie": "beziehen sich auf"
+      },
+      "past": {
+        "ich": "bezog mich auf",
+        "du": "bezogst dich auf",
+        "er_sie_es": "bezog sich auf",
+        "wir": "bezogen uns auf",
+        "ihr": "bezogt euch auf",
+        "sie_Sie": "bezogen sich auf"
+      },
+      "pastParticiple": "bezogen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexiv + Präp.: 'sich beziehen AUF' + Akkusativ - die Präp. darf nicht fehlen.",
+      "Nicht verwechseln mit 'beziehen' (ohne 'sich') = to obtain, to move into."
+    ],
+    "usageNotes": [
+      "Sehr häufig in geschäftlichen E-Mails als Einstieg: 'Ich beziehe mich auf...'.",
+      "Alternativ: 'Bezugnehmend auf...' oder 'In Bezug auf...'."
+    ],
+    "relatedWords": [
+      "der Bezug",
+      "bezugnehmend",
+      "in Bezug auf",
+      "betreffen"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "reflexiv"
+    ]
+  },
+  {
+    "id": "v-emails-032",
+    "word": "mitteilen",
+    "baseForm": "mitteilen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to inform, to communicate",
+    "meaningDe": "jemandem eine Information oder Nachricht geben",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte Ihnen mitteilen, dass der Termin verschoben wurde.",
+        "en": "I would like to inform you that the appointment has been postponed.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Hiermit teilen wir Ihnen mit, dass Ihre Bewerbung eingegangen ist.",
+        "en": "We hereby inform you that your application has been received.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte teilen Sie uns Ihre Entscheidung mit.",
+        "en": "Please communicate your decision to us.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "teile mit",
+        "du": "teilst mit",
+        "er_sie_es": "teilt mit",
+        "wir": "teilen mit",
+        "ihr": "teilt mit",
+        "sie_Sie": "teilen mit"
+      },
+      "past": {
+        "ich": "teilte mit",
+        "du": "teiltest mit",
+        "er_sie_es": "teilte mit",
+        "wir": "teilten mit",
+        "ihr": "teiltet mit",
+        "sie_Sie": "teilten mit"
+      },
+      "pastParticiple": "mitgeteilt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich teile Ihnen mit' (Hauptsatz), '...dass ich Ihnen mitteile' (Nebensatz).",
+      "Dativobjekt für die Person: 'jemandem etwas mitteilen', nicht 'jemanden etwas mitteilen'."
+    ],
+    "usageNotes": [
+      "Formeller als 'sagen' oder 'informieren'.",
+      "Typische Struktur: 'Hiermit teile ich Ihnen mit, dass...'"
+    ],
+    "relatedWords": [
+      "die Mitteilung",
+      "informieren",
+      "benachrichtigen",
+      "bekanntgeben"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "trennbar"
+    ]
+  },
+  {
+    "id": "v-emails-033",
+    "word": "bitten um",
+    "baseForm": "bitten um",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to ask for, to request",
+    "meaningDe": "höflich um etwas fragen oder ersuchen",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich bitte um eine kurze Rückmeldung.",
+        "en": "I kindly ask for a brief response.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir bitten Sie um Verständnis.",
+        "en": "We ask for your understanding.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Darf ich Sie um einen Gefallen bitten?",
+        "en": "May I ask you a favor?",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "bitte um",
+        "du": "bittest um",
+        "er_sie_es": "bittet um",
+        "wir": "bitten um",
+        "ihr": "bittet um",
+        "sie_Sie": "bitten um"
+      },
+      "past": {
+        "ich": "bat um",
+        "du": "batest um",
+        "er_sie_es": "bat um",
+        "wir": "baten um",
+        "ihr": "batet um",
+        "sie_Sie": "baten um"
+      },
+      "pastParticiple": "gebeten",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Bitten um' + Akkusativ, nicht 'bitten für': 'Ich bitte um Hilfe' (korrekt).",
+      "Starkes Verb: bitten - bat - gebeten (nicht 'gebittet')."
+    ],
+    "usageNotes": [
+      "Sehr höflich und typisch für geschäftliche E-Mails.",
+      "'Ich möchte Sie bitten...' ist noch höflicher als 'Ich bitte Sie...'."
+    ],
+    "relatedWords": [
+      "die Bitte",
+      "ersuchen",
+      "auffordern",
+      "erbitten"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "politeness"
+    ]
+  },
+  {
+    "id": "v-emails-034",
+    "word": "senden",
+    "baseForm": "senden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to send",
+    "meaningDe": "eine E-Mail oder Nachricht abschicken",
+    "situations": [
+      "emails",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich sende Ihnen die Unterlagen im Anhang.",
+        "en": "I am sending you the documents in the attachment.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die E-Mail wurde erfolgreich gesendet.",
+        "en": "The email was sent successfully.",
+        "situation": "emails",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte senden Sie mir eine Kopie.",
+        "en": "Please send me a copy.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "sende",
+        "du": "sendest",
+        "er_sie_es": "sendet",
+        "wir": "senden",
+        "ihr": "sendet",
+        "sie_Sie": "senden"
+      },
+      "past": {
+        "ich": "sendete",
+        "du": "sendetest",
+        "er_sie_es": "sendete",
+        "wir": "sendeten",
+        "ihr": "sendetet",
+        "sie_Sie": "sendeten"
+      },
+      "pastParticiple": "gesendet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Zwei Vergangenheitsformen: 'sendete/gesendet' (E-Mail) vs. 'sandte/gesandt' (Brief, gehobener Stil).",
+      "'Senden' ist formeller als 'schicken' - in geschäftlichen E-Mails bevorzugt."
+    ],
+    "usageNotes": [
+      "Für E-Mails: 'gesendet' ist Standard. 'Gesandt' wirkt altmodisch/literarisch.",
+      "Alternativen: 'schicken' (neutral), 'übersenden' (sehr formell), 'übermitteln' (formell)."
+    ],
+    "relatedWords": [
+      "schicken",
+      "uebersenden",
+      "versenden",
+      "der Versand"
+    ],
+    "tags": [
+      "email-actions",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-emails-035",
+    "word": "erhalten",
+    "baseForm": "erhalten",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to receive",
+    "meaningDe": "eine E-Mail oder Nachricht bekommen",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe Ihre E-Mail erhalten.",
+        "en": "I have received your email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie meine Nachricht erhalten?",
+        "en": "Have you received my message?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie erhalten die Bestätigung in Kürze.",
+        "en": "You will receive the confirmation shortly.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erhalte",
+        "du": "erhältst",
+        "er_sie_es": "erhält",
+        "wir": "erhalten",
+        "ihr": "erhaltet",
+        "sie_Sie": "erhalten"
+      },
+      "past": {
+        "ich": "erhielt",
+        "du": "erhieltst",
+        "er_sie_es": "erhielt",
+        "wir": "erhielten",
+        "ihr": "erhieltet",
+        "sie_Sie": "erhielten"
+      },
+      "pastParticiple": "erhalten",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Starkes Verb: erhalten - erhielt - erhalten (Partizip gleich dem Infinitiv).",
+      "'Erhalten' ist formeller als 'bekommen' - in geschäftlichen E-Mails bevorzugt."
+    ],
+    "usageNotes": [
+      "Typischer E-Mail-Einstieg: 'Vielen Dank, ich habe Ihre E-Mail erhalten.'",
+      "'Erhalten' hat auch die Bedeutung 'to maintain/preserve' - Kontext beachten."
+    ],
+    "relatedWords": [
+      "bekommen",
+      "empfangen",
+      "der Empfang",
+      "der Erhalt"
+    ],
+    "tags": [
+      "email-actions",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-036",
+    "word": "versenden",
+    "baseForm": "versenden",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to dispatch, to send out",
+    "meaningDe": "etwas abschicken oder verschicken, oft an mehrere Empfänger",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Der Newsletter wird am Montag versendet.",
+        "en": "The newsletter will be sent out on Monday.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir haben die Einladungen per E-Mail versendet.",
+        "en": "We have sent out the invitations by email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die E-Mail wurde an alle Mitarbeiter versendet.",
+        "en": "The email was sent to all employees.",
+        "situation": "emails",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "versende",
+        "du": "versendest",
+        "er_sie_es": "versendet",
+        "wir": "versenden",
+        "ihr": "versendet",
+        "sie_Sie": "versenden"
+      },
+      "past": {
+        "ich": "versendete",
+        "du": "versendetest",
+        "er_sie_es": "versendete",
+        "wir": "versendeten",
+        "ihr": "versendetet",
+        "sie_Sie": "versendeten"
+      },
+      "pastParticiple": "versendet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich versende', nicht 'Ich sende ver'.",
+      "Unterschied: 'senden' (allgemein), 'versenden' (betont den Versandvorgang, oft Massenversand)."
+    ],
+    "usageNotes": [
+      "'Versenden' impliziert oft einen grösseren Umfang oder formelleren Kontext.",
+      "Häufig im Passiv: 'Die E-Mail wurde versendet.'"
+    ],
+    "relatedWords": [
+      "senden",
+      "der Versand",
+      "verschicken",
+      "abschicken"
+    ],
+    "tags": [
+      "email-actions",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-037",
+    "word": "überprüfen",
+    "baseForm": "überprüfen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to check, to review, to verify",
+    "meaningDe": "etwas genau kontrollieren oder nachsehen",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte überprüfen Sie die beigefügten Unterlagen.",
+        "en": "Please review the attached documents.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich werde die Angaben überprüfen und mich bei Ihnen melden.",
+        "en": "I will check the information and get back to you.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie bitte die Zahlen nochmals überprüfen?",
+        "en": "Could you please check the figures once more?",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "überprüfe",
+        "du": "überprüfst",
+        "er_sie_es": "überprüft",
+        "wir": "überprüfen",
+        "ihr": "überprüft",
+        "sie_Sie": "überprüfen"
+      },
+      "past": {
+        "ich": "überprufte",
+        "du": "überprüftest",
+        "er_sie_es": "überprufte",
+        "wir": "überprüften",
+        "ihr": "überprüftet",
+        "sie_Sie": "überprüften"
+      },
+      "pastParticiple": "überprüft",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich überprüfe', nicht 'Ich prüfe über'.",
+      "Nicht verwechseln mit 'prüfen' (to test/examine) - 'überprüfen' betont das Nachkontrollieren."
+    ],
+    "usageNotes": [
+      "Formeller als 'checken' (Anglizismus) oder 'nachsehen'.",
+      "Oft in E-Mails mit Bitte um Kontrolle: 'Bitte überprüfen Sie...'"
+    ],
+    "relatedWords": [
+      "pruefen",
+      "kontrollieren",
+      "nachpruefen",
+      "die Ueberpruefung",
+      "v-meetings-037"
+    ],
+    "tags": [
+      "email-actions",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-038",
+    "word": "übermitteln",
+    "baseForm": "übermitteln",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to transmit, to convey",
+    "meaningDe": "eine Nachricht oder Information formell weiterleiten",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte übermitteln Sie ihm meine Grüsse.",
+        "en": "Please convey my regards to him.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Daten werden elektronisch übermittelt.",
+        "en": "The data is transmitted electronically.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich übermittle Ihnen hiermit die Ergebnisse.",
+        "en": "I hereby transmit the results to you.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "übermittle",
+        "du": "übermittelst",
+        "er_sie_es": "übermittelt",
+        "wir": "übermitteln",
+        "ihr": "übermittelt",
+        "sie_Sie": "übermitteln"
+      },
+      "past": {
+        "ich": "übermittelte",
+        "du": "übermitteltest",
+        "er_sie_es": "übermittelte",
+        "wir": "übermittelten",
+        "ihr": "übermitteltet",
+        "sie_Sie": "übermittelten"
+      },
+      "pastParticiple": "übermittelt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich übermittle', nicht 'Ich mittle über'.",
+      "Sehr formell - in alltäglichen E-Mails ist 'senden' oder 'schicken' natürlicher."
+    ],
+    "usageNotes": [
+      "Gehobenere Sprache - typisch für offizielle oder diplomatische Korrespondenz.",
+      "Oft im Zusammenhang mit Daten: 'Daten übermitteln'."
+    ],
+    "relatedWords": [
+      "die Uebermittlung",
+      "senden",
+      "weiterleiten",
+      "uebertragen"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "elevated"
+    ]
+  },
+  {
+    "id": "v-emails-039",
+    "word": "benachrichtigen",
+    "baseForm": "benachrichtigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to notify, to inform",
+    "meaningDe": "jemanden über etwas Wichtiges informieren",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wir werden Sie per E-Mail benachrichtigen.",
+        "en": "We will notify you by email.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte benachrichtigen Sie mich, sobald die Ware eingetroffen ist.",
+        "en": "Please notify me as soon as the goods have arrived.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Alle Beteiligten wurden rechtzeitig benachrichtigt.",
+        "en": "All parties involved were notified in time.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "benachrichtige",
+        "du": "benachrichtigst",
+        "er_sie_es": "benachrichtigt",
+        "wir": "benachrichtigen",
+        "ihr": "benachrichtigt",
+        "sie_Sie": "benachrichtigen"
+      },
+      "past": {
+        "ich": "benachrichtigte",
+        "du": "benachrichtigtest",
+        "er_sie_es": "benachrichtigte",
+        "wir": "benachrichtigten",
+        "ihr": "benachrichtigtet",
+        "sie_Sie": "benachrichtigten"
+      },
+      "pastParticiple": "benachrichtigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Nicht trennbar: 'Ich benachrichtige', nicht 'Ich nachrichtige be'.",
+      "Akkusativobjekt für die Person: 'jemanden benachrichtigen', nicht 'jemandem'."
+    ],
+    "usageNotes": [
+      "Formeller als 'Bescheid geben' oder 'informieren'.",
+      "Oft im Passiv: 'Sie werden benachrichtigt, wenn...'"
+    ],
+    "relatedWords": [
+      "die Benachrichtigung",
+      "informieren",
+      "mitteilen",
+      "die Nachricht"
+    ],
+    "tags": [
+      "email-actions",
+      "formal"
+    ]
+  },
+  {
+    "id": "v-emails-040",
+    "word": "zur Verfügung stehen",
+    "baseForm": "zur Verfügung stehen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to be available, to be at someone's disposal",
+    "meaningDe": "für jemanden bereit sein, um zu helfen oder Informationen zu geben",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Für Fragen stehe ich Ihnen gerne zur Verfügung.",
+        "en": "I am gladly available for questions.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir stehen Ihnen jederzeit zur Verfügung.",
+        "en": "We are at your disposal at any time.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Für weitere Informationen steht Ihnen Frau Müller zur Verfügung.",
+        "en": "For further information, Mrs. Mueller is available to you.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "stehe zur Verfügung",
+        "du": "stehst zur Verfügung",
+        "er_sie_es": "steht zur Verfügung",
+        "wir": "stehen zur Verfügung",
+        "ihr": "steht zur Verfügung",
+        "sie_Sie": "stehen zur Verfügung"
+      },
+      "past": {
+        "ich": "stand zur Verfügung",
+        "du": "standest zur Verfügung",
+        "er_sie_es": "stand zur Verfügung",
+        "wir": "standen zur Verfügung",
+        "ihr": "standet zur Verfügung",
+        "sie_Sie": "standen zur Verfügung"
+      },
+      "pastParticiple": "zur Verfügung gestanden",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Dativobjekt für die Person: 'Ich stehe Ihnen zur Verfügung', nicht 'Ich stehe Sie...'.",
+      "Nicht verwechseln mit 'zur Verfügung stellen' (to provide/make available)."
+    ],
+    "usageNotes": [
+      "Standard-Schlussformel in geschäftlichen E-Mails vor der Grussformel.",
+      "Varianten: 'gerne zur Verfügung', 'jederzeit zur Verfügung'."
+    ],
+    "relatedWords": [
+      "die Verfuegung",
+      "bereitstehen",
+      "erreichbar sein",
+      "verfuegbar",
+      "v-work-048"
+    ],
+    "tags": [
+      "email-actions",
+      "formal",
+      "closing"
+    ]
+  },
+  {
+    "id": "v-emails-041",
+    "word": "freundlich",
+    "baseForm": "freundlich",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "friendly, kind",
+    "meaningDe": "nett und höflich im Umgang",
+    "situations": [
+      "emails",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Mit freundlichen Grüssen",
+        "en": "With kind regards",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Vielen Dank für Ihre freundliche Antwort.",
+        "en": "Thank you very much for your kind reply.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir bitten Sie freundlich um eine Rückmeldung.",
+        "en": "We kindly ask you for a response.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Freundlich' ist ein Adjektiv, aber in 'Mit freundlichen Grüssen' wird es als feststehende Formel verwendet.",
+      "Nicht verwechseln mit 'freundschaftlich' (amicable, relating to friendship)."
+    ],
+    "usageNotes": [
+      "In der Grussformel 'Mit freundlichen Grüssen' fast immer im Plural.",
+      "Als Adverb: 'freundlich bitten' = höflich bitten."
+    ],
+    "relatedWords": [
+      "die Freundlichkeit",
+      "hoeflich",
+      "nett",
+      "liebenswuerdig"
+    ],
+    "tags": [
+      "etiquette",
+      "tone",
+      "positive"
+    ]
+  },
+  {
+    "id": "v-emails-042",
+    "word": "dringend",
+    "baseForm": "dringend",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "urgent",
+    "meaningDe": "sehr eilig, muss sofort erledigt werden",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine dringende Anfrage.",
+        "en": "I have an urgent request.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Angelegenheit ist dringend.",
+        "en": "The matter is urgent.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte antworten Sie dringend auf diese E-Mail.",
+        "en": "Please reply urgently to this email.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Dringend' als Adjektiv: 'eine dringende E-Mail'; als Adverb: 'dringend benötigt'.",
+      "Nicht inflationär verwenden - wenn alles 'dringend' ist, ist nichts mehr dringend."
+    ],
+    "usageNotes": [
+      "Im Betreff: 'DRINGEND:' oder 'Eilt!' signalisiert hohe Priorität.",
+      "Steigerung: 'dringend' - 'dringender' - 'am dringendsten'."
+    ],
+    "relatedWords": [
+      "die Dringlichkeit",
+      "eilig",
+      "sofortig",
+      "prioritaer",
+      "v-phone-043",
+      "v-work-044"
+    ],
+    "tags": [
+      "urgency",
+      "priority"
+    ]
+  },
+  {
+    "id": "v-emails-043",
+    "word": "vertraulich",
+    "baseForm": "vertraulich",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "confidential",
+    "meaningDe": "geheim, nur für bestimmte Personen bestimmt",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Diese E-Mail ist vertraulich und nur für den Empfänger bestimmt.",
+        "en": "This email is confidential and intended only for the recipient.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte behandeln Sie diese Information vertraulich.",
+        "en": "Please treat this information as confidential.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Inhalt dieser Nachricht ist streng vertraulich.",
+        "en": "The content of this message is strictly confidential.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'vertraünsvoll' (trusting/trustful) - komplett unterschiedliche Bedeutung.",
+      "'Vertraulich' = geheim; 'vertraünsvoll' = voller Vertraün."
+    ],
+    "usageNotes": [
+      "Oft in E-Mail-Disclaimern: 'Diese E-Mail und ihre Anhänge sind vertraulich.'",
+      "Steigerung: 'streng vertraulich' (strictly confidential)."
+    ],
+    "relatedWords": [
+      "das Vertrauen",
+      "die Vertraulichkeit",
+      "geheim",
+      "diskret"
+    ],
+    "tags": [
+      "security",
+      "formal",
+      "legal"
+    ]
+  },
+  {
+    "id": "v-emails-044",
+    "word": "zuständig",
+    "baseForm": "zuständig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "responsible, in charge",
+    "meaningDe": "für etwas verantwortlich oder berechtigt",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Wer ist für dieses Anliegen zuständig?",
+        "en": "Who is responsible for this matter?",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bitte wenden Sie sich an die zuständige Abteilung.",
+        "en": "Please contact the responsible department.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bin für die Bearbeitung Ihrer Anfrage zuständig.",
+        "en": "I am in charge of processing your inquiry.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Zuständig für' + Akkusativ: 'zuständig für die Buchhaltung', nicht 'zuständig von'.",
+      "Nicht verwechseln mit 'verantwortlich' - 'zuständig' betont die formelle Berechtigung."
+    ],
+    "usageNotes": [
+      "Typisch in Weiterleitung: 'Ich leite Ihre Anfrage an den zuständigen Kollegen weiter.'",
+      "Nomen: 'die Zuständigkeit' (area of responsibility)."
+    ],
+    "relatedWords": [
+      "die Zustaendigkeit",
+      "verantwortlich",
+      "befugt",
+      "die Abteilung",
+      "v-bureaucracy-041",
+      "v-meetings-045",
+      "v-phone-044",
+      "v-work-041"
+    ],
+    "tags": [
+      "business",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "v-emails-045",
+    "word": "baldmöglichst",
+    "baseForm": "baldmöglichst",
+    "wordClass": "adverb",
+    "level": "B1",
+    "meaningEn": "as soon as possible",
+    "meaningDe": "so schnell wie möglich",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte antworten Sie baldmöglichst.",
+        "en": "Please reply as soon as possible.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir werden uns baldmöglichst bei Ihnen melden.",
+        "en": "We will get back to you as soon as possible.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Eine baldmöglichste Rückmeldung wäre wünschenswert.",
+        "en": "A reply as soon as possible would be desirable.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Zusammengeschrieben: 'baldmöglichst', nicht 'bald möglichst'.",
+      "Alternative: 'so bald wie möglich' oder 'schnellstmöglich' - alle drei sind korrekt."
+    ],
+    "usageNotes": [
+      "Sehr formell - in informellen E-Mails eher 'so schnell wie möglich'.",
+      "Abkürzung 'asap' wird im Deutschen manchmal auch verwendet, ist aber informell."
+    ],
+    "relatedWords": [
+      "schnellstmoeglich",
+      "umgehend",
+      "zeitnah",
+      "so bald wie moeglich"
+    ],
+    "tags": [
+      "urgency",
+      "formal",
+      "time"
+    ]
+  },
+  {
+    "id": "v-emails-046",
+    "word": "Mit freundlichen Grüssen",
+    "baseForm": "Mit freundlichen Grüssen",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Kind regards / Yours sincerely",
+    "meaningDe": "die Standard-Grussformel am Ende einer geschäftlichen E-Mail",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Mit freundlichen Grüssen\nMax Müller",
+        "en": "Kind regards,\nMax Mueller",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich freü mich auf Ihre Antwort.\n\nMit freundlichen Grüssen\nAnna Schmidt",
+        "en": "I look forward to your reply.\n\nKind regards,\nAnna Schmidt",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "KEIN Komma nach 'Mit freundlichen Grüssen' im Deutschen (anders als im Englischen).",
+      "Abkürzung 'MfG' nur in sehr informellen internen E-Mails akzeptabel."
+    ],
+    "usageNotes": [
+      "Die Standard-Grussformel für geschäftliche E-Mails in Deutschland.",
+      "Alternativen: 'Freundliche Grüsse' (etwas weniger formell), 'Viele Grüsse' (informeller)."
+    ],
+    "relatedWords": [
+      "die Grussformel",
+      "Viele Gruesse",
+      "Beste Gruesse",
+      "Hochachtungsvoll"
+    ],
+    "tags": [
+      "closing",
+      "etiquette",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-emails-047",
+    "word": "Bezugnehmend auf",
+    "baseForm": "Bezugnehmend auf",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "Referring to, With reference to",
+    "meaningDe": "eine formelle Einleitung, die auf etwas Vorheriges verweist",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bezugnehmend auf Ihr Schreiben vom 5. März möchte ich Ihnen Folgendes mitteilen.",
+        "en": "With reference to your letter of March 5th, I would like to inform you of the following.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bezugnehmend auf unser Telefonat sende ich Ihnen die besprochenen Unterlagen.",
+        "en": "Referring to our phone call, I am sending you the discussed documents.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Bezugnehmend auf Ihre Anfrage teilen wir Ihnen mit, dass...",
+        "en": "With reference to your inquiry, we inform you that...",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Bezugnehmend auf' + Akkusativ: 'Bezugnehmend auf Ihre E-Mail', nicht 'Bezugnehmend Ihrer E-Mail'.",
+      "Kann als altmodisch empfunden werden - 'In Bezug auf' ist eine modernere Alternative."
+    ],
+    "usageNotes": [
+      "Typischer Einleitungssatz in formellen geschäftlichen E-Mails.",
+      "Alternativen: 'In Bezug auf...', 'Ich beziehe mich auf...', 'Wie besprochen...'."
+    ],
+    "relatedWords": [
+      "sich beziehen auf",
+      "der Bezug",
+      "in Bezug auf",
+      "betreffs"
+    ],
+    "tags": [
+      "opening",
+      "formal",
+      "reference"
+    ]
+  },
+  {
+    "id": "v-emails-048",
+    "word": "Im Anhang finden Sie",
+    "baseForm": "Im Anhang finden Sie",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Please find attached",
+    "meaningDe": "eine formelle Formel, die auf beigefügte Dokumente hinweist",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Im Anhang finden Sie den aktüllen Projektbericht.",
+        "en": "Please find attached the current project report.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Im Anhang finden Sie die gewünschten Unterlagen.",
+        "en": "Please find attached the requested documents.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Im Anhang finden Sie die überarbeitete Version des Vertrags.",
+        "en": "Please find attached the revised version of the contract.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Vergessen, den Anhang tatsächlich beizufügen - ein sehr häufiger Fehler!",
+      "Alternative: 'Anbei finden Sie...' oder 'Beigefügt finden Sie...' - alles korrekt."
+    ],
+    "usageNotes": [
+      "Eine der häufigsten Formulierungen in deutschen geschäftlichen E-Mails.",
+      "'Anbei' ist eine kürzere, ebenfalls formelle Alternative."
+    ],
+    "relatedWords": [
+      "der Anhang",
+      "die Anlage",
+      "anbei",
+      "beigefuegt"
+    ],
+    "tags": [
+      "attachments",
+      "formal",
+      "standard"
+    ]
+  },
+  {
+    "id": "v-emails-049",
+    "word": "Ich würde mich freün",
+    "baseForm": "Ich würde mich freün",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "I would be pleased / I would appreciate",
+    "meaningDe": "eine höfliche Formulierung, die einen Wunsch ausdrückt",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich würde mich über eine baldige Rückmeldung freün.",
+        "en": "I would appreciate a prompt response.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich würde mich freün, von Ihnen zu hören.",
+        "en": "I would be pleased to hear from you.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir würden uns freün, Sie bei uns begrüessen zu dürfen.",
+        "en": "We would be pleased to welcome you.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Konjunktiv II: 'würde', nicht 'werde' - der Konjunktiv macht den Satz höflicher.",
+      "Reflexivpronomen nicht vergessen: 'Ich würde MICH freün', nicht 'Ich würde freün'."
+    ],
+    "usageNotes": [
+      "Typische Schlussformel vor der Grussformel in geschäftlichen E-Mails.",
+      "Der Konjunktiv II ('würde') drückt Höflichkeit und Zurückhaltung aus."
+    ],
+    "relatedWords": [
+      "sich freuen",
+      "erfreut sein",
+      "die Freude",
+      "gerne"
+    ],
+    "tags": [
+      "closing",
+      "politeness",
+      "konjunktiv"
+    ]
+  },
+  {
+    "id": "v-emails-050",
+    "word": "Vielen Dank im Voraus",
+    "baseForm": "Vielen Dank im Voraus",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Thank you in advance",
+    "meaningDe": "eine höfliche Dankesformel, bevor die andere Person reagiert hat",
+    "situations": [
+      "emails",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Vielen Dank im Voraus für Ihre Bemühungen.",
+        "en": "Thank you in advance for your efforts.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Für Ihre Hilfe danke ich Ihnen im Voraus.",
+        "en": "I thank you in advance for your help.",
+        "situation": "emails",
+        "tone": "formal"
+      },
+      {
+        "de": "Vielen Dank im Voraus für Ihre schnelle Rückmeldung.",
+        "en": "Thank you in advance for your quick response.",
+        "situation": "emails",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Im Voraus' wird grossgeschrieben: 'Voraus' mit grossem V, da es substantiviert ist.",
+      "Manche empfinden 'Vielen Dank im Voraus' als leicht fordernd - Alternative: 'Ich wäre Ihnen sehr dankbar'."
+    ],
+    "usageNotes": [
+      "Häufig am Ende einer E-Mail, in der man um etwas bittet.",
+      "Alternative: 'Ich danke Ihnen im Voraus' (noch formeller) oder 'Danke vorab' (informeller)."
+    ],
+    "relatedWords": [
+      "danken",
+      "die Dankbarkeit",
+      "voraus",
+      "dankbar"
+    ],
+    "tags": [
+      "closing",
+      "politeness",
+      "gratitude"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "meetings-quarterly",
+  "title": "Die Quartalsbesprechung",
+  "titleEn": "The Quarterly Meeting",
+  "situation": "meetings",
+  "level": "B1",
+  "description": "A department head presents quarterly results and discusses next steps with a team member.",
+  "speakers": {
+    "a": { "name": "Frau Schmidt", "role": "Abteilungsleiterin" },
+    "b": { "name": "Herr Bauer", "role": "Mitarbeiter" }
+  },
+  "lines": [
+    { "speaker": "a", "de": "Guten Morgen, Herr Bauer. Vielen Dank, dass Sie pünktlich zur Quartalsbesprechung gekommen sind. Fangen wir gleich an.", "en": "Good morning, Herr Bauer. Thank you for coming to the quarterly meeting on time. Let's get started right away." },
+    { "speaker": "b", "de": "Guten Morgen, Frau Schmidt. Ich habe die Unterlagen vorbereitet, die Sie angefordert hatten.", "en": "Good morning, Frau Schmidt. I have prepared the documents you had requested." },
+    { "speaker": "a", "de": "Sehr gut. Zunächst möchte ich die Ergebnisse des dritten Quartals vorstellen. Unser Umsatz ist um acht Prozent gestiegen, was über dem Zielwert liegt.", "en": "Very good. First, I would like to present the results of the third quarter. Our revenue has increased by eight percent, which is above the target." },
+    { "speaker": "b", "de": "Das sind erfreuliche Zahlen. Allerdings sind die Kosten in meiner Abteilung ebenfalls gestiegen. Darf ich dazu etwas anmerken?", "en": "Those are encouraging numbers. However, the costs in my department have also risen. May I comment on that?" },
+    { "speaker": "a", "de": "Selbstverständlich. Ihr Feedback ist mir wichtig.", "en": "Of course. Your feedback is important to me." },
+    { "speaker": "b", "de": "Ich sehe, dass wir mehr in Schulungen investiert haben. Meiner Meinung nach sollten wir das beibehalten, auch wenn es kurzfristig teurer ist.", "en": "I see that we have invested more in training. In my opinion, we should maintain that, even if it is more expensive in the short term." },
+    { "speaker": "a", "de": "Ich verstehe Ihren Standpunkt, aber die Geschäftsleitung erwartet, dass wir die Kosten im nächsten Quartal senken.", "en": "I understand your point of view, but the management expects us to reduce costs in the next quarter." },
+    { "speaker": "b", "de": "Das sehe ich etwas anders. Wenn wir die Schulungen kürzen, verlieren wir langfristig an Qualität.", "en": "I see that somewhat differently. If we cut the training, we will lose quality in the long run." },
+    { "speaker": "a", "de": "Da haben Sie nicht ganz unrecht. Wie wäre es mit einem Kompromiss? Wir reduzieren die externen Schulungen und setzen stattdessen auf interne Weiterbildung.", "en": "You are not entirely wrong there. How about a compromise? We reduce external training and focus on internal professional development instead." },
+    { "speaker": "b", "de": "Das klingt nach einer vernünftigen Lösung. Ich könnte ein Konzept für ein internes Mentoring-Programm ausarbeiten.", "en": "That sounds like a reasonable solution. I could develop a concept for an internal mentoring program." },
+    { "speaker": "a", "de": "Einverstanden. Dann halten wir als nächste Schritte fest: Sie erstellen das Konzept bis Ende des Monats, und ich bespreche den Kostenplan mit der Geschäftsleitung.", "en": "Agreed. Then let's note as next steps: you create the concept by the end of the month, and I will discuss the cost plan with management." },
+    { "speaker": "b", "de": "Verstanden. Soll ich Ihnen einen Zwischenbericht per E-Mail schicken?", "en": "Understood. Should I send you a progress report by email?" },
+    { "speaker": "a", "de": "Ja, bitte. Schicken Sie mir bis zum Fünfzehnten eine kurze Zusammenfassung. Dann können wir bei Bedarf noch Anpassungen vornehmen.", "en": "Yes, please. Send me a brief summary by the fifteenth. Then we can make adjustments if necessary." },
+    { "speaker": "b", "de": "Wird gemacht. Vielen Dank für das produktive Gespräch, Frau Schmidt.", "en": "Will do. Thank you for the productive meeting, Frau Schmidt." }
+  ]
+}

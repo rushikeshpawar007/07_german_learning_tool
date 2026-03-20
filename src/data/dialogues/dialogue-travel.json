@@ -1,0 +1,30 @@
+{
+  "id": "travel-ticket",
+  "title": "Am Fahrkartenschalter",
+  "titleEn": "At the Ticket Counter",
+  "situation": "travel",
+  "level": "A2",
+  "description": "A traveler buys a train ticket at the counter.",
+  "speakers": {
+    "a": { "name": "Reisender", "role": "Reisender" },
+    "b": { "name": "Mitarbeiter", "role": "DB-Mitarbeiter" }
+  },
+  "lines": [
+    { "speaker": "b", "de": "Guten Tag! Wie kann ich Ihnen helfen?", "en": "Good day! How can I help you?" },
+    { "speaker": "a", "de": "Guten Tag. Ich möchte eine Fahrkarte nach München, bitte.", "en": "Good day. I'd like a ticket to Munich, please." },
+    { "speaker": "b", "de": "Gerne. Wann möchten Sie denn fahren?", "en": "Of course. When would you like to travel?" },
+    { "speaker": "a", "de": "Heute noch, am besten so gegen 14 Uhr. Gibt es da eine Verbindung?", "en": "Today still, ideally around 2 PM. Is there a connection?" },
+    { "speaker": "b", "de": "Moment, ich schaue mal nach... Ja, um 14:12 Uhr fährt ein ICE. Der ist um 18:05 Uhr in München.", "en": "One moment, let me check... Yes, there's an ICE at 2:12 PM. It arrives in Munich at 6:05 PM." },
+    { "speaker": "a", "de": "Ist das eine direkte Verbindung, oder muss ich umsteigen?", "en": "Is that a direct connection, or do I have to transfer?" },
+    { "speaker": "b", "de": "Sie müssen einmal in Frankfurt umsteigen. Der Anschluss ist aber bequem — Sie haben 15 Minuten.", "en": "You have to transfer once in Frankfurt. But the connection is comfortable — you have 15 minutes." },
+    { "speaker": "a", "de": "Na ja, das geht. Und was kostet die Fahrkarte?", "en": "Well, that's fine. And how much does the ticket cost?" },
+    { "speaker": "b", "de": "Einfach oder hin und zurück?", "en": "One way or round trip?" },
+    { "speaker": "a", "de": "Nur einfach, bitte.", "en": "Just one way, please." },
+    { "speaker": "b", "de": "Zweite Klasse kostet 59,90 Euro. Erste Klasse wäre 94 Euro. Mit einer BahnCard 25 bekommen Sie natürlich Rabatt.", "en": "Second class costs 59.90 euros. First class would be 94 euros. With a BahnCard 25 you get a discount, of course." },
+    { "speaker": "a", "de": "Zweite Klasse reicht. Ich habe leider keine BahnCard. Kann ich mit Karte zahlen?", "en": "Second class is fine. Unfortunately I don't have a BahnCard. Can I pay by card?" },
+    { "speaker": "b", "de": "Ja, kein Problem. — So, hier ist Ihre Fahrkarte. Der Zug fährt ab Gleis 7.", "en": "Yes, no problem. — Here is your ticket. The train departs from platform 7." },
+    { "speaker": "a", "de": "Vielen Dank! Ach, und muss ich einen Platz reservieren?", "en": "Thank you very much! Oh, and do I need to reserve a seat?" },
+    { "speaker": "b", "de": "Das ist freiwillig, aber heute ist Freitag — da kann es voll werden. Eine Reservierung kostet 4,50 Euro extra.", "en": "It's optional, but today is Friday — it can get crowded. A reservation costs 4.50 euros extra." },
+    { "speaker": "a", "de": "Also gut, dann nehme ich die Reservierung auch noch. Danke für Ihre Hilfe!", "en": "All right then, I'll take the reservation too. Thanks for your help!" }
+  ]
+}

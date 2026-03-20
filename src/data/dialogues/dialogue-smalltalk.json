@@ -1,0 +1,28 @@
+{
+  "id": "smalltalk-neighbor",
+  "title": "Der neue Nachbar",
+  "titleEn": "The New Neighbor",
+  "situation": "smalltalk",
+  "level": "A2",
+  "description": "Maria meets her new neighbor Tom in the hallway and they get to know each other.",
+  "speakers": {
+    "a": { "name": "Maria", "role": "Nachbarin" },
+    "b": { "name": "Tom", "role": "Neuer Bewohner" }
+  },
+  "lines": [
+    { "speaker": "a", "de": "Hallo! Bist du neu hier im Haus? Ich habe dich noch nie gesehen.", "en": "Hello! Are you new in the building? I've never seen you before." },
+    { "speaker": "b", "de": "Ja, ich bin letzte Woche eingezogen. Ich heiße Tom.", "en": "Yes, I moved in last week. My name is Tom." },
+    { "speaker": "a", "de": "Freut mich, Tom! Ich bin Maria. Ich wohne im zweiten Stock.", "en": "Nice to meet you, Tom! I'm Maria. I live on the second floor." },
+    { "speaker": "b", "de": "Freut mich auch! Ich wohne jetzt im dritten Stock. Wohnst du schon lange hier?", "en": "Nice to meet you too! I live on the third floor now. Have you been living here long?" },
+    { "speaker": "a", "de": "Ja, schon seit drei Jahren. Die Gegend ist wirklich schön. Woher kommst du denn?", "en": "Yes, for three years already. The neighborhood is really nice. Where are you from?" },
+    { "speaker": "b", "de": "Ich komme aus Hamburg, aber ich arbeite jetzt hier in München.", "en": "I'm from Hamburg, but I work here in Munich now." },
+    { "speaker": "a", "de": "Oh, willkommen in München! Kennst du dich schon ein bisschen aus?", "en": "Oh, welcome to Munich! Do you know your way around a bit already?" },
+    { "speaker": "b", "de": "Noch nicht so gut. Ich kenne nur den Weg zur Arbeit. Kannst du mir Tipps geben?", "en": "Not that well yet. I only know the way to work. Can you give me some tips?" },
+    { "speaker": "a", "de": "Klar! Gleich um die Ecke gibt es eine tolle Bäckerei. Die Brötchen dort sind die besten in der Straße.", "en": "Sure! Right around the corner there's a great bakery. The rolls there are the best on the street." },
+    { "speaker": "b", "de": "Das klingt super. Ich liebe frische Brötchen zum Frühstück.", "en": "That sounds great. I love fresh rolls for breakfast." },
+    { "speaker": "a", "de": "Und der Supermarkt ist nur fünf Minuten zu Fuß. Da gibt es alles, was man braucht.", "en": "And the supermarket is only five minutes on foot. They have everything you need there." },
+    { "speaker": "b", "de": "Gut zu wissen! Alle hier im Haus scheinen sehr nett zu sein.", "en": "Good to know! Everyone here in the building seems very nice." },
+    { "speaker": "a", "de": "Ja, wir haben wirklich nette Nachbarn. Hast du Lust, mal auf einen Kaffee vorbeizukommen?", "en": "Yes, we really have nice neighbors. Would you like to come over for a coffee sometime?" },
+    { "speaker": "b", "de": "Sehr gerne! Das ist wirklich lieb von dir. Ich freue mich schon.", "en": "I'd love to! That's really kind of you. I'm looking forward to it." }
+  ]
+}

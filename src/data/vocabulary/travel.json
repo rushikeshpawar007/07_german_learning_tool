@@ -1,0 +1,2865 @@
+[
+  {
+    "id": "v-travel-001",
+    "word": "das Gleis",
+    "baseForm": "Gleis",
+    "gender": "das",
+    "plural": "Gleise",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "platform, track",
+    "meaningDe": "der Bereich am Bahnhof, wo der Zug hält",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Der Zug nach München fährt von Gleis 5 ab.",
+        "en": "The train to Munich departs from platform 5.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Auf welchem Gleis kommt der ICE an?",
+        "en": "On which platform does the ICE arrive?",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Achtung, der Zug auf Gleis 3 fährt jetzt ab.",
+        "en": "Attention, the train on platform 3 is now departing.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Bahnsteig' - 'Gleis' bezieht sich auf die Schienen/Nummer, 'Bahnsteig' auf die Plattform zum Stehen.",
+      "Es heisst 'auf Gleis 5' oder 'von Gleis 5', nicht 'am Gleis 5'."
+    ],
+    "usageNotes": [
+      "In Durchsagen hört man: 'Der Zug fährt ab Gleis...' - ohne Artikel.",
+      "Gleisänderungen (platform changes) sind in Deutschland leider häufig."
+    ],
+    "relatedWords": [
+      "der Bahnsteig",
+      "die Schiene",
+      "der Bahnhof",
+      "die Gleisaenderung"
+    ],
+    "tags": [
+      "train",
+      "station",
+      "announcement"
+    ]
+  },
+  {
+    "id": "v-travel-002",
+    "word": "der Bahnsteig",
+    "baseForm": "Bahnsteig",
+    "gender": "der",
+    "plural": "Bahnsteige",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "platform (the physical area where you stand)",
+    "meaningDe": "die erhöht gebaute Fläche am Gleis, auf der Reisende warten",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Bitte treten Sie vom Bahnsteig zurück.",
+        "en": "Please step back from the platform.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir warten auf dem Bahnsteig.",
+        "en": "We are waiting on the platform.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Bahnsteig' und 'Gleis' werden oft verwechselt. 'Bahnsteig' ist der Bereich, wo man steht; 'Gleis' ist die Nummer bzw. die Schienen.",
+      "Es heisst 'auf dem Bahnsteig' (nicht 'an dem Bahnsteig')."
+    ],
+    "usageNotes": [
+      "In offiziellen Durchsagen wird meistens 'Gleis' statt 'Bahnsteig' verwendet.",
+      "Im Alltag sagen viele Leute einfach 'Gleis', auch wenn sie den Bahnsteig meinen."
+    ],
+    "relatedWords": [
+      "das Gleis",
+      "der Bahnhof",
+      "der Hauptbahnhof"
+    ],
+    "tags": [
+      "train",
+      "station"
+    ]
+  },
+  {
+    "id": "v-travel-003",
+    "word": "die Fahrkarte",
+    "baseForm": "Fahrkarte",
+    "gender": "die",
+    "plural": "Fahrkarten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "ticket (for transport)",
+    "meaningDe": "ein Dokument, das man kauft, um mit dem Zug, Bus usw. zu fahren",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte eine Fahrkarte nach Berlin kaufen.",
+        "en": "I would like to buy a ticket to Berlin.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du deine Fahrkarte schon entwertet?",
+        "en": "Have you already validated your ticket?",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Fahrkarten können Sie am Automaten oder online kaufen.",
+        "en": "You can buy tickets at the machine or online.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht verwechseln mit 'Eintrittskarte' (admission ticket for events). 'Fahrkarte' ist nur für Transport.",
+      "'Fahrkarte' und 'Ticket' sind austauschbar, aber 'Fahrkarte' klingt formeller."
+    ],
+    "usageNotes": [
+      "'Fahrschein' ist ein Synonym und wird oft in offiziellen Texten benutzt.",
+      "In Deutschland muss man manche Fahrkarten vor der Fahrt entwerten (validate/stamp)."
+    ],
+    "relatedWords": [
+      "der Fahrschein",
+      "das Ticket",
+      "die Monatskarte",
+      "der Fahrkartenautomat"
+    ],
+    "tags": [
+      "ticket",
+      "train",
+      "bus"
+    ]
+  },
+  {
+    "id": "v-travel-004",
+    "word": "der Umstieg",
+    "baseForm": "Umstieg",
+    "gender": "der",
+    "plural": "Umstiege",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "transfer, change (of trains/buses)",
+    "meaningDe": "der Wechsel von einem Verkehrsmittel zu einem anderen während einer Reise",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Die Verbindung hat einen Umstieg in Frankfurt.",
+        "en": "The connection has one transfer in Frankfurt.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Gibt es eine Verbindung ohne Umstieg?",
+        "en": "Is there a connection without a transfer?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Umstieg in Köln war sehr knapp.",
+        "en": "The transfer in Cologne was very tight.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht 'Umsteig' schreiben - das Wort heisst 'Umstieg' (mit -ie-).",
+      "Verwechslung: 'Umstieg' (das Nomen) vs. 'umsteigen' (das Verb)."
+    ],
+    "usageNotes": [
+      "Bei der Deutschen Bahn sagt man auch 'Umsteigeverbindung' für eine Reise mit Umstieg.",
+      "Im Gegensatz dazu: 'Direktverbindung' = ohne Umstieg."
+    ],
+    "relatedWords": [
+      "umsteigen",
+      "die Verbindung",
+      "die Direktverbindung",
+      "der Anschluss"
+    ],
+    "tags": [
+      "train",
+      "connection",
+      "planning"
+    ]
+  },
+  {
+    "id": "v-travel-005",
+    "word": "die Verspätung",
+    "baseForm": "Verspätung",
+    "gender": "die",
+    "plural": "Verspätungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "delay",
+    "meaningDe": "wenn etwas später kommt oder passiert als geplant",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Der Zug hat 20 Minuten Verspätung.",
+        "en": "The train is 20 minutes late.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wegen der Verspätung habe ich meinen Anschluss verpasst.",
+        "en": "Because of the delay I missed my connection.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir bitten die Verspätung zu entschuldigen.",
+        "en": "We apologize for the delay.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'Der Zug hat Verspätung', nicht 'Der Zug ist Verspätung'.",
+      "Achtung: 'Verspätung' (Nomen) vs. 'sich verspäten' (Verb) - verschiedene Formen."
+    ],
+    "usageNotes": [
+      "In Deutschland sind Zugverspätungen ein beliebtes Gesprächsthema und Anlass für Witze über die Deutsche Bahn.",
+      "Ab 60 Minuten Verspätung kann man bei der Deutschen Bahn eine Entschädigung beantragen."
+    ],
+    "relatedWords": [
+      "sich verspaeten",
+      "der Anschluss",
+      "die Durchsage",
+      "die Entschaedigung"
+    ],
+    "tags": [
+      "train",
+      "delay",
+      "common-problem"
+    ]
+  },
+  {
+    "id": "v-travel-006",
+    "word": "die Unterkunft",
+    "baseForm": "Unterkunft",
+    "gender": "die",
+    "plural": "Unterkünfte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "accommodation, lodging",
+    "meaningDe": "ein Ort, an dem man übernachten kann (Hotel, Ferienwohnung usw.)",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen noch eine Unterkunft für den Urlaub buchen.",
+        "en": "We still need to book accommodation for the vacation.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Unterkunft liegt direkt am Strand.",
+        "en": "The accommodation is right on the beach.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Welche Art von Unterkunft bevorzugen Sie?",
+        "en": "What kind of accommodation do you prefer?",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Plural ist 'Unterkünfte' (mit Umlaut), nicht 'Unterkünften' im Nominativ.",
+      "Nicht verwechseln mit 'Auskunft' (information) - die Wörter klingen ähnlich."
+    ],
+    "usageNotes": [
+      "'Unterkunft' ist ein Oberbegriff für Hotel, Pension, Ferienwohnung, Jugendherberge usw.",
+      "Auf Buchungsportalen sieht man oft 'Unterkünfte suchen' als Suchfunktion."
+    ],
+    "relatedWords": [
+      "das Hotel",
+      "die Pension",
+      "die Ferienwohnung",
+      "die Jugendherberge",
+      "uebernachten"
+    ],
+    "tags": [
+      "hotel",
+      "booking",
+      "accommodation"
+    ]
+  },
+  {
+    "id": "v-travel-007",
+    "word": "der Reisepass",
+    "baseForm": "Reisepass",
+    "gender": "der",
+    "plural": "Reisepässe",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "passport",
+    "meaningDe": "ein offizielles Dokument, das man braucht, um in andere Länder zu reisen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Vergiss nicht, deinen Reisepass mitzunehmen!",
+        "en": "Don't forget to take your passport!",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Ihr Reisepass ist leider abgelaufen.",
+        "en": "Your passport has unfortunately expired.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Am Flughafen muss man den Reisepass vorzeigen.",
+        "en": "At the airport you have to show your passport.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Innerhalb der EU reicht oft der Personalausweis - man braucht nicht immer den Reisepass.",
+      "Der Plural ist 'Reisepässe' (mit Umlaut), nicht 'Reisepasse'."
+    ],
+    "usageNotes": [
+      "'Reisepass' ist das offizielle Wort; umgangssprachlich sagt man oft einfach 'Pass'.",
+      "Für EU-Reisen benutzen Deutsche meistens den 'Personalausweis' (ID card)."
+    ],
+    "relatedWords": [
+      "der Personalausweis",
+      "das Visum",
+      "die Passkontrolle",
+      "der Zoll",
+      "v-bureaucracy-020"
+    ],
+    "tags": [
+      "documents",
+      "airport",
+      "border"
+    ]
+  },
+  {
+    "id": "v-travel-008",
+    "word": "der Abflug",
+    "baseForm": "Abflug",
+    "gender": "der",
+    "plural": "Abflüge",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "departure (by plane)",
+    "meaningDe": "der Start eines Flugzeugs; der Zeitpunkt, an dem ein Flugzeug abfliegt",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Der Abflug ist um 14:30 Uhr.",
+        "en": "The departure is at 2:30 PM.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte seien Sie zwei Stunden vor Abflug am Flughafen.",
+        "en": "Please be at the airport two hours before departure.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Unser Abflug hat sich um drei Stunden verzögert.",
+        "en": "Our departure was delayed by three hours.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Abflug' ist nur für Flugzeuge. Für Züge sagt man 'Abfahrt'.",
+      "Man sagt 'vor dem Abflug', nicht 'vor dem Abfliegen' (im formellen Kontext)."
+    ],
+    "usageNotes": [
+      "Am Flughafen sieht man Schilder mit 'Abflug' (Departures) und 'Ankunft' (Arrivals).",
+      "'Abflugterminal', 'Abflugzeit', 'Abflughalle' sind gängige Komposita."
+    ],
+    "relatedWords": [
+      "die Ankunft",
+      "abfliegen",
+      "die Abfahrt",
+      "die Abflughalle"
+    ],
+    "tags": [
+      "airport",
+      "flight",
+      "departure"
+    ]
+  },
+  {
+    "id": "v-travel-009",
+    "word": "die Ankunft",
+    "baseForm": "Ankunft",
+    "gender": "die",
+    "plural": "Ankünfte",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "arrival",
+    "meaningDe": "das Eintreffen an einem Zielort",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Die Ankunft in Berlin ist für 18 Uhr geplant.",
+        "en": "The arrival in Berlin is planned for 6 PM.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Nach der Ankunft im Hotel können Sie einchecken.",
+        "en": "After arrival at the hotel, you can check in.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Ankunft hat sich wegen des Wetters verzöogert.",
+        "en": "The arrival was delayed because of the weather.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Ankunft' kann für alle Verkehrsmittel benutzt werden, nicht nur für Flüge.",
+      "Plural 'Ankünfte' wird selten benutzt - man sagt eher 'Ankunftszeiten'."
+    ],
+    "usageNotes": [
+      "An Bahnhöfen und Flughäfen gibt es Anzeigetafeln für 'Ankunft' und 'Abfahrt/Abflug'.",
+      "'Ankunftszeit' und 'Ankunftshalle' sind häufige Zusammensetzungen."
+    ],
+    "relatedWords": [
+      "ankommen",
+      "der Abflug",
+      "die Abfahrt",
+      "die Ankunftszeit"
+    ],
+    "tags": [
+      "arrival",
+      "airport",
+      "train"
+    ]
+  },
+  {
+    "id": "v-travel-010",
+    "word": "das Gepäck",
+    "baseForm": "Gepäck",
+    "gender": "das",
+    "plural": null,
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "luggage, baggage",
+    "meaningDe": "die Taschen und Koffer, die man auf einer Reise mitnimmt",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wo kann ich mein Gepäck aufgeben?",
+        "en": "Where can I check in my luggage?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Mein Gepäck ist leider verloren gegangen.",
+        "en": "My luggage has unfortunately been lost.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Du darfst nur ein Handgepäckstück mitnehmen.",
+        "en": "You may only take one piece of hand luggage.",
+        "situation": "travel",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Gepäck' hat keinen Plural - man sagt 'Gepäckstücke' für mehrere Koffer/Taschen.",
+      "Nicht verwechseln: 'Gepäck aufgeben' (check in luggage) vs. 'Gepäck abholen' (pick up luggage)."
+    ],
+    "usageNotes": [
+      "'Handgepäck' = carry-on luggage, 'Aufgabegepäck' = checked luggage.",
+      "Am Flughafen: 'Gepäckausgabe' (baggage claim), 'Gepäckband' (baggage carousel)."
+    ],
+    "relatedWords": [
+      "der Koffer",
+      "die Tasche",
+      "das Handgepaeck",
+      "die Gepaeckausgabe"
+    ],
+    "tags": [
+      "airport",
+      "packing",
+      "luggage"
+    ]
+  },
+  {
+    "id": "v-travel-011",
+    "word": "die Auskunft",
+    "baseForm": "Auskunft",
+    "gender": "die",
+    "plural": "Auskünfte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "information (desk/service)",
+    "meaningDe": "eine Information, die man bekommt; auch: die Informationsstelle",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir eine Auskunft geben?",
+        "en": "Can you give me some information?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Auskunft am Bahnhof ist immer sehr hilfreich.",
+        "en": "The information desk at the train station is always very helpful.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Für nähere Auskünfte wenden Sie sich bitte an den Schalter.",
+        "en": "For further information, please contact the counter.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Auskunft' kann sowohl die Information selbst als auch die Informationsstelle bedeuten - Kontext beachten.",
+      "Plural: 'Auskünfte' (mit Umlaut). 'Informationen' ist oft einfacher."
+    ],
+    "usageNotes": [
+      "'Fahrplanauskunft' ist die Fahrplaninformation bei der Deutschen Bahn.",
+      "Man sagt 'eine Auskunft geben/erteilen' oder 'eine Auskunft einholen'."
+    ],
+    "relatedWords": [
+      "die Information",
+      "der Schalter",
+      "die Fahrplanauskunft",
+      "sich erkundigen",
+      "v-phone-008"
+    ],
+    "tags": [
+      "information",
+      "station",
+      "service"
+    ]
+  },
+  {
+    "id": "v-travel-012",
+    "word": "die Abfahrt",
+    "baseForm": "Abfahrt",
+    "gender": "die",
+    "plural": "Abfahrten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "departure (by train, bus, car)",
+    "meaningDe": "der Zeitpunkt oder die Handlung, wenn ein Zug, Bus oder Auto losfährt",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Die Abfahrt des Zuges ist um 9:15 Uhr.",
+        "en": "The departure of the train is at 9:15 AM.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Abfahrt und Ankunft stehen auf der Anzeigetafel.",
+        "en": "Departure and arrival are shown on the display board.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Kurz vor der Abfahrt hat sich das Gleis geändert.",
+        "en": "Shortly before departure, the platform changed.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Abfahrt' ist für Züge, Busse und Autos. Für Flugzeuge benutzt man 'Abflug'.",
+      "Man sagt 'die Abfahrt ist um...' oder 'Abfahrt: 9:15' - nicht 'die Abfahrt fährt um...'."
+    ],
+    "usageNotes": [
+      "Am Bahnhof gibt es gelbe Tafeln für 'Abfahrt' und weisse für 'Ankunft'.",
+      "'Abfahrtszeit' = departure time, 'Abfahrtsplan' = departure schedule."
+    ],
+    "relatedWords": [
+      "abfahren",
+      "die Ankunft",
+      "der Abflug",
+      "die Abfahrtszeit"
+    ],
+    "tags": [
+      "train",
+      "bus",
+      "departure"
+    ]
+  },
+  {
+    "id": "v-travel-013",
+    "word": "der Anschluss",
+    "baseForm": "Anschluss",
+    "gender": "der",
+    "plural": "Anschlüsse",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "connection (transport)",
+    "meaningDe": "ein weiterer Zug oder Bus, in den man umsteigen kann",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe meinen Anschluss in Hamburg verpasst.",
+        "en": "I missed my connection in Hamburg.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Anschluss nach München wartet auf Gleis 8.",
+        "en": "The connection to Munich is waiting on platform 8.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bei Verspätung können Sie den Anschluss nicht mehr erreichen.",
+        "en": "In case of delay, you can no longer make the connection.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Anschluss' hat viele Bedeutungen (connection, plug, etc.) - im Reisekontext meint es die Weiterfahrt.",
+      "Man sagt 'den Anschluss erreichen/verpassen', nicht 'den Anschluss nehmen'."
+    ],
+    "usageNotes": [
+      "In Durchsagen hört man: 'Anschluss an den ICE nach...' oder 'Ihr Anschluss wartet auf Gleis...'.",
+      "'Anschlusszug' = connecting train."
+    ],
+    "relatedWords": [
+      "umsteigen",
+      "der Umstieg",
+      "die Verbindung",
+      "der Anschlusszug",
+      "v-phone-011"
+    ],
+    "tags": [
+      "train",
+      "connection",
+      "transfer"
+    ]
+  },
+  {
+    "id": "v-travel-014",
+    "word": "die Buchung",
+    "baseForm": "Buchung",
+    "gender": "die",
+    "plural": "Buchungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "booking, reservation",
+    "meaningDe": "eine Reservierung für ein Hotel, einen Flug, eine Reise usw.",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte meine Buchung stornieren.",
+        "en": "I would like to cancel my booking.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Buchung wurde per E-Mail bestätigt.",
+        "en": "The booking was confirmed by email.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Online-Buchungen sind oft günstiger.",
+        "en": "Online bookings are often cheaper.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Buchung' und 'Reservierung' sind ähnlich, aber 'Buchung' impliziert oft eine Bezahlung.",
+      "Das Verb ist 'buchen', nicht 'buchieren' (das existiert nicht)."
+    ],
+    "usageNotes": [
+      "'Buchungsbestätigung' = booking confirmation - dieses Wort braucht man oft beim Einchecken.",
+      "Man kann eine Buchung 'vornehmen', 'ändern' oder 'stornieren'."
+    ],
+    "relatedWords": [
+      "buchen",
+      "die Reservierung",
+      "stornieren",
+      "die Buchungsbestaetigung"
+    ],
+    "tags": [
+      "booking",
+      "hotel",
+      "planning"
+    ]
+  },
+  {
+    "id": "v-travel-015",
+    "word": "der Flughafen",
+    "baseForm": "Flughafen",
+    "gender": "der",
+    "plural": "Flughäfen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "airport",
+    "meaningDe": "ein grosser Platz, von dem Flugzeuge starten und landen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wie komme ich am besten zum Flughafen?",
+        "en": "What is the best way to get to the airport?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Am Flughafen müssen wir durch die Sicherheitskontrolle.",
+        "en": "At the airport we have to go through security.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Flughafen Frankfurt ist einer der grössten in Europa.",
+        "en": "Frankfurt Airport is one of the largest in Europe.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Plural: 'Flughäfen' (mit Umlaut), nicht 'Flughafens'.",
+      "Man sagt 'zum Flughafen fahren' oder 'am Flughafen sein', nicht 'in den Flughafen gehen'."
+    ],
+    "usageNotes": [
+      "Deutsche Grossstädte haben oft einen Flughafencode: FRA (Frankfurt), MUC (München), BER (Berlin).",
+      "'Airport' wird im Deutschen auch umgangssprachlich verstanden und benutzt."
+    ],
+    "relatedWords": [
+      "das Flugzeug",
+      "der Abflug",
+      "die Ankunft",
+      "das Terminal"
+    ],
+    "tags": [
+      "airport",
+      "flight"
+    ]
+  },
+  {
+    "id": "v-travel-016",
+    "word": "der Fahrplan",
+    "baseForm": "Fahrplan",
+    "gender": "der",
+    "plural": "Fahrpläne",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "timetable, schedule",
+    "meaningDe": "eine Übersicht über die Abfahrts- und Ankunftszeiten von Zügen, Bussen usw.",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Laut Fahrplan fährt der nächste Zug um 10:30 Uhr.",
+        "en": "According to the timetable, the next train leaves at 10:30 AM.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Den Fahrplan findest du auf der Webseite der Deutschen Bahn.",
+        "en": "You can find the timetable on the Deutsche Bahn website.",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Es gibt einen neün Fahrplan ab Dezember.",
+        "en": "There is a new timetable starting in December.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Plural: 'Fahrpläne' (mit Umlaut). Nicht 'Fahrplans'.",
+      "'Laut Fahrplan' (according to the timetable) ist eine nützliche Wendung."
+    ],
+    "usageNotes": [
+      "Die Deutsche Bahn ändert den Fahrplan jedes Jahr im Dezember.",
+      "Online-Fahrplan: 'bahn.de' oder die DB Navigator App."
+    ],
+    "relatedWords": [
+      "die Abfahrt",
+      "die Ankunft",
+      "die Verbindung",
+      "der Fahrplanwechsel"
+    ],
+    "tags": [
+      "train",
+      "bus",
+      "planning",
+      "timetable"
+    ]
+  },
+  {
+    "id": "v-travel-017",
+    "word": "die Reservierung",
+    "baseForm": "Reservierung",
+    "gender": "die",
+    "plural": "Reservierungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "reservation",
+    "meaningDe": "eine Vormerkung, z.B. für einen Sitzplatz, ein Hotelzimmer oder einen Tisch im Restaurant",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie eine Reservierung?",
+        "en": "Do you have a reservation?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Reservierung ist auf den Namen Müller.",
+        "en": "The reservation is under the name Mueller.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich möchte eine Reservierung für zwei Nächte machen.",
+        "en": "I would like to make a reservation for two nights.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Man sagt 'eine Reservierung machen/vornehmen', nicht 'eine Reservierung tun'.",
+      "'Reservierung' vs. 'Buchung': Reservierung = vormerken (oft kostenlos), Buchung = fest buchen (oft mit Bezahlung)."
+    ],
+    "usageNotes": [
+      "Im ICE kann man eine Sitzplatzreservierung extra kaufen.",
+      "'Ich habe auf den Namen... reserviert' ist eine gängige Formulierung beim Einchecken."
+    ],
+    "relatedWords": [
+      "reservieren",
+      "die Buchung",
+      "buchen",
+      "stornieren"
+    ],
+    "tags": [
+      "hotel",
+      "restaurant",
+      "booking"
+    ]
+  },
+  {
+    "id": "v-travel-018",
+    "word": "das Einzelzimmer",
+    "baseForm": "Einzelzimmer",
+    "gender": "das",
+    "plural": "Einzelzimmer",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "single room",
+    "meaningDe": "ein Hotelzimmer für eine Person",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich hätte gern ein Einzelzimmer für drei Nächte.",
+        "en": "I would like a single room for three nights.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Einzelzimmer kostet 80 Euro pro Nacht.",
+        "en": "The single room costs 80 euros per night.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Der Plural ist gleich: 'die Einzelzimmer' (nicht 'Einzelzimmers').",
+      "Nicht vergessen: 'Einzelzimmer' (single room) vs. 'Doppelzimmer' (double room)."
+    ],
+    "usageNotes": [
+      "'EZ' ist die gängige Abkürzung in Hotels und auf Buchungsportalen.",
+      "Ein 'Einzelzimmerzuschlag' ist ein Aufpreis, den Alleinreisende zahlen müssen."
+    ],
+    "relatedWords": [
+      "das Doppelzimmer",
+      "das Hotelzimmer",
+      "die Uebernachtung",
+      "das Fruehstueck"
+    ],
+    "tags": [
+      "hotel",
+      "room",
+      "accommodation"
+    ]
+  },
+  {
+    "id": "v-travel-019",
+    "word": "das Doppelzimmer",
+    "baseForm": "Doppelzimmer",
+    "gender": "das",
+    "plural": "Doppelzimmer",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "double room",
+    "meaningDe": "ein Hotelzimmer für zwei Personen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Haben Sie noch ein Doppelzimmer frei?",
+        "en": "Do you still have a double room available?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Doppelzimmer hat ein grosses Bett und einen Balkon.",
+        "en": "The double room has a large bed and a balcony.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir möchten ein Doppelzimmer mit Frühstück buchen.",
+        "en": "We would like to book a double room with breakfast.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Doppelzimmer' kann ein grosses Bett oder zwei getrennte Betten haben - man sollte nachfragen.",
+      "Abkürzung: 'DZ'. Wenn man getrennte Betten will, sagt man 'Zweibettzimmer' oder 'Twin Room'."
+    ],
+    "usageNotes": [
+      "'Mit Frühstück' oder 'ohne Frühstück' - das sollte man bei der Buchung klären.",
+      "'Halbpension' (half board) und 'Vollpension' (full board) sind weitere Optionen."
+    ],
+    "relatedWords": [
+      "das Einzelzimmer",
+      "das Zweibettzimmer",
+      "die Halbpension",
+      "die Vollpension"
+    ],
+    "tags": [
+      "hotel",
+      "room",
+      "accommodation"
+    ]
+  },
+  {
+    "id": "v-travel-020",
+    "word": "der Koffer",
+    "baseForm": "Koffer",
+    "gender": "der",
+    "plural": "Koffer",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "suitcase",
+    "meaningDe": "ein grosses, festes Behältnis mit Griff, in dem man Kleidung und andere Dinge transportiert",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch meinen Koffer packen.",
+        "en": "I still have to pack my suitcase.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Koffer ist zu schwer für das Handgepäck.",
+        "en": "The suitcase is too heavy for carry-on luggage.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Koffer ist nicht auf dem Gepäckband angekommen.",
+        "en": "My suitcase didn't arrive on the baggage carousel.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Plural bleibt 'Koffer' (gleiche Form wie Singular).",
+      "Man sagt 'den Koffer packen' (pack), nicht 'den Koffer machen'."
+    ],
+    "usageNotes": [
+      "'Koffer packen' ist auch eine Redewendung: 'Ich packe meinen Koffer' = bekanntes Spiel.",
+      "'Rollkoffer' = suitcase with wheels, 'Handkoffer' = small suitcase."
+    ],
+    "relatedWords": [
+      "das Gepaeck",
+      "packen",
+      "die Tasche",
+      "der Rucksack"
+    ],
+    "tags": [
+      "luggage",
+      "packing"
+    ]
+  },
+  {
+    "id": "v-travel-021",
+    "word": "die Verbindung",
+    "baseForm": "Verbindung",
+    "gender": "die",
+    "plural": "Verbindungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "connection (transport route/link)",
+    "meaningDe": "eine Möglichkeit, von einem Ort zum anderen zu fahren (Zug, Bus usw.)",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Gibt es eine direkte Verbindung nach Hamburg?",
+        "en": "Is there a direct connection to Hamburg?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die beste Verbindung fährt um 8 Uhr ab.",
+        "en": "The best connection departs at 8 o'clock.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich suche eine Verbindung von Köln nach Berlin.",
+        "en": "I'm looking for a connection from Cologne to Berlin.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Verbindung' hat viele Bedeutungen (connection, compound, link). Im Reisekontext = Transportverbindung.",
+      "Man 'sucht' oder 'findet' eine Verbindung, man 'nimmt' sie nicht (man nimmt den Zug)."
+    ],
+    "usageNotes": [
+      "Auf bahn.de sucht man 'Verbindungen' zwischen zwei Orten.",
+      "'Verbindungssuche' = die Funktion, um Reiserouten zu finden."
+    ],
+    "relatedWords": [
+      "die Direktverbindung",
+      "der Umstieg",
+      "der Fahrplan",
+      "die Reiseroute",
+      "v-phone-006"
+    ],
+    "tags": [
+      "train",
+      "planning",
+      "route"
+    ]
+  },
+  {
+    "id": "v-travel-022",
+    "word": "der Schalter",
+    "baseForm": "Schalter",
+    "gender": "der",
+    "plural": "Schalter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "counter, ticket window",
+    "meaningDe": "ein Ort am Bahnhof, Flughafen usw., wo man Fahrkarten kaufen oder Informationen bekommen kann",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Fahrkarten bekommen Sie am Schalter oder am Automaten.",
+        "en": "You can get tickets at the counter or at the machine.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Am Schalter war eine lange Schlange.",
+        "en": "There was a long queue at the counter.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Schalter' kann auch 'switch' (Lichtschalter) bedeuten - nicht verwechseln.",
+      "Am Schalter spricht man formell: 'Ich hätte gern...' oder 'Ich möchte bitte...'."
+    ],
+    "usageNotes": [
+      "Viele Schalter an Bahnhöfen werden durch Automaten und Online-Buchungen ersetzt.",
+      "'Fahrkartenschalter' = ticket counter, 'Informationsschalter' = information desk."
+    ],
+    "relatedWords": [
+      "der Automat",
+      "die Fahrkarte",
+      "die Auskunft",
+      "die Schlange"
+    ],
+    "tags": [
+      "station",
+      "service",
+      "ticket"
+    ]
+  },
+  {
+    "id": "v-travel-023",
+    "word": "die Haltestelle",
+    "baseForm": "Haltestelle",
+    "gender": "die",
+    "plural": "Haltestellen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "stop (bus/tram stop)",
+    "meaningDe": "der Ort, an dem ein Bus oder eine Strassenbahn hält, damit Leute ein- oder aussteigen können",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die nächste Haltestelle ist am Marktplatz.",
+        "en": "The next stop is at the market square.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "An welcher Haltestelle muss ich aussteigen?",
+        "en": "At which stop do I have to get off?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Bushaltestelle ist direkt vor dem Hotel.",
+        "en": "The bus stop is right in front of the hotel.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Haltestelle' ist für Bus und Strassenbahn. Für Züge sagt man 'Bahnhof' oder 'Haltepunkt'.",
+      "Man sagt 'an der Haltestelle' (nicht 'auf der Haltestelle')."
+    ],
+    "usageNotes": [
+      "'Bushaltestelle', 'Strassenbahnhaltestelle' - man kann das Verkehrsmittel davor setzen.",
+      "In der U-Bahn sagt man eher 'Station' als 'Haltestelle'."
+    ],
+    "relatedWords": [
+      "der Bahnhof",
+      "die Station",
+      "aussteigen",
+      "einsteigen"
+    ],
+    "tags": [
+      "bus",
+      "tram",
+      "local-transport"
+    ]
+  },
+  {
+    "id": "v-travel-024",
+    "word": "der Zuschlag",
+    "baseForm": "Zuschlag",
+    "gender": "der",
+    "plural": "Zuschläge",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "surcharge, supplement",
+    "meaningDe": "ein zusätzlicher Betrag, den man für etwas bezahlen muss",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Für den ICE müssen Sie einen Zuschlag bezahlen.",
+        "en": "For the ICE you have to pay a surcharge.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Zuschlag für die erste Klasse beträgt 15 Euro.",
+        "en": "The surcharge for first class is 15 euros.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Zuschlag' ist nicht 'Zuschläge' im Singular. Der Plural ist 'Zuschläge'.",
+      "Nicht verwechseln mit 'Zuschlag bekommen' (to be awarded a contract) in anderen Kontexten."
+    ],
+    "usageNotes": [
+      "ICE-Zuschlag, Nachtzuschlag, Einzelzimmerzuschlag - es gibt viele Arten von Zuschlägen.",
+      "'Zuschlagspflichtig' = surcharge required (z.B. bestimmte Züge)."
+    ],
+    "relatedWords": [
+      "der Aufpreis",
+      "die Gebuehr",
+      "zuschlagspflichtig",
+      "die erste Klasse"
+    ],
+    "tags": [
+      "ticket",
+      "price",
+      "train"
+    ]
+  },
+  {
+    "id": "v-travel-025",
+    "word": "die Durchsage",
+    "baseForm": "Durchsage",
+    "gender": "die",
+    "plural": "Durchsagen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "announcement (over loudspeaker)",
+    "meaningDe": "eine Information, die über Lautsprecher an einem Bahnhof oder im Zug gegeben wird",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Laut Durchsage hat der Zug 15 Minuten Verspätung.",
+        "en": "According to the announcement, the train is 15 minutes late.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Hast du die Durchsage verstanden? Ich habe nichts gehört.",
+        "en": "Did you understand the announcement? I didn't hear anything.",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Bitte achten Sie auf die Durchsagen am Bahnsteig.",
+        "en": "Please pay attention to the announcements on the platform.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Durchsage' ist speziell für Lautsprecher-Ansagen. Für allgemeine Ankündigungen sagt man 'Ankündigung'.",
+      "Man sagt 'eine Durchsage machen', nicht 'eine Durchsage geben'."
+    ],
+    "usageNotes": [
+      "Durchsagen an deutschen Bahnhöfen sind oft schwer zu verstehen - ein häufiges Problem für alle, nicht nur Lernende.",
+      "Typische Durchsage: 'Achtung an Gleis 3, der Zug fährt jetzt ab.'"
+    ],
+    "relatedWords": [
+      "die Ansage",
+      "die Ankuendigung",
+      "der Lautsprecher",
+      "die Verspaetung"
+    ],
+    "tags": [
+      "station",
+      "announcement",
+      "listening"
+    ]
+  },
+  {
+    "id": "v-travel-026",
+    "word": "umsteigen",
+    "baseForm": "umsteigen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to change (trains/buses), to transfer",
+    "meaningDe": "von einem Verkehrsmittel in ein anderes wechseln",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "In Mannheim müssen Sie in den ICE umsteigen.",
+        "en": "In Mannheim you have to change to the ICE.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Muss ich umsteigen oder fährt der Zug direkt?",
+        "en": "Do I have to change or does the train go directly?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir sind in Frankfurt umgestiegen.",
+        "en": "We changed trains in Frankfurt.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "steige um",
+        "du": "steigst um",
+        "er_sie_es": "steigt um",
+        "wir": "steigen um",
+        "ihr": "steigt um",
+        "sie_Sie": "steigen um"
+      },
+      "past": {
+        "ich": "stieg um",
+        "du": "stiegst um",
+        "er_sie_es": "stieg um",
+        "wir": "stiegen um",
+        "ihr": "stiegt um",
+        "sie_Sie": "stiegen um"
+      },
+      "pastParticiple": "umgestiegen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "'umsteigen' ist trennbar: 'Ich steige in Köln um.' Nicht: 'Ich umsteige in Köln.'",
+      "Perfekt mit 'sein': 'Ich bin umgestiegen.' Nicht: 'Ich habe umgestiegen.'"
+    ],
+    "usageNotes": [
+      "Man steigt 'in' etwas um: 'in den Bus umsteigen', 'in die S-Bahn umsteigen'.",
+      "Typische Frage: 'Wo muss ich umsteigen?'"
+    ],
+    "relatedWords": [
+      "der Umstieg",
+      "einsteigen",
+      "aussteigen",
+      "die Verbindung"
+    ],
+    "tags": [
+      "train",
+      "bus",
+      "transfer"
+    ]
+  },
+  {
+    "id": "v-travel-027",
+    "word": "buchen",
+    "baseForm": "buchen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to book, to reserve",
+    "meaningDe": "eine Reise, ein Hotel, einen Flug usw. im Voraus bestellen und bezahlen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe den Flug online gebucht.",
+        "en": "I booked the flight online.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Sollen wir das Hotel jetzt buchen?",
+        "en": "Should we book the hotel now?",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Die Reise kann telefonisch oder online gebucht werden.",
+        "en": "The trip can be booked by phone or online.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "buche",
+        "du": "buchst",
+        "er_sie_es": "bucht",
+        "wir": "buchen",
+        "ihr": "bucht",
+        "sie_Sie": "buchen"
+      },
+      "past": {
+        "ich": "buchte",
+        "du": "buchtest",
+        "er_sie_es": "buchte",
+        "wir": "buchten",
+        "ihr": "buchtet",
+        "sie_Sie": "buchten"
+      },
+      "pastParticiple": "gebucht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'buchen' ist regelmässig. Nicht 'gebacht' oder 'gebuchen', sondern 'gebucht'.",
+      "Man bucht etwas (Akkusativ), nicht 'für etwas buchen'."
+    ],
+    "usageNotes": [
+      "Online buchen ist in Deutschland sehr verbreitet: bahn.de, booking.com usw.",
+      "'Frühbucher' = early booker - viele Anbieter geben Frühbucher-Rabatte."
+    ],
+    "relatedWords": [
+      "die Buchung",
+      "reservieren",
+      "stornieren",
+      "der Fruehbucher"
+    ],
+    "tags": [
+      "booking",
+      "planning",
+      "online"
+    ]
+  },
+  {
+    "id": "v-travel-028",
+    "word": "abfahren",
+    "baseForm": "abfahren",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to depart, to leave (by vehicle)",
+    "meaningDe": "einen Ort mit einem Fahrzeug verlassen; losfahren",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Der Zug fährt um 9 Uhr ab.",
+        "en": "The train departs at 9 o'clock.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wann fährt der nächste Bus ab?",
+        "en": "When does the next bus depart?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir sind gestern um 6 Uhr abgefahren.",
+        "en": "We departed yesterday at 6 o'clock.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "fahre ab",
+        "du": "fährst ab",
+        "er_sie_es": "fährt ab",
+        "wir": "fahren ab",
+        "ihr": "fahrt ab",
+        "sie_Sie": "fahren ab"
+      },
+      "past": {
+        "ich": "fuhr ab",
+        "du": "fuhrst ab",
+        "er_sie_es": "fuhr ab",
+        "wir": "fuhren ab",
+        "ihr": "fuhrt ab",
+        "sie_Sie": "fuhren ab"
+      },
+      "pastParticiple": "abgefahren",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Der Zug fährt ab.' Nicht: 'Der Zug abfährt.'",
+      "Perfekt mit 'sein': 'Der Zug ist abgefahren.' Nicht: 'Der Zug hat abgefahren.'"
+    ],
+    "usageNotes": [
+      "'Der Zug ist abgefahren' kann auch bildlich bedeuten: 'Die Chance ist vorbei.'",
+      "Vokalwechsel im Präsens: ich fahre, du fährst, er/sie fährt."
+    ],
+    "relatedWords": [
+      "die Abfahrt",
+      "losfahren",
+      "ankommen",
+      "die Abfahrtszeit"
+    ],
+    "tags": [
+      "train",
+      "bus",
+      "departure"
+    ]
+  },
+  {
+    "id": "v-travel-029",
+    "word": "ankommen",
+    "baseForm": "ankommen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to arrive",
+    "meaningDe": "an einem Zielort eintreffen",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Wann kommen wir in Berlin an?",
+        "en": "When do we arrive in Berlin?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Zug ist pünktlich angekommen.",
+        "en": "The train arrived on time.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir sind gestern Abend im Hotel angekommen.",
+        "en": "We arrived at the hotel yesterday evening.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "komme an",
+        "du": "kommst an",
+        "er_sie_es": "kommt an",
+        "wir": "kommen an",
+        "ihr": "kommt an",
+        "sie_Sie": "kommen an"
+      },
+      "past": {
+        "ich": "kam an",
+        "du": "kamst an",
+        "er_sie_es": "kam an",
+        "wir": "kamen an",
+        "ihr": "kamt an",
+        "sie_Sie": "kamen an"
+      },
+      "pastParticiple": "angekommen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Wir kommen um 5 Uhr an.' Nicht: 'Wir ankommen um 5 Uhr.'",
+      "Perfekt mit 'sein': 'Ich bin angekommen.' Nicht: 'Ich habe angekommen.'"
+    ],
+    "usageNotes": [
+      "Man kommt 'in' einer Stadt an: 'in München ankommen', aber 'am Bahnhof ankommen'.",
+      "'Es kommt darauf an' = 'it depends' - eine andere Bedeutung von 'ankommen'."
+    ],
+    "relatedWords": [
+      "die Ankunft",
+      "abfahren",
+      "eintreffen",
+      "die Ankunftszeit"
+    ],
+    "tags": [
+      "arrival",
+      "train",
+      "general"
+    ]
+  },
+  {
+    "id": "v-travel-030",
+    "word": "sich verspäten",
+    "baseForm": "sich verspäten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to be delayed, to run late",
+    "meaningDe": "später kommen als geplant",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Der Zug hat sich um 30 Minuten verspätet.",
+        "en": "The train was delayed by 30 minutes.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Tut mir leid, ich verspäte mich etwas.",
+        "en": "I'm sorry, I'm running a bit late.",
+        "situation": "daily-life",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Flug hat sich wegen Nebel verspätet.",
+        "en": "The flight was delayed because of fog.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verspäte mich",
+        "du": "verspätst dich",
+        "er_sie_es": "verspätet sich",
+        "wir": "verspäten uns",
+        "ihr": "verspätet euch",
+        "sie_Sie": "verspäten sich"
+      },
+      "past": {
+        "ich": "verspätete mich",
+        "du": "verspätest dich",
+        "er_sie_es": "verspätete sich",
+        "wir": "verspäteten uns",
+        "ihr": "verspätetet euch",
+        "sie_Sie": "verspäteten sich"
+      },
+      "pastParticiple": "verspätet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'sich verspäten' ist reflexiv - das Reflexivpronomen nicht vergessen: 'Ich verspäte mich.'",
+      "Nicht trennbar: 'Der Zug verspätet sich', nicht 'Der Zug spätet sich ver'."
+    ],
+    "usageNotes": [
+      "'Verspätet' wird auch als Adjektiv benutzt: 'der verspätete Zug'.",
+      "Im Alltag sagen Deutsche oft einfach 'Der Zug hat Verspätung' statt 'Der Zug verspätet sich'."
+    ],
+    "relatedWords": [
+      "die Verspaetung",
+      "verspaetet",
+      "puenktlich",
+      "zu spaet"
+    ],
+    "tags": [
+      "delay",
+      "punctuality"
+    ]
+  },
+  {
+    "id": "v-travel-031",
+    "word": "einchecken",
+    "baseForm": "einchecken",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to check in",
+    "meaningDe": "sich an der Rezeption eines Hotels oder am Flughafen anmelden",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wir möchten gerne einchecken.",
+        "en": "We would like to check in.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Man kann online einchecken und die Bordkarte ausdrucken.",
+        "en": "You can check in online and print the boarding pass.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ab 15 Uhr können Sie einchecken.",
+        "en": "You can check in from 3 PM.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "checke ein",
+        "du": "checkst ein",
+        "er_sie_es": "checkt ein",
+        "wir": "checken ein",
+        "ihr": "checkt ein",
+        "sie_Sie": "checken ein"
+      },
+      "past": {
+        "ich": "checkte ein",
+        "du": "checktest ein",
+        "er_sie_es": "checkte ein",
+        "wir": "checkten ein",
+        "ihr": "checktet ein",
+        "sie_Sie": "checkten ein"
+      },
+      "pastParticiple": "eingecheckt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Ich checke ein.' Partizip: 'eingecheckt' (nicht 'eingechecked').",
+      "Obwohl es ein Anglizismus ist, wird es im Deutschen wie ein trennbares Verb behandelt."
+    ],
+    "usageNotes": [
+      "'Einchecken' ist das Gegenteil von 'auschecken'.",
+      "An der Hotelrezeption sagt man: 'Ich möchte einchecken. Ich habe eine Reservierung auf den Namen...'"
+    ],
+    "relatedWords": [
+      "auschecken",
+      "die Rezeption",
+      "die Reservierung",
+      "der Check-in"
+    ],
+    "tags": [
+      "hotel",
+      "airport",
+      "check-in"
+    ]
+  },
+  {
+    "id": "v-travel-032",
+    "word": "auschecken",
+    "baseForm": "auschecken",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to check out",
+    "meaningDe": "ein Hotel verlassen und die Rechnung bezahlen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wir müssen bis 11 Uhr auschecken.",
+        "en": "We have to check out by 11 AM.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Kann ich später auschecken? Mein Flug geht erst um 18 Uhr.",
+        "en": "Can I check out later? My flight isn't until 6 PM.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "checke aus",
+        "du": "checkst aus",
+        "er_sie_es": "checkt aus",
+        "wir": "checken aus",
+        "ihr": "checkt aus",
+        "sie_Sie": "checken aus"
+      },
+      "past": {
+        "ich": "checkte aus",
+        "du": "checktest aus",
+        "er_sie_es": "checkte aus",
+        "wir": "checkten aus",
+        "ihr": "checktet aus",
+        "sie_Sie": "checkten aus"
+      },
+      "pastParticiple": "ausgecheckt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Trennbar wie 'einchecken': 'Ich checke aus.' Partizip: 'ausgecheckt'.",
+      "Man sagt 'bis 11 Uhr auschecken', nicht 'vor 11 Uhr auschecken' (obwohl beides möglich ist)."
+    ],
+    "usageNotes": [
+      "'Check-out' oder 'Abreise' - die Check-out-Zeit steht meist im Hotelzimmer.",
+      "'Late Check-out' kann man oft gegen Aufpreis bekommen."
+    ],
+    "relatedWords": [
+      "einchecken",
+      "die Abreise",
+      "die Rechnung",
+      "die Rezeption"
+    ],
+    "tags": [
+      "hotel",
+      "check-out"
+    ]
+  },
+  {
+    "id": "v-travel-033",
+    "word": "reservieren",
+    "baseForm": "reservieren",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to reserve, to book",
+    "meaningDe": "etwas im Voraus für sich sichern lassen (Platz, Tisch, Zimmer)",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte einen Tisch für zwei Personen reservieren.",
+        "en": "I would like to reserve a table for two people.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Haben Sie einen Sitzplatz reserviert?",
+        "en": "Did you reserve a seat?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Zimmer ist bereits reserviert.",
+        "en": "The room is already reserved.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "reserviere",
+        "du": "reservierst",
+        "er_sie_es": "reserviert",
+        "wir": "reservieren",
+        "ihr": "reserviert",
+        "sie_Sie": "reservieren"
+      },
+      "past": {
+        "ich": "reservierte",
+        "du": "reserviertest",
+        "er_sie_es": "reservierte",
+        "wir": "reservierten",
+        "ihr": "reserviertet",
+        "sie_Sie": "reservierten"
+      },
+      "pastParticiple": "reserviert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'reservieren' ist nicht trennbar (kein Präfix, das sich trennen lässt).",
+      "Man reserviert etwas (Akkusativ): 'einen Platz reservieren', nicht 'für einen Platz reservieren'."
+    ],
+    "usageNotes": [
+      "Im Zug: 'Ist dieser Platz reserviert?' - sehr nützliche Frage.",
+      "Reservierte Plätze im ICE haben ein kleines Display über dem Sitz."
+    ],
+    "relatedWords": [
+      "die Reservierung",
+      "buchen",
+      "vorbestellen",
+      "der Sitzplatz"
+    ],
+    "tags": [
+      "booking",
+      "restaurant",
+      "hotel",
+      "train"
+    ]
+  },
+  {
+    "id": "v-travel-034",
+    "word": "stornieren",
+    "baseForm": "stornieren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to cancel (a booking)",
+    "meaningDe": "eine Buchung oder Bestellung rückgängig machen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte meine Buchung stornieren.",
+        "en": "I would like to cancel my booking.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann man das Ticket kostenlos stornieren?",
+        "en": "Can the ticket be cancelled for free?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Reise wurde leider storniert.",
+        "en": "The trip was unfortunately cancelled.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "storniere",
+        "du": "stornierst",
+        "er_sie_es": "storniert",
+        "wir": "stornieren",
+        "ihr": "storniert",
+        "sie_Sie": "stornieren"
+      },
+      "past": {
+        "ich": "stornierte",
+        "du": "storniertest",
+        "er_sie_es": "stornierte",
+        "wir": "stornierten",
+        "ihr": "storniertet",
+        "sie_Sie": "stornierten"
+      },
+      "pastParticiple": "storniert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'stornieren' ist formeller als 'absagen'. Für Buchungen benutzt man 'stornieren', für Treffen 'absagen'.",
+      "Nicht verwechseln: 'stornieren' (cancel a booking) vs. 'absagen' (cancel an appointment/meeting)."
+    ],
+    "usageNotes": [
+      "'Stornierungsgebühr' = cancellation fee - darauf sollte man achten.",
+      "'Kostenlos stornierbar' ist ein wichtiger Hinweis auf Buchungsportalen."
+    ],
+    "relatedWords": [
+      "die Stornierung",
+      "absagen",
+      "die Buchung",
+      "die Stornierungsgebuehr"
+    ],
+    "tags": [
+      "booking",
+      "cancellation"
+    ]
+  },
+  {
+    "id": "v-travel-035",
+    "word": "einsteigen",
+    "baseForm": "einsteigen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to board, to get in/on (a vehicle)",
+    "meaningDe": "in ein Verkehrsmittel steigen (Zug, Bus, Auto usw.)",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte steigen Sie schnell ein, der Zug fährt gleich ab.",
+        "en": "Please board quickly, the train is about to depart.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir sind in den falschen Zug eingestiegen.",
+        "en": "We got on the wrong train.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Vorsicht beim Einsteigen!",
+        "en": "Be careful when boarding!",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "steige ein",
+        "du": "steigst ein",
+        "er_sie_es": "steigt ein",
+        "wir": "steigen ein",
+        "ihr": "steigt ein",
+        "sie_Sie": "steigen ein"
+      },
+      "past": {
+        "ich": "stieg ein",
+        "du": "stiegst ein",
+        "er_sie_es": "stieg ein",
+        "wir": "stiegen ein",
+        "ihr": "stiegt ein",
+        "sie_Sie": "stiegen ein"
+      },
+      "pastParticiple": "eingestiegen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Perfekt mit 'sein': 'Ich bin eingestiegen.' Nicht: 'Ich habe eingestiegen.'",
+      "Man steigt 'in' etwas ein: 'in den Zug einsteigen', nicht 'auf den Zug einsteigen'."
+    ],
+    "usageNotes": [
+      "In Durchsagen: 'Einsteigen bitte!' oder 'Bitte einsteigen und Türen freimachen!'",
+      "Gegenteil: 'aussteigen'."
+    ],
+    "relatedWords": [
+      "aussteigen",
+      "umsteigen",
+      "zusteigen",
+      "das Einsteigen"
+    ],
+    "tags": [
+      "train",
+      "bus",
+      "boarding"
+    ]
+  },
+  {
+    "id": "v-travel-036",
+    "word": "aussteigen",
+    "baseForm": "aussteigen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to get off, to alight (from a vehicle)",
+    "meaningDe": "ein Verkehrsmittel verlassen",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "An welcher Station muss ich aussteigen?",
+        "en": "At which station do I have to get off?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir müssen an der nächsten Haltestelle aussteigen.",
+        "en": "We have to get off at the next stop.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte alle aussteigen, dieser Zug endet hier.",
+        "en": "Please everybody get off, this train terminates here.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "steige aus",
+        "du": "steigst aus",
+        "er_sie_es": "steigt aus",
+        "wir": "steigen aus",
+        "ihr": "steigt aus",
+        "sie_Sie": "steigen aus"
+      },
+      "past": {
+        "ich": "stieg aus",
+        "du": "stiegst aus",
+        "er_sie_es": "stieg aus",
+        "wir": "stiegen aus",
+        "ihr": "stiegt aus",
+        "sie_Sie": "stiegen aus"
+      },
+      "pastParticiple": "ausgestiegen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Perfekt mit 'sein': 'Ich bin ausgestiegen.'",
+      "Man steigt 'an' einer Station aus: 'an der nächsten Station aussteigen', nicht 'in der nächsten Station'."
+    ],
+    "usageNotes": [
+      "In der U-Bahn hört man: 'Nächster Halt: Hauptbahnhof. Ausstieg rechts.'",
+      "'Ausstieg' (der Ausstieg) = the exit/disembarkation."
+    ],
+    "relatedWords": [
+      "einsteigen",
+      "umsteigen",
+      "der Ausstieg",
+      "die Haltestelle"
+    ],
+    "tags": [
+      "train",
+      "bus",
+      "exit"
+    ]
+  },
+  {
+    "id": "v-travel-037",
+    "word": "abfliegen",
+    "baseForm": "abfliegen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to take off, to depart (by plane)",
+    "meaningDe": "mit einem Flugzeug starten und wegfliegen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wir fliegen morgen früh um 7 Uhr ab.",
+        "en": "We take off tomorrow morning at 7 AM.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Flugzeug ist mit einer Stunde Verspätung abgeflogen.",
+        "en": "The plane took off with a one-hour delay.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Von welchem Terminal fliegen wir ab?",
+        "en": "From which terminal do we depart?",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "fliege ab",
+        "du": "fliegst ab",
+        "er_sie_es": "fliegt ab",
+        "wir": "fliegen ab",
+        "ihr": "fliegt ab",
+        "sie_Sie": "fliegen ab"
+      },
+      "past": {
+        "ich": "flog ab",
+        "du": "flogst ab",
+        "er_sie_es": "flog ab",
+        "wir": "flogen ab",
+        "ihr": "flogt ab",
+        "sie_Sie": "flogen ab"
+      },
+      "pastParticiple": "abgeflogen",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Trennbar: 'Wir fliegen ab.' Nicht: 'Wir abfliegen.'",
+      "Perfekt mit 'sein': 'Das Flugzeug ist abgeflogen.'"
+    ],
+    "usageNotes": [
+      "'abfliegen' = für Flugzeuge. Für Züge/Busse: 'abfahren'.",
+      "Am Flughafen sagt man eher 'Der Flug geht um...' als 'Das Flugzeug fliegt um... ab.'"
+    ],
+    "relatedWords": [
+      "der Abflug",
+      "landen",
+      "das Flugzeug",
+      "der Flughafen"
+    ],
+    "tags": [
+      "airport",
+      "flight",
+      "departure"
+    ]
+  },
+  {
+    "id": "v-travel-038",
+    "word": "landen",
+    "baseForm": "landen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to land",
+    "meaningDe": "auf dem Boden aufkommen (Flugzeug); an einem Ort ankommen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Wann landen wir in Frankfurt?",
+        "en": "When do we land in Frankfurt?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Flugzeug ist sicher gelandet.",
+        "en": "The plane landed safely.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wegen des Sturms konnte das Flugzeug nicht landen.",
+        "en": "Because of the storm the plane could not land.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "lande",
+        "du": "landest",
+        "er_sie_es": "landet",
+        "wir": "landen",
+        "ihr": "landet",
+        "sie_Sie": "landen"
+      },
+      "past": {
+        "ich": "landete",
+        "du": "landetest",
+        "er_sie_es": "landete",
+        "wir": "landeten",
+        "ihr": "landetet",
+        "sie_Sie": "landeten"
+      },
+      "pastParticiple": "gelandet",
+      "auxiliary": "sein"
+    },
+    "commonMistakes": [
+      "Perfekt mit 'sein': 'Wir sind gelandet.' Nicht: 'Wir haben gelandet.'",
+      "'landen' ist regelmässig - Präteritum: 'landete' (nicht 'lund' oder ähnliches)."
+    ],
+    "usageNotes": [
+      "Gegenteil: 'starten' oder 'abfliegen'.",
+      "Umgangssprachlich: 'Wo bist du gelandet?' = 'Where did you end up?'"
+    ],
+    "relatedWords": [
+      "die Landung",
+      "abfliegen",
+      "starten",
+      "die Landebahn"
+    ],
+    "tags": [
+      "airport",
+      "flight",
+      "arrival"
+    ]
+  },
+  {
+    "id": "v-travel-039",
+    "word": "sich erkundigen",
+    "baseForm": "sich erkundigen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to inquire, to ask for information",
+    "meaningDe": "höflich nach Informationen fragen",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte mich nach den Abfahrtszeiten erkundigen.",
+        "en": "I would like to inquire about the departure times.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Erkundigen Sie sich bitte am Schalter.",
+        "en": "Please inquire at the counter.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du dich nach den Preisen erkundigt?",
+        "en": "Did you ask about the prices?",
+        "situation": "travel",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erkundige mich",
+        "du": "erkundigst dich",
+        "er_sie_es": "erkundigt sich",
+        "wir": "erkundigen uns",
+        "ihr": "erkundigt euch",
+        "sie_Sie": "erkundigen sich"
+      },
+      "past": {
+        "ich": "erkundigte mich",
+        "du": "erkundigtest dich",
+        "er_sie_es": "erkundigte sich",
+        "wir": "erkundigten uns",
+        "ihr": "erkundigtet euch",
+        "sie_Sie": "erkundigten sich"
+      },
+      "pastParticiple": "erkundigt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexiv + Präposition: 'sich nach etwas erkundigen' (mit Dativ), nicht 'sich über etwas erkundigen'.",
+      "Nicht vergessen: 'sich' ist obligatorisch - 'Ich erkundige nach...' ist falsch."
+    ],
+    "usageNotes": [
+      "'sich erkundigen' ist formeller als 'fragen'. Gut für höfliche Anfragen.",
+      "Alternative: 'nachfragen' ist weniger formell, aber auch höflich."
+    ],
+    "relatedWords": [
+      "fragen",
+      "nachfragen",
+      "die Auskunft",
+      "die Erkundigung"
+    ],
+    "tags": [
+      "formal",
+      "information",
+      "polite"
+    ]
+  },
+  {
+    "id": "v-travel-040",
+    "word": "packen",
+    "baseForm": "packen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to pack",
+    "meaningDe": "Kleidung und andere Sachen in einen Koffer oder eine Tasche legen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss noch meinen Koffer packen.",
+        "en": "I still have to pack my suitcase.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Hast du schon gepackt?",
+        "en": "Have you already packed?",
+        "situation": "travel",
+        "tone": "informal"
+      },
+      {
+        "de": "Pack nicht zu viel ein, wir haben wenig Platz.",
+        "en": "Don't pack too much, we don't have much space.",
+        "situation": "travel",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "packe",
+        "du": "packst",
+        "er_sie_es": "packt",
+        "wir": "packen",
+        "ihr": "packt",
+        "sie_Sie": "packen"
+      },
+      "past": {
+        "ich": "packte",
+        "du": "packtest",
+        "er_sie_es": "packte",
+        "wir": "packten",
+        "ihr": "packtet",
+        "sie_Sie": "packten"
+      },
+      "pastParticiple": "gepackt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'packen' vs. 'einpacken': 'den Koffer packen' (pack the suitcase) vs. 'etwas einpacken' (pack something into the suitcase).",
+      "Gegenteil: 'auspacken' (to unpack)."
+    ],
+    "usageNotes": [
+      "'Pack die Badehose ein!' = ein bekanntes deutsches Lied über das Packen für den Urlaub.",
+      "'einpacken' = to wrap up/pack in, 'auspacken' = to unpack."
+    ],
+    "relatedWords": [
+      "einpacken",
+      "auspacken",
+      "der Koffer",
+      "das Gepaeck"
+    ],
+    "tags": [
+      "packing",
+      "preparation"
+    ]
+  },
+  {
+    "id": "v-travel-041",
+    "word": "verspätet",
+    "baseForm": "verspätet",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "delayed, late",
+    "meaningDe": "später als geplant; nicht pünktlich",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Der verspätete Zug kommt auf Gleis 7 an.",
+        "en": "The delayed train arrives on platform 7.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wegen des verspäteten Flugs haben wir den Anschluss verpasst.",
+        "en": "Because of the delayed flight we missed the connection.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Verspätete Züge sind leider keine Seltenheit.",
+        "en": "Delayed trains are unfortunately not uncommon.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'verspätet' wird wie ein normales Adjektiv dekliniert: 'der verspätete Zug', 'ein verspäteter Zug'.",
+      "Nicht verwechseln mit dem Verb 'sich verspäten' - 'verspätet' ist das Partizip als Adjektiv."
+    ],
+    "usageNotes": [
+      "'verspätet eintreffen' = to arrive late.",
+      "Alternative: 'Der Zug hat Verspätung' ist gängiger als 'Der Zug ist verspätet'."
+    ],
+    "relatedWords": [
+      "sich verspaeten",
+      "die Verspaetung",
+      "puenktlich",
+      "unpuenktlich"
+    ],
+    "tags": [
+      "delay",
+      "punctuality",
+      "train"
+    ]
+  },
+  {
+    "id": "v-travel-042",
+    "word": "direkt",
+    "baseForm": "direkt",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "direct, non-stop",
+    "meaningDe": "ohne Zwischenhalt oder Umweg; ohne Umsteigen",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Gibt es einen direkten Zug nach Hamburg?",
+        "en": "Is there a direct train to Hamburg?",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Flug geht direkt nach New York, ohne Zwischenlandung.",
+        "en": "The flight goes directly to New York, without a stopover.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Das Hotel liegt direkt am Bahnhof.",
+        "en": "The hotel is right next to the train station.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'direkt' kann Adjektiv oder Adverb sein: 'ein direkter Flug' (adj.) vs. 'direkt zum Bahnhof' (adv.).",
+      "'Direkt' im Sinne von 'gleich neben' (right next to) ist eine andere Bedeutung als 'ohne Umsteigen'."
+    ],
+    "usageNotes": [
+      "'Direktverbindung' = a direct connection without transfers.",
+      "'Direktflug' = non-stop flight. Achtung: 'Nonstop' wird auch im Deutschen benutzt."
+    ],
+    "relatedWords": [
+      "die Direktverbindung",
+      "der Direktflug",
+      "ohne Umstieg",
+      "nonstop"
+    ],
+    "tags": [
+      "route",
+      "connection",
+      "convenience"
+    ]
+  },
+  {
+    "id": "v-travel-043",
+    "word": "pünktlich",
+    "baseForm": "pünktlich",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "on time, punctual",
+    "meaningDe": "genau zur geplanten Zeit; nicht zu spät",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Der Zug ist pünktlich angekommen.",
+        "en": "The train arrived on time.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "In Japan sind die Züge immer pünktlich.",
+        "en": "In Japan the trains are always on time.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte seien Sie pünktlich am Treffpunkt.",
+        "en": "Please be on time at the meeting point.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Aussprache: 'pünktlich' hat den Akzent auf der ersten Silbe.",
+      "Man sagt 'pünktlich ankommen/sein', nicht 'in pünktlich ankommen'."
+    ],
+    "usageNotes": [
+      "Pünktlichkeit ist ein wichtiger Wert in der deutschen Kultur.",
+      "Die Deutsche Bahn definiert 'pünktlich' als weniger als 6 Minuten Verspätung."
+    ],
+    "relatedWords": [
+      "die Puenktlichkeit",
+      "verspaetet",
+      "rechtzeitig",
+      "unpuenktlich",
+      "v-work-043"
+    ],
+    "tags": [
+      "punctuality",
+      "culture",
+      "time"
+    ]
+  },
+  {
+    "id": "v-travel-044",
+    "word": "kostenlos",
+    "baseForm": "kostenlos",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "free (of charge)",
+    "meaningDe": "ohne Kosten; man muss nichts bezahlen",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Das Frühstück im Hotel ist kostenlos.",
+        "en": "The breakfast at the hotel is free.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Kinder unter 6 Jahren fahren kostenlos.",
+        "en": "Children under 6 travel for free.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Stornierung ist bis 24 Stunden vorher kostenlos.",
+        "en": "The cancellation is free up to 24 hours before.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'kostenlos' vs. 'umsonst' vs. 'gratis' - alle bedeuten 'free', aber 'umsonst' kann auch 'in vain' heissen.",
+      "'kostenlos' ist neutraler und formeller als 'gratis' oder 'umsonst'."
+    ],
+    "usageNotes": [
+      "'Kostenloses WLAN' = free WiFi - wichtig in Hotels und Cafes.",
+      "'Eintritt frei' = free admission (an Museen usw.)."
+    ],
+    "relatedWords": [
+      "gratis",
+      "umsonst",
+      "gebuehrenfrei",
+      "die Kosten"
+    ],
+    "tags": [
+      "price",
+      "free",
+      "value"
+    ]
+  },
+  {
+    "id": "v-travel-045",
+    "word": "ausgebucht",
+    "baseForm": "ausgebucht",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "fully booked, sold out",
+    "meaningDe": "es gibt keine freien Plätze oder Zimmer mehr",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Das Hotel ist leider ausgebucht.",
+        "en": "The hotel is unfortunately fully booked.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Alle Flüge nach Mallorca sind ausgebucht.",
+        "en": "All flights to Mallorca are fully booked.",
+        "situation": "travel",
+        "tone": "neutral"
+      },
+      {
+        "de": "In der Hauptsaison ist alles schnell ausgebucht.",
+        "en": "During high season everything is quickly fully booked.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'ausgebucht' ist das Partizip von 'ausbuchen', wird aber fast nur als Adjektiv benutzt.",
+      "Man sagt 'Das Hotel ist ausgebucht', nicht 'Das Hotel ist voll gebucht' (obwohl 'voll' umgangssprachlich vorkommt)."
+    ],
+    "usageNotes": [
+      "Synonyme: 'belegt', 'voll', 'keine Plätze frei'.",
+      "Tipp: In der Hauptsaison (high season) früh buchen, um 'ausgebucht' zu vermeiden."
+    ],
+    "relatedWords": [
+      "buchen",
+      "die Buchung",
+      "belegt",
+      "die Hauptsaison"
+    ],
+    "tags": [
+      "booking",
+      "hotel",
+      "availability"
+    ]
+  },
+  {
+    "id": "v-travel-046",
+    "word": "Wann fährt der nächste Zug?",
+    "baseForm": "Wann fährt der nächste Zug?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "When does the next train leave?",
+    "meaningDe": "Frage nach der Abfahrtszeit des nächsten Zuges",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigung, wann fährt der nächste Zug nach München?",
+        "en": "Excuse me, when does the next train to Munich leave?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Wann fährt der nächste Zug? Ich habe meinen gerade verpasst.",
+        "en": "When does the next train leave? I just missed mine.",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht 'Wann geht der nächste Zug?' - Züge 'fahren', sie 'gehen' nicht (Flüge 'gehen' oder 'fliegen').",
+      "Man kann auch fragen: 'Wann fährt der nächste Zug ab?' (mit trennbarem Verb)."
+    ],
+    "usageNotes": [
+      "Diese Frage stellt man am Schalter, an der Information oder an Mitreisende.",
+      "Variante: 'Wann kommt der nächste Zug?' (wenn man auf einen Zug wartet, der ankommt)."
+    ],
+    "relatedWords": [
+      "abfahren",
+      "der Fahrplan",
+      "die Verbindung"
+    ],
+    "tags": [
+      "question",
+      "station",
+      "essential-phrase"
+    ]
+  },
+  {
+    "id": "v-travel-047",
+    "word": "Einmal hin und zurück, bitte.",
+    "baseForm": "Einmal hin und zurück, bitte.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "One return ticket, please.",
+    "meaningDe": "Man möchte eine Fahrkarte für die Hin- und Rückfahrt kaufen",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Einmal hin und zurück nach Köln, bitte.",
+        "en": "One return ticket to Cologne, please.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Einmal hin und zurück, zweite Klasse, bitte.",
+        "en": "One return ticket, second class, please.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht vergessen 'bitte' am Ende - es klingt sonst unhöflich.",
+      "'Hin und zurück' = return/round trip. Nur 'einfach' oder 'nur hin' = one way."
+    ],
+    "usageNotes": [
+      "Am Schalter oder Automaten eine der wichtigsten Formulierungen.",
+      "'Hin und zurück' ist oft günstiger als zwei einzelne Fahrkarten."
+    ],
+    "relatedWords": [
+      "die Fahrkarte",
+      "einfache Fahrt",
+      "der Schalter",
+      "die Hin- und Rueckfahrt"
+    ],
+    "tags": [
+      "essential-phrase",
+      "ticket",
+      "station"
+    ]
+  },
+  {
+    "id": "v-travel-048",
+    "word": "Wo muss ich umsteigen?",
+    "baseForm": "Wo muss ich umsteigen?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Where do I have to change (trains)?",
+    "meaningDe": "Frage nach dem Ort, an dem man das Verkehrsmittel wechseln muss",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigung, wo muss ich umsteigen, um nach Heidelberg zu kommen?",
+        "en": "Excuse me, where do I have to change to get to Heidelberg?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Wo muss ich umsteigen? In Mannheim oder in Karlsruhe?",
+        "en": "Where do I have to change? In Mannheim or Karlsruhe?",
+        "situation": "travel",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Nicht vergessen: 'umsteigen' ist trennbar - in der Frage steht 'um' am Ende.",
+      "Alternative: 'Muss ich umsteigen?' (Do I have to change?) - wenn man nicht weiss, ob überhaupt."
+    ],
+    "usageNotes": [
+      "Weitere nützliche Fragen: 'Auf welchem Gleis fährt der Anschlusszug?' und 'Wie viel Zeit habe ich zum Umsteigen?'",
+      "Die DB Navigator App zeigt den Umsteigeweg im Bahnhof."
+    ],
+    "relatedWords": [
+      "umsteigen",
+      "der Umstieg",
+      "der Anschluss",
+      "die Verbindung"
+    ],
+    "tags": [
+      "essential-phrase",
+      "question",
+      "transfer"
+    ]
+  },
+  {
+    "id": "v-travel-049",
+    "word": "Ich hätte gern ein Zimmer für zwei Nächte.",
+    "baseForm": "Ich hätte gern ein Zimmer für zwei Nächte.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I would like a room for two nights.",
+    "meaningDe": "Höfliche Anfrage an der Hotelrezeption für ein Zimmer",
+    "situations": [
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Guten Abend. Ich hätte gern ein Zimmer für zwei Nächte.",
+        "en": "Good evening. I would like a room for two nights.",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich hätte gern ein Einzelzimmer für zwei Nächte, wenn möglich mit Frühstück.",
+        "en": "I would like a single room for two nights, if possible with breakfast.",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Ich hätte gern' ist Konjunktiv II und sehr höflich. 'Ich will' klingt unhöölich an der Rezeption.",
+      "Nicht 'Ich möchte gerne ein Zimmer für zwei Nächte haben' - zu lang. 'Ich hätte gern...' reicht."
+    ],
+    "usageNotes": [
+      "'Ich hätte gern...' ist die höflichste Form. 'Ich möchte...' ist auch akzeptabel.",
+      "Man kann ergänzen: 'mit Frühstück', 'mit Blick auf...', 'mit Balkon' usw."
+    ],
+    "relatedWords": [
+      "das Einzelzimmer",
+      "das Doppelzimmer",
+      "die Rezeption",
+      "die Uebernachtung"
+    ],
+    "tags": [
+      "essential-phrase",
+      "hotel",
+      "polite",
+      "check-in"
+    ]
+  },
+  {
+    "id": "v-travel-050",
+    "word": "Könnten Sie mir den Weg zum Bahnhof zeigen?",
+    "baseForm": "Könnten Sie mir den Weg zum Bahnhof zeigen?",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "Could you show me the way to the train station?",
+    "meaningDe": "Höfliche Bitte um eine Wegbeschreibung zum Bahnhof",
+    "situations": [
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Entschuldigen Sie, könnten Sie mir den Weg zum Bahnhof zeigen?",
+        "en": "Excuse me, could you show me the way to the train station?",
+        "situation": "travel",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie mir den Weg zum nächsten Hotel zeigen?",
+        "en": "Could you show me the way to the nearest hotel?",
+        "situation": "travel",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Könnten Sie' (Konjunktiv II) ist höflicher als 'Können Sie'. Beides ist akzeptabel.",
+      "Man fragt 'den Weg zeigen' oder 'den Weg erklären', nicht 'den Weg sagen'."
+    ],
+    "usageNotes": [
+      "Alternative Formulierungen: 'Wie komme ich zum Bahnhof?' (weniger formell) oder 'Wo ist der Bahnhof?' (direkt).",
+      "Nützliche Antworten enthalten: 'geradeaus' (straight), 'links/rechts' (left/right), 'die zweite Strasse' (the second street)."
+    ],
+    "relatedWords": [
+      "der Weg",
+      "die Wegbeschreibung",
+      "geradeaus",
+      "die Kreuzung"
+    ],
+    "tags": [
+      "essential-phrase",
+      "directions",
+      "polite",
+      "navigation"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.prompt {
+  text-align: center;
+  padding: var(--space-6);
+  background-color: var(--color-white);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-sand);
+}
+
+.translation {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  color: var(--color-warm-brown);
+  margin-bottom: var(--space-3);
+  line-height: var(--leading-relaxed);
+}
+
+.meta {
+  display: flex;
+  gap: var(--space-2);
+  justify-content: center;
+}
+
+.bank {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  justify-content: center;
+  padding: var(--space-4);
+  min-height: 60px;
+}
+
+.submitArea {
+  display: flex;
+  justify-content: center;
+}
+
+.hints {
+  text-align: center;
+  padding: var(--space-3);
+  background-color: var(--color-info-light);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+}
+
+.hintLabel {
+  font-weight: var(--weight-semibold);
+  color: var(--color-info);
+  margin-right: var(--space-2);
+}
+
+.hintText {
+  color: var(--color-warm-brown);
+}
+
+.logLink {
+  display: flex;
+  justify-content: center;
+}
+
+.logLink a {
+  text-decoration: none;
+}

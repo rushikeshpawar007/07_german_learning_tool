@@ -1,0 +1,29 @@
+{
+  "id": "shopping-clothing",
+  "title": "Im Bekleidungsgeschäft",
+  "titleEn": "At the Clothing Store",
+  "situation": "shopping",
+  "level": "A2",
+  "description": "Lisa is looking for a new jacket at a clothing store and gets help from a sales assistant.",
+  "speakers": {
+    "a": { "name": "Lisa", "role": "Kundin" },
+    "b": { "name": "Verkäuferin", "role": "Verkäuferin" }
+  },
+  "lines": [
+    { "speaker": "b", "de": "Guten Tag! Kann ich Ihnen helfen?", "en": "Good day! Can I help you?" },
+    { "speaker": "a", "de": "Ja, ich suche eine Jacke für den Frühling.", "en": "Yes, I'm looking for a jacket for spring." },
+    { "speaker": "b", "de": "Da haben wir eine schöne Auswahl. Welche Größe tragen Sie?", "en": "We have a nice selection for that. What size do you wear?" },
+    { "speaker": "a", "de": "Ich trage meistens Größe 38.", "en": "I usually wear size 38." },
+    { "speaker": "b", "de": "Wie gefällt Ihnen diese blaue Jacke hier?", "en": "How do you like this blue jacket here?" },
+    { "speaker": "a", "de": "Die sieht hübsch aus. Kann ich sie anprobieren?", "en": "It looks pretty. Can I try it on?" },
+    { "speaker": "b", "de": "Natürlich! Die Umkleidekabinen sind dort hinten.", "en": "Of course! The fitting rooms are back there." },
+    { "speaker": "a", "de": "Hmm, die ist mir leider etwas zu groß. Haben Sie eine 36?", "en": "Hmm, unfortunately it's a bit too big for me. Do you have a 36?" },
+    { "speaker": "b", "de": "Einen Moment, ich schaue nach. Ja, hier ist die 36. Möchten Sie vielleicht auch eine andere Farbe sehen?", "en": "One moment, let me check. Yes, here's the 36. Would you perhaps also like to see a different color?" },
+    { "speaker": "a", "de": "Haben Sie die auch in Grün?", "en": "Do you also have it in green?" },
+    { "speaker": "b", "de": "Ja, hier bitte. Die grüne ist auch sehr beliebt gerade.", "en": "Yes, here you go. The green one is also very popular right now." },
+    { "speaker": "a", "de": "Die passt perfekt! Was kostet sie?", "en": "It fits perfectly! How much does it cost?" },
+    { "speaker": "b", "de": "Die kostet 79 Euro. Heute haben wir aber 20 Prozent Rabatt.", "en": "It costs 79 euros. But today we have 20 percent off." },
+    { "speaker": "a", "de": "Oh, das ist ein gutes Angebot! Dann nehme ich sie. Kann ich mit Karte zahlen?", "en": "Oh, that's a good deal! I'll take it then. Can I pay by card?" },
+    { "speaker": "b", "de": "Selbstverständlich. Die Kasse ist hier vorne. Vielen Dank und viel Freude mit der Jacke!", "en": "Of course. The register is right here at the front. Thank you very much and enjoy the jacket!" }
+  ]
+}

@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "s-smalltalk-001",
+    "de": "Hast du am Wochenende etwas vor?",
+    "en": "Do you have any plans for the weekend?",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Hast",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "Wochenende",
+        "role": "object"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "vor",
+        "role": "particle"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question with verb first",
+      "Separable verb 'vorhaben'"
+    ],
+    "vocabIds": [
+      "v-smalltalk-004",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "In yes/no questions, the verb comes first"
+    ],
+    "alternatives": [
+      "Hast du etwas am Wochenende vor?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-002",
+    "de": "Wie geht es Ihnen heute?",
+    "en": "How are you doing today?",
+    "situation": "smalltalk",
+    "level": "A1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Wie",
+        "role": "adverb"
+      },
+      {
+        "text": "geht",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "Ihnen",
+        "role": "object"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question word order",
+      "Dative pronoun 'Ihnen' for formal address"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-smalltalk-043"
+    ],
+    "builderHints": [
+      "W-questions start with the question word, then the verb"
+    ],
+    "alternatives": [
+      "Wie geht's Ihnen heute?",
+      "Wie geht es Ihnen denn heute?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-003",
+    "de": "Das Wetter ist heute echt schön.",
+    "en": "The weather is really nice today.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "article"
+      },
+      {
+        "text": "Wetter",
+        "role": "subject"
+      },
+      {
+        "text": "ist",
+        "role": "verb"
+      },
+      {
+        "text": "heute",
+        "role": "adverb"
+      },
+      {
+        "text": "echt",
+        "role": "adverb"
+      },
+      {
+        "text": "schön",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Basic SVO sentence structure",
+      "Intensifier 'echt' (colloquial for 'really')"
+    ],
+    "vocabIds": [
+      "v-smalltalk-001",
+      "v-healthcare-047",
+      "v-housing-048",
+      "v-shopping-046"
+    ],
+    "builderHints": [
+      "The verb 'ist' comes in second position"
+    ],
+    "alternatives": [
+      "Heute ist das Wetter echt schön."
+    ]
+  },
+  {
+    "id": "s-smalltalk-004",
+    "de": "Ich gehe eigentlich ganz gern ins Kino.",
+    "en": "I actually quite like going to the cinema.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "gehe",
+        "role": "verb"
+      },
+      {
+        "text": "eigentlich",
+        "role": "particle"
+      },
+      {
+        "text": "ganz",
+        "role": "adverb"
+      },
+      {
+        "text": "gern",
+        "role": "adverb"
+      },
+      {
+        "text": "ins",
+        "role": "preposition"
+      },
+      {
+        "text": "Kino",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Modal particle 'eigentlich'",
+      "Contraction 'ins' (in + das)"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'eigentlich' softens the statement and means 'actually'"
+    ],
+    "alternatives": [
+      "Eigentlich gehe ich ganz gern ins Kino.",
+      "Ins Kino gehe ich eigentlich ganz gern."
+    ]
+  },
+  {
+    "id": "s-smalltalk-005",
+    "de": "Warst du schon mal in Berlin?",
+    "en": "Have you ever been to Berlin?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Warst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "schon",
+        "role": "adverb"
+      },
+      {
+        "text": "mal",
+        "role": "particle"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "Berlin",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question in past tense",
+      "Particle 'mal' softening a question"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'schon mal' means 'ever' in questions about experience"
+    ],
+    "alternatives": [
+      "Waren Sie schon mal in Berlin?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-006",
+    "de": "Was machst du beruflich?",
+    "en": "What do you do for a living?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Was",
+        "role": "adverb"
+      },
+      {
+        "text": "machst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "beruflich",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'was'",
+      "Adverb 'beruflich' at end of sentence"
+    ],
+    "vocabIds": [
+      "v-smalltalk-041"
+    ],
+    "builderHints": [
+      "The question word comes first, then the conjugated verb"
+    ],
+    "alternatives": [
+      "Was machen Sie beruflich?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-007",
+    "de": "Übrigens habe ich einen neuen Job angefangen.",
+    "en": "By the way, I started a new job.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Übrigens",
+        "role": "particle"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "neuen",
+        "role": "other"
+      },
+      {
+        "text": "Job",
+        "role": "object"
+      },
+      {
+        "text": "angefangen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense with 'haben'",
+      "Verb inversion after adverb in position 1"
+    ],
+    "vocabIds": [
+      "v-healthcare-048",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-bureaucracy-046",
+      "v-healthcare-046",
+      "v-phone-049"
+    ],
+    "builderHints": [
+      "When 'übrigens' starts the sentence, the verb comes right after it"
+    ],
+    "alternatives": [
+      "Ich habe übrigens einen neuen Job angefangen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-008",
+    "de": "Sollen wir mal zusammen einen Kaffee trinken?",
+    "en": "Should we grab a coffee together sometime?",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Sollen",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "mal",
+        "role": "particle"
+      },
+      {
+        "text": "zusammen",
+        "role": "adverb"
+      },
+      {
+        "text": "einen",
+        "role": "article"
+      },
+      {
+        "text": "Kaffee",
+        "role": "object"
+      },
+      {
+        "text": "trinken",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'sollen' with infinitive at end",
+      "Particle 'mal' for casual suggestion"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-046",
+      "v-bureaucracy-049",
+      "v-healthcare-046",
+      "v-phone-049"
+    ],
+    "builderHints": [
+      "Modal verb starts the question, infinitive goes to the end"
+    ],
+    "alternatives": [
+      "Wollen wir mal zusammen einen Kaffee trinken?",
+      "Sollen wir zusammen mal einen Kaffee trinken?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-009",
+    "de": "Ich finde den Film doch ganz gut.",
+    "en": "I actually think the movie is quite good.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "finde",
+        "role": "verb"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Film",
+        "role": "object"
+      },
+      {
+        "text": "doch",
+        "role": "particle"
+      },
+      {
+        "text": "ganz",
+        "role": "adverb"
+      },
+      {
+        "text": "gut",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Accusative article 'den'",
+      "Particle 'doch' expressing mild disagreement"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-050",
+      "v-meetings-050",
+      "v-travel-050",
+      "v-smalltalk-049"
+    ],
+    "builderHints": [
+      "'doch' here signals that the speaker disagrees with a previous negative opinion"
+    ],
+    "alternatives": [
+      "Den Film finde ich doch ganz gut."
+    ]
+  },
+  {
+    "id": "s-smalltalk-010",
+    "de": "Wie war dein Urlaub in Spanien?",
+    "en": "How was your vacation in Spain?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wie",
+        "role": "adverb"
+      },
+      {
+        "text": "war",
+        "role": "verb"
+      },
+      {
+        "text": "dein",
+        "role": "article"
+      },
+      {
+        "text": "Urlaub",
+        "role": "subject"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "Spanien",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "W-question in Präteritum",
+      "Possessive article 'dein'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-smalltalk-043",
+      "v-smalltalk-003",
+      "v-work-019"
+    ],
+    "builderHints": [
+      "'war' is the simple past of 'sein', common in spoken German"
+    ],
+    "alternatives": [
+      "Wie war euer Urlaub in Spanien?",
+      "Wie war Ihr Urlaub in Spanien?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-011",
+    "de": "Ich koche am liebsten italienisch.",
+    "en": "I like cooking Italian food the most.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "koche",
+        "role": "verb"
+      },
+      {
+        "text": "am",
+        "role": "preposition"
+      },
+      {
+        "text": "liebsten",
+        "role": "adverb"
+      },
+      {
+        "text": "italienisch",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Superlative 'am liebsten'",
+      "Expressing preferences with 'gern/lieber/am liebsten'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'am liebsten' is the superlative of 'gern' (gladly)"
+    ],
+    "alternatives": [
+      "Am liebsten koche ich italienisch."
+    ]
+  },
+  {
+    "id": "s-smalltalk-012",
+    "de": "Kennst du ein gutes Restaurant in der Nähe?",
+    "en": "Do you know a good restaurant nearby?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Kennst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "gutes",
+        "role": "other"
+      },
+      {
+        "text": "Restaurant",
+        "role": "object"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "der",
+        "role": "article"
+      },
+      {
+        "text": "Nähe",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question structure",
+      "Adjective ending '-es' with neuter noun"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'in der Nähe' is a fixed expression meaning 'nearby'"
+    ],
+    "alternatives": [
+      "Kennen Sie ein gutes Restaurant in der Nähe?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-013",
+    "de": "Morgen soll es regnen.",
+    "en": "It's supposed to rain tomorrow.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Morgen",
+        "role": "adverb"
+      },
+      {
+        "text": "soll",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "regnen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Verb inversion with time adverb in position 1",
+      "Modal 'sollen' for reported information"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "When 'morgen' starts the sentence, the verb must come second"
+    ],
+    "alternatives": [
+      "Es soll morgen regnen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-014",
+    "de": "Ich bin vor kurzem in die Gegend gezogen.",
+    "en": "I moved to this area recently.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "bin",
+        "role": "verb"
+      },
+      {
+        "text": "vor",
+        "role": "preposition"
+      },
+      {
+        "text": "kurzem",
+        "role": "adverb"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Gegend",
+        "role": "object"
+      },
+      {
+        "text": "gezogen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt with 'sein' for movement verbs",
+      "Prepositional phrase 'vor kurzem'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-smalltalk-015"
+    ],
+    "builderHints": [
+      "'ziehen' uses 'sein' in Perfekt because it indicates movement"
+    ],
+    "alternatives": [
+      "Vor kurzem bin ich in die Gegend gezogen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-015",
+    "de": "Na, alles klar bei dir?",
+    "en": "Hey, everything alright with you?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Na",
+        "role": "particle"
+      },
+      {
+        "text": "alles",
+        "role": "subject"
+      },
+      {
+        "text": "klar",
+        "role": "adverb"
+      },
+      {
+        "text": "bei",
+        "role": "preposition"
+      },
+      {
+        "text": "dir",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Colloquial greeting particle 'na'",
+      "Dative pronoun 'dir' after 'bei'"
+    ],
+    "vocabIds": [
+      "v-smalltalk-045"
+    ],
+    "builderHints": [
+      "'Na' is a very common casual German conversation opener"
+    ],
+    "alternatives": [
+      "Alles klar bei dir?",
+      "Na, bei dir alles klar?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-016",
+    "de": "Spielst du eigentlich irgendein Instrument?",
+    "en": "Do you actually play any instrument?",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Spielst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "eigentlich",
+        "role": "particle"
+      },
+      {
+        "text": "irgendein",
+        "role": "article"
+      },
+      {
+        "text": "Instrument",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Particle 'eigentlich' introducing a new topic",
+      "Indefinite pronoun 'irgendein'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'eigentlich' signals a shift to a new conversational topic"
+    ],
+    "alternatives": [
+      "Spielen Sie eigentlich irgendein Instrument?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-017",
+    "de": "Am Wochenende fahren wir an den See.",
+    "en": "On the weekend we're going to the lake.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Am",
+        "role": "preposition"
+      },
+      {
+        "text": "Wochenende",
+        "role": "adverb"
+      },
+      {
+        "text": "fahren",
+        "role": "verb"
+      },
+      {
+        "text": "wir",
+        "role": "subject"
+      },
+      {
+        "text": "an",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "See",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb in second position after time phrase",
+      "Accusative 'an den' for direction"
+    ],
+    "vocabIds": [
+      "v-smalltalk-004",
+      "v-housing-050",
+      "v-meetings-050",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "Time expressions can start the sentence, but the verb must stay in position 2"
+    ],
+    "alternatives": [
+      "Wir fahren am Wochenende an den See."
+    ]
+  },
+  {
+    "id": "s-smalltalk-018",
+    "de": "Ich kann dir das Buch nur empfehlen.",
+    "en": "I can only recommend the book to you.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "dir",
+        "role": "object"
+      },
+      {
+        "text": "das",
+        "role": "article"
+      },
+      {
+        "text": "Buch",
+        "role": "object"
+      },
+      {
+        "text": "nur",
+        "role": "adverb"
+      },
+      {
+        "text": "empfehlen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'können' with infinitive at end",
+      "Dative 'dir' before accusative 'das Buch'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-shopping-036",
+      "v-smalltalk-023"
+    ],
+    "builderHints": [
+      "With modal verbs, the infinitive always goes to the end of the sentence"
+    ],
+    "alternatives": [
+      "Das Buch kann ich dir nur empfehlen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-019",
+    "de": "Gefällt es Ihnen hier in München?",
+    "en": "Do you like it here in Munich?",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Gefällt",
+        "role": "verb"
+      },
+      {
+        "text": "es",
+        "role": "subject"
+      },
+      {
+        "text": "Ihnen",
+        "role": "object"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      },
+      {
+        "text": "in",
+        "role": "preposition"
+      },
+      {
+        "text": "München",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Dative verb 'gefallen'",
+      "Formal pronoun 'Ihnen'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'gefallen' takes the dative case: the thing liked is the subject, the person is dative"
+    ],
+    "alternatives": [
+      "Gefällt es dir hier in München?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-020",
+    "de": "Ich habe letzte Woche eine tolle Serie gesehen.",
+    "en": "I watched a great series last week.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "habe",
+        "role": "verb"
+      },
+      {
+        "text": "letzte",
+        "role": "other"
+      },
+      {
+        "text": "Woche",
+        "role": "adverb"
+      },
+      {
+        "text": "eine",
+        "role": "article"
+      },
+      {
+        "text": "tolle",
+        "role": "other"
+      },
+      {
+        "text": "Serie",
+        "role": "object"
+      },
+      {
+        "text": "gesehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense with 'haben'",
+      "Time expression 'letzte Woche'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "In Perfekt, 'haben' is in position 2 and the past participle goes to the end"
+    ],
+    "alternatives": [
+      "Letzte Woche habe ich eine tolle Serie gesehen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-021",
+    "de": "Wohnst du schon lange hier?",
+    "en": "Have you been living here for a long time?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wohnst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "schon",
+        "role": "adverb"
+      },
+      {
+        "text": "lange",
+        "role": "adverb"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "Yes/no question structure",
+      "Present tense for ongoing actions with 'schon'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050"
+    ],
+    "builderHints": [
+      "German uses present tense with 'schon' where English uses present perfect"
+    ],
+    "alternatives": [
+      "Wohnen Sie schon lange hier?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-022",
+    "de": "Das solltest du dir mal anschauen.",
+    "en": "You should check that out sometime.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Das",
+        "role": "object"
+      },
+      {
+        "text": "solltest",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "dir",
+        "role": "object"
+      },
+      {
+        "text": "mal",
+        "role": "particle"
+      },
+      {
+        "text": "anschauen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II of 'sollen' for suggestions",
+      "Reflexive verb 'sich anschauen'"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'solltest' is a polite way to make a recommendation"
+    ],
+    "alternatives": [
+      "Du solltest dir das mal anschauen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-023",
+    "de": "Bei dem Wetter bleibe ich lieber zu Hause.",
+    "en": "In this weather I prefer to stay at home.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Bei",
+        "role": "preposition"
+      },
+      {
+        "text": "dem",
+        "role": "article"
+      },
+      {
+        "text": "Wetter",
+        "role": "object"
+      },
+      {
+        "text": "bleibe",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "lieber",
+        "role": "adverb"
+      },
+      {
+        "text": "zu",
+        "role": "preposition"
+      },
+      {
+        "text": "Hause",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Verb second after prepositional phrase",
+      "Comparative 'lieber' for preferences"
+    ],
+    "vocabIds": [
+      "v-smalltalk-001",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'zu Hause' means 'at home' and is a fixed expression"
+    ],
+    "alternatives": [
+      "Ich bleibe bei dem Wetter lieber zu Hause."
+    ]
+  },
+  {
+    "id": "s-smalltalk-024",
+    "de": "Hast du Lust auf ein Eis?",
+    "en": "Do you feel like having an ice cream?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Hast",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "Lust",
+        "role": "object"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "ein",
+        "role": "article"
+      },
+      {
+        "text": "Eis",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Fixed expression 'Lust haben auf + Akk'",
+      "Yes/no question structure"
+    ],
+    "vocabIds": [
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050"
+    ],
+    "builderHints": [
+      "'Lust haben auf' is a very common way to ask if someone feels like doing something"
+    ],
+    "alternatives": [
+      "Haben Sie Lust auf ein Eis?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-025",
+    "de": "Ich treibe dreimal pro Woche Sport.",
+    "en": "I exercise three times a week.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "treibe",
+        "role": "verb"
+      },
+      {
+        "text": "dreimal",
+        "role": "adverb"
+      },
+      {
+        "text": "pro",
+        "role": "preposition"
+      },
+      {
+        "text": "Woche",
+        "role": "object"
+      },
+      {
+        "text": "Sport",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Fixed expression 'Sport treiben'",
+      "Frequency with 'pro Woche'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'Sport treiben' is the standard way to say 'to exercise' in German"
+    ],
+    "alternatives": [
+      "Dreimal pro Woche treibe ich Sport.",
+      "Sport treibe ich dreimal pro Woche."
+    ]
+  },
+  {
+    "id": "s-smalltalk-026",
+    "de": "Wo kann man hier gut essen gehen?",
+    "en": "Where can you go for good food around here?",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wo",
+        "role": "adverb"
+      },
+      {
+        "text": "kann",
+        "role": "verb"
+      },
+      {
+        "text": "man",
+        "role": "subject"
+      },
+      {
+        "text": "hier",
+        "role": "adverb"
+      },
+      {
+        "text": "gut",
+        "role": "adverb"
+      },
+      {
+        "text": "essen",
+        "role": "verb"
+      },
+      {
+        "text": "gehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Impersonal 'man'",
+      "Double infinitive with modal verb"
+    ],
+    "vocabIds": [
+      "v-phone-046",
+      "v-shopping-048",
+      "v-smalltalk-049"
+    ],
+    "builderHints": [
+      "'man' is used for general statements, similar to 'one' or 'you' in English"
+    ],
+    "alternatives": [
+      "Wo kann man hier gut essen?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-027",
+    "de": "Ich freue mich schon auf den Sommer.",
+    "en": "I'm already looking forward to summer.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "freue",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "schon",
+        "role": "adverb"
+      },
+      {
+        "text": "auf",
+        "role": "preposition"
+      },
+      {
+        "text": "den",
+        "role": "article"
+      },
+      {
+        "text": "Sommer",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "Reflexive verb 'sich freuen auf + Akk'",
+      "Accusative 'den Sommer'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-phone-048",
+      "v-smalltalk-046",
+      "v-emails-031",
+      "v-emails-047",
+      "v-meetings-050",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'sich freuen auf' means 'to look forward to' and takes accusative"
+    ],
+    "alternatives": [
+      "Auf den Sommer freue ich mich schon."
+    ]
+  },
+  {
+    "id": "s-smalltalk-028",
+    "de": "Lange nicht gesehen!",
+    "en": "Long time no see!",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Lange",
+        "role": "adverb"
+      },
+      {
+        "text": "nicht",
+        "role": "adverb"
+      },
+      {
+        "text": "gesehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Elliptical expression (omitted subject and auxiliary)",
+      "Past participle in fixed phrase"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-phone-050"
+    ],
+    "builderHints": [
+      "This is a fixed greeting phrase; the full form would be 'Wir haben uns lange nicht gesehen'"
+    ],
+    "alternatives": []
+  },
+  {
+    "id": "s-smalltalk-029",
+    "de": "Woher kommst du denn ursprünglich?",
+    "en": "Where are you originally from then?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Woher",
+        "role": "adverb"
+      },
+      {
+        "text": "kommst",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "denn",
+        "role": "particle"
+      },
+      {
+        "text": "ursprünglich",
+        "role": "adverb"
+      }
+    ],
+    "grammarPoints": [
+      "W-question with 'woher'",
+      "Particle 'denn' showing friendly interest"
+    ],
+    "vocabIds": [],
+    "builderHints": [
+      "'denn' in questions makes them sound friendlier and more interested"
+    ],
+    "alternatives": [
+      "Woher kommen Sie denn ursprünglich?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-030",
+    "de": "Ich gehe jeden Morgen im Park joggen.",
+    "en": "I go jogging in the park every morning.",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Ich",
+        "role": "subject"
+      },
+      {
+        "text": "gehe",
+        "role": "verb"
+      },
+      {
+        "text": "jeden",
+        "role": "article"
+      },
+      {
+        "text": "Morgen",
+        "role": "adverb"
+      },
+      {
+        "text": "im",
+        "role": "preposition"
+      },
+      {
+        "text": "Park",
+        "role": "object"
+      },
+      {
+        "text": "joggen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Accusative time expression 'jeden Morgen'",
+      "Verb + infinitive construction 'gehen + joggen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-049",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049"
+    ],
+    "builderHints": [
+      "'jeden Morgen' uses the accusative for habitual time expressions"
+    ],
+    "alternatives": [
+      "Jeden Morgen gehe ich im Park joggen.",
+      "Im Park gehe ich jeden Morgen joggen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-031",
+    "de": "Darf ich Sie etwas fragen?",
+    "en": "May I ask you something?",
+    "situation": "smalltalk",
+    "level": "A2",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Darf",
+        "role": "verb"
+      },
+      {
+        "text": "ich",
+        "role": "subject"
+      },
+      {
+        "text": "Sie",
+        "role": "object"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "fragen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Modal verb 'dürfen' for permission",
+      "Formal 'Sie' as accusative object"
+    ],
+    "vocabIds": [
+      "v-housing-049",
+      "v-bureaucracy-048",
+      "v-bureaucracy-049",
+      "v-emails-049",
+      "v-healthcare-048",
+      "v-healthcare-049",
+      "v-healthcare-050",
+      "v-housing-046",
+      "v-housing-050",
+      "v-phone-046",
+      "v-phone-047",
+      "v-phone-050",
+      "v-shopping-048",
+      "v-shopping-049",
+      "v-smalltalk-047",
+      "v-travel-048",
+      "v-travel-049",
+      "v-emails-048",
+      "v-phone-048",
+      "v-shopping-047",
+      "v-travel-050",
+      "v-work-050"
+    ],
+    "builderHints": [
+      "'dürfen' is more polite than 'können' when asking for permission"
+    ],
+    "alternatives": [
+      "Darf ich dich etwas fragen?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-032",
+    "de": "Wir könnten doch mal zusammen wandern gehen.",
+    "en": "We could go hiking together sometime.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wir",
+        "role": "subject"
+      },
+      {
+        "text": "könnten",
+        "role": "verb"
+      },
+      {
+        "text": "doch",
+        "role": "particle"
+      },
+      {
+        "text": "mal",
+        "role": "particle"
+      },
+      {
+        "text": "zusammen",
+        "role": "adverb"
+      },
+      {
+        "text": "wandern",
+        "role": "verb"
+      },
+      {
+        "text": "gehen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Konjunktiv II 'könnten' for polite suggestions",
+      "Particles 'doch mal' for casual proposals"
+    ],
+    "vocabIds": [
+      "v-phone-048",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'doch mal' together softens a suggestion and makes it sound casual"
+    ],
+    "alternatives": [
+      "Wir könnten mal zusammen wandern gehen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-033",
+    "de": "Wie findest du die neue Bäckerei um die Ecke?",
+    "en": "What do you think of the new bakery around the corner?",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Wie",
+        "role": "adverb"
+      },
+      {
+        "text": "findest",
+        "role": "verb"
+      },
+      {
+        "text": "du",
+        "role": "subject"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "neue",
+        "role": "other"
+      },
+      {
+        "text": "Bäckerei",
+        "role": "object"
+      },
+      {
+        "text": "um",
+        "role": "preposition"
+      },
+      {
+        "text": "die",
+        "role": "article"
+      },
+      {
+        "text": "Ecke",
+        "role": "object"
+      }
+    ],
+    "grammarPoints": [
+      "'Wie findest du' for asking opinions",
+      "Prepositional phrase 'um die Ecke'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-050",
+      "v-smalltalk-043"
+    ],
+    "builderHints": [
+      "'Wie findest du...?' literally 'how do you find...?' is the standard way to ask for opinions"
+    ],
+    "alternatives": [
+      "Wie finden Sie die neue Bäckerei um die Ecke?"
+    ]
+  },
+  {
+    "id": "s-smalltalk-034",
+    "de": "Es hat mich gefreut, Sie kennenzulernen.",
+    "en": "It was nice to meet you.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "formal",
+    "words": [
+      {
+        "text": "Es",
+        "role": "subject"
+      },
+      {
+        "text": "hat",
+        "role": "verb"
+      },
+      {
+        "text": "mich",
+        "role": "object"
+      },
+      {
+        "text": "gefreut",
+        "role": "verb"
+      },
+      {
+        "text": "Sie",
+        "role": "object"
+      },
+      {
+        "text": "kennenzulernen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Perfekt tense with 'haben'",
+      "Infinitive with 'zu' after 'freuen'"
+    ],
+    "vocabIds": [
+      "v-bureaucracy-048",
+      "v-emails-049",
+      "v-phone-048",
+      "v-shopping-049",
+      "v-smalltalk-046",
+      "v-emails-048",
+      "v-shopping-047",
+      "v-travel-050"
+    ],
+    "builderHints": [
+      "'kennenzulernen' inserts 'zu' between the prefix 'kennen' and 'lernen'"
+    ],
+    "alternatives": [
+      "Es hat mich gefreut, dich kennenzulernen.",
+      "Mich hat es gefreut, Sie kennenzulernen."
+    ]
+  },
+  {
+    "id": "s-smalltalk-035",
+    "de": "Lass uns doch mal wieder etwas zusammen unternehmen.",
+    "en": "Let's do something together again sometime.",
+    "situation": "smalltalk",
+    "level": "B1",
+    "tone": "informal",
+    "words": [
+      {
+        "text": "Lass",
+        "role": "verb"
+      },
+      {
+        "text": "uns",
+        "role": "object"
+      },
+      {
+        "text": "doch",
+        "role": "particle"
+      },
+      {
+        "text": "mal",
+        "role": "particle"
+      },
+      {
+        "text": "wieder",
+        "role": "adverb"
+      },
+      {
+        "text": "etwas",
+        "role": "object"
+      },
+      {
+        "text": "zusammen",
+        "role": "adverb"
+      },
+      {
+        "text": "unternehmen",
+        "role": "verb"
+      }
+    ],
+    "grammarPoints": [
+      "Imperative 'lass uns' for 'let's'",
+      "Particles 'doch mal' for casual encouragement"
+    ],
+    "vocabIds": [
+      "v-smalltalk-044",
+      "v-work-050",
+      "v-smalltalk-027"
+    ],
+    "builderHints": [
+      "'Lass uns' + infinitive is how German expresses 'let's'"
+    ],
+    "alternatives": [
+      "Lass uns mal wieder zusammen etwas unternehmen.",
+      "Lass uns doch wieder mal etwas zusammen unternehmen."
+    ]
+  }
+]

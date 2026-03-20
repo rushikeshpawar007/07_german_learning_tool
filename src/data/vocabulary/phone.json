@@ -1,0 +1,2823 @@
+[
+  {
+    "id": "v-phone-001",
+    "word": "der Anruf",
+    "baseForm": "Anruf",
+    "gender": "der",
+    "plural": "Anrufe",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "phone call",
+    "meaningDe": "das Telefonieren mit jemandem",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe einen Anruf für Sie.",
+        "en": "I have a call for you.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du meinen Anruf bekommen?",
+        "en": "Did you get my call?",
+        "tone": "informal"
+      },
+      {
+        "de": "Der Anruf hat zehn Minuten gedaürt.",
+        "en": "The call lasted ten minutes.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'der Anruf' (the call) with 'der Aufruf' (the appeal/call to action).",
+      "Use 'einen Anruf bekommen' or 'einen Anruf erhalten', not 'einen Anruf nehmen'."
+    ],
+    "usageNotes": [
+      "'Anruf' is the standard word for a phone call; 'Telefonat' is a slightly more formal synonym.",
+      "Common collocations: 'einen Anruf tätigen' (formal), 'einen Anruf machen' (informal)."
+    ],
+    "relatedWords": [
+      "anrufen",
+      "das Telefonat",
+      "der Rückruf"
+    ],
+    "tags": [
+      "phone-basics",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-phone-002",
+    "word": "die Leitung",
+    "baseForm": "Leitung",
+    "gender": "die",
+    "plural": "Leitungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "line (phone line)",
+    "meaningDe": "die Telefonverbindung zwischen zwei Gesprächsteilnehmern",
+    "situations": [
+      "phone",
+      "work",
+      "technical"
+    ],
+    "examples": [
+      {
+        "de": "Die Leitung ist besetzt.",
+        "en": "The line is busy.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte bleiben Sie in der Leitung.",
+        "en": "Please stay on the line.",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Leitung war sehr schlecht.",
+        "en": "The line was very bad.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Die Leitung' can also mean 'management' or 'pipe' — context determines the meaning.",
+      "Use 'in der Leitung bleiben', not 'auf der Leitung bleiben'."
+    ],
+    "usageNotes": [
+      "Often used in combination with 'besetzt' (busy) or 'frei' (free).",
+      "'Jemand steht auf der Leitung' is an idiom meaning 'someone is slow to understand'."
+    ],
+    "relatedWords": [
+      "die Verbindung",
+      "besetzt",
+      "der Anschluss"
+    ],
+    "tags": [
+      "phone-basics",
+      "idioms"
+    ]
+  },
+  {
+    "id": "v-phone-003",
+    "word": "die Durchwahl",
+    "baseForm": "Durchwahl",
+    "gender": "die",
+    "plural": "Durchwahlen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "extension (number), direct dial",
+    "meaningDe": "eine Telefonnummer, mit der man jemanden direkt erreichen kann",
+    "situations": [
+      "phone",
+      "work",
+      "appointments"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir bitte Ihre Durchwahl geben?",
+        "en": "Can you please give me your extension?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Meine Durchwahl ist 234.",
+        "en": "My extension is 234.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich verbinde Sie mit der Durchwahl der Personalabteilung.",
+        "en": "I'll connect you to the HR department's direct line.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'die Durchwahl' (extension) with 'die Vorwahl' (area code).",
+      "Use 'die Durchwahl wählen', not 'die Durchwahl rufen'."
+    ],
+    "usageNotes": [
+      "Very common in office and business contexts when reaching a specific person.",
+      "Often abbreviated as 'DW' in written communication."
+    ],
+    "relatedWords": [
+      "die Vorwahl",
+      "die Nebenstelle",
+      "durchstellen"
+    ],
+    "tags": [
+      "business",
+      "office"
+    ]
+  },
+  {
+    "id": "v-phone-004",
+    "word": "die Mailbox",
+    "baseForm": "Mailbox",
+    "gender": "die",
+    "plural": "Mailboxen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "voicemail, mailbox",
+    "meaningDe": "ein elektronischer Anrufbeantworter auf dem Handy",
+    "situations": [
+      "phone",
+      "daily-life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte sprechen Sie auf die Mailbox.",
+        "en": "Please leave a message on the voicemail.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bin direkt auf der Mailbox gelandet.",
+        "en": "I went straight to voicemail.",
+        "tone": "informal"
+      },
+      {
+        "de": "Hast du meine Nachricht auf der Mailbox gehört?",
+        "en": "Did you hear my message on the voicemail?",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "In German, 'Mailbox' refers to voicemail, not a physical mailbox (that's 'der Briefkasten').",
+      "Use 'auf die Mailbox sprechen', not 'in die Mailbox sprechen'."
+    ],
+    "usageNotes": [
+      "'Mailbox' is used for mobile voicemail; 'der Anrufbeantworter' (AB) is the landline answering machine.",
+      "Young people sometimes say 'auf die Box sprechen' colloquially."
+    ],
+    "relatedWords": [
+      "der Anrufbeantworter",
+      "die Nachricht",
+      "hinterlassen"
+    ],
+    "tags": [
+      "phone-basics",
+      "mobile"
+    ]
+  },
+  {
+    "id": "v-phone-005",
+    "word": "der Rückruf",
+    "baseForm": "Rückruf",
+    "gender": "der",
+    "plural": "Rückrufe",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "callback, return call",
+    "meaningDe": "ein Anruf, den man als Antwort auf einen früheren Anruf macht",
+    "situations": [
+      "phone",
+      "work",
+      "appointments"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich einen Rückruf vereinbaren?",
+        "en": "Can I arrange a callback?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bitte um einen Rückruf.",
+        "en": "I'd like to request a callback.",
+        "tone": "formal"
+      },
+      {
+        "de": "Danke für den schnellen Rückruf!",
+        "en": "Thanks for the quick callback!",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Rückruf' in a product context means 'product recall' — don't mix up the meanings.",
+      "Use 'um einen Rückruf bitten', not 'einen Rückruf fragen'."
+    ],
+    "usageNotes": [
+      "Very common in business calls when the person you need is unavailable.",
+      "Often combined with 'bitten' (to ask) or 'vereinbaren' (to arrange)."
+    ],
+    "relatedWords": [
+      "zurückrufen",
+      "der Anruf",
+      "die Nachricht"
+    ],
+    "tags": [
+      "business",
+      "etiquette"
+    ]
+  },
+  {
+    "id": "v-phone-006",
+    "word": "die Verbindung",
+    "baseForm": "Verbindung",
+    "gender": "die",
+    "plural": "Verbindungen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "connection",
+    "meaningDe": "die hergestellte Telefonleitung zwischen zwei Gesprächspartnern",
+    "situations": [
+      "phone",
+      "technical",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Verbindung ist sehr schlecht.",
+        "en": "The connection is very bad.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe keine Verbindung mehr.",
+        "en": "I've lost the connection.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Verbindung wurde unterbrochen.",
+        "en": "The connection was interrupted.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse phone 'Verbindung' with 'Verbindung' meaning 'association' or 'compound'.",
+      "Use 'die Verbindung ist schlecht', not 'die Verbindung ist arm' (false friend from English 'poor')."
+    ],
+    "usageNotes": [
+      "Commonly used when describing call quality, especially on mobile phones.",
+      "'Die Verbindung herstellen' means to establish a connection."
+    ],
+    "relatedWords": [
+      "verbinden",
+      "die Leitung",
+      "unterbrechen",
+      "v-travel-021"
+    ],
+    "tags": [
+      "phone-basics",
+      "technical"
+    ]
+  },
+  {
+    "id": "v-phone-007",
+    "word": "der Empfang",
+    "baseForm": "Empfang",
+    "gender": "der",
+    "plural": "Empfänge",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "reception (signal), front desk",
+    "meaningDe": "die Qualität des Mobilfunksignals oder der Empfangsbereich eines Gebäudes",
+    "situations": [
+      "phone",
+      "work",
+      "technical"
+    ],
+    "examples": [
+      {
+        "de": "Hier ist der Empfang sehr schlecht.",
+        "en": "The reception here is very bad.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe keinen Empfang im Keller.",
+        "en": "I have no reception in the basement.",
+        "tone": "informal"
+      },
+      {
+        "de": "Bitte melden Sie sich am Empfang.",
+        "en": "Please check in at the front desk.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Empfang' can mean signal reception or a physical reception desk — context matters.",
+      "Use 'keinen Empfang haben', not 'kein Signal haben' (though 'Signal' is also understood)."
+    ],
+    "usageNotes": [
+      "In phone contexts, 'Empfang' refers to signal strength.",
+      "At a company, 'der Empfang' is also the reception area where calls may be routed."
+    ],
+    "relatedWords": [
+      "empfangen",
+      "das Signal",
+      "die Rezeption"
+    ],
+    "tags": [
+      "mobile",
+      "office"
+    ]
+  },
+  {
+    "id": "v-phone-008",
+    "word": "die Auskunft",
+    "baseForm": "Auskunft",
+    "gender": "die",
+    "plural": "Auskünfte",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "information, directory assistance",
+    "meaningDe": "eine telefonische Informationsstelle oder die erteilte Information selbst",
+    "situations": [
+      "phone",
+      "services",
+      "travel"
+    ],
+    "examples": [
+      {
+        "de": "Rufen Sie die Auskunft an, um die Nummer zu bekommen.",
+        "en": "Call directory assistance to get the number.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie mir eine Auskunft geben?",
+        "en": "Can you give me some information?",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Auskunft hat mir die richtige Nummer gegeben.",
+        "en": "Directory assistance gave me the right number.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "The plural has an umlaut: 'Auskünfte', not 'Auskunften'.",
+      "Use 'eine Auskunft geben/erteilen', not 'eine Auskunft sagen'."
+    ],
+    "usageNotes": [
+      "In Germany, the phone directory service number is 11833 or 11880.",
+      "'Auskunft' is also used at train stations and airports for the information desk."
+    ],
+    "relatedWords": [
+      "die Information",
+      "die Telefonauskunft",
+      "das Telefonbuch",
+      "v-travel-011"
+    ],
+    "tags": [
+      "services",
+      "information"
+    ]
+  },
+  {
+    "id": "v-phone-009",
+    "word": "die Vorwahl",
+    "baseForm": "Vorwahl",
+    "gender": "die",
+    "plural": "Vorwahlen",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "area code, dialing code",
+    "meaningDe": "die Ziffernfolge vor der eigentlichen Telefonnummer, die eine Region kennzeichnet",
+    "situations": [
+      "phone",
+      "travel",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Vorwahl von Berlin ist 030.",
+        "en": "The area code for Berlin is 030.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Haben Sie die Vorwahl mitgewählt?",
+        "en": "Did you dial the area code?",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Vorwahl für Deutschland ist +49.",
+        "en": "The dialing code for Germany is +49.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'die Vorwahl' (area code) with 'die Durchwahl' (extension).",
+      "'Vorwahl' also means 'preliminary election/primary' in a political context."
+    ],
+    "usageNotes": [
+      "When calling from abroad, drop the leading 0 of the German area code.",
+      "Mobile numbers in Germany start with 015x, 016x, or 017x."
+    ],
+    "relatedWords": [
+      "die Durchwahl",
+      "die Telefonnummer",
+      "die Landesvorwahl"
+    ],
+    "tags": [
+      "phone-basics",
+      "numbers"
+    ]
+  },
+  {
+    "id": "v-phone-010",
+    "word": "die Nachricht",
+    "baseForm": "Nachricht",
+    "gender": "die",
+    "plural": "Nachrichten",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "message",
+    "meaningDe": "eine mündliche oder schriftliche Mitteilung",
+    "situations": [
+      "phone",
+      "daily-life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich eine Nachricht hinterlassen?",
+        "en": "Can I leave a message?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie haben drei neü Nachrichten.",
+        "en": "You have three new messages.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe ihm eine Nachricht auf der Mailbox hinterlassen.",
+        "en": "I left him a message on his voicemail.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Die Nachrichten' (plural) also means 'the news' — context determines the meaning.",
+      "Use 'eine Nachricht hinterlassen', not 'eine Nachricht lassen'."
+    ],
+    "usageNotes": [
+      "In phone contexts, 'Nachricht' is the go-to word for a voicemail message.",
+      "'Möchten Sie eine Nachricht hinterlassen?' is the standard receptionist phrase."
+    ],
+    "relatedWords": [
+      "hinterlassen",
+      "die Mitteilung",
+      "die Mailbox"
+    ],
+    "tags": [
+      "phone-basics",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-phone-011",
+    "word": "der Anschluss",
+    "baseForm": "Anschluss",
+    "gender": "der",
+    "plural": "Anschlüsse",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "phone line, connection, subscriber line",
+    "meaningDe": "die Möglichkeit, über eine Telefonnummer erreichbar zu sein",
+    "situations": [
+      "phone",
+      "technical",
+      "services"
+    ],
+    "examples": [
+      {
+        "de": "Kein Anschluss unter dieser Nummer.",
+        "en": "This number is not in service.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wir brauchen einen neün Anschluss für das Büro.",
+        "en": "We need a new phone line for the office.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Anschluss wurde gesperrt.",
+        "en": "The line has been blocked.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "The plural uses an umlaut: 'Anschlüsse', not 'Anschlussen'.",
+      "Don't confuse 'der Anschluss' (connection) with 'der Abschluss' (completion/degree)."
+    ],
+    "usageNotes": [
+      "'Kein Anschluss unter dieser Nummer' is the classic German automated message for disconnected numbers.",
+      "'Anschluss' can also mean a connecting train/flight in travel contexts."
+    ],
+    "relatedWords": [
+      "die Leitung",
+      "die Telefonnummer",
+      "anschließen",
+      "v-travel-013"
+    ],
+    "tags": [
+      "phone-basics",
+      "technical"
+    ]
+  },
+  {
+    "id": "v-phone-012",
+    "word": "der Hörer",
+    "baseForm": "Hörer",
+    "gender": "der",
+    "plural": "Hörer",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "receiver, handset",
+    "meaningDe": "der Teil des Telefons, den man zum Sprechen und Hören in die Hand nimmt",
+    "situations": [
+      "phone",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte legen Sie den Hörer auf.",
+        "en": "Please hang up the receiver.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Er hat den Hörer abgenommen.",
+        "en": "He picked up the receiver.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Den Hörer abnehmen und die Nummer wählen.",
+        "en": "Pick up the receiver and dial the number.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "'Der Hörer' also means 'listener/auditor' — context determines meaning.",
+      "Use 'den Hörer abnehmen' (pick up) and 'den Hörer auflegen' (hang up)."
+    ],
+    "usageNotes": [
+      "Mostly used for landline phones. For mobile phones, people say 'rangehen' (answer) or 'auflegen' (hang up).",
+      "Becoming less common as landlines disappear, but still used figuratively."
+    ],
+    "relatedWords": [
+      "auflegen",
+      "abnehmen",
+      "das Telefon"
+    ],
+    "tags": [
+      "phone-basics",
+      "landline"
+    ]
+  },
+  {
+    "id": "v-phone-013",
+    "word": "die Telefonnummer",
+    "baseForm": "Telefonnummer",
+    "gender": "die",
+    "plural": "Telefonnummern",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "phone number",
+    "meaningDe": "die Ziffernfolge, unter der jemand telefonisch erreichbar ist",
+    "situations": [
+      "phone",
+      "daily-life",
+      "appointments"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie mir Ihre Telefonnummer geben?",
+        "en": "Can you give me your phone number?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe seine Telefonnummer nicht.",
+        "en": "I don't have his phone number.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Unter welcher Telefonnummer sind Sie erreichbar?",
+        "en": "At what phone number can you be reached?",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "In German, phone numbers are often read in pairs: 34 56 78, not digit by digit.",
+      "Don't shorten to 'Telefon' when you mean the number — say 'Nummer' or 'Telefonnummer'."
+    ],
+    "usageNotes": [
+      "In casual speech, people often just say 'Nummer' or 'Handynummer'.",
+      "Germans typically read phone numbers in groups of two digits."
+    ],
+    "relatedWords": [
+      "die Handynummer",
+      "die Vorwahl",
+      "die Durchwahl"
+    ],
+    "tags": [
+      "phone-basics",
+      "contact-info"
+    ]
+  },
+  {
+    "id": "v-phone-014",
+    "word": "das Gespräch",
+    "baseForm": "Gespräch",
+    "gender": "das",
+    "plural": "Gespräche",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "conversation, call",
+    "meaningDe": "ein mündlicher Austausch zwischen zwei oder mehr Personen",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin gerade in einem Gespräch.",
+        "en": "I'm currently on a call.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Das Gespräch hat eine Stunde gedaürt.",
+        "en": "The conversation lasted an hour.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können wir ein kurzes Gespräch führen?",
+        "en": "Can we have a brief conversation?",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'ein Gespräch führen', not 'ein Gespräch machen' or 'ein Gespräch haben'.",
+      "Don't confuse 'das Gespräch' (conversation) with 'das Gerücht' (rumor)."
+    ],
+    "usageNotes": [
+      "In office settings, 'Ich bin im Gespräch' is the polite way to say you're on a call.",
+      "'Telefongespräch' specifically means a phone conversation."
+    ],
+    "relatedWords": [
+      "das Telefongespräch",
+      "die Unterhaltung",
+      "sprechen"
+    ],
+    "tags": [
+      "communication",
+      "business"
+    ]
+  },
+  {
+    "id": "v-phone-015",
+    "word": "der Teilnehmer",
+    "baseForm": "Teilnehmer",
+    "gender": "der",
+    "plural": "Teilnehmer",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "participant, subscriber",
+    "meaningDe": "eine Person, die an einem Telefongespräch oder einer Telefonkonferenz teilnimmt",
+    "situations": [
+      "phone",
+      "work",
+      "meetings"
+    ],
+    "examples": [
+      {
+        "de": "Der Teilnehmer ist zur Zeit nicht erreichbar.",
+        "en": "The subscriber is currently unavailable.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Wie viele Teilnehmer sind in der Konferenz?",
+        "en": "How many participants are in the conference?",
+        "tone": "formal"
+      },
+      {
+        "de": "Alle Teilnehmer sind jetzt verbunden.",
+        "en": "All participants are now connected.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "The feminine form is 'die Teilnehmerin' — use it when referring to a woman.",
+      "Don't confuse 'der Teilnehmer' with 'der Abnehmer' (buyer/customer)."
+    ],
+    "usageNotes": [
+      "Automated phone messages in Germany use 'Der Teilnehmer ist nicht erreichbar.'",
+      "In conference calls, 'Teilnehmer' is the standard word for participants."
+    ],
+    "relatedWords": [
+      "teilnehmen",
+      "die Konferenz",
+      "die Telefonkonferenz",
+      "v-meetings-006"
+    ],
+    "tags": [
+      "business",
+      "meetings"
+    ]
+  },
+  {
+    "id": "v-phone-016",
+    "word": "der Anrufbeantworter",
+    "baseForm": "Anrufbeantworter",
+    "gender": "der",
+    "plural": "Anrufbeantworter",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "answering machine",
+    "meaningDe": "ein Gerät, das Anrufe automatisch entgegennimmt und Nachrichten aufzeichnet",
+    "situations": [
+      "phone",
+      "daily-life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte sprechen Sie nach dem Signalton auf den Anrufbeantworter.",
+        "en": "Please speak after the tone on the answering machine.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe eine Nachricht auf dem Anrufbeantworter.",
+        "en": "I have a message on the answering machine.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Der Anrufbeantworter ist voll.",
+        "en": "The answering machine is full.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Often abbreviated as 'AB' in spoken German — 'Sprich mir auf den AB.'",
+      "Use 'auf den Anrufbeantworter sprechen', not 'in den Anrufbeantworter sprechen'."
+    ],
+    "usageNotes": [
+      "Refers mainly to landline answering machines. For mobiles, use 'die Mailbox'.",
+      "This is a classic long German compound word — beginners often struggle with it."
+    ],
+    "relatedWords": [
+      "die Mailbox",
+      "die Nachricht",
+      "hinterlassen"
+    ],
+    "tags": [
+      "phone-basics",
+      "landline"
+    ]
+  },
+  {
+    "id": "v-phone-017",
+    "word": "das Handy",
+    "baseForm": "Handy",
+    "gender": "das",
+    "plural": "Handys",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "mobile phone, cell phone",
+    "meaningDe": "ein tragbares Telefon für den mobilen Gebrauch",
+    "situations": [
+      "phone",
+      "daily-life",
+      "technology"
+    ],
+    "examples": [
+      {
+        "de": "Mein Handy klingelt.",
+        "en": "My phone is ringing.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie mich auf dem Handy erreichen?",
+        "en": "Can you reach me on my mobile?",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe mein Handy zu Hause vergessen.",
+        "en": "I forgot my phone at home.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "'Handy' is a false friend — in English, 'handy' means convenient, not a phone.",
+      "The plural is 'Handys', not 'Handies'."
+    ],
+    "usageNotes": [
+      "'Handy' is uniqüly German — other German-speaking countries sometimes use 'Mobiltelefon' or 'Natel' (Swiss).",
+      "Increasingly, younger speakers also say 'Smartphone' or just 'Telefon'."
+    ],
+    "relatedWords": [
+      "das Smartphone",
+      "das Mobiltelefon",
+      "die Handynummer"
+    ],
+    "tags": [
+      "phone-basics",
+      "mobile",
+      "technology"
+    ]
+  },
+  {
+    "id": "v-phone-018",
+    "word": "der Termin",
+    "baseForm": "Termin",
+    "gender": "der",
+    "plural": "Termine",
+    "wordClass": "noun",
+    "level": "A2",
+    "meaningEn": "appointment",
+    "meaningDe": "ein vereinbarter Zeitpunkt für ein Treffen oder einen Anruf",
+    "situations": [
+      "phone",
+      "appointments",
+      "work",
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich rufe an, um einen Termin zu vereinbaren.",
+        "en": "I'm calling to make an appointment.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich meinen Termin verschieben?",
+        "en": "Can I reschedule my appointment?",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss leider meinen Termin absagen.",
+        "en": "I'm afraid I have to cancel my appointment.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'einen Termin vereinbaren/ausmachen', not 'einen Termin machen'.",
+      "Don't confuse 'der Termin' (appointment) with 'die Frist' (deadline)."
+    ],
+    "usageNotes": [
+      "Making appointments by phone is still very common in Germany, especially with doctors.",
+      "Key verbs: 'vereinbaren' (arrange), 'verschieben' (reschedule), 'absagen' (cancel)."
+    ],
+    "relatedWords": [
+      "vereinbaren",
+      "verschieben",
+      "absagen",
+      "die Terminbestätigung",
+      "v-bureaucracy-015",
+      "v-healthcare-006",
+      "v-work-005"
+    ],
+    "tags": [
+      "appointments",
+      "business",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "v-phone-019",
+    "word": "die Warteschleife",
+    "baseForm": "Warteschleife",
+    "gender": "die",
+    "plural": "Warteschleifen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "hold loop, telephone queue",
+    "meaningDe": "die Wartezeit am Telefon, oft mit Musik oder Ansagen",
+    "situations": [
+      "phone",
+      "services",
+      "frustration"
+    ],
+    "examples": [
+      {
+        "de": "Ich hänge seit zwanzig Minuten in der Warteschleife.",
+        "en": "I've been on hold for twenty minutes.",
+        "situation": "phone",
+        "tone": "informal"
+      },
+      {
+        "de": "Sie werden jetzt in die Warteschleife gelegt.",
+        "en": "You will now be put on hold.",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Warteschleife hatte furchtbare Musik.",
+        "en": "The hold music was terrible.",
+        "tone": "informal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'in der Warteschleife hängen/sein', not 'auf der Warteschleife sein'.",
+      "Don't confuse with 'die Warteschlange' (physical qüü of people)."
+    ],
+    "usageNotes": [
+      "A very common frustration in Germany — being stuck in hold loops is a freqünt complaint.",
+      "'Warteschleifenmusik' (hold music) is a compound word Germans love to complain about."
+    ],
+    "relatedWords": [
+      "warten",
+      "die Wartezeit",
+      "die Warteschlange"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "services"
+    ]
+  },
+  {
+    "id": "v-phone-020",
+    "word": "die Telefonkonferenz",
+    "baseForm": "Telefonkonferenz",
+    "gender": "die",
+    "plural": "Telefonkonferenzen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "conference call",
+    "meaningDe": "ein Telefongespräch mit mehreren Teilnehmern gleichzeitig",
+    "situations": [
+      "phone",
+      "work",
+      "meetings"
+    ],
+    "examples": [
+      {
+        "de": "Wir haben um 14 Uhr eine Telefonkonferenz.",
+        "en": "We have a conference call at 2 PM.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Können Sie sich in die Telefonkonferenz einwählen?",
+        "en": "Can you dial into the conference call?",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Telefonkonferenz wurde auf morgen verschoben.",
+        "en": "The conference call has been postponed to tomorrow.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'sich einwählen' (dial in), not 'sich einrufen' for joining a conference call.",
+      "Short form 'Telko' is very common in office jargon — don't be confused by it."
+    ],
+    "usageNotes": [
+      "Often shortened to 'Telko' in informal office language.",
+      "Since 2020, 'Videokonferenz' has largely replaced this, but the term is still widely used."
+    ],
+    "relatedWords": [
+      "die Konferenz",
+      "die Videokonferenz",
+      "sich einwählen"
+    ],
+    "tags": [
+      "business",
+      "meetings"
+    ]
+  },
+  {
+    "id": "v-phone-021",
+    "word": "das Freizeichen",
+    "baseForm": "Freizeichen",
+    "gender": "das",
+    "plural": "Freizeichen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "ringing tone, dial tone (when ringing)",
+    "meaningDe": "das Tonsignal, das anzeigt, dass die gewählte Nummer klingelt",
+    "situations": [
+      "phone",
+      "technical"
+    ],
+    "examples": [
+      {
+        "de": "Es klingelt — ich höre das Freizeichen.",
+        "en": "It's ringing — I can hear the ringing tone.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Nach dem Freizeichen hat niemand abgenommen.",
+        "en": "After the ringing tone, nobody picked up.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'das Freizeichen' (ringing tone) with 'das Besetztzeichen' (busy signal).",
+      "'Freizeichen' literally means 'free signal' — it indicates the line is free and ringing."
+    ],
+    "usageNotes": [
+      "Useful word when describing what happens during a call attempt.",
+      "The opposite is 'das Besetztzeichen' (busy signal)."
+    ],
+    "relatedWords": [
+      "das Besetztzeichen",
+      "klingeln",
+      "besetzt"
+    ],
+    "tags": [
+      "phone-basics",
+      "technical"
+    ]
+  },
+  {
+    "id": "v-phone-022",
+    "word": "das Besetztzeichen",
+    "baseForm": "Besetztzeichen",
+    "gender": "das",
+    "plural": "Besetztzeichen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "busy signal",
+    "meaningDe": "das Tonsignal, das anzeigt, dass die angerufene Leitung belegt ist",
+    "situations": [
+      "phone",
+      "technical"
+    ],
+    "examples": [
+      {
+        "de": "Ich bekomme nur das Besetztzeichen.",
+        "en": "I'm only getting the busy signal.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Wenn Sie das Besetztzeichen hören, versuchen Sie es später noch einmal.",
+        "en": "If you hear the busy signal, try again later.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "This is a compound noun: Besetzt + Zeichen. Don't split it into two words.",
+      "Use 'das Besetztzeichen bekommen/hören', not 'das Besetztzeichen haben'."
+    ],
+    "usageNotes": [
+      "Less common today dü to call waiting and mobile phones, but still used.",
+      "People often simply say 'Es ist besetzt' (It's busy) instead."
+    ],
+    "relatedWords": [
+      "besetzt",
+      "das Freizeichen",
+      "die Leitung"
+    ],
+    "tags": [
+      "phone-basics",
+      "technical"
+    ]
+  },
+  {
+    "id": "v-phone-023",
+    "word": "die Rufnummer",
+    "baseForm": "Rufnummer",
+    "gender": "die",
+    "plural": "Rufnummern",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "phone number (formal/official)",
+    "meaningDe": "die offizielle Bezeichnung für eine Telefonnummer",
+    "situations": [
+      "phone",
+      "services",
+      "official"
+    ],
+    "examples": [
+      {
+        "de": "Bitte geben Sie Ihre Rufnummer ein.",
+        "en": "Please enter your phone number.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Rufnummer ist nicht vergeben.",
+        "en": "The number is not assigned.",
+        "tone": "formal"
+      },
+      {
+        "de": "Ihre Rufnummer wird übermittelt.",
+        "en": "Your number will be transmitted.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Rufnummer' is the official/technical term; 'Telefonnummer' is more everyday.",
+      "Don't confuse 'die Rufnummer' with 'die Rufumleitung' (call forwarding)."
+    ],
+    "usageNotes": [
+      "Used in official contexts, forms, and automated systems.",
+      "'Rufnummerunterdrückung' means caller ID suppression."
+    ],
+    "relatedWords": [
+      "die Telefonnummer",
+      "die Rufumleitung",
+      "die Handynummer"
+    ],
+    "tags": [
+      "official",
+      "technical"
+    ]
+  },
+  {
+    "id": "v-phone-024",
+    "word": "die Rufumleitung",
+    "baseForm": "Rufumleitung",
+    "gender": "die",
+    "plural": "Rufumleitungen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "call forwarding",
+    "meaningDe": "die Weiterleitung eingehender Anrufe an eine andere Nummer",
+    "situations": [
+      "phone",
+      "work",
+      "technical"
+    ],
+    "examples": [
+      {
+        "de": "Ich habe eine Rufumleitung auf mein Handy eingerichtet.",
+        "en": "I've set up call forwarding to my mobile.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie bitte die Rufumleitung aktivieren?",
+        "en": "Can you please activate call forwarding?",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'eine Rufumleitung einrichten', not 'eine Rufumleitung machen'.",
+      "Don't confuse 'Rufumleitung' (forwarding) with 'Weiterleitung' (which can also mean email forwarding)."
+    ],
+    "usageNotes": [
+      "Common in office settings when employees are out of office.",
+      "Also called 'Anrufweiterleitung' — both terms are used interchangeably."
+    ],
+    "relatedWords": [
+      "weiterleiten",
+      "umleiten",
+      "die Rufnummer"
+    ],
+    "tags": [
+      "technical",
+      "office"
+    ]
+  },
+  {
+    "id": "v-phone-025",
+    "word": "die Ansage",
+    "baseForm": "Ansage",
+    "gender": "die",
+    "plural": "Ansagen",
+    "wordClass": "noun",
+    "level": "B1",
+    "meaningEn": "announcement, recorded message",
+    "meaningDe": "eine gesprochene Mitteilung, oft als automatische Telefonansage",
+    "situations": [
+      "phone",
+      "services",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Bitte hören Sie sich die Ansage an.",
+        "en": "Please listen to the announcement.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Die Ansage sagt, dass die Nummer nicht vergeben ist.",
+        "en": "The recorded message says the number is not assigned.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss die Ansage auf dem Anrufbeantworter ändern.",
+        "en": "I need to change the message on the answering machine.",
+        "tone": "neutral"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'eine Ansage hören/besprechen', not 'eine Ansage lesen' for phone contexts.",
+      "'Ansage' in slang can also mean a bold statement — 'Das war eine klare Ansage!'"
+    ],
+    "usageNotes": [
+      "Automated phone systems in Germany often start with an 'Ansage' guiding callers.",
+      "'Bandansage' specifically refers to a taped/recorded announcement."
+    ],
+    "relatedWords": [
+      "der Anrufbeantworter",
+      "die Durchsage",
+      "ansagen"
+    ],
+    "tags": [
+      "phone-basics",
+      "automated"
+    ]
+  },
+  {
+    "id": "v-phone-026",
+    "word": "anrufen",
+    "baseForm": "anrufen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to call (someone), to phone",
+    "meaningDe": "jemanden per Telefon kontaktieren",
+    "situations": [
+      "phone",
+      "daily-life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich rufe Sie morgen an.",
+        "en": "I'll call you tomorrow.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Kannst du mich später anrufen?",
+        "en": "Can you call me later?",
+        "tone": "informal"
+      },
+      {
+        "de": "Ich rufe wegen eines Termins an.",
+        "en": "I'm calling about an appointment.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "rufe an",
+        "du": "rufst an",
+        "er_sie_es": "ruft an",
+        "wir": "rufen an",
+        "ihr": "ruft an",
+        "sie_Sie": "rufen an"
+      },
+      "past": {
+        "ich": "rief an",
+        "du": "riefst an",
+        "er_sie_es": "rief an",
+        "wir": "riefen an",
+        "ihr": "rieft an",
+        "sie_Sie": "riefen an"
+      },
+      "pastParticiple": "angerufen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Remember the separable prefix: 'Ich rufe dich an', not 'Ich anrufe dich'.",
+      "Use accusative: 'Ich rufe ihn an', not 'Ich rufe ihm an'."
+    ],
+    "usageNotes": [
+      "Separable verb — the 'an' gös to the end in main clauses.",
+      "In subordinate clauses, it stays together: '...weil ich dich anrufe'."
+    ],
+    "relatedWords": [
+      "der Anruf",
+      "telefonieren",
+      "zurückrufen"
+    ],
+    "tags": [
+      "separable-verb",
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-027",
+    "word": "durchstellen",
+    "baseForm": "durchstellen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to put through, to transfer (a call)",
+    "meaningDe": "einen Anruf an eine andere Person oder Abteilung weiterleiten",
+    "situations": [
+      "phone",
+      "work",
+      "services"
+    ],
+    "examples": [
+      {
+        "de": "Ich stelle Sie jetzt durch.",
+        "en": "I'll put you through now.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Können Sie mich bitte zur Buchhaltung durchstellen?",
+        "en": "Can you please put me through to accounting?",
+        "tone": "formal"
+      },
+      {
+        "de": "Moment, ich stelle Sie zu Herrn Müller durch.",
+        "en": "One moment, I'll transfer you to Mr. Müller.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "stelle durch",
+        "du": "stellst durch",
+        "er_sie_es": "stellt durch",
+        "wir": "stellen durch",
+        "ihr": "stellt durch",
+        "sie_Sie": "stellen durch"
+      },
+      "past": {
+        "ich": "stellte durch",
+        "du": "stelltest durch",
+        "er_sie_es": "stellte durch",
+        "wir": "stellten durch",
+        "ihr": "stelltet durch",
+        "sie_Sie": "stellten durch"
+      },
+      "pastParticiple": "durchgestellt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Ich stelle Sie durch', not 'Ich durchstelle Sie'.",
+      "Use 'zu' + dative for the person: 'zu Frau Schmidt durchstellen'."
+    ],
+    "usageNotes": [
+      "Essential verb for office and reception phone contexts.",
+      "Often heard from receptionists: 'Einen Moment, ich stelle Sie durch.'"
+    ],
+    "relatedWords": [
+      "verbinden",
+      "weiterleiten",
+      "die Durchwahl"
+    ],
+    "tags": [
+      "separable-verb",
+      "business"
+    ]
+  },
+  {
+    "id": "v-phone-028",
+    "word": "auflegen",
+    "baseForm": "auflegen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to hang up (the phone)",
+    "meaningDe": "ein Telefongespräch beenden, den Hörer zurücklegen",
+    "situations": [
+      "phone",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte legen Sie nicht auf!",
+        "en": "Please don't hang up!",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Er hat einfach aufgelegt.",
+        "en": "He just hung up.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich muss jetzt auflegen.",
+        "en": "I have to hang up now.",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "lege auf",
+        "du": "legst auf",
+        "er_sie_es": "legt auf",
+        "wir": "legen auf",
+        "ihr": "legt auf",
+        "sie_Sie": "legen auf"
+      },
+      "past": {
+        "ich": "legte auf",
+        "du": "legtest auf",
+        "er_sie_es": "legte auf",
+        "wir": "legten auf",
+        "ihr": "legtet auf",
+        "sie_Sie": "legten auf"
+      },
+      "pastParticiple": "aufgelegt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Don't confuse 'auflegen' (hang up) with 'ablegen' (to put down/file).",
+      "'Auflegen' can also mean 'to put on' (a record) — context determines meaning."
+    ],
+    "usageNotes": [
+      "Originally referred to placing the receiver back on the phone. Still used with mobiles.",
+      "Hanging up on someone is considered very rude in German culture."
+    ],
+    "relatedWords": [
+      "der Hörer",
+      "abnehmen",
+      "beenden"
+    ],
+    "tags": [
+      "separable-verb",
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-029",
+    "word": "zurückrufen",
+    "baseForm": "zurückrufen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to call back",
+    "meaningDe": "jemanden erneut anrufen, nachdem man dessen Anruf verpasst hat",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Kann er mich zurückrufen?",
+        "en": "Can he call me back?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich rufe Sie so schnell wie möglich zurück.",
+        "en": "I'll call you back as soon as possible.",
+        "tone": "formal"
+      },
+      {
+        "de": "Sorry, ich rufe dich gleich zurück.",
+        "en": "Sorry, I'll call you right back.",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "rufe zurück",
+        "du": "rufst zurück",
+        "er_sie_es": "ruft zurück",
+        "wir": "rufen zurück",
+        "ihr": "ruft zurück",
+        "sie_Sie": "rufen zurück"
+      },
+      "past": {
+        "ich": "rief zurück",
+        "du": "riefst zurück",
+        "er_sie_es": "rief zurück",
+        "wir": "riefen zurück",
+        "ihr": "rieft zurück",
+        "sie_Sie": "riefen zurück"
+      },
+      "pastParticiple": "zurückgerufen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable: 'Ich rufe Sie zurück', not 'Ich zurückrufe Sie'.",
+      "Use accusative: 'Ich rufe sie zurück', not 'Ich rufe ihr zurück'."
+    ],
+    "usageNotes": [
+      "One of the most essential phone verbs — used constantly in business contexts.",
+      "Polite formula: 'Könnte er/sie mich bitte zurückrufen?'"
+    ],
+    "relatedWords": [
+      "der Rückruf",
+      "anrufen",
+      "erneut anrufen"
+    ],
+    "tags": [
+      "separable-verb",
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-030",
+    "word": "hinterlassen",
+    "baseForm": "hinterlassen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to leave (a message)",
+    "meaningDe": "eine Nachricht für jemanden zurücklassen",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Möchten Sie eine Nachricht hinterlassen?",
+        "en": "Would you like to leave a message?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe ihm eine Nachricht auf der Mailbox hinterlassen.",
+        "en": "I left him a message on his voicemail.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Bitte hinterlassen Sie Ihren Namen und Ihre Nummer.",
+        "en": "Please leave your name and number.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "hinterlasse",
+        "du": "hinterlässt",
+        "er_sie_es": "hinterlässt",
+        "wir": "hinterlassen",
+        "ihr": "hinterlasst",
+        "sie_Sie": "hinterlassen"
+      },
+      "past": {
+        "ich": "hinterließ",
+        "du": "hinterließt",
+        "er_sie_es": "hinterließ",
+        "wir": "hinterließen",
+        "ihr": "hinterließt",
+        "sie_Sie": "hinterließen"
+      },
+      "pastParticiple": "hinterlassen",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "This is an inseparable verb — the prefix 'hinter-' dös not separate.",
+      "Past participle has no 'ge-': 'hinterlassen', not 'hintergelassen'."
+    ],
+    "usageNotes": [
+      "The standard verb used by receptionists: 'Möchten Sie eine Nachricht hinterlassen?'",
+      "Can also mean to leave behind (an inheritance, legacy) in non-phone contexts."
+    ],
+    "relatedWords": [
+      "die Nachricht",
+      "die Mailbox",
+      "der Anrufbeantworter"
+    ],
+    "tags": [
+      "inseparable-verb",
+      "phone-etiquette"
+    ]
+  },
+  {
+    "id": "v-phone-031",
+    "word": "verbinden",
+    "baseForm": "verbinden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to connect, to put through",
+    "meaningDe": "zwei Gesprächspartner telefonisch zusammenschalten",
+    "situations": [
+      "phone",
+      "work",
+      "services"
+    ],
+    "examples": [
+      {
+        "de": "Ich verbinde Sie mit der Abteilung.",
+        "en": "I'll connect you with the department.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie mich bitte verbinden?",
+        "en": "Could you please connect me?",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie werden jetzt verbunden.",
+        "en": "You are being connected now.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verbinde",
+        "du": "verbindest",
+        "er_sie_es": "verbindet",
+        "wir": "verbinden",
+        "ihr": "verbindet",
+        "sie_Sie": "verbinden"
+      },
+      "past": {
+        "ich": "verband",
+        "du": "verbandst",
+        "er_sie_es": "verband",
+        "wir": "verbanden",
+        "ihr": "verbandet",
+        "sie_Sie": "verbanden"
+      },
+      "pastParticiple": "verbunden",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Inseparable verb — 'ver-' stays attached: 'Ich verbinde Sie', not 'Ich binde Sie ver'.",
+      "Use 'mit' + dative: 'mit Frau Müller verbinden', not 'zu Frau Müller verbinden'."
+    ],
+    "usageNotes": [
+      "The most common verb used by receptionists and switchboard operators.",
+      "Passive form 'Sie werden verbunden' is very freqünt in automated phone systems."
+    ],
+    "relatedWords": [
+      "die Verbindung",
+      "durchstellen",
+      "weiterleiten"
+    ],
+    "tags": [
+      "inseparable-verb",
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-032",
+    "word": "erreichen",
+    "baseForm": "erreichen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to reach (someone by phone)",
+    "meaningDe": "jemanden telefonisch kontaktieren können",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Unter welcher Nummer kann ich Sie erreichen?",
+        "en": "At what number can I reach you?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe versucht, dich zu erreichen.",
+        "en": "I tried to reach you.",
+        "tone": "informal"
+      },
+      {
+        "de": "Sie sind telefonisch leider nicht zu erreichen.",
+        "en": "Unfortunately, they can't be reached by phone.",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "erreiche",
+        "du": "erreichst",
+        "er_sie_es": "erreicht",
+        "wir": "erreichen",
+        "ihr": "erreicht",
+        "sie_Sie": "erreichen"
+      },
+      "past": {
+        "ich": "erreichte",
+        "du": "erreichtest",
+        "er_sie_es": "erreichte",
+        "wir": "erreichten",
+        "ihr": "erreichtet",
+        "sie_Sie": "erreichten"
+      },
+      "pastParticiple": "erreicht",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Inseparable verb — no 'ge-' in past participle: 'erreicht', not 'geerreicht'.",
+      "Use accusative for the person: 'Ich erreiche ihn', not 'Ich erreiche ihm'."
+    ],
+    "usageNotes": [
+      "Very freqüntly used in phone contexts to ask about availability.",
+      "'Erreichbar sein' (to be reachable) is the adjective form — equally important."
+    ],
+    "relatedWords": [
+      "erreichbar",
+      "die Erreichbarkeit",
+      "kontaktieren"
+    ],
+    "tags": [
+      "inseparable-verb",
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-033",
+    "word": "wählen",
+    "baseForm": "wählen",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to dial (a number)",
+    "meaningDe": "eine Telefonnummer eingeben",
+    "situations": [
+      "phone",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Bitte wählen Sie die Eins für Deutsch.",
+        "en": "Please dial one for German.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Hast du die richtige Nummer gewählt?",
+        "en": "Did you dial the right number?",
+        "tone": "informal"
+      },
+      {
+        "de": "Wählen Sie die Vorwahl und dann die Rufnummer.",
+        "en": "Dial the area code and then the number.",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "wähle",
+        "du": "wählst",
+        "er_sie_es": "wählt",
+        "wir": "wählen",
+        "ihr": "wählt",
+        "sie_Sie": "wählen"
+      },
+      "past": {
+        "ich": "wählte",
+        "du": "wähltest",
+        "er_sie_es": "wählte",
+        "wir": "wählten",
+        "ihr": "wähltet",
+        "sie_Sie": "wählten"
+      },
+      "pastParticiple": "gewählt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "'Wählen' also means 'to vote/choose' — context determines meaning.",
+      "For phone: 'eine Nummer wählen', not 'eine Nummer drücken' (though 'drücken' is used for keys)."
+    ],
+    "usageNotes": [
+      "Used in automated systems: 'Bitte wählen Sie...' (Please dial/select...).",
+      "Originally referred to rotary dialing, now used generally for entering numbers."
+    ],
+    "relatedWords": [
+      "die Vorwahl",
+      "die Durchwahl",
+      "einwählen"
+    ],
+    "tags": [
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-034",
+    "word": "weiterleiten",
+    "baseForm": "weiterleiten",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to forward (a call), to redirect",
+    "meaningDe": "einen Anruf an eine andere Person oder Stelle weiterreichen",
+    "situations": [
+      "phone",
+      "work",
+      "email"
+    ],
+    "examples": [
+      {
+        "de": "Ich leite Ihren Anruf an die zuständige Abteilung weiter.",
+        "en": "I'll forward your call to the responsible department.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Können Sie mich bitte weiterleiten?",
+        "en": "Can you please transfer me?",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Anruf wurde an die Zentrale weitergeleitet.",
+        "en": "The call was forwarded to the main office.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "leite weiter",
+        "du": "leitest weiter",
+        "er_sie_es": "leitet weiter",
+        "wir": "leiten weiter",
+        "ihr": "leitet weiter",
+        "sie_Sie": "leiten weiter"
+      },
+      "past": {
+        "ich": "leitete weiter",
+        "du": "leitetest weiter",
+        "er_sie_es": "leitete weiter",
+        "wir": "leiteten weiter",
+        "ihr": "leitetet weiter",
+        "sie_Sie": "leiteten weiter"
+      },
+      "pastParticiple": "weitergeleitet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Ich leite Sie weiter', not 'Ich weiterleite Sie'.",
+      "Don't confuse 'weiterleiten' (forward) with 'weiterleiten' in email — same word, different context."
+    ],
+    "usageNotes": [
+      "Used for both phone calls and emails in German.",
+      "Slightly more formal than 'durchstellen'; both are common in office settings."
+    ],
+    "relatedWords": [
+      "durchstellen",
+      "verbinden",
+      "die Rufumleitung",
+      "v-emails-026"
+    ],
+    "tags": [
+      "separable-verb",
+      "business"
+    ]
+  },
+  {
+    "id": "v-phone-035",
+    "word": "buchstabieren",
+    "baseForm": "buchstabieren",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to spell (out)",
+    "meaningDe": "ein Wort Buchstabe für Buchstabe aussprechen",
+    "situations": [
+      "phone",
+      "appointments",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Können Sie Ihren Namen bitte buchstabieren?",
+        "en": "Can you please spell your name?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich buchstabiere: M wie Martha, E wie Emil...",
+        "en": "I'll spell it: M as in Martha, E as in Emil...",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie das bitte buchstabieren?",
+        "en": "Could you please spell that?",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "buchstabiere",
+        "du": "buchstabierst",
+        "er_sie_es": "buchstabiert",
+        "wir": "buchstabieren",
+        "ihr": "buchstabiert",
+        "sie_Sie": "buchstabieren"
+      },
+      "past": {
+        "ich": "buchstabierte",
+        "du": "buchstabiertest",
+        "er_sie_es": "buchstabierte",
+        "wir": "buchstabierten",
+        "ihr": "buchstabiertet",
+        "sie_Sie": "buchstabierten"
+      },
+      "pastParticiple": "buchstabiert",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Germans use a spelling alphabet: 'A wie Anton, B wie Berta' etc.",
+      "Don't confuse 'buchstabieren' (to spell aloud) with 'schreiben' (to write)."
+    ],
+    "usageNotes": [
+      "Essential for phone calls — spelling names and addresses clearly.",
+      "Germany has its own official spelling alphabet (Buchstabiertafel), updated in 2022."
+    ],
+    "relatedWords": [
+      "der Buchstabe",
+      "die Buchstabiertafel",
+      "schreiben"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-phone-036",
+    "word": "vereinbaren",
+    "baseForm": "vereinbaren",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to arrange, to schedule (an appointment)",
+    "meaningDe": "einen Termin oder ein Treffen festlegen",
+    "situations": [
+      "phone",
+      "appointments",
+      "work",
+      "healthcare"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte einen Termin vereinbaren.",
+        "en": "I'd like to schedule an appointment.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Können wir einen Rückruf vereinbaren?",
+        "en": "Can we arrange a callback?",
+        "tone": "formal"
+      },
+      {
+        "de": "Wir haben für Dienstag ein Gespräch vereinbart.",
+        "en": "We've arranged a call for Tuesday.",
+        "tone": "neutral"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "vereinbare",
+        "du": "vereinbarst",
+        "er_sie_es": "vereinbart",
+        "wir": "vereinbaren",
+        "ihr": "vereinbart",
+        "sie_Sie": "vereinbaren"
+      },
+      "past": {
+        "ich": "vereinbarte",
+        "du": "vereinbartest",
+        "er_sie_es": "vereinbarte",
+        "wir": "vereinbarten",
+        "ihr": "vereinbartet",
+        "sie_Sie": "vereinbarten"
+      },
+      "pastParticiple": "vereinbart",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Inseparable verb — no 'ge-' in participle: 'vereinbart', not 'gevereinbart'.",
+      "Use 'einen Termin vereinbaren', not 'einen Termin machen' in formal contexts."
+    ],
+    "usageNotes": [
+      "The most important verb for making appointments by phone.",
+      "Very commonly paired with 'der Termin' — 'einen Termin vereinbaren' is a fixed expression."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "die Vereinbarung",
+      "ausmachen",
+      "v-work-033"
+    ],
+    "tags": [
+      "inseparable-verb",
+      "appointments"
+    ]
+  },
+  {
+    "id": "v-phone-037",
+    "word": "absagen",
+    "baseForm": "absagen",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to cancel (an appointment)",
+    "meaningDe": "einen vereinbarten Termin aufheben",
+    "situations": [
+      "phone",
+      "appointments",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Ich muss leider meinen Termin absagen.",
+        "en": "I'm afraid I have to cancel my appointment.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Sie hat kurzfristig abgesagt.",
+        "en": "She cancelled at short notice.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Können Sie den Termin für mich absagen?",
+        "en": "Can you cancel the appointment for me?",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "sage ab",
+        "du": "sagst ab",
+        "er_sie_es": "sagt ab",
+        "wir": "sagen ab",
+        "ihr": "sagt ab",
+        "sie_Sie": "sagen ab"
+      },
+      "past": {
+        "ich": "sagte ab",
+        "du": "sagtest ab",
+        "er_sie_es": "sagte ab",
+        "wir": "sagten ab",
+        "ihr": "sagtet ab",
+        "sie_Sie": "sagten ab"
+      },
+      "pastParticiple": "abgesagt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Separable verb: 'Ich sage den Termin ab', not 'Ich absage den Termin'.",
+      "Use 'absagen' for appointments, not 'kündigen' (which means to terminate a contract)."
+    ],
+    "usageNotes": [
+      "Polite formula: 'Ich muss leider absagen' (I'm afraid I have to cancel).",
+      "In Germany, cancelling an appointment without notice is considered very rude."
+    ],
+    "relatedWords": [
+      "der Termin",
+      "verschieben",
+      "stornieren"
+    ],
+    "tags": [
+      "separable-verb",
+      "appointments",
+      "etiquette"
+    ]
+  },
+  {
+    "id": "v-phone-038",
+    "word": "sich melden",
+    "baseForm": "sich melden",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to answer the phone, to get in touch",
+    "meaningDe": "ans Telefon gehen oder sich bei jemandem zurückmelden",
+    "situations": [
+      "phone",
+      "daily-life",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Müller, guten Tag. — (typical way Germans answer the phone)",
+        "en": "Müller, good day. — (typical phone greeting)",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Er meldet sich nicht.",
+        "en": "He's not answering.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich melde mich bei Ihnen, sobald ich mehr weiß.",
+        "en": "I'll get in touch with you as soon as I know more.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "melde mich",
+        "du": "meldest dich",
+        "er_sie_es": "meldet sich",
+        "wir": "melden uns",
+        "ihr": "meldet euch",
+        "sie_Sie": "melden sich"
+      },
+      "past": {
+        "ich": "meldete mich",
+        "du": "meldetest dich",
+        "er_sie_es": "meldete sich",
+        "wir": "meldeten uns",
+        "ihr": "meldetet euch",
+        "sie_Sie": "meldeten sich"
+      },
+      "pastParticiple": "gemeldet",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Reflexive verb — don't forget the reflexive pronoun: 'Ich melde mich', not 'Ich melde'.",
+      "In Germany, people answer the phone with their last name — don't say 'Hallo' in business calls."
+    ],
+    "usageNotes": [
+      "Germans traditionally answer the phone by saying their last name.",
+      "'Ich melde mich' is a very common way to say 'I'll be in touch' or 'I'll get back to you'."
+    ],
+    "relatedWords": [
+      "abnehmen",
+      "rangehen",
+      "sich zurückmelden"
+    ],
+    "tags": [
+      "reflexive-verb",
+      "phone-etiquette"
+    ]
+  },
+  {
+    "id": "v-phone-039",
+    "word": "verschieben",
+    "baseForm": "verschieben",
+    "wordClass": "verb",
+    "level": "B1",
+    "meaningEn": "to reschedule, to postpone",
+    "meaningDe": "einen Termin auf einen anderen Zeitpunkt verlegen",
+    "situations": [
+      "phone",
+      "appointments",
+      "work"
+    ],
+    "examples": [
+      {
+        "de": "Können wir den Termin auf nächste Woche verschieben?",
+        "en": "Can we reschedule the appointment to next week?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Der Termin wurde leider verschoben.",
+        "en": "The appointment was unfortunately postponed.",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich muss unser Gespräch leider verschieben.",
+        "en": "I'm afraid I have to reschedule our call.",
+        "tone": "formal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "verschiebe",
+        "du": "verschiebst",
+        "er_sie_es": "verschiebt",
+        "wir": "verschieben",
+        "ihr": "verschiebt",
+        "sie_Sie": "verschieben"
+      },
+      "past": {
+        "ich": "verschob",
+        "du": "verschobst",
+        "er_sie_es": "verschob",
+        "wir": "verschoben",
+        "ihr": "verschobt",
+        "sie_Sie": "verschoben"
+      },
+      "pastParticiple": "verschoben",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Inseparable verb: 'verschoben', not 'geschoben' (that's from 'schieben' — to push).",
+      "Use 'auf' + accusative for the new time: 'auf Montag verschieben'."
+    ],
+    "usageNotes": [
+      "Polite way to reschedule without fully cancelling.",
+      "'Verschieben' implies a delay; 'verlegen' implies moving to a different time (without negative connotation)."
+    ],
+    "relatedWords": [
+      "absagen",
+      "verlegen",
+      "der Termin",
+      "v-meetings-040"
+    ],
+    "tags": [
+      "inseparable-verb",
+      "appointments"
+    ]
+  },
+  {
+    "id": "v-phone-040",
+    "word": "klingeln",
+    "baseForm": "klingeln",
+    "wordClass": "verb",
+    "level": "A2",
+    "meaningEn": "to ring (phone ringing)",
+    "meaningDe": "ein Klingelton ertönt, wenn jemand anruft",
+    "situations": [
+      "phone",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Das Telefon klingelt.",
+        "en": "The phone is ringing.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Mein Handy hat den ganzen Tag geklingelt.",
+        "en": "My phone has been ringing all day.",
+        "tone": "informal"
+      },
+      {
+        "de": "Es klingelt schon seit fünf Minuten — geh doch mal ran!",
+        "en": "It's been ringing for five minutes — answer it!",
+        "tone": "informal"
+      }
+    ],
+    "conjugation": {
+      "present": {
+        "ich": "klingle",
+        "du": "klingelst",
+        "er_sie_es": "klingelt",
+        "wir": "klingeln",
+        "ihr": "klingelt",
+        "sie_Sie": "klingeln"
+      },
+      "past": {
+        "ich": "klingelte",
+        "du": "klingeltest",
+        "er_sie_es": "klingelte",
+        "wir": "klingelten",
+        "ihr": "klingeltet",
+        "sie_Sie": "klingelten"
+      },
+      "pastParticiple": "geklingelt",
+      "auxiliary": "haben"
+    },
+    "commonMistakes": [
+      "Don't confuse 'klingeln' (ring) with 'klingen' (to sound).",
+      "'Das Telefon klingelt' is correct; not 'Das Telefon ringt' (false friend from English)."
+    ],
+    "usageNotes": [
+      "Used for phones, doorbells, and alarm clocks.",
+      "The noun is 'der Klingelton' (ringtone)."
+    ],
+    "relatedWords": [
+      "der Klingelton",
+      "läuten",
+      "rangehen"
+    ],
+    "tags": [
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-041",
+    "word": "erreichbar",
+    "baseForm": "erreichbar",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "reachable, available (by phone)",
+    "meaningDe": "telefonisch kontaktierbar, verfügbar",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin heute den ganzen Tag erreichbar.",
+        "en": "I'm reachable all day today.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Unter welcher Nummer sind Sie erreichbar?",
+        "en": "At what number can you be reached?",
+        "tone": "formal"
+      },
+      {
+        "de": "Frau Meier ist heute leider nicht erreichbar.",
+        "en": "Mrs. Meier is unfortunately not available today.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'erreichbar sein', not 'verfügbar sein' specifically for phone availability.",
+      "Don't say 'Ich bin erreichbar auf...' — say 'Ich bin erreichbar unter...'"
+    ],
+    "usageNotes": [
+      "One of the most important adjectives for phone communication.",
+      "Often used in out-of-office messages and voicemail greetings."
+    ],
+    "relatedWords": [
+      "erreichen",
+      "die Erreichbarkeit",
+      "verfügbar"
+    ],
+    "tags": [
+      "phone-basics",
+      "availability"
+    ]
+  },
+  {
+    "id": "v-phone-042",
+    "word": "besetzt",
+    "baseForm": "besetzt",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "busy, occupied (phone line)",
+    "meaningDe": "eine Telefonleitung, die gerade benutzt wird",
+    "situations": [
+      "phone",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Die Leitung ist besetzt.",
+        "en": "The line is busy.",
+        "situation": "phone",
+        "tone": "neutral"
+      },
+      {
+        "de": "Ich habe dreimal angerufen, aber es war immer besetzt.",
+        "en": "I called three times, but it was always busy.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Tut mir leid, alle Leitungen sind besetzt.",
+        "en": "I'm sorry, all lines are busy.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Besetzt' is also used for seats and toilets (occupied). Don't mix up contexts.",
+      "Use 'Es ist besetzt' for a busy line, not 'Es ist beschäftigt' (that's for people being busy)."
+    ],
+    "usageNotes": [
+      "Standard term for a busy phone line.",
+      "'Das Besetztzeichen' (busy signal) is the related noun."
+    ],
+    "relatedWords": [
+      "das Besetztzeichen",
+      "die Leitung",
+      "frei"
+    ],
+    "tags": [
+      "phone-basics"
+    ]
+  },
+  {
+    "id": "v-phone-043",
+    "word": "dringend",
+    "baseForm": "dringend",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "urgent",
+    "meaningDe": "sehr wichtig und keinen Aufschub duldend",
+    "situations": [
+      "phone",
+      "work",
+      "emergencies"
+    ],
+    "examples": [
+      {
+        "de": "Es ist dringend. Kann ich bitte sofort mit ihm sprechen?",
+        "en": "It's urgent. Can I please speak with him right away?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich habe einen dringenden Anruf.",
+        "en": "I have an urgent call.",
+        "tone": "neutral"
+      },
+      {
+        "de": "Die Sache ist sehr dringend.",
+        "en": "The matter is very urgent.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't overuse 'dringend' — if everything is urgent, nothing is urgent.",
+      "'Dringend' is stronger than 'wichtig' (important). Use appropriately."
+    ],
+    "usageNotes": [
+      "Using 'dringend' on a phone call signals that your matter takes priority.",
+      "Can be used as an adverb too: 'Ich muss dringend mit ihm sprechen.'"
+    ],
+    "relatedWords": [
+      "wichtig",
+      "eilig",
+      "sofort",
+      "v-emails-042",
+      "v-work-044"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "urgency"
+    ]
+  },
+  {
+    "id": "v-phone-044",
+    "word": "zuständig",
+    "baseForm": "zuständig",
+    "wordClass": "adjective",
+    "level": "B1",
+    "meaningEn": "responsible, in charge",
+    "meaningDe": "für etwas verantwortlich oder beauftragt",
+    "situations": [
+      "phone",
+      "work",
+      "services"
+    ],
+    "examples": [
+      {
+        "de": "Wer ist dafür zuständig?",
+        "en": "Who is responsible for that?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bin für diese Angelegenheit nicht zuständig.",
+        "en": "I'm not in charge of this matter.",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich verbinde Sie mit der zuständigen Kollegin.",
+        "en": "I'll connect you with the colleague in charge.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'zuständig für' + accusative, not 'zuständig von'.",
+      "Don't confuse 'zuständig' (responsible for a task) with 'verantwortlich' (accountable)."
+    ],
+    "usageNotes": [
+      "Very common in German bureaucracy and business phone calls.",
+      "Hearing 'Dafür bin ich nicht zuständig' means you need to be transferred."
+    ],
+    "relatedWords": [
+      "verantwortlich",
+      "die Zuständigkeit",
+      "die Abteilung",
+      "v-bureaucracy-041",
+      "v-emails-044",
+      "v-meetings-045",
+      "v-work-041"
+    ],
+    "tags": [
+      "business",
+      "bureaucracy"
+    ]
+  },
+  {
+    "id": "v-phone-045",
+    "word": "persönlich",
+    "baseForm": "persönlich",
+    "wordClass": "adjective",
+    "level": "A2",
+    "meaningEn": "personal, in person",
+    "meaningDe": "eine bestimmte Person betreffend oder direkt/unmittelbar",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Ich möchte ihn persönlich sprechen.",
+        "en": "I'd like to speak to him personally.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Es handelt sich um eine persönliche Angelegenheit.",
+        "en": "It's a personal matter.",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich Sie persönlich erreichen?",
+        "en": "Can I reach you directly?",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Don't confuse 'persönlich' (personal/in person) with 'privat' (private).",
+      "As an adverb, it means 'in person' or 'directly': 'Ich komme persönlich vorbei.'"
+    ],
+    "usageNotes": [
+      "On the phone, 'persönlich sprechen' emphasizes wanting to speak directly to someone, not through an intermediary.",
+      "Often used to distinguish from leaving a message."
+    ],
+    "relatedWords": [
+      "privat",
+      "direkt",
+      "unmittelbar"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "communication"
+    ]
+  },
+  {
+    "id": "v-phone-046",
+    "word": "Kann ich bitte mit... sprechen?",
+    "baseForm": "Kann ich bitte mit... sprechen?",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Can I please speak with...?",
+    "meaningDe": "Höfliche Bitte, mit einer bestimmten Person verbunden zu werden",
+    "situations": [
+      "phone",
+      "work",
+      "appointments"
+    ],
+    "examples": [
+      {
+        "de": "Kann ich bitte mit Herrn Schmidt sprechen?",
+        "en": "Can I please speak with Mr. Schmidt?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Kann ich bitte mit jemandem aus der Buchhaltung sprechen?",
+        "en": "Can I please speak with someone from accounting?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Guten Tag, kann ich bitte mit der Praxis sprechen?",
+        "en": "Good day, can I please speak with the practice?",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'mit' + dative: 'mit Herrn Schmidt', not 'mit Herr Schmidt' (dative changes the article).",
+      "Don't forget 'bitte' — omitting it sounds demanding."
+    ],
+    "usageNotes": [
+      "The standard way to ask for a specific person on the phone.",
+      "More polite alternative: 'Könnte ich bitte mit... sprechen?' (using Konjunktiv II)."
+    ],
+    "relatedWords": [
+      "verbinden",
+      "durchstellen",
+      "sprechen"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "standard-phrase"
+    ]
+  },
+  {
+    "id": "v-phone-047",
+    "word": "Ich rufe wegen... an.",
+    "baseForm": "Ich rufe wegen... an.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "I'm calling about...",
+    "meaningDe": "Standardsatz, um den Grund des Anrufs zu nennen",
+    "situations": [
+      "phone",
+      "work",
+      "appointments"
+    ],
+    "examples": [
+      {
+        "de": "Ich rufe wegen meines Termins am Freitag an.",
+        "en": "I'm calling about my appointment on Friday.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich rufe wegen der offenen Rechnung an.",
+        "en": "I'm calling about the outstanding invoice.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich rufe wegen Ihrer Stellenanzeige an.",
+        "en": "I'm calling about your job posting.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Wegen' takes the genitive: 'wegen meines Termins', not 'wegen meinem Termin' (though colloquially dative is common).",
+      "Remember 'anrufen' is separable: the 'an' gös to the end."
+    ],
+    "usageNotes": [
+      "Essential phrase for stating the purpose of your call right at the beginning.",
+      "In formal calls, always state your reason early — Germans appreciate directness."
+    ],
+    "relatedWords": [
+      "anrufen",
+      "der Grund",
+      "es geht um"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "standard-phrase"
+    ]
+  },
+  {
+    "id": "v-phone-048",
+    "word": "Könnten Sie mich bitte verbinden?",
+    "baseForm": "Könnten Sie mich bitte verbinden?",
+    "wordClass": "phrase",
+    "level": "B1",
+    "meaningEn": "Could you please connect me?",
+    "meaningDe": "Sehr höfliche Bitte, zu einer anderen Person durchgestellt zu werden",
+    "situations": [
+      "phone",
+      "work",
+      "services"
+    ],
+    "examples": [
+      {
+        "de": "Könnten Sie mich bitte mit Frau Braun verbinden?",
+        "en": "Could you please connect me with Mrs. Braun?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Könnten Sie mich bitte mit der Personalabteilung verbinden?",
+        "en": "Could you please connect me with the HR department?",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ja, gerne. Einen Moment, ich verbinde Sie.",
+        "en": "Yes, of course. One moment, I'll connect you.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Könnten' (Konjunktiv II) is more polite than 'Können' — use it in formal calls.",
+      "Use 'mit' + dative for the person: 'mit der Abteilung', not 'zu der Abteilung'."
+    ],
+    "usageNotes": [
+      "Konjunktiv II ('könnten') makes the reqüst very polite — ideal for business calls.",
+      "The receptionist's typical response: 'Einen Moment, ich verbinde Sie.'"
+    ],
+    "relatedWords": [
+      "verbinden",
+      "durchstellen",
+      "weiterleiten"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "polite-request",
+      "Konjunktiv-II"
+    ]
+  },
+  {
+    "id": "v-phone-049",
+    "word": "Einen Moment bitte.",
+    "baseForm": "Einen Moment bitte.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "One moment please.",
+    "meaningDe": "Höfliche Bitte um kurze Geduld",
+    "situations": [
+      "phone",
+      "work",
+      "daily-life"
+    ],
+    "examples": [
+      {
+        "de": "Einen Moment bitte, ich stelle Sie durch.",
+        "en": "One moment please, I'll put you through.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Einen Moment bitte, ich schaü nach.",
+        "en": "One moment please, I'll check.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Einen kleinen Moment bitte.",
+        "en": "Just a brief moment please.",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "Use 'Einen Moment' (accusative), not 'Ein Moment' (nominative).",
+      "Don't say 'Eine Minute bitte' unless you actually need a full minute — it sounds like a long wait."
+    ],
+    "usageNotes": [
+      "The most common hold phrase in German. Used by receptionists, customer service, and in daily conversation.",
+      "Variations: 'Moment mal', 'Augenblick bitte', 'Sekunde bitte' (informal)."
+    ],
+    "relatedWords": [
+      "warten",
+      "die Geduld",
+      "der Augenblick"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "standard-phrase"
+    ]
+  },
+  {
+    "id": "v-phone-050",
+    "word": "Ich bin leider nicht erreichbar.",
+    "baseForm": "Ich bin leider nicht erreichbar.",
+    "wordClass": "phrase",
+    "level": "A2",
+    "meaningEn": "Unfortunately, I am not available.",
+    "meaningDe": "Standardsatz für den Anrufbeantworter oder die Abwesenheitsnachricht",
+    "situations": [
+      "phone",
+      "work",
+      "voicemail"
+    ],
+    "examples": [
+      {
+        "de": "Ich bin leider gerade nicht erreichbar. Bitte hinterlassen Sie eine Nachricht.",
+        "en": "I'm unfortunately not available right now. Please leave a message.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Vom 1. bis 15. August bin ich nicht erreichbar.",
+        "en": "From August 1st to 15th, I will not be available.",
+        "situation": "phone",
+        "tone": "formal"
+      },
+      {
+        "de": "Ich bin momentan nicht erreichbar. Bitte versuchen Sie es später noch einmal.",
+        "en": "I'm currently unavailable. Please try again later.",
+        "situation": "phone",
+        "tone": "formal"
+      }
+    ],
+    "commonMistakes": [
+      "'Leider' (unfortunately) softens the message — don't omit it in formal contexts.",
+      "Don't say 'Ich bin nicht da' on a professional voicemail — 'nicht erreichbar' sounds more professional."
+    ],
+    "usageNotes": [
+      "Standard voicemail greeting phrase in Germany.",
+      "Usually followed by an instruction: 'Bitte hinterlassen Sie eine Nachricht nach dem Signalton.'"
+    ],
+    "relatedWords": [
+      "erreichbar",
+      "die Mailbox",
+      "der Anrufbeantworter",
+      "hinterlassen"
+    ],
+    "tags": [
+      "phone-etiquette",
+      "voicemail",
+      "standard-phrase"
+    ]
+  }
+]
