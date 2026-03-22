@@ -39,27 +39,36 @@ export function VocabPanel({ word }: VocabPanelProps) {
       label: 'Grammar',
       content: (
         <div className={styles.tabContent}>
+          <div className={styles.grammarInfo}>
+            {word.gender && (
+              <div className={styles.infoRow}>
+                <span className={styles.infoLabel}>Gender:</span>
+                <span className={styles.infoValue}>{word.gender} ({word.word})</span>
+              </div>
+            )}
+            {word.plural && (
+              <div className={styles.infoRow}>
+                <span className={styles.infoLabel}>Plural:</span>
+                <span className={styles.infoValue}>{word.plural}</span>
+              </div>
+            )}
+            <div className={styles.infoRow}>
+              <span className={styles.infoLabel}>Word class:</span>
+              <span className={styles.infoValue}>{word.wordClass}</span>
+            </div>
+          </div>
+        </div>
+      ),
+    },
+    {
+      id: 'conjugation',
+      label: 'Conjugation',
+      content: (
+        <div className={styles.tabContent}>
           {word.conjugation ? (
             <ConjugationTable conjugation={word.conjugation} />
           ) : (
-            <div className={styles.grammarInfo}>
-              {word.gender && (
-                <div className={styles.infoRow}>
-                  <span className={styles.infoLabel}>Gender:</span>
-                  <span className={styles.infoValue}>{word.gender} ({word.word})</span>
-                </div>
-              )}
-              {word.plural && (
-                <div className={styles.infoRow}>
-                  <span className={styles.infoLabel}>Plural:</span>
-                  <span className={styles.infoValue}>{word.plural}</span>
-                </div>
-              )}
-              <div className={styles.infoRow}>
-                <span className={styles.infoLabel}>Word class:</span>
-                <span className={styles.infoValue}>{word.wordClass}</span>
-              </div>
-            </div>
+            <p className={styles.noData}>Conjugation is only available for verbs.</p>
           )}
         </div>
       ),

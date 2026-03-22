@@ -46,6 +46,7 @@ export function SentenceBuilderPage() {
     isCorrect,
     feedback,
     correctAnswer,
+    tileResults,
     moveTileToAnswer,
     moveTileToBank,
     submit,
@@ -125,6 +126,7 @@ export function SentenceBuilderPage() {
           onTileClick={moveTileToBank}
           phase={phase}
           isCorrect={isCorrect}
+          tileResults={tileResults}
         />
 
         {phase === 'building' && (

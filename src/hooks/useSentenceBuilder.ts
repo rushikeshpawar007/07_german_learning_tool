@@ -20,6 +20,7 @@ interface BuilderState {
   feedback: GrammarFeedback[];
   correctAnswer: string;
   attempts: number;
+  tileResults: Record<number, 'correct' | 'incorrect'>;
 }
 
 export function useSentenceBuilder(sentence: Sentence | null) {
@@ -41,6 +42,7 @@ export function useSentenceBuilder(sentence: Sentence | null) {
     feedback: [],
     correctAnswer: sentence?.de ?? '',
     attempts: 0,
+    tileResults: {},
   });
 
   // Sync tiles when sentence changes
@@ -59,6 +61,7 @@ export function useSentenceBuilder(sentence: Sentence | null) {
       feedback: [],
       correctAnswer: sentence.de,
       attempts: 0,
+      tileResults: {},
     });
   }, [sentence]);
 
@@ -98,6 +101,15 @@ export function useSentenceBuilder(sentence: Sentence | null) {
       const userSentence = answerTiles.map((t) => t.text).join(' ');
       const result = validateSentence(userSentence, sentence);
 
+      // Compute per-tile correctness by comparing position-by-position
+      const correctWords = sentence.de.replace(/[.,!?;:]/g, '').split(/\s+/);
+      const tileResults: Record<number, 'correct' | 'incorrect'> = {};
+      answerTiles.forEach((tile, i) => {
+        const normalizedTile = tile.text.toLowerCase().replace(/[.,!?;:]/g, '');
+        const normalizedCorrect = (correctWords[i] ?? '').toLowerCase();
+        tileResults[tile.id] = normalizedTile === normalizedCorrect ? 'correct' : 'incorrect';
+      });
+
       return {
         ...prev,
         phase: 'feedback',
@@ -105,6 +117,7 @@ export function useSentenceBuilder(sentence: Sentence | null) {
         feedback: result.feedback,
         correctAnswer: result.correctAnswer,
         attempts: prev.attempts + 1,
+        tileResults: result.isCorrect ? {} : tileResults,
       };
     });
   }, [sentence]);
@@ -115,6 +128,7 @@ export function useSentenceBuilder(sentence: Sentence | null) {
       phase: 'building',
       tiles: prev.tiles.map((t) => ({ ...t, zone: 'bank' as const, position: t.id })),
       feedback: [],
+      tileResults: {},
     }));
   }, []);
 
@@ -132,6 +146,7 @@ export function useSentenceBuilder(sentence: Sentence | null) {
     feedback: state.feedback,
     correctAnswer: state.correctAnswer,
     attempts: state.attempts,
+    tileResults: state.tileResults,
     moveTileToAnswer,
     moveTileToBank,
     submit,
