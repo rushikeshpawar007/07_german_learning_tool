@@ -12,18 +12,28 @@ export function StoryCard({ story }: StoryCardProps) {
 
   return (
     <Link to={`/reading/${story.id}`} className={styles.card}>
-      <div className={styles.header}>
-        <Badge variant={story.level === 'A2' ? 'success' : 'info'}>
-          {story.level}
-        </Badge>
-        <span className={styles.topic}>{story.topic}</span>
-      </div>
-      <h3 className={styles.title}>{story.title}</h3>
-      <p className={styles.titleEn}>{story.titleEn}</p>
-      <p className={styles.description}>{story.description}</p>
-      <div className={styles.meta}>
-        <span>{story.paragraphs.length} paragraphs</span>
-        <span>{wordCount} words</span>
+      {story.coverImage && (
+        <img
+          src={`${import.meta.env.BASE_URL}${story.coverImage}`}
+          alt={story.title}
+          className={styles.coverImage}
+          loading="lazy"
+        />
+      )}
+      <div className={styles.cardBody}>
+        <div className={styles.header}>
+          <Badge variant={story.level === 'A2' ? 'success' : 'info'}>
+            {story.level}
+          </Badge>
+          <span className={styles.topic}>{story.topic}</span>
+        </div>
+        <h3 className={styles.title}>{story.title}</h3>
+        <p className={styles.titleEn}>{story.titleEn}</p>
+        <p className={styles.description}>{story.description}</p>
+        <div className={styles.meta}>
+          <span>{story.paragraphs.length} paragraphs</span>
+          <span>{wordCount} words</span>
+        </div>
       </div>
     </Link>
   );

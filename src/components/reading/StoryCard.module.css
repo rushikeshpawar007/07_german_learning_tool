@@ -2,19 +2,32 @@
   display: flex;
   flex-direction: column;
   gap: var(--space-2);
-  padding: var(--space-5) var(--space-6);
   background-color: var(--color-white);
   border: 1px solid var(--color-sand);
   border-radius: var(--radius-lg);
   text-decoration: none;
   color: inherit;
   transition: all var(--transition-fast);
+  overflow: hidden;
 }
 
 .card:hover {
   border-color: var(--color-terracotta-light);
   box-shadow: var(--shadow-md);
   transform: translateY(-2px);
+}
+
+.coverImage {
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+}
+
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding: var(--space-5) var(--space-6);
 }
 
 .header {

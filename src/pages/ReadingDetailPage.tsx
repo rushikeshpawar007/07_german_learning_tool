@@ -47,6 +47,14 @@ export function ReadingDetailPage() {
           <p className={styles.hint}>Click on any German word to see its translation</p>
         </header>
 
+        {story.coverImage && (
+          <img
+            src={`${import.meta.env.BASE_URL}${story.coverImage}`}
+            alt={story.title}
+            className={styles.heroImage}
+          />
+        )}
+
         <div className={styles.controls}>
           <button
             className={styles.translationToggle}

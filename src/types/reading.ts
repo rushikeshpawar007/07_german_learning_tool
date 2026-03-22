@@ -15,6 +15,7 @@ export interface ReadingStory {
   level: CefrLevel;
   topic: string;
   description: string;
+  coverImage?: string;
   paragraphs: string[];
   fullTranslation: string[];
   dictionary: WordDefinition[];

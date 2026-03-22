@@ -5,6 +5,7 @@
   "level": "B1",
   "topic": "Healthcare",
   "description": "Thomas feels sick and visits his doctor for an examination.",
+  "coverImage": "images/stories/beim-arzt.png",
   "paragraphs": [
     "Thomas fühlt sich seit gestern nicht gut. Er hat Kopfschmerzen und Halsschmerzen. Auch seine Nase läuft. Er misst seine Temperatur und hat leichtes Fieber.",
     "Am Morgen ruft Thomas in der Arztpraxis an. Die Sprechstundenhilfe sagt, dass heute um elf Uhr ein Termin frei ist. Thomas bedankt sich und bestätigt den Termin.",
