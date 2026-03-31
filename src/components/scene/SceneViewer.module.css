@@ -1,0 +1,30 @@
+.container {
+  position: relative;
+  width: 100%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-sand);
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+}
+
+.hotspot {
+  position: absolute;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+  border: 2px solid transparent;
+}
+
+.hotspot:hover,
+.hotspot.active {
+  border-color: rgba(198, 123, 92, 0.7);
+  background-color: rgba(198, 123, 92, 0.12);
+  box-shadow: 0 0 16px rgba(198, 123, 92, 0.3), inset 0 0 12px rgba(198, 123, 92, 0.08);
+}

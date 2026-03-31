@@ -11,6 +11,7 @@ const navLinks = [
   { path: ROUTES.GRAMMAR, label: 'Grammar' },
   { path: ROUTES.READING, label: 'Reading' },
   { path: ROUTES.DIALOGUES, label: 'Dialogues' },
+  { path: '/explore', label: 'Explore' },
 ];
 
 export function Header() {

@@ -46,3 +46,8 @@ export type {
   DialogueLine,
   Dialogue,
 } from './dialogue';
+
+export type {
+  SceneHotspot,
+  Scene,
+} from './scene';

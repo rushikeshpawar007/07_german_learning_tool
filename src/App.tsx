@@ -17,6 +17,7 @@ import { ActivityLogPage } from '@/pages/ActivityLogPage';
 import { VocabQuizPage } from '@/pages/VocabQuizPage';
 import { DialogueListPage } from '@/pages/DialogueListPage';
 import { DialogueDetailPage } from '@/pages/DialogueDetailPage';
+import { ExploreScenePage } from '@/pages/ExploreScenePage';
 import { NotFoundPage } from '@/pages/NotFoundPage';
 
 export default function App() {
@@ -42,6 +43,7 @@ export default function App() {
             <Route path="/vocab-quiz" element={<VocabQuizPage />} />
             <Route path="/dialogues" element={<DialogueListPage />} />
             <Route path="/dialogues/:id" element={<DialogueDetailPage />} />
+            <Route path="/explore" element={<ExploreScenePage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </LearningModeProvider>
