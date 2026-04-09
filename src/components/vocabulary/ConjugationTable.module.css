@@ -7,9 +7,11 @@
 .tenseLabel {
   font-size: var(--text-sm);
   font-weight: var(--weight-semibold);
-  color: var(--color-warm-brown);
+  color: var(--color-terracotta);
   margin-bottom: var(--space-2);
   font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
 }
 
 .table {
@@ -20,6 +22,11 @@
 
 .table tr {
   border-bottom: 1px solid var(--color-sand);
+  transition: background-color var(--transition-fast);
+}
+
+.table tr:hover {
+  background-color: var(--color-cream);
 }
 
 .pronoun {
@@ -33,7 +40,7 @@
 .form {
   padding: var(--space-2) var(--space-3);
   font-size: var(--text-sm);
-  font-weight: var(--weight-medium);
+  font-weight: var(--weight-semibold);
   color: var(--color-warm-brown);
 }
 

@@ -4,18 +4,22 @@
   color: inherit;
   background: none;
   border: none;
-  padding: 0;
+  padding: 1px 2px;
+  margin: 0 -2px;
   cursor: pointer;
   border-bottom: 1px dashed transparent;
   transition: all var(--transition-fast);
-  border-radius: 2px;
+  border-radius: 3px;
 }
 
 .word:hover {
   color: var(--color-terracotta);
   border-bottom-color: var(--color-terracotta-light);
-  background-color: var(--color-terracotta-light);
-  background-color: rgba(198, 123, 92, 0.08);
+  background-color: rgba(198, 123, 92, 0.1);
+}
+
+.word:active {
+  background-color: rgba(198, 123, 92, 0.18);
 }
 
 .plain {

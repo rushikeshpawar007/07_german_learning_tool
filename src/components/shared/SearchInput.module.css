@@ -11,19 +11,25 @@
   position: absolute;
   left: var(--space-3);
   font-size: var(--text-sm);
-  opacity: 0.5;
+  opacity: 0.4;
+  transition: opacity var(--transition-fast);
+}
+
+.wrapper:focus-within .icon {
+  opacity: 0.7;
 }
 
 .input {
   width: 100%;
   padding: var(--space-2) var(--space-4);
   padding-left: var(--space-10);
-  font-size: 16px; /* prevents iOS zoom on focus */
-  border: 2px solid var(--color-sand-dark);
-  border-radius: var(--radius-md);
+  font-size: 16px;
+  border: 2px solid var(--color-sand);
+  border-radius: var(--radius-lg);
   background-color: var(--color-white);
   color: var(--color-warm-brown);
-  transition: border-color var(--transition-fast);
+  transition: all var(--transition-normal);
+  box-shadow: var(--shadow-xs);
 }
 
 .input::placeholder {
@@ -33,7 +39,7 @@
 .input:focus {
   outline: none;
   border-color: var(--color-terracotta);
-  box-shadow: var(--shadow-focus);
+  box-shadow: var(--shadow-focus), var(--shadow-sm);
 }
 
 .clear {
@@ -50,11 +56,13 @@
   border: none;
   border-radius: var(--radius-full);
   cursor: pointer;
+  transition: all var(--transition-fast);
 }
 
 .clear:hover {
   background-color: var(--color-sand);
   color: var(--color-warm-brown);
+  transform: scale(1.1);
 }
 
 @media (max-width: 768px) {

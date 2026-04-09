@@ -14,6 +14,7 @@
 
 .header {
   margin-bottom: var(--space-6);
+  animation: fadeInUp 0.4s ease both;
 }
 
 .badges {
@@ -37,19 +38,22 @@
 
 .hint {
   font-size: var(--text-sm);
-  color: var(--color-sage);
+  color: var(--color-sage-dark);
   padding: var(--space-2) var(--space-3);
-  background-color: var(--color-success-light);
+  background-color: var(--color-sage-pale);
   border-radius: var(--radius-md);
   display: inline-block;
+  border: 1px solid var(--color-sage-light);
 }
 
 .heroImage {
   width: 100%;
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-xl);
   margin-bottom: var(--space-6);
   object-fit: cover;
   max-height: 400px;
+  box-shadow: var(--shadow-lg);
+  animation: fadeIn 0.5s ease both;
 }
 
 .controls {
@@ -73,13 +77,14 @@
 .translationToggle:hover {
   background-color: var(--color-terracotta);
   color: var(--color-white);
+  transform: translateY(-1px);
 }
 
 .content {
   background-color: var(--color-white);
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-xl);
   padding: var(--space-6) var(--space-8);
-  box-shadow: var(--shadow-sm);
+  box-shadow: var(--shadow-md);
   border: 1px solid var(--color-sand);
 }
 

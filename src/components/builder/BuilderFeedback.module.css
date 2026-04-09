@@ -1,18 +1,20 @@
 .container {
   padding: var(--space-5) var(--space-6);
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-xl);
   display: flex;
   flex-direction: column;
   gap: var(--space-4);
+  animation: scaleIn 0.3s ease both;
+  box-shadow: var(--shadow-md);
 }
 
 .success {
-  background-color: var(--color-success-light);
+  background: linear-gradient(135deg, var(--color-success-light), #d8ebd9);
   border: 1px solid var(--color-success);
 }
 
 .error {
-  background-color: var(--color-error-light);
+  background: linear-gradient(135deg, var(--color-error-light), #f0d5d0);
   border: 1px solid var(--color-error);
 }
 
@@ -55,8 +57,9 @@
 
 .feedbackItem {
   padding: var(--space-3);
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.6);
   border-radius: var(--radius-md);
+  backdrop-filter: blur(4px);
 }
 
 .topic {
@@ -85,7 +88,7 @@
   padding: var(--space-2) var(--space-5);
   min-height: var(--touch-min);
   font-size: var(--text-sm);
-  font-weight: var(--weight-medium);
+  font-weight: var(--weight-semibold);
   border-radius: var(--radius-md);
   cursor: pointer;
   transition: all var(--transition-fast);
@@ -95,18 +98,24 @@
   background-color: var(--color-white);
   color: var(--color-warm-brown);
   border: 1px solid var(--color-sand-dark);
+  box-shadow: var(--shadow-xs);
 }
 
 .tryAgainBtn:hover {
   background-color: var(--color-sand);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
 }
 
 .nextBtn {
-  background-color: var(--color-terracotta);
+  background: var(--gradient-warm);
   color: var(--color-white);
   border: none;
+  box-shadow: var(--shadow-sm);
 }
 
 .nextBtn:hover {
-  background-color: var(--color-terracotta-dark);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  filter: brightness(1.05);
 }

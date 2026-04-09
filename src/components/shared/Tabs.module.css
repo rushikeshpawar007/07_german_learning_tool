@@ -10,6 +10,7 @@
 }
 
 .tab {
+  position: relative;
   padding: var(--space-2) var(--space-4);
   min-height: var(--touch-min);
   font-size: var(--text-sm);
@@ -20,26 +21,35 @@
   border-bottom: 2px solid transparent;
   margin-bottom: -2px;
   cursor: pointer;
-  transition: all var(--transition-fast);
+  transition: all var(--transition-normal);
 }
 
 .tab:hover {
   color: var(--color-warm-brown);
+  background-color: var(--color-cream);
+  border-radius: var(--radius-md) var(--radius-md) 0 0;
 }
 
 .tab.active {
   color: var(--color-terracotta);
   border-bottom-color: var(--color-terracotta);
+  font-weight: var(--weight-semibold);
 }
 
 .panel {
   min-height: 100px;
+  animation: fadeIn 0.2s ease both;
 }
 
 @media (max-width: 768px) {
   .tabList {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .tabList::-webkit-scrollbar {
+    display: none;
   }
 
   .tab {

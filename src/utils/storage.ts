@@ -1,15 +1,23 @@
 import type { UserProgress } from '@/types';
 import { STORAGE_KEYS } from './constants';
+import { migrateProgress } from './migration';
 
 function createDefaultProgress(): UserProgress {
   return {
-    version: 1,
+    version: 2,
     wordsProgress: {},
     sentencesProgress: {},
     vocabQuizLog: [],
     weakAreas: [],
     lastSessionDate: Date.now(),
     totalPracticeTime: 0,
+    streak: {
+      currentStreak: 0,
+      longestStreak: 0,
+      lastActiveDate: '',
+      streakFreezes: 0,
+    },
+    dailyGoals: {},
   };
 }
 
@@ -19,12 +27,7 @@ export function loadProgress(): UserProgress {
     if (!raw) return createDefaultProgress();
 
     const parsed = JSON.parse(raw) as UserProgress;
-    if (parsed.version !== 1) return createDefaultProgress();
-
-    // Migrate: add vocabQuizLog if missing from older data
-    if (!parsed.vocabQuizLog) parsed.vocabQuizLog = [];
-
-    return parsed;
+    return migrateProgress(parsed);
   } catch {
     return createDefaultProgress();
   }

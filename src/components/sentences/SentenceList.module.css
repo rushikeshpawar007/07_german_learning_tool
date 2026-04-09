@@ -20,6 +20,8 @@
 .toggleAllBtn:hover {
   background-color: var(--color-terracotta);
   color: var(--color-white);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
 }
 
 .list {

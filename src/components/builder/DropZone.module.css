@@ -3,22 +3,24 @@
   padding: var(--space-4);
   background-color: var(--color-cream);
   border: 2px dashed var(--color-sand-dark);
-  border-radius: var(--radius-lg);
+  border-radius: var(--radius-xl);
   display: flex;
   align-items: center;
-  transition: all var(--transition-fast);
+  transition: all var(--transition-normal);
 }
 
 .zone.correct {
   border-color: var(--color-success);
-  background-color: var(--color-success-light);
+  background: linear-gradient(135deg, var(--color-success-light), #d8ebd9);
   border-style: solid;
+  animation: scaleIn 0.3s ease both;
 }
 
 .zone.incorrect {
   border-color: var(--color-error);
-  background-color: var(--color-error-light);
+  background: linear-gradient(135deg, var(--color-error-light), #f0d5d0);
   border-style: solid;
+  animation: scaleIn 0.3s ease both;
 }
 
 .placeholder {

@@ -5,6 +5,7 @@
 
 .header {
   margin-bottom: var(--space-8);
+  animation: fadeInUp 0.4s ease both;
 }
 
 .badges {
@@ -27,6 +28,7 @@
 
 .block {
   margin-bottom: var(--space-10);
+  animation: fadeInUp 0.4s ease both;
 }
 
 .blockTitle {
@@ -36,6 +38,18 @@
   margin-bottom: var(--space-4);
   padding-bottom: var(--space-2);
   border-bottom: 2px solid var(--color-sand);
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.blockTitle::before {
+  content: '';
+  width: 3px;
+  height: 1em;
+  background: var(--gradient-sage);
+  border-radius: var(--radius-full);
+  flex-shrink: 0;
 }
 
 .bulletList {
@@ -67,6 +81,12 @@
   font-size: var(--text-sm);
   color: var(--color-warm-brown);
   line-height: var(--leading-relaxed);
+  transition: all var(--transition-fast);
+}
+
+.tip:hover {
+  box-shadow: var(--shadow-sm);
+  transform: translateX(2px);
 }
 
 .relatedLinks {
@@ -85,11 +105,14 @@
   border-radius: var(--radius-md);
   text-decoration: none;
   text-transform: capitalize;
-  transition: all var(--transition-fast);
+  transition: all var(--transition-normal);
+  box-shadow: var(--shadow-xs);
 }
 
 .relatedLink:hover {
   background-color: var(--color-terracotta);
   color: var(--color-white);
   border-color: var(--color-terracotta);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
 }

@@ -7,13 +7,38 @@
   border-radius: var(--radius-lg);
   text-decoration: none;
   color: inherit;
-  transition: all var(--transition-fast);
+  transition: all var(--transition-normal);
+  box-shadow: var(--shadow-card);
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 4px;
+  background: var(--card-accent, var(--gradient-warm));
+  opacity: 0;
+  transition: opacity var(--transition-normal);
 }
 
 .card:hover {
   border-color: var(--color-terracotta-light);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-3px);
+  background: var(--gradient-card-hover);
+}
+
+.card:hover::before {
+  opacity: 1;
+}
+
+.card:active {
+  transform: translateY(-1px);
   box-shadow: var(--shadow-md);
-  transform: translateY(-2px);
 }
 
 .iconWrapper {
@@ -24,6 +49,11 @@
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+  transition: transform var(--transition-spring);
+}
+
+.card:hover .iconWrapper {
+  transform: scale(1.1) rotate(-3deg);
 }
 
 .icon {
@@ -41,6 +71,11 @@
   font-size: var(--text-lg);
   font-weight: var(--weight-semibold);
   color: var(--color-warm-brown);
+  transition: color var(--transition-fast);
+}
+
+.card:hover .name {
+  color: var(--color-terracotta-dark);
 }
 
 .description {
@@ -55,4 +90,11 @@
   margin-top: var(--space-2);
   font-size: var(--text-xs);
   color: var(--color-warm-gray-light);
+  font-weight: var(--weight-medium);
+}
+
+.stats span {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
 }

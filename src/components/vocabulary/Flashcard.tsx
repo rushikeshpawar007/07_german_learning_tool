@@ -56,8 +56,8 @@ export function Flashcard({ word, current, total, onKnow, onDontKnow }: Flashcar
         {current} / {total}
       </div>
 
-      <div className={`${styles.card} ${flipped ? styles.flipped : ''}`}>
-        {!flipped ? (
+      <div className={styles.cardWrapper}>
+        <div className={`${styles.card} ${flipped ? styles.flipped : ''}`}>
           <div className={styles.front}>
             <span className={styles.wordText}>{word.word}</span>
 
@@ -82,7 +82,7 @@ export function Flashcard({ word, current, total, onKnow, onDontKnow }: Flashcar
               </button>
             </div>
           </div>
-        ) : (
+
           <div className={styles.back}>
             <span className={styles.wordText}>{word.word}</span>
             <span className={styles.meaning}>{word.meaningEn}</span>
@@ -109,7 +109,7 @@ export function Flashcard({ word, current, total, onKnow, onDontKnow }: Flashcar
               </button>
             </div>
           </div>
-        )}
+        </div>
       </div>
     </div>
   );

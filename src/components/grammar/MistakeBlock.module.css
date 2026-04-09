@@ -9,6 +9,12 @@
   background-color: var(--color-error-light);
   border-radius: var(--radius-md);
   border-left: 3px solid var(--color-error);
+  transition: all var(--transition-fast);
+}
+
+.item:hover {
+  box-shadow: var(--shadow-sm);
+  transform: translateX(2px);
 }
 
 .incorrect {

@@ -1,3 +1,5 @@
+export type MasteryLevel = 'new' | 'learning' | 'reviewing' | 'mastered';
+
 export interface WordProgress {
   vocabId: string;
   seen: boolean;
@@ -5,6 +7,12 @@ export interface WordProgress {
   correctCount: number;
   lastPracticed?: number;
   mistakes: string[];
+  // SRS fields
+  easeFactor?: number;
+  interval?: number;
+  nextReviewDate?: number;
+  reviewCount?: number;
+  lastQuality?: number;
 }
 
 export interface SentenceAttempt {
@@ -34,12 +42,31 @@ export interface VocabQuizResult {
   unknownWordIds: string[];
 }
 
+export interface StreakData {
+  currentStreak: number;
+  longestStreak: number;
+  lastActiveDate: string; // "YYYY-MM-DD"
+  streakFreezes: number;
+}
+
+export interface DailyGoal {
+  date: string; // "YYYY-MM-DD"
+  wordsReviewed: number;
+  sentencesBuilt: number;
+  clozeCompleted: number;
+  targetWords: number;
+  targetSentences: number;
+  targetCloze: number;
+}
+
 export interface UserProgress {
-  version: 1;
+  version: 1 | 2;
   wordsProgress: Record<string, WordProgress>;
   sentencesProgress: Record<string, SentenceProgress>;
   vocabQuizLog: VocabQuizResult[];
   weakAreas: string[];
   lastSessionDate?: number;
   totalPracticeTime?: number;
+  streak?: StreakData;
+  dailyGoals?: Record<string, DailyGoal>;
 }

@@ -29,10 +29,13 @@ export type {
 } from './grammar';
 
 export type {
+  MasteryLevel,
   SentenceAttempt,
   VocabQuizResult,
   WordProgress,
   SentenceProgress,
+  StreakData,
+  DailyGoal,
   UserProgress,
 } from './progress';
 

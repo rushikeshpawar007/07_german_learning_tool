@@ -1,6 +1,7 @@
 .header {
   max-width: 700px;
   margin: 0 auto var(--space-8);
+  animation: fadeInUp 0.4s ease both;
 }
 
 .badges {
@@ -25,4 +26,5 @@
 .description {
   font-size: var(--text-base);
   color: var(--color-warm-gray);
+  line-height: var(--leading-relaxed);
 }

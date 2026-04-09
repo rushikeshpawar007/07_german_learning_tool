@@ -1,6 +1,7 @@
 .container {
   max-width: 700px;
   margin: 0 auto;
+  animation: fadeInUp 0.4s ease both;
 }
 
 .controls {
@@ -24,6 +25,8 @@
 .toggleBtn:hover {
   background-color: var(--color-terracotta);
   color: var(--color-white);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
 }
 
 .speakers {
@@ -34,10 +37,11 @@
 
 .speakerTag {
   font-size: var(--text-sm);
-  font-weight: var(--weight-medium);
+  font-weight: var(--weight-semibold);
   padding: var(--space-2) var(--space-4);
   border-radius: var(--radius-full);
   color: var(--color-warm-brown);
+  box-shadow: var(--shadow-xs);
 }
 
 .conversation {
@@ -50,24 +54,28 @@
   padding: var(--space-3) var(--space-5);
   border-radius: var(--radius-lg);
   cursor: pointer;
-  transition: all var(--transition-fast);
+  transition: all var(--transition-normal);
   max-width: 85%;
+  position: relative;
 }
 
 .line:hover {
-  box-shadow: var(--shadow-sm);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-1px);
 }
 
 .speakerA {
-  background-color: var(--color-terracotta-light);
+  background-color: var(--color-terracotta-pale);
   align-self: flex-start;
   border-bottom-left-radius: var(--radius-sm);
+  border-left: 3px solid var(--color-terracotta-light);
 }
 
 .speakerB {
-  background-color: var(--color-sage-light);
+  background-color: var(--color-sage-pale);
   align-self: flex-end;
   border-bottom-right-radius: var(--radius-sm);
+  border-right: 3px solid var(--color-sage-light);
 }
 
 .speakerName {
@@ -76,6 +84,8 @@
   color: var(--color-warm-brown-light);
   display: block;
   margin-bottom: var(--space-1);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
 }
 
 .german {
@@ -91,7 +101,8 @@
   color: var(--color-warm-gray);
   margin-top: var(--space-1);
   padding-top: var(--space-1);
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  animation: fadeIn 0.2s ease both;
 }
 
 .clickHint {

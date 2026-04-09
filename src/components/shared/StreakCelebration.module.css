@@ -1,0 +1,46 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 55, 40, 0.15);
+  backdrop-filter: blur(4px);
+  animation: fadeIn 0.2s ease;
+  cursor: pointer;
+}
+
+.card {
+  text-align: center;
+  padding: var(--space-8);
+  background-color: var(--color-white);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-xl);
+  animation: scaleIn 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.flame {
+  font-size: 48px;
+  animation: gentlePulse 1s ease infinite;
+}
+
+.message {
+  font-family: var(--font-heading);
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-bold);
+  color: var(--color-amber);
+}
+
+.milestone {
+  font-size: var(--text-sm);
+  color: var(--color-sage-dark);
+  font-weight: var(--weight-medium);
+  background-color: var(--color-sage-pale);
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-full);
+}

@@ -11,7 +11,7 @@ import type { VocabWord, SituationSlug } from '@/types';
 type QuizPhase = 'setup' | 'quizzing' | 'results';
 
 export function VocabQuizPage() {
-  const { recordWordPractice, markWordSeen, logVocabQuiz } = useProgress();
+  const { recordWordPractice, markWordSeen, logVocabQuiz, recordDailyGoalProgress } = useProgress();
   const [phase, setPhase] = useState<QuizPhase>('setup');
   const [deck, setDeck] = useState<VocabWord[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -50,7 +50,8 @@ export function VocabQuizPage() {
     if (!word) return;
 
     markWordSeen(word.id);
-    recordWordPractice(word.id, true);
+    recordWordPractice(word.id, true, 4);
+    recordDailyGoalProgress('word');
     const newKnown = [...knownWords, word];
     setKnownWords(newKnown);
 
@@ -66,7 +67,8 @@ export function VocabQuizPage() {
     if (!word) return;
 
     markWordSeen(word.id);
-    recordWordPractice(word.id, false);
+    recordWordPractice(word.id, false, 1);
+    recordDailyGoalProgress('word');
     const newUnknown = [...unknownWords, word];
     setUnknownWords(newUnknown);
 

@@ -1,10 +1,13 @@
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { APP_NAME, ROUTES } from '@/utils/constants';
+import { StreakDisplay } from '@/components/shared/StreakDisplay';
+import { useProgress } from '@/hooks/useProgress';
 import styles from './Header.module.css';
 
 const navLinks = [
   { path: ROUTES.HOME, label: 'Home' },
+  { path: '/review', label: 'Review' },
   { path: ROUTES.SITUATIONS, label: 'Situations' },
   { path: ROUTES.VOCABULARY, label: 'Vocabulary' },
   { path: ROUTES.BUILDER, label: 'Builder' },
@@ -17,6 +20,7 @@ const navLinks = [
 export function Header() {
   const location = useLocation();
   const [menuOpen, setMenuOpen] = useState(false);
+  const { progress } = useProgress();
 
   const closeMenu = () => setMenuOpen(false);
 
@@ -26,6 +30,7 @@ export function Header() {
         <Link to="/" className={styles.logo} onClick={closeMenu}>
           {APP_NAME}
         </Link>
+        <StreakDisplay streak={progress.streak} compact />
 
         <button
           className={styles.hamburger}

@@ -9,9 +9,22 @@
 
 .section {
   margin-bottom: var(--space-10);
+  animation: fadeInUp 0.4s ease both;
 }
 
 .sectionTitle {
   font-size: var(--text-xl);
   margin-bottom: var(--space-4);
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.sectionTitle::before {
+  content: '';
+  width: 3px;
+  height: 1em;
+  background: var(--gradient-warm);
+  border-radius: var(--radius-full);
+  flex-shrink: 0;
 }

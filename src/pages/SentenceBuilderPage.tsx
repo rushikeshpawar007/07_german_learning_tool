@@ -9,6 +9,7 @@ import { Badge } from '@/components/shared/Badge';
 import { EmptyState } from '@/components/shared/EmptyState';
 import { useSentenceBuilder } from '@/hooks/useSentenceBuilder';
 import { useProgress } from '@/hooks/useProgress';
+import { qualityFromBuilder } from '@/utils/srs';
 import { useLearningMode } from '@/context/LearningModeContext';
 import { getAllSentences, getSentenceById } from '@/data';
 import { shuffle } from '@/utils/shuffle';
@@ -18,7 +19,7 @@ import styles from './SentenceBuilderPage.module.css';
 export function SentenceBuilderPage() {
   const { sentenceId } = useParams<{ sentenceId: string }>();
   const navigate = useNavigate();
-  const { recordSentenceAttempt, progress } = useProgress();
+  const { recordSentenceAttempt, recordWordPractice, recordDailyGoalProgress, progress } = useProgress();
   const { mode } = useLearningMode();
 
   const allSentences = useMemo(() => {
@@ -86,6 +87,13 @@ export function SentenceBuilderPage() {
     if (phase === 'feedback') {
       const userAnswer = answerTiles.map((t) => t.text).join(' ');
       recordSentenceAttempt(sentence.id, isCorrect, userAnswer, correctAnswer);
+      recordDailyGoalProgress('sentence');
+
+      // Give SRS credit for vocab in this sentence
+      const quality = qualityFromBuilder(isCorrect, 1);
+      for (const vocabId of sentence.vocabIds) {
+        recordWordPractice(vocabId, isCorrect, quality);
+      }
     }
 
     // Pick a random next sentence from unfinished ones
